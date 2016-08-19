@@ -1,0 +1,64 @@
+/*
+ * css styles go here
+ */
+body {
+  font-family: verdana, Helvetica, Arial, sans-serif;
+  font-size: 12pt;
+}
+
+a, a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#page {
+  display: block;
+  margin: 1em;
+}
+
+#primary {
+  overflow: auto;
+}
+
+#navigator {
+  float: right;
+  width: 250px;
+}
+
+#content {
+  margin-right: 300px;
+}
+
+#footer {
+  clear: both;
+  display: block;
+  width: 100%;
+  padding: 1em 0 0;
+}
+
+#header .big {
+  font-size: 200%;
+  font-weight: bold;
+  color: blue;
+}
+
+#header .small {
+  font-size: 90%;
+  color: grey;
+  padding-left: 15px;
+}
+
+#nav {
+  background: #eee;
+  padding: 0 1em;
+  line-height: 2em;
+  margin: 2em auto 1em;
+}
+
+#content li {
+  margin-bottom: 1em;
+}
