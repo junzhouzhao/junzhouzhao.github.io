@@ -15,7 +15,7 @@ url:   ''
 
 
 nav:
-- { title: 'About', href: '/' }
+- { title: 'About', href: '/index.html' }
 - { title: 'Contacts', href: '/contacts.html' }
 
 
