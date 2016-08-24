@@ -17,8 +17,7 @@ networks/graphs with a particular interest in online social networks,
 a.k.a. the [network science][networkscience].
 
 ![](/assets/img/news.gif) I am available on the job market, and interested
-in becoming a research scientist, data scientist, or software engineer in
-industry.
+in becoming a research scientist, data scientist, or software engineer.
 
 
 [xjtu]: http://www.xjtu.edu.cn
@@ -31,7 +30,7 @@ industry.
 ## Research
 
 network science, large-scale graph measuring and mining, statistical
-inferring methods, streaming methods, recommendation system, user behavior
+inference, streaming methods, recommendation system, user behavior
 modeling in networks
 
 ## Publications
