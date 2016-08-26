@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>main title</title>
+    <link>https://junzhouzhao.github.io</link>
+    <description>sub title</description>
+    <pubDate>Fri, 26 Aug 2016 23:06:34 HKT</pubDate>
+    <lastBuildDate>Fri, 26 Aug 2016 23:06:34 HKT</lastBuildDate>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Test Post</title>
+      <link>https://junzhouzhao.github.io/blog/2016/08/20/test-post</link>
+      <description><![CDATA[desc]]></description>
+      <pubDate>2016-08-26</pubDate>
+      <guid>https://junzhouzhao.github.io/blog/2016/08/20/test-post</guid>
+    </item>
+  </channel>
+</rss>
