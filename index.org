@@ -40,7 +40,7 @@ modeling in networks
 
  - Junzhou Zhao.
    "Structure Measurement and Behavior Monitoring for Complex Online Social Networks 复杂在线社会网络的结构测量与行为监控".
-   Ph. D. thesis, Sept 2015.
+   Ph.D. thesis, Sept 2015.
  - Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.
    "[[./doc/COSN2015.pdf][Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams]]".
    In Proceedings of the ACM Conference on Online Social Networks (COSN), 2015.
