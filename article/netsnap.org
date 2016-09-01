@@ -1,8 +1,8 @@
-#+TITLE:       My Graph Analysis Library
+#+TITLE:       Graph Analysis Library
 #+AUTHOR:      Junzhou Zhao
 #+EMAIL:       junzhouzhao@gmail.com
 #+DATE:        2016-09-01 Thu
-#+URI:         /article/%y/%m/%d/my-graph-analysis-library
+#+URI:         /article/%y/%m/%d/graph-analysis-library
 #+KEYWORDS:    code
 #+TAGS:        code
 #+LANGUAGE:    en
@@ -11,4 +11,4 @@
 
 [[https://github.com/zzjjzzgggg/netsnap.git][Network Analysis Library]]
 
-My efficient C++ library for handling large graphs.
+An efficient C++ library for handling large graphs.
