@@ -2,7 +2,7 @@
 #+AUTHOR:      Junzhou Zhao
 #+EMAIL:       junzhouzhao@gmail.com
 #+DATE:        2016-09-01 Thu
-#+URI:         /blog/%y/%m/%d/blackboard
+#+URI:         /article/%y/%m/%d/blackboard
 #+KEYWORDS:    code
 #+TAGS:        code
 #+LANGUAGE:    en

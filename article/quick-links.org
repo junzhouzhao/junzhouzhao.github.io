@@ -2,7 +2,7 @@
 #+AUTHOR:      Junzhou Zhao
 #+EMAIL:       junzhouzhao@gmail.com
 #+DATE:        2016-08-26 Fri
-#+URI:         /blog/%y/%m/%d/quick-links
+#+URI:         /article/%y/%m/%d/quick-links
 #+KEYWORDS:    notes
 #+TAGS:        notes
 #+LANGUAGE:    en

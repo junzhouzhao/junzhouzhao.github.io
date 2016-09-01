@@ -2,7 +2,7 @@
 #+AUTHOR:      Junzhou Zhao
 #+EMAIL:       junzhouzhao@gmail.com
 #+DATE:        2016-09-01 Thu
-#+URI:         /blog/%y/%m/%d/python-packages
+#+URI:         /article/%y/%m/%d/python-packages
 #+KEYWORDS:    python, code
 #+TAGS:        python, code
 #+LANGUAGE:    en
