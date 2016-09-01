@@ -4,8 +4,8 @@
     <title>site</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Thu, 01 Sep 2016 16:01:52 HKT</pubDate>
-    <lastBuildDate>Thu, 01 Sep 2016 16:01:52 HKT</lastBuildDate>
+    <pubDate>Thu, 01 Sep 2016 20:06:58 HKT</pubDate>
+    <lastBuildDate>Thu, 01 Sep 2016 20:06:58 HKT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -16,11 +16,11 @@
       <guid>https://junzhouzhao.github.io/article/2016/09/01/blackboard</guid>
     </item>
     <item>
-      <title>My Graph Analysis Library</title>
-      <link>https://junzhouzhao.github.io/article/2016/09/01/my-graph-analysis-library</link>
+      <title>Graph Analysis Library</title>
+      <link>https://junzhouzhao.github.io/article/2016/09/01/graph-analysis-library</link>
       <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2016-09-01</pubDate>
-      <guid>https://junzhouzhao.github.io/article/2016/09/01/my-graph-analysis-library</guid>
+      <guid>https://junzhouzhao.github.io/article/2016/09/01/graph-analysis-library</guid>
     </item>
     <item>
       <title>Python Packages</title>
