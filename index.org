@@ -1,4 +1,4 @@
-#+TITLE: Junzhou Zhao - 赵俊舟
+#+TITLE: Junzhou Zhao
 #+OPTIONS: toc:nil num:nil
 
 Junzhou Zhao received the Ph.D. degree in Control Science and
