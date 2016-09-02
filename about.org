@@ -1,7 +1,6 @@
-#+TITLE: Junzhou Zhao
+#+TITLE: Contact
 #+OPTIONS: toc:nil num:nil
 
-* Contact
 
 Rm120, 1/F, Ho Sin-Hang Engineering Building,\\
 The Chinese University of Hong Kong,\\
