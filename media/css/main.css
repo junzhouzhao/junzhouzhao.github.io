@@ -26,10 +26,14 @@ a:hover {
 	margin: 2em;
 }
 
+.container h1 {
+	font-size: 200%;
+	margin-bottom: 50px;
+}
+
 header {
-	float: right;
-	width: 250px;
-  margin-top: 50px;
+  float: right;
+  width: 250px;
 }
 
 section {
@@ -41,12 +45,6 @@ section {
     display: block;
 	width: 100%;
 	text-align: center;
-}
-
-#content h1 {
-	color: blue;
-	font-size: 200%;
-	margin-bottom: 50px;
 }
 
 .org-ul li {
