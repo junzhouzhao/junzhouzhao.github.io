@@ -37,14 +37,13 @@ header {
 }
 
 section {
-	margin-right: 300px;
+	  margin-right: 300px;
 }
 
 .footer {
-	clear: both;
+	  clear: both;
     display: block;
-	width: 100%;
-	text-align: center;
+    margin-top: 30pt;
 }
 
 .org-ul li {
