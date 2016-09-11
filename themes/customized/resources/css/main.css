@@ -28,9 +28,9 @@ a {
 }
 
 menu {
+  float: right;
   right: 0;
   width: 280px;
-  position: fixed;
 }
 
 section {
