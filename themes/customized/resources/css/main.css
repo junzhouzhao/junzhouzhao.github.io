@@ -27,9 +27,10 @@ a {
 	margin-bottom: 50px;
 }
 
-header {
-  float: right;
-  width: 250px;
+menu {
+  right: 0;
+  width: 280px;
+  position: fixed;
 }
 
 section {
