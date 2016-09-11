@@ -12,12 +12,8 @@ body {
 	font-size: 12pt;
 }
 
-a, a:visited {
-	color: blue;
-	text-decoration: none;
-}
-
-a:hover {
+a {
+  color: blue;
 	text-decoration: none;
 }
 
@@ -37,13 +33,19 @@ header {
 }
 
 section {
-	  margin-right: 300px;
+	margin-right: 300px;
 }
 
-.footer {
-	  clear: both;
-    display: block;
-    margin-top: 30pt;
+footer {
+	clear: both;
+  display: block;
+	font-size: 90%;
+  color: gray;
+  margin-top: 30pt;
+}
+
+footer a {
+  color: gray;
 }
 
 .org-ul li {
