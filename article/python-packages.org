@@ -11,4 +11,4 @@
 
 [[https://github.com/zzjjzzgggg/python_packages][Python Packages]]
 
-A collection of python packages for Python 3.0+.
+A collection of python3 packages for data processing.

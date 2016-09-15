@@ -11,4 +11,5 @@
 
 [[https://github.com/zzjjzzgggg/netsnap.git][Network Analysis Library]]
 
-An efficient C++ library for handling large graphs.
+Efficient C++ library for handling large graphs, based on Stanford
+SNAP.
