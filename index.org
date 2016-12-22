@@ -1,25 +1,20 @@
 #+TITLE: About
 #+OPTIONS: toc:nil num:nil
 
-Junzhou Zhao received the Ph.D. degree in Control Science and
-Engineering from [[http://www.xjtu.edu.cn/][Xi’an Jiaotong University]], under the supervision of
-[[http://mail.sei.xjtu.edu.cn/tpl/sei/staff/xhguan.html][Prof. Xiaohong Guan]].
-He is currently a postdoctoral researcher at the Department of
-Computer Science and Engineering of [[http://www.cuhk.edu.hk/][The Chinese University of Hong
-Kong]], working with [[http://www.cse.cuhk.edu.hk/~cslui/][Prof. John C.S. Lui]].
-His research focuses on mining and measuring massive large-scale
-networks/graphs with a particular interest in online social networks,
-a.k.a. the [[http://en.wikipedia.org/wiki/Network_science][network science]].
+Junzhou Zhao received the Ph.D. degree in Control Science and Engineering from [[http://www.xjtu.edu.cn/][Xi’an
+Jiaotong University]], under the supervision of [[http://mail.sei.xjtu.edu.cn/tpl/sei/staff/xhguan.html][Prof. Xiaohong Guan]].
+He is currently a postdoctoral researcher at the Department of Computer Science and
+Engineering of [[http://www.cuhk.edu.hk/][The Chinese University of Hong Kong]], working with [[http://www.cse.cuhk.edu.hk/~cslui/][Prof. John C.S. Lui]].
+His research focuses on mining and measuring massive large-scale networks/graphs with
+a particular interest in online social networks, a.k.a. the [[http://en.wikipedia.org/wiki/Network_science][network science]].
 
-[[./img/news.gif]] I am available on the job market, and interested in
-becoming a research scientist, data scientist, or software engineer.
+[[./img/news.gif]] I am available on the job market, and interested in becoming a
+research scientist, data scientist, or software engineer.
 
 * Research
 
-network science, large-scale graph measuring and mining, statistical
-inference, streaming methods, recommendation system, user behavior
-modeling in networks
-
+large-scale graph measuring and mining, statistical inference methods, streaming
+algorithms, recommendation system, user behavior modeling in networks
 
 * Publications
 
@@ -27,80 +22,108 @@ modeling in networks
 
 ** Yet to Appear
 
- - Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and
-   Xiaohong Guan.
-   "I/O-Efficient Calculation of Group Closeness Centrality over
-   Disk-Resident Graphs". 2016.
- - Pinghui Wang, Jing Tao, Junzhou Zhao, and Xiaohong Guan.
-   "Moss: A Scalable Tool for Efficiently Sampling and Counting 4- and
-   5-Node Graphlets". [[[http://arxiv.org/abs/1509.08089][arXiv]]]
+ # - Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. \\
+ #   "Inferring Inhibitory and Excitatory Relations from Time-evolving Event Sequences". \\
 
+ - Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. \\
+   "I/O-Efficient Calculation of Group Closeness Centrality over Disk-Resident
+   Graphs". /under review/ [[[https://github.com/zzjjzzgggg/gc][code]]]
+
+ - Pinghui Wang, Jing Tao, Junzhou Zhao, and Xiaohong Guan. \\
+   "Moss: A Scalable Tool for Efficiently Sampling and Counting 4- and 5-Node
+   Graphlets". /under review/ [[[http://arxiv.org/abs/1509.08089][arXiv]]]
 
 ** Papers
 
- - Junzhou Zhao.
-   "Structure Measurement and Behavior Monitoring for Complex Online Social Networks 复杂在线社会网络的结构测量与行为监控".
-   Ph.D. thesis, Sept 2015.
- - Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.
-   "[[./doc/COSN2015.pdf][Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams]]".
-   In Proceedings of the ACM Conference on Online Social Networks (COSN), 2015.
+ - [[http://ieeexplore.ieee.org/abstract/document/7498312/][Minfer: A Method of Inferring Motif Statistics from Sampled Edges]]. \\
+   Pinghui Wang, John C.S. Lui, Don Towsley, and Junzhou Zhao. \\
+   In Proceedings of the 32nd IEEE International Conference on Data Engineering (ICDE), 2016.
+
+ - [[http://www.ir.xjtu.edu.cn/item/ir/292498][复杂在线社会网络的结构测量与行为监控]]. \\
+   Structure Measurement and Behavior Monitoring for Complex Online Social Networks \\
+   Junzhou Zhao. Ph.D. thesis, Sept 2015.
+
+ - [[./doc/COSN2015.pdf][Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams]]. \\
+   Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. \\
+   In Proceedings of the ACM Conference on Online Social Networks (COSN), 2015. \\
    [[[http://arxiv.org/abs/1411.3808][arXiv]]] [Best Paper Runner-up]
- - Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.
-   "[[./doc/ICDE2015.pdf][A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation Networks]]".
-   In Proceedings of the 31st IEEE International Conference on Data Engineering (ICDE), 2015.
+
+ - [[./doc/ICDE2015.pdf][A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation Networks]]. \\
+   Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. \\
+   In Proceedings of the 31st IEEE International Conference on Data Engineering (ICDE), 2015. \\
    [[[http://arxiv.org/abs/1405.5097][arXiv]] (old version)]
- - Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan.
-   "[[./doc/SIMPLEX2014.pdf][Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs]]".
-   In the 6th Annual Workshop on Simplifying Complex Networks for Practitioners (SIMPLEX, co-located with WWW), 2014.
+
+ - [[./doc/SIMPLEX2014.pdf][Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs]]. \\
+   Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. \\
+   In the 6th Annual Workshop on Simplifying Complex Networks for Practitioners
+   (SIMPLEX, co-located with WWW), 2014. \\
    [Awarded Best Paper]
- - Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan.
-   "[[./doc/COMNET2014.pdf][Whom to Follow: Efficient Followee Selection for Cascading Outbreak Detection on Online Social Networks]]".
+
+ - [[./doc/COMNET2014.pdf][Whom to Follow: Efficient Followee Selection for Cascading Outbreak Detection on Online Social Networks]]. \\
+   Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. \\
    Computer Networks, Special Issue on Online Social Networks, 2014.
- - Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan.
-   "[[./doc/TKDD2014_node_pair.pdf][Unbiased Characterization of Node Pairs over Large Graphs]]".
+
+ - [[./doc/TKDD2014_node_pair.pdf][Unbiased Characterization of Node Pairs over Large Graphs]]. \\
+   Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. \\
    ACM Transactions on Knowledge Discovery from Data (TKDD), 2014.
- - Pinghui Wang, Wenbo He, and Junzhou Zhao.
-   "[[./doc/IC2014.pdf][A Tale of Three Social Networks: User Activity Comparations across Facebook, Twitter, and Foursquare]]".
-   IEEE Internet Computing, 2014.
+
+ - [[./doc/IC2014.pdf][A Tale of Three Social Networks: User Activity Comparations across Facebook, Twitter, and Foursquare]]. \\
+   Pinghui Wang, Wenbo He, and Junzhou Zhao. \\
+   IEEE Internet Computing, 2014. \\
    [[[http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks][Featured Article by STCSN]]]
- - Pinghui Wang, John C. S. Lui, Bruno F. Ribeiro, Don Towsley, Junzhou Zhao, and Xiaohong Guan.
-   "[[./doc/TKDD2014_motif.pdf][Efficiently Estimating Motif Statistics of Large Networks]]".
-   ACM Transactions on Knowledge Discovery form Data (TKDD), 2014.
+
+ - [[./doc/TKDD2014_motif.pdf][Efficiently Estimating Motif Statistics of Large Networks]]. \\
+   Pinghui Wang, John C. S. Lui, Bruno F. Ribeiro, Don Towsley, Junzhou Zhao, and
+   Xiaohong Guan. \\
+   ACM Transactions on Knowledge Discovery form Data (TKDD), 2014. \\
    [[[http://arxiv.org/abs/1306.5288][arXiv]]]
- - Junzhou Zhao, Xiaohong Guan, and Jing Tao.
-   "[[./doc/CrowdRec2013.pdf][On Analyzing Estimation Errors due to Constrained Connections in Online Review Systems]]".
+
+ - [[./doc/CrowdRec2013.pdf][On Analyzing Estimation Errors due to Constrained Connections in Online Review Systems]]. \\
+   Junzhou Zhao, Xiaohong Guan, and Jing Tao. \\
    In the Workshop on Crowdsourcing and Human Computation
-   for Recommender Systems (CrowdRec, co-located with RecSys), 2013.
+   for Recommender Systems (CrowdRec, co-located with RecSys), 2013. \\
    [[[http://arxiv.org/abs/1307.3687][arXiv]]]
- - Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan.
-   "[[./doc/ICDE2013.pdf][Sampling Node Pairs Over Large Graphs]]".
+
+ - [[./doc/ICDE2013.pdf][Sampling Node Pairs Over Large Graphs]]. \\
+   Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. \\
    In Proceedings of the 29th International Conference on Data Engineering (ICDE), 2013.
- - Junzhou Zhao, John C.S. Lui, Don Towsley, Xiaohong Guan, and Yadong Zhou.
-   "[[./doc/NetSciCom2011.pdf][Empirical Analysis of the Evolution of Follower Network: A Case Study on Douban]]".
+
+ - [[./doc/NetSciCom2011.pdf][Empirical Analysis of the Evolution of Follower Network: A Case Study on Douban]]. \\
+   Junzhou Zhao, John C.S. Lui, Don Towsley, Xiaohong Guan, and Yadong Zhou. \\
    In the 3rd International Workshop on Network Science for Communication Networks (NetSciCom, co-located with INFOCOM), 2011.
- - Zhaohui Wu, Lu Jiang, Zhenhua Tian, Jun Liu, and Junzhou Zhao.
-   "[[./doc/WebSci2010.pdf][A Peep at Pornography Web in China]]".
+
+ - [[./doc/WebSci2010.pdf][A Peep at Pornography Web in China]]. \\
+   Zhaohui Wu, Lu Jiang, Zhenhua Tian, Jun Liu, and Junzhou Zhao. \\
    In the 2nd Web Science Conference (WebSci, co-located with WWW), 2010.
    [[[http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs][Media Coverage]]]
 
-** ArXive Updates
+** ArXiv Updates
 
- - Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and
-   Xiaohong Guan: Design of Efficient Sampling Methods on Hybrid
-   Social-Affiliation Networks. [[http://arxiv.org/abs/1405.5097][arXiv:1405.5097]] (2014).
-   - An updated version titled "A Tale of Three Graphs: Sampling
-     Design on Hybrid Social-Affiliation Networks" is accepted by
-     ICDE 2015.
- - Junzhou Zhao, John C.S. Lui, Don Towsley, Xiaohong Guan, and
-   Pinghui Wang: Social Sensor Placement in Large Scale Networks: A
-   Graph Sampling Perspective. [[http://nskeylab.xjtu.edu.cn/people/jzzhao/#][arXiv:1305.6489]] (2013).
-   - An updated version titled "Whom to Follow: Efficient Followee
-     Selection for Cascading Outbreak Detection on Online Social
-     Networks" is accepted by Computer Networks 2014.
- - Junzhou Zhao: On Analyzing Estimation Errors due to Constraint
-   Connections in Online Review Systems. [[http://arxiv.org/abs/1307.3687][arXiv:1307.3687]] (2013).
-   - A two-page short paper with the same title is accepted by
-     CrowdRec 2013.
- - Junzhou Zhao, Pinghui Wang, Jing Tao, Xiaobo Ma, and Xiaohong Guan:
-   A Peep at the Interplays between Online Video Websites and Online
-   Social Networks. [[http://nskeylab.xjtu.edu.cn/people/jzzhao/#][arXiv:1305.4018]] (2013).
+ - Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.
+   Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams.
+   [[http://arxiv.org/abs/1411.3808][arXiv:1411.3308]] (2015).
+   - An updated version with same title is accepted by COSN 2015.
+
+ - Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan: Design
+   of Efficient Sampling Methods on Hybrid Social-Affiliation Networks.
+   [[http://arxiv.org/abs/1405.5097][arXiv:1405.5097]] (2014).
+   - An updated version titled "A Tale of Three Graphs: Sampling Design on Hybrid
+     Social-Affiliation Networks" is accepted by ICDE 2015.
+
+
+ - Junzhou Zhao, John C.S. Lui, Don Towsley, Xiaohong Guan, and Pinghui Wang: Social
+   Sensor Placement in Large Scale Networks: A Graph Sampling Perspective.
+   [[http://nskeylab.xjtu.edu.cn/people/jzzhao/#][arXiv:1305.6489]] (2013).
+   - An updated version titled "Whom to Follow: Efficient Followee Selection for
+     Cascading Outbreak Detection on Online Social Networks" is accepted by Computer
+     Networks 2014.
+
+
+ - Junzhou Zhao: On Analyzing Estimation Errors due to Constraint Connections in
+   Online Review Systems. [[http://arxiv.org/abs/1307.3687][arXiv:1307.3687]] (2013).
+   - A two-page short paper with the same title is accepted by CrowdRec 2013.
+
+
+ - Junzhou Zhao, Pinghui Wang, Jing Tao, Xiaobo Ma, and Xiaohong Guan: A Peep at the
+   Interplays between Online Video Websites and Online Social Networks.
+   [[http://nskeylab.xjtu.edu.cn/people/jzzhao/#][arXiv:1305.4018]] (2013).
