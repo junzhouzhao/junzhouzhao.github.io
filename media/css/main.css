@@ -8,7 +8,7 @@
 
 
 body {
-	font-family: verdana, Helvetica, Arial, sans-serif;
+	font-family: Verdana, Helvetica, Arial, "Microsoft YaHei", "Source Han Sans SC", sans-serif;
 	font-size: 12pt;
 }
 
@@ -23,7 +23,7 @@ a {
 }
 
 .container h1 {
-	font-size: 200%;
+	font-size: 250%;
 	margin-bottom: 50px;
 }
 
