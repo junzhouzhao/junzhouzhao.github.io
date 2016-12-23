@@ -37,7 +37,7 @@ algorithms, recommendation system, user behavior modeling in networks
 
  - [[http://ieeexplore.ieee.org/abstract/document/7498312/][Minfer: A Method of Inferring Motif Statistics from Sampled Edges]]. \\
    Pinghui Wang, John C.S. Lui, Don Towsley, and Junzhou Zhao. \\
-   In Proceedings of the 32nd IEEE International Conference on Data Engineering (ICDE), 2016.
+   In proceedings of the 32nd IEEE International Conference on Data Engineering (ICDE), 2016.
 
  - [[http://www.ir.xjtu.edu.cn/item/ir/292498][复杂在线社会网络的结构测量与行为监控]]. \\
    Structure Measurement and Behavior Monitoring for Complex Online Social Networks \\
@@ -45,18 +45,19 @@ algorithms, recommendation system, user behavior modeling in networks
 
  - [[./doc/COSN2015.pdf][Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams]]. \\
    Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. \\
-   In Proceedings of the ACM Conference on Online Social Networks (COSN), 2015. \\
+   In proceedings of the ACM Conference on Online Social Networks (COSN), 2015. \\
    [[[http://arxiv.org/abs/1411.3808][arXiv]]] [Best Paper Runner-up]
 
  - [[./doc/ICDE2015.pdf][A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation Networks]]. \\
    Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. \\
-   In Proceedings of the 31st IEEE International Conference on Data Engineering (ICDE), 2015. \\
+   In proceedings of the 31st IEEE International Conference on Data Engineering
+   (ICDE), 2015. \\
    [[[http://arxiv.org/abs/1405.5097][arXiv]] (old version)]
 
  - [[./doc/SIMPLEX2014.pdf][Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs]]. \\
    Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. \\
-   In the 6th Annual Workshop on Simplifying Complex Networks for Practitioners
-   (SIMPLEX, co-located with WWW), 2014. \\
+   In proceedings of the 6th Annual Workshop on Simplifying Complex Networks for
+   Practitioners (SIMPLEX, co-located with WWW), 2014. \\
    [Awarded Best Paper]
 
  - [[./doc/COMNET2014.pdf][Whom to Follow: Efficient Followee Selection for Cascading Outbreak Detection on Online Social Networks]]. \\
@@ -86,7 +87,7 @@ algorithms, recommendation system, user behavior modeling in networks
 
  - [[./doc/ICDE2013.pdf][Sampling Node Pairs Over Large Graphs]]. \\
    Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. \\
-   In Proceedings of the 29th International Conference on Data Engineering (ICDE), 2013.
+   In proceedings of the 29th International Conference on Data Engineering (ICDE), 2013.
 
  - [[./doc/NetSciCom2011.pdf][Empirical Analysis of the Evolution of Follower Network: A Case Study on Douban]]. \\
    Junzhou Zhao, John C.S. Lui, Don Towsley, Xiaohong Guan, and Yadong Zhou. \\
