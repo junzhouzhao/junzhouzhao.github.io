@@ -46,7 +46,7 @@ algorithms, recommendation system, user behavior modeling in networks
  - [[./doc/COSN2015.pdf][Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams]]. \\
    Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. \\
    In proceedings of the ACM Conference on Online Social Networks (COSN), 2015. \\
-   [[[http://arxiv.org/abs/1411.3808][arXiv]]] [Best Paper Runner-up]
+   [[[http://arxiv.org/abs/1411.3808][arXiv]]]
 
  - [[./doc/ICDE2015.pdf][A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation Networks]]. \\
    Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. \\
