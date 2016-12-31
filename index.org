@@ -1,6 +1,7 @@
-#+TITLE: About
+#+TITLE: Welcome
 #+OPTIONS: toc:nil num:nil
 
+* About
 Junzhou Zhao received the Ph.D. degree in Control Science and Engineering from [[http://www.xjtu.edu.cn/][Xi’an
 Jiaotong University]], under the supervision of [[http://mail.sei.xjtu.edu.cn/tpl/sei/staff/xhguan.html][Prof. Xiaohong Guan]].
 He is currently a postdoctoral researcher at the Department of Computer Science and
