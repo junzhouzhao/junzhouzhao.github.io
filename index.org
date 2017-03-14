@@ -36,9 +36,9 @@ algorithms, recommendation system, user behavior modeling in networks
 
 ** Papers
 
- - Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. \\
-   "I/O-Efficient Calculation of Group Closeness Centrality over Disk-Resident
-   Graphs". Information Sciences, 2017. [[[https://github.com/zzjjzzgggg/gc][code]]]
+ - I/O-Efficient Calculation of Group Closeness Centrality over Disk-Resident Graphs. \\
+   Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. \\
+   Information Sciences, 2017. [[[https://github.com/zzjjzzgggg/gc][code]]]
 
  - [[http://ieeexplore.ieee.org/abstract/document/7498312/][Minfer: A Method of Inferring Motif Statistics from Sampled Edges]]. \\
    Pinghui Wang, John C.S. Lui, Don Towsley, and Junzhou Zhao. \\
