@@ -3,19 +3,19 @@
 #+OPTIONS: toc:nil num:nil
 
 * About
-Junzhou Zhao received the Ph.D. degree in Control Science and Engineering from [[http://www.xjtu.edu.cn/][Xi’an Jiaotong University]], under the
-supervision of [[http://mail.sei.xjtu.edu.cn/tpl/sei/staff/xhguan.html][Prof. Xiaohong Guan]]. He is currently a postdoctoral researcher at the Department of Computer Science and
-Engineering of [[http://www.cuhk.edu.hk/][The Chinese University of Hong Kong]], working with [[http://www.cse.cuhk.edu.hk/~cslui/][Prof. John C.S. Lui]]. His research focuses on mining and
-measuring massive large-scale networks/graphs with a particular interest in online social networks, a.k.a. the [[http://en.wikipedia.org/wiki/Network_science][network
-science]].
+Junzhou Zhao received the Ph.D. degree in Control Science and Engineering from [[http://www.xjtu.edu.cn/][Xi’an Jiaotong
+University]], under the supervision of [[http://mail.sei.xjtu.edu.cn/tpl/sei/staff/xhguan.html][Prof. Xiaohong Guan]]. He is currently a postdoctoral researcher
+at the Department of Computer Science and Engineering of [[http://www.cuhk.edu.hk/][The Chinese University of Hong Kong]],
+working with [[http://www.cse.cuhk.edu.hk/~cslui/][Prof. John C.S. Lui]]. His research focuses on mining and measuring massive large-scale
+networks/graphs with a particular interest in online social networks, a.k.a. the [[http://en.wikipedia.org/wiki/Network_science][network science]].
 
-[[./img/news.gif]] I am available on the job market, and interested in becoming a research scientist, data scientist, or
-software engineer.
+[[./img/news.gif]] I am available on the job market, and interested in becoming a research scientist,
+data scientist, or software engineer.
 
 * Research
 
-large-scale graph measuring and mining, statistical inference methods, streaming
-algorithms, recommendation system, user behavior modeling in networks
+large-scale graph measuring and mining, statistical inference methods, streaming algorithms,
+recommendation system, user behavior modeling in networks
 
 * Publications
 
