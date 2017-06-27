@@ -17,5 +17,5 @@
   /in submission/.
 
 - Pinghui Wang, Jing Tao, Junzhou Zhao, and Xiaohong Guan.\\
-  "Moss: A Scalable Tool for Efficiently Sampling and Counting 4- and 5-Node Graphlets". /under
-  review/ [[[http://arxiv.org/abs/1509.08089][arXiv]]]
+  "Moss: A Scalable Tool for Efficiently Sampling and Counting 4- and 5-Node Graphlets".\\
+  /under review/ [[[http://arxiv.org/abs/1509.08089][arXiv]]]
