@@ -5,15 +5,15 @@
   /in submission/, 2017.
 
 - Junzhou Zhao, Pinghui Wang, and John C.S. Lui.\\
-  "Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations".
+  "Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations".\\
   /in submission/, 2017.
 
 - Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.\\
-  "Sampling Online Social Networks by Random Walk with Indirect Jumps".
+  "Sampling Online Social Networks by Random Walk with Indirect Jumps".\\
   /in submission/, 2017.
 
 - Junzhou Zhao, John C.S. Lui, Pinghui Wang, and Xiaohong Guan.\\
-  "Towards Efficient Node Discoverability Optimization in Large Networks".
+  "Towards Efficient Node Discoverability Optimization in Large Networks".\\
   [[[https://arxiv.org/abs/1703.04307][arXiv]]]
 
 - Junzhou Zhao, John C.S. Lui, and Pinghui Wang.\\
