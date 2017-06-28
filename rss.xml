@@ -4,35 +4,98 @@
     <title>Junzhou Zhao - 赵俊舟</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Sat, 25 Mar 2017 16:38:00 HKT</pubDate>
-    <lastBuildDate>Sat, 25 Mar 2017 16:38:00 HKT</lastBuildDate>
+    <pubDate>Wed, 28 Jun 2017 16:34:50 HKT</pubDate>
+    <lastBuildDate>Wed, 28 Jun 2017 16:34:50 HKT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
+      <title>C++17 Library</title>
+      <link>https://junzhouzhao.github.io/article/2017/06/25/cpplib</link>
+      <description><![CDATA[]]></description>
+      <pubDate>2017-06-28</pubDate>
+      <guid>https://junzhouzhao.github.io/article/2017/06/25/cpplib</guid>
+    </item>
+    <item>
+      <title>Graph Statistic Calculation Tool</title>
+      <link>https://junzhouzhao.github.io/article/2017/06/28/graphstat</link>
+      <description><![CDATA[]]></description>
+      <pubDate>2017-06-28</pubDate>
+      <guid>https://junzhouzhao.github.io/article/2017/06/28/graphstat</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://junzhouzhao.github.io/article/2017/</link>
+      <description><![CDATA[<section id="content">
+    <ul class="org-ul">
+<li>Junzhou Zhao, Pinghui Wang, and John C.S. Lui.<br />
+"Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams".<br />
+<i>in submission</i>, 2017.</li>
+
+<li>Junzhou Zhao, Pinghui Wang, and John C.S. Lui.<br />
+"Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations".
+<i>in submission</i>, 2017.</li>
+
+<li>Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.<br />
+"Sampling Online Social Networks by Random Walk with Indirect Jumps".
+<i>in submission</i>, 2017.</li>
+
+<li>Junzhou Zhao, John C.S. Lui, Pinghui Wang, and Xiaohong Guan.<br />
+"Towards Efficient Node Discoverability Optimization in Large Networks".
+[<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
+
+<li>Junzhou Zhao, John C.S. Lui, and Pinghui Wang.<br />
+"Inferring Inhibitory and Excitatory Relations from Time-evolving Event Sequences".<br />
+<i>in submission</i>.</li>
+
+<li>Pinghui Wang, Jing Tao, Junzhou Zhao, and Xiaohong Guan.<br />
+"Moss: A Scalable Tool for Efficiently Sampling and Counting 4- and 5-Node Graphlets".<br />
+<i>under review</i> [<a href="http://arxiv.org/abs/1509.08089">arXiv</a>]</li>
+</ul>
+
+</section>
+]]></description>
+      <pubDate>2017-06-28</pubDate>
+      <guid>https://junzhouzhao.github.io/article/2017/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://junzhouzhao.github.io/article/2017/</link>
+      <description><![CDATA[]]></description>
+      <pubDate>2017-06-25</pubDate>
+      <guid>https://junzhouzhao.github.io/article/2017/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://junzhouzhao.github.io/article/2017/</link>
+      <description><![CDATA[]]></description>
+      <pubDate>2017-06-25</pubDate>
+      <guid>https://junzhouzhao.github.io/article/2017/</guid>
+    </item>
+    <item>
       <title>Graph Analysis Library</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/graph-analysis-library</link>
-      <description><![CDATA[<TODO: insert your description here>]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2016-09-15</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/graph-analysis-library</guid>
     </item>
     <item>
       <title>Python Packages</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/python-packages</link>
-      <description><![CDATA[<TODO: insert your description here>]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2016-09-15</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/python-packages</guid>
     </item>
     <item>
       <title>Blackboard</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/blackboard</link>
-      <description><![CDATA[<TODO: insert your description here>]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2016-09-01</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/blackboard</guid>
     </item>
     <item>
       <title>Quick Links</title>
       <link>https://junzhouzhao.github.io/article/2016/08/26/quick-links</link>
-      <description><![CDATA[desc]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2016-09-01</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/08/26/quick-links</guid>
     </item>
