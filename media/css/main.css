@@ -29,17 +29,17 @@ a {
 menu { 
 	float: right;
 	right: 0;
-	width: 260px;
+	width: 220px;
 }
 
 section {
-	margin-right: 300px;
+	margin-right: 250px;
 }
 
 footer {
 	clear: both;
 	display: block;
-	font-size: 90%;
+	font-size: 80%;
 	color: gray;
 	margin-top: 30pt;
 }
