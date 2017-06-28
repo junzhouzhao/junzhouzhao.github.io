@@ -1,6 +1,10 @@
 # -*- fill-column: 100; -*-
 
 - Junzhou Zhao, Pinghui Wang, and John C.S. Lui.\\
+  "Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams".\\
+  /in submission/, 2017.
+
+- Junzhou Zhao, Pinghui Wang, and John C.S. Lui.\\
   "Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations".
   /in submission/, 2017.
 
