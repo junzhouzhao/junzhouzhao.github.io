@@ -10,4 +10,5 @@
 #+DESCRIPTION: <TODO: insert your description here>
 
 
-Personal C++17 Library. [[https://github.com/zzjjzzgggg/cpplib][link]]
+A collection of C++17 library, e.g., io, fmt, assert_msg, etc.
+[[https://github.com/zzjjzzgggg/cpplib][link]]
