@@ -1,23 +1,22 @@
 # -*- fill-column: 100; -*-
 
-- Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams.
+- Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams.\\
   [[http://arxiv.org/abs/1411.3808][arXiv:1411.3308]] (2015).
   - An updated version with same title is accepted by COSN 2015.
 
-- Design of Efficient Sampling Methods on Hybrid Social-Affiliation Networks. [[http://arxiv.org/abs/1405.5097][arXiv:1405.5097]]
-  (2014).
-  - An updated version titled "A Tale of Three Graphs: Sampling Design on Hybrid
-    Social-Affiliation Networks" is accepted by ICDE 2015.
+- Design of Efficient Sampling Methods on Hybrid Social-Affiliation Networks.\\
+  [[http://arxiv.org/abs/1405.5097][arXiv:1405.5097]] (2014).
+  - An updated version titled "A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation
+    Networks" is accepted by ICDE 2015.
 
-- Social Sensor Placement in Large Scale Networks: A Graph Sampling Perspective. [[http://nskeylab.xjtu.edu.cn/people/jzzhao/#][arXiv:1305.6489]]
-  (2013).
-  - An updated version titled "Whom to Follow: Efficient Followee Selection for
-    Cascading Outbreak Detection on Online Social Networks" is accepted by Computer
-    Networks 2014.
+- Social Sensor Placement in Large Scale Networks: A Graph Sampling Perspective.\\
+  [[http://nskeylab.xjtu.edu.cn/people/jzzhao/#][arXiv:1305.6489]] (2013).
+  - An updated version titled "Whom to Follow: Efficient Followee Selection for Cascading Outbreak
+    Detection on Online Social Networks" is accepted by Computer Networks 2014.
 
-- On Analyzing Estimation Errors due to Constraint Connections in Online Review Systems.
+- On Analyzing Estimation Errors due to Constraint Connections in Online Review Systems.\\
   [[http://arxiv.org/abs/1307.3687][arXiv:1307.3687]] (2013).
   - A two-page short paper with the same title is accepted by CrowdRec 2013.
 
-- A Peep at the Interplays between Online Video Websites and Online Social Networks.
+- A Peep at the Interplays between Online Video Websites and Online Social Networks.\\
   [[http://nskeylab.xjtu.edu.cn/people/jzzhao/#][arXiv:1305.4018]] (2013).
