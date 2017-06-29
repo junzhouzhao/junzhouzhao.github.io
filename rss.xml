@@ -4,10 +4,50 @@
     <title>Junzhou Zhao - 赵俊舟</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Wed, 28 Jun 2017 19:03:55 HKT</pubDate>
-    <lastBuildDate>Wed, 28 Jun 2017 19:03:55 HKT</lastBuildDate>
+    <pubDate>Thu, 29 Jun 2017 11:34:41 HKT</pubDate>
+    <lastBuildDate>Thu, 29 Jun 2017 11:34:41 HKT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Untitled</title>
+      <link>https://junzhouzhao.github.io/article/2017/</link>
+      <description><![CDATA[<section id="content">
+    <ul class="org-ul">
+<li>Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams.<br />
+<a href="http://arxiv.org/abs/1411.3808">arXiv:1411.3308</a> (2015).
+<ul class="org-ul">
+<li>An updated version with same title is accepted by COSN 2015.</li>
+</ul></li>
+
+<li>Design of Efficient Sampling Methods on Hybrid Social-Affiliation Networks.<br />
+<a href="http://arxiv.org/abs/1405.5097">arXiv:1405.5097</a> (2014).
+<ul class="org-ul">
+<li>An updated version titled "A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation
+Networks" is accepted by ICDE 2015.</li>
+</ul></li>
+
+<li>Social Sensor Placement in Large Scale Networks: A Graph Sampling Perspective.<br />
+<a href="http://nskeylab.xjtu.edu.cn/people/jzzhao/#">arXiv:1305.6489</a> (2013).
+<ul class="org-ul">
+<li>An updated version titled "Whom to Follow: Efficient Followee Selection for Cascading Outbreak
+Detection on Online Social Networks" is accepted by Computer Networks 2014.</li>
+</ul></li>
+
+<li>On Analyzing Estimation Errors due to Constraint Connections in Online Review Systems.<br />
+<a href="http://arxiv.org/abs/1307.3687">arXiv:1307.3687</a> (2013).
+<ul class="org-ul">
+<li>A two-page short paper with the same title is accepted by CrowdRec 2013.</li>
+</ul></li>
+
+<li>A Peep at the Interplays between Online Video Websites and Online Social Networks.<br />
+<a href="http://nskeylab.xjtu.edu.cn/people/jzzhao/#">arXiv:1305.4018</a> (2013).</li>
+</ul>
+
+</section>
+]]></description>
+      <pubDate>2017-06-29</pubDate>
+      <guid>https://junzhouzhao.github.io/article/2017/</guid>
+    </item>
     <item>
       <title>C++17 Library</title>
       <link>https://junzhouzhao.github.io/article/2017/06/25/cpplib</link>
@@ -25,43 +65,8 @@
     <item>
       <title>Untitled</title>
       <link>https://junzhouzhao.github.io/article/2017/</link>
-      <description><![CDATA[<section id="content">
-    <ul class="org-ul">
-<li>Junzhou Zhao, Pinghui Wang, and John C.S. Lui.<br />
-"Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams".<br />
-<i>in submission</i>, 2017.</li>
-
-<li>Junzhou Zhao, Pinghui Wang, and John C.S. Lui.<br />
-"Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations".<br />
-<i>in submission</i>, 2017.</li>
-
-<li>Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.<br />
-"Sampling Online Social Networks by Random Walk with Indirect Jumps".<br />
-<i>in submission</i>, 2017.</li>
-
-<li>Junzhou Zhao, John C.S. Lui, Pinghui Wang, and Xiaohong Guan.<br />
-"Towards Efficient Node Discoverability Optimization in Large Networks".<br />
-[<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
-
-<li>Junzhou Zhao, and John C.S. Lui.<br />
-"Inferring Inhibitory and Excitatory Relations from Time-evolving Event Sequences".<br />
-<i>in submission</i>.</li>
-
-<li>Pinghui Wang, Jing Tao, Junzhou Zhao, and Xiaohong Guan.<br />
-"Moss: A Scalable Tool for Efficiently Sampling and Counting 4- and 5-Node Graphlets".<br />
-<i>under review</i> [<a href="http://arxiv.org/abs/1509.08089">arXiv</a>]</li>
-</ul>
-
-</section>
-]]></description>
-      <pubDate>2017-06-28</pubDate>
-      <guid>https://junzhouzhao.github.io/article/2017/</guid>
-    </item>
-    <item>
-      <title>Untitled</title>
-      <link>https://junzhouzhao.github.io/article/2017/</link>
       <description><![CDATA[]]></description>
-      <pubDate>2017-06-25</pubDate>
+      <pubDate>2017-06-28</pubDate>
       <guid>https://junzhouzhao.github.io/article/2017/</guid>
     </item>
     <item>
