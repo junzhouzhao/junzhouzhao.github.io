@@ -4,8 +4,7 @@
   "Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams", 2017.
 
 - Junzhou Zhao, Pinghui Wang, and John C.S. Lui.\\
-  "Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and
-  Observations", 2017.
+  "Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations", 2017.
 
 - Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.\\
   "Sampling Online Social Networks by Random Walk with Indirect Jumps", 2017.
