@@ -3,8 +3,8 @@
 
 * Contact
 
-Rm120, 1/F, Ho Sin-Hang Engineering Building,\\
-The Chinese University of Hong Kong,\\
-Shatin N.T., Hong Kong
+  Rm120, 1/F, Ho Sin-Hang Engineering Building,\\
+  The Chinese University of Hong Kong,\\
+  Shatin N.T., Hong Kong
 
-junzhouzhao AT gmail DOT com
+  junzhouzhao AT gmail DOT com
