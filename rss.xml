@@ -4,38 +4,14 @@
     <title>Junzhou Zhao - 赵俊舟</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Sun, 02 Jul 2017 21:34:13 HKT</pubDate>
-    <lastBuildDate>Sun, 02 Jul 2017 21:34:13 HKT</lastBuildDate>
+    <pubDate>Sun, 02 Jul 2017 22:04:22 HKT</pubDate>
+    <lastBuildDate>Sun, 02 Jul 2017 22:04:22 HKT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>Untitled</title>
       <link>https://junzhouzhao.github.io/article/2017/</link>
-      <description><![CDATA[<section id="content">
-    <ul class="org-ul">
-<li>Junzhou Zhao, Pinghui Wang, and John C.S. Lui.<br />
-"Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams", 2017.</li>
-
-<li>Junzhou Zhao, Pinghui Wang, and John C.S. Lui.<br />
-"Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and
-Observations", 2017.</li>
-
-<li>Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.<br />
-"Sampling Online Social Networks by Random Walk with Indirect Jumps", 2017.</li>
-
-<li>Junzhou Zhao, John C.S. Lui, Pinghui Wang, and Xiaohong Guan.<br />
-"Towards Efficient Node Discoverability Optimization in Large Networks", 2017. [<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
-
-<li>Junzhou Zhao, and John C.S. Lui.<br />
-"Inferring Inhibitory and Excitatory Relations from Time-evolving Event Sequences", 2016.</li>
-
-<li>Pinghui Wang, Jing Tao, Junzhou Zhao, and Xiaohong Guan.<br />
-"Moss: A Scalable Tool for Efficiently Sampling and Counting 4- and 5-Node Graphlets", 2016.
-[<a href="http://arxiv.org/abs/1509.08089">arXiv</a>]</li>
-</ul>
-
-</section>
-]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2017-07-02</pubDate>
       <guid>https://junzhouzhao.github.io/article/2017/</guid>
     </item>
