@@ -10,8 +10,9 @@
   large-scale networks/graphs with a particular interest in online social networks, a.k.a. the
   [[http://en.wikipedia.org/wiki/Network_science][network science]].
 
-  [[./img/news.gif]] I am available on the job market, and interested in becoming a research scientist,
-  data scientist, or software engineer.
+  - [[./img/news.gif]] I am looking for another postdoc position.
+  - [[./img/news.gif]] I am available on the job market, and interested in becoming a research
+    scientist, data scientist, or software engineer.
 
 * Research
 
