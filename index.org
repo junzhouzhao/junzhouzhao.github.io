@@ -16,8 +16,8 @@
 
 * Research
 
-  large-scale graph measuring and mining, statistical inference methods, streaming algorithms,
-  recommendation system, user behavior modeling in networks
+  network data analysis, large-scale graph measuring and mining, statistical inference methods,
+  streaming algorithms, recommendation system, user behavior modeling in networks
 
 * Publications
 
