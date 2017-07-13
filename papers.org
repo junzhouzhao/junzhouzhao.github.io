@@ -1,7 +1,7 @@
 # -*- fill-column: 100; -*-
 
 - Inferring Higher-Order Structure Statistics of Large Networks From Sampled Edges.\\
-  Pinghui Wang, Yiyan Qi, John CS Lui, Don Towsley, Junzhou Zhao, Jing Tao.\\
+  Pinghui Wang, Yiyan Qi, John C.S. Lui, Don Towsley, Junzhou Zhao, Jing Tao.\\
   IEEE Transactions on Knowledge and Data Engineering (TKDE), 2017.
 
 - I/O-Efficient Calculation of Group Closeness Centrality over Disk-Resident Graphs.\\
@@ -26,6 +26,10 @@
   Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.\\
   In proceedings of the 31st IEEE International Conference on Data Engineering (ICDE), 2015.\\
   [[[http://arxiv.org/abs/1405.5097][arXiv]] (old version)]
+
+- [[http://ieeexplore.ieee.org/document/6775257/][A New Sketch Method for Measuring Host Connection Degree Distribution]].\\
+  Pinghui Wang, Xiaohong Guang, Junzhou Zhao, Jing Tao, and Tao Qin.\\
+  IEEE Transactions on Information Forensics and Security, 9(6), 2014.
 
 - [[./doc/SIMPLEX2014.pdf][Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs]].\\
   Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan.\\
