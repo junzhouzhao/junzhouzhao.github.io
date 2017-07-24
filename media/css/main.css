@@ -12,7 +12,7 @@ body {
 	font-size: 14pt;
 }
 
-a { 
+a {
 	color: blue;
 	text-decoration: none;
 }
@@ -26,7 +26,7 @@ a {
 	font-size: 220%;
 }
 
-menu { 
+menu {
 	float: right;
 	right: 0;
 	width: 220px;
@@ -41,7 +41,7 @@ footer {
 	display: block;
 	font-size: 80%;
 	color: gray;
-	margin-top: 30pt;
+  padding: 20px 0 20px 20px;
 }
 
 footer a {
