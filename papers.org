@@ -1,8 +1,13 @@
 # -*- fill-column: 100; -*-
 
 - Inferring Higher-Order Structure Statistics of Large Networks From Sampled Edges.\\
-  Pinghui Wang, Yiyan Qi, John C.S. Lui, Don Towsley, Junzhou Zhao, Jing Tao.\\
+  P. Wang, Y. Qi, J. C.S. Lui, D. Towsley, J. Zhao, J. Tao.\\
   IEEE Transactions on Knowledge and Data Engineering (TKDE), 2017.
+
+- Modeling the Assimilation-Contrast Effects in Online Product Rating Systems: Debiasing and
+  Recommendations.\\
+  X. Zhang, J. Zhao, and J. C.S. Lui.\\
+  In proceedings of ACM RecSys, 2017.
 
 - I/O-Efficient Calculation of Group Closeness Centrality over Disk-Resident Graphs.\\
   Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.\\
