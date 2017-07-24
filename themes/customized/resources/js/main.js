@@ -35,4 +35,8 @@ $(document).ready(function() {
      * pretty print all code blocks
      ******************************************************************/
     prettyPrint();
+
+    $(window).scroll(function(){
+      $("#leftmenu").stop().animate({"marginTop": ($(window).scrollTop()) + "px", "marginLeft":($(window).scrollLeft()) + "px"}, "fast" );
+    });
 });
