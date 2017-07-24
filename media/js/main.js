@@ -36,7 +36,4 @@ $(document).ready(function() {
      ******************************************************************/
     prettyPrint();
 
-    $(window).scroll(function(){
-      $("#leftmenu").stop().animate({"marginTop": ($(window).scrollTop()) + "px", "marginLeft":($(window).scrollLeft()) + "px"}, "fast" );
-    });
 });
