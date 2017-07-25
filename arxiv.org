@@ -1,5 +1,9 @@
 # -*- fill-column: 100; -*-
 
+- Practical Characterization of Large Networks Using Neighborhood Information.\\
+  Pinghui Wang, Bruno Ribeiro, Junzhou Zhao, John C.S. Lui, Don Towsley, Xiaohong Guan.\\
+  [[https://arxiv.org/abs/1311.3037][arXiv:1311.3037]] (2013).
+
 - Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams.\\
   [[http://arxiv.org/abs/1411.3808][arXiv:1411.3308]] (2015).
   - An updated version with same title is accepted by COSN 2015.
@@ -11,8 +15,8 @@
 
 - Social Sensor Placement in Large Scale Networks: A Graph Sampling Perspective.\\
   [[http://nskeylab.xjtu.edu.cn/people/jzzhao/#][arXiv:1305.6489]] (2013).
-  - An updated version titled "Whom to Follow: Efficient Followee Selection for Cascading Outbreak
-    Detection on Online Social Networks" is accepted by Computer Networks 2014.
+  - An updated version titled "WTF: Efficient Followee Selection for Cascading Outbreak Detection on
+    Online Social Networks" is accepted by Computer Networks 2014.
 
 - On Analyzing Estimation Errors due to Constraint Connections in Online Review Systems.\\
   [[http://arxiv.org/abs/1307.3687][arXiv:1307.3687]] (2013).
