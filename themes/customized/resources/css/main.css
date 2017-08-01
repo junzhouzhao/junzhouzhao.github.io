@@ -26,6 +26,12 @@ a {
 	font-size: 220%;
 }
 
+.subtit {
+  margin-right: 10px;
+	font-size: 80%;
+	color: gray;
+}
+
 menu {
 	float: right;
 	right: 0;
