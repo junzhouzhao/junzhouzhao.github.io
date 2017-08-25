@@ -4,11 +4,10 @@
 
 * About
   Junzhou Zhao received the Ph.D. degree in Control Science and Engineering from [[http://www.xjtu.edu.cn/][Xi’an Jiaotong
-  University]], under the supervision of [[http://mail.sei.xjtu.edu.cn/tpl/sei/staff/xhguan.html][Prof. Xiaohong Guan]]. He is currently a postdoctoral
-  researcher at the Department of Computer Science and Engineering of [[http://www.cuhk.edu.hk/][The Chinese University of Hong
-  Kong]], working with [[http://www.cse.cuhk.edu.hk/~cslui/][Prof. John C.S. Lui]]. His research focuses on large-scale graphs/networks
-  measuring, mining and optimization, with a particular interest in online social networks, a.k.a.
-  the [[http://en.wikipedia.org/wiki/Network_science][network science]].
+  University]]. He is currently a postdoctoral researcher at the Department of Computer Science and
+  Engineering of [[http://www.cuhk.edu.hk/][The Chinese University of Hong Kong]]. His research focuses on large-scale
+  graphs/networks measuring, mining and optimization, with a particular interest in online social
+  networks, a.k.a. the [[http://en.wikipedia.org/wiki/Network_science][network science]].
 
   [[./img/news.gif]] I am looking for a postdoc position.\\
   [[./img/news.gif]] I am available on the job market, and interested in becoming a research scientist,
