@@ -4,54 +4,10 @@
     <title>Junzhou Zhao - 赵俊舟</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Sun, 27 Aug 2017 16:59:01 HKT</pubDate>
-    <lastBuildDate>Sun, 27 Aug 2017 16:59:01 HKT</lastBuildDate>
+    <pubDate>Thu, 31 Aug 2017 08:21:13 HKT</pubDate>
+    <lastBuildDate>Thu, 31 Aug 2017 08:21:13 HKT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
-    <item>
-      <title>Untitled</title>
-      <link>https://junzhouzhao.github.io/article/2017/</link>
-      <description><![CDATA[<section id="content">
-    <ul class="org-ul">
-<li>Practical Characterization of Large Networks Using Neighborhood Information.<br />
-Pinghui Wang, Bruno Ribeiro, Junzhou Zhao, John C.S. Lui, Don Towsley, Xiaohong Guan.<br />
-<a href="https://arxiv.org/abs/1311.3037">arXiv:1311.3037</a> (2013).</li>
-
-<li>Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams.<br />
-<a href="http://arxiv.org/abs/1411.3808">arXiv:1411.3308</a> (2015).
-<ul class="org-ul">
-<li>An updated version with same title is accepted by COSN 2015.</li>
-</ul></li>
-
-<li>Design of Efficient Sampling Methods on Hybrid Social-Affiliation Networks.<br />
-<a href="http://arxiv.org/abs/1405.5097">arXiv:1405.5097</a> (2014).
-<ul class="org-ul">
-<li>An updated version titled "A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation
-Networks" is accepted by ICDE 2015.</li>
-</ul></li>
-
-<li>Social Sensor Placement in Large Scale Networks: A Graph Sampling Perspective.<br />
-<a href="http://nskeylab.xjtu.edu.cn/people/jzzhao/#">arXiv:1305.6489</a> (2013).
-<ul class="org-ul">
-<li>An updated version titled "WTF: Efficient Followee Selection for Cascading Outbreak Detection on
-Online Social Networks" is accepted by Computer Networks 2014.</li>
-</ul></li>
-
-<li>On Analyzing Estimation Errors due to Constraint Connections in Online Review Systems.<br />
-<a href="http://arxiv.org/abs/1307.3687">arXiv:1307.3687</a> (2013).
-<ul class="org-ul">
-<li>A two-page short paper with the same title is accepted by CrowdRec 2013.</li>
-</ul></li>
-
-<li>A Peep at the Interplays between Online Video Websites and Online Social Networks.<br />
-<a href="http://nskeylab.xjtu.edu.cn/people/jzzhao/#">arXiv:1305.4018</a> (2013).</li>
-</ul>
-
-</section>
-]]></description>
-      <pubDate>2017-07-25</pubDate>
-      <guid>https://junzhouzhao.github.io/article/2017/</guid>
-    </item>
     <item>
       <title>Untitled</title>
       <link>https://junzhouzhao.github.io/article/2017/</link>
@@ -74,9 +30,9 @@ Information Sciences, 2017.</li>
 Pinghui Wang, John C.S. Lui, Don Towsley, and Junzhou Zhao.<br />
 In proceedings of the 32nd IEEE International Conference on Data Engineering (ICDE), 2016.</li>
 
-<li><a href="http://www.ir.xjtu.edu.cn/item/ir/292498">复杂在线社会网络的结构测量与行为监控</a>.<br />
-Structure Measurement and Behavior Monitoring for Complex Online Social Networks.<br />
-Junzhou Zhao. Ph.D. thesis, 2015.</li>
+<li><a href="http://www.ir.xjtu.edu.cn/item/ir/292498">Structure Measurement and Behavior Monitoring for Complex Online Social Networks</a>.<br />
+Junzhou Zhao.<br />
+Ph.D. thesis, Xi'an Jiaotong University, 2015.</li>
 
 <li><a href="/assets/article/2017/COSN2015.pdf">Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams</a>.<br />
 Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.<br />
@@ -140,7 +96,7 @@ In the 2nd Web Science Conference (WebSci, co-located with WWW), 2010.<br />
 
 </section>
 ]]></description>
-      <pubDate>2017-07-24</pubDate>
+      <pubDate>2017-08-31</pubDate>
       <guid>https://junzhouzhao.github.io/article/2017/</guid>
     </item>
     <item>
@@ -148,70 +104,82 @@ In the 2nd Web Science Conference (WebSci, co-located with WWW), 2010.<br />
       <link>https://junzhouzhao.github.io/article/2017/</link>
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
-<li>Junzhou Zhao, Pinghui Wang, and John C.S. Lui.<br />
-"Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams", 2017.</li>
+<li>J. Zhao, P. Wang, J. C.S. Lui, D. Towsley, and X. Guan.<br />
+"Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams", 2017.<br />
+[<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
 
-<li>Junzhou Zhao, Pinghui Wang, and John C.S. Lui.<br />
-"Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations", 2017.</li>
+<li>J. Zhao, P. Wang, and J. C.S. Lui.<br />
+"Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and
+Observations", 2017.<br />
+[<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
 
-<li>Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.<br />
-"Sampling Online Social Networks by Random Walk with Indirect Jumps", 2017.</li>
+<li>J. Zhao, P. Wang, J. C.S. Lui, D. Towsley, and X. Guan.<br />
+"Sampling Online Social Networks by Random Walk with Indirect Jumps", 2017.<br />
+[<a href="https://arxiv.org/abs/1708.09081">arXiv</a>]</li>
 
-<li>Junzhou Zhao, John C.S. Lui, Pinghui Wang, and Xiaohong Guan.<br />
-"Towards Efficient Node Discoverability Optimization in Large Networks", 2017. [<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
+<li>J. Zhao, P. Wang, and J. C.S. Lui.<br />
+"Towards Efficient Node Discoverability Optimization in Large Networks", 2017.<br />
+[<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
 
-<li>Junzhou Zhao, and John C.S. Lui.<br />
-"Inferring Inhibitory and Excitatory Relations from Time-evolving Event Sequences", 2016.</li>
-
-<li>Pinghui Wang, Jing Tao, Junzhou Zhao, and Xiaohong Guan.<br />
-"Moss: A Scalable Tool for Efficiently Sampling and Counting 4- and 5-Node Graphlets", 2016.
+<li>P. Wang, J. Tao, J. Zhao, and X. Guan.<br />
+"Moss: A Scalable Tool for Efficiently Sampling and Counting 4- and 5-Node Graphlets", 2016.<br />
 [<a href="http://arxiv.org/abs/1509.08089">arXiv</a>]</li>
+
+<li>J. Zhao and J. C.S. Lui.<br />
+"Inferring Inhibitory and Excitatory Relations from Time-evolving Event Sequences", 2016.</li>
 </ul>
 
 </section>
 ]]></description>
-      <pubDate>2017-07-02</pubDate>
+      <pubDate>2017-08-31</pubDate>
+      <guid>https://junzhouzhao.github.io/article/2017/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://junzhouzhao.github.io/article/2017/</link>
+      <description><![CDATA[]]></description>
+      <pubDate>2017-07-25</pubDate>
       <guid>https://junzhouzhao.github.io/article/2017/</guid>
     </item>
     <item>
       <title>C++17 Library</title>
       <link>https://junzhouzhao.github.io/article/2017/06/25/cpplib</link>
-      <description><![CDATA[<TODO: insert your description here>]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2017-06-28</pubDate>
       <guid>https://junzhouzhao.github.io/article/2017/06/25/cpplib</guid>
     </item>
     <item>
       <title>Graph Statistic Calculation Tool</title>
       <link>https://junzhouzhao.github.io/article/2017/06/28/graphstat</link>
-      <description><![CDATA[<TODO: insert your description here>]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2017-06-28</pubDate>
       <guid>https://junzhouzhao.github.io/article/2017/06/28/graphstat</guid>
     </item>
     <item>
       <title>Graph Analysis Library</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/graph-analysis-library</link>
-      <description><![CDATA[<TODO: insert your description here>]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2016-09-15</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/graph-analysis-library</guid>
     </item>
     <item>
       <title>Python Packages</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/python-packages</link>
-      <description><![CDATA[<TODO: insert your description here>]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2016-09-15</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/python-packages</guid>
     </item>
     <item>
       <title>Blackboard</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/blackboard</link>
-      <description><![CDATA[<TODO: insert your description here>]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2016-09-01</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/blackboard</guid>
     </item>
     <item>
       <title>Quick Links</title>
       <link>https://junzhouzhao.github.io/article/2016/08/26/quick-links</link>
-      <description><![CDATA[desc]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2016-09-01</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/08/26/quick-links</guid>
     </item>
