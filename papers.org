@@ -7,7 +7,8 @@
 - Modeling the Assimilation-Contrast Effects in Online Product Rating Systems: Debiasing and
   Recommendations.\\
   X. Zhang, J. Zhao, and J. C.S. Lui.\\
-  In proceedings of ACM RecSys, 2017.
+  In proceedings of ACM RecSys, 2017.\\
+  [Awarded Best Paper]
 
 - I/O-Efficient Calculation of Group Closeness Centrality over Disk-Resident Graphs.\\
   Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan.\\
