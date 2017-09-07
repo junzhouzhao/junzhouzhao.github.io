@@ -3,7 +3,7 @@
 #+OPTIONS: toc:nil num:nil
 
 * About
-  Junzhou Zhao received the Ph.D. degree in Control Science and Engineering from [[http://www.xjtu.edu.cn/][Xi’an Jiaotong
+  Junzhou Zhao holds a Ph.D. degree in Control Science and Engineering from [[http://www.xjtu.edu.cn/][Xi’an Jiaotong
   University]], China. He is currently a postdoctoral researcher at the Department of Computer Science
   and Engineering, [[http://www.cuhk.edu.hk/][The Chinese University of Hong Kong]]. His research interest lies in large-scale
   graph/network measurement, mining and optimization, with a particular interest in online social
