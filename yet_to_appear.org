@@ -1,6 +1,6 @@
 # -*- fill-column: 100; -*-
 
-- J. Zhao, P. Wang, J. Lui, and D Towsley.
+- J. Zhao, P. Wang, J. Lui, and D. Towsley.
   "Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams", 2017.
   [[[https://arxiv.org/abs/1708.09089][arXiv]]]
 
@@ -9,7 +9,7 @@
   Observations", 2017.
   [[[https://arxiv.org/abs/1703.04307][arXiv]]]
 
-- J. Zhao, P. Wang, J. Lui, and D Towsley.
+- J. Zhao, P. Wang, J. Lui, and D. Towsley.
   "Sampling Online Social Networks by Random Walk with Indirect Jumps", 2017.
   [[[https://arxiv.org/abs/1708.09081][arXiv]]]
 
