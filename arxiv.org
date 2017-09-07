@@ -1,7 +1,6 @@
 # -*- fill-column: 100; -*-
 
 - Practical Characterization of Large Networks Using Neighborhood Information.\\
-  Pinghui Wang, Bruno Ribeiro, Junzhou Zhao, John C.S. Lui, Don Towsley, Xiaohong Guan.\\
   [[https://arxiv.org/abs/1311.3037][arXiv:1311.3037]] (2013).
 
 - Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams.\\
