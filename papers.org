@@ -58,7 +58,7 @@
   [[[http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks][Featured Article by STCSN]]]
 
 - [[./files/TKDD2014_motif.pdf][Efficiently Estimating Motif Statistics of Large Networks]].\\
-  P. Wang, J. Lui, Bruno F. Ribeiro, D. Towsley, J. Zhao, and X. G.\\
+  P. Wang, J. Lui, B. Ribeiro, D. Towsley, J. Zhao, and X. G.\\
   ACM Transactions on Knowledge Discovery form Data (TKDD), 2014.\\
   [[[http://arxiv.org/abs/1306.5288][arXiv]]]
 
