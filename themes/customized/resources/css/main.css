@@ -8,40 +8,40 @@
 
 
 body {
-	font-family: Verdana, Helvetica, Arial, "Microsoft YaHei", "Source Han Sans SC", sans-serif;
-	font-size: 14pt;
+  font-family: Verdana, Helvetica, Arial, "Microsoft YaHei", "Source Han Sans SC", sans-serif;
+  font-size: 14pt;
 }
 
 a {
-	color: blue;
-	text-decoration: none;
+  color: blue;
+  text-decoration: none;
 }
 
 .container {
-	display: block;
-	margin: 2em;
+  display: block;
+  margin: 2em;
 }
 
 .container h1 {
-	font-size: 220%;
+  font-size: 200%;
 }
 
 .subtit {
   margin-right: 10px;
-	font-size: 80%;
-	color: gray;
+  font-size: 80%;
+  color: gray;
 }
 
 menu {
   position: fixed;
-	float: right;
-	right: 0;
+  float: right;
+  right: 0;
   top: 6em;
-	width: 200px;
+  width: 200px;
 }
 
 section {
-	margin-right: 220px;
+  margin-right: 200px;
 }
 
 footer {
