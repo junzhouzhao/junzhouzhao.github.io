@@ -4,13 +4,13 @@
     <title>Junzhou Zhao - 赵俊舟</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Thu, 07 Sep 2017 18:00:47 HKT</pubDate>
-    <lastBuildDate>Thu, 07 Sep 2017 18:00:47 HKT</lastBuildDate>
+    <pubDate>Sun, 19 Nov 2017 16:28:28 HKT</pubDate>
+    <lastBuildDate>Sun, 19 Nov 2017 16:28:28 HKT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>Untitled</title>
-      <link>https://junzhouzhao.github.io/article/2017/</link>
+      <link>https://junzhouzhao.github.io/blog/2017/</link>
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
 <li>Practical Characterization of Large Networks Using Neighborhood Information.<br />
@@ -49,11 +49,11 @@ Online Social Networks" is accepted by Computer Networks 2014.</li>
 </section>
 ]]></description>
       <pubDate>2017-09-07</pubDate>
-      <guid>https://junzhouzhao.github.io/article/2017/</guid>
+      <guid>https://junzhouzhao.github.io/blog/2017/</guid>
     </item>
     <item>
       <title>Untitled</title>
-      <link>https://junzhouzhao.github.io/article/2017/</link>
+      <link>https://junzhouzhao.github.io/blog/2017/</link>
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
 <li>Inferring Higher-Order Structure Statistics of Large Networks From Sampled Edges.<br />
@@ -78,12 +78,12 @@ In proceedings of the 32nd IEEE International Conference on Data Engineering (IC
 J. Zhao.<br />
 Ph.D. thesis, Xi'an Jiaotong University, 2015.</li>
 
-<li><a href="/assets/article/2017/COSN2015.pdf">Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams</a>.<br />
+<li><a href="/assets/blog/2017/COSN2015.pdf">Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams</a>.<br />
 J. Zhao, J. Lui, D. Towsley, P. Wang, and X. G.<br />
 In proceedings of the ACM Conference on Online Social Networks (COSN), 2015.<br />
 [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</li>
 
-<li><a href="/assets/article/2017/ICDE2015.pdf">A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation Networks</a>.<br />
+<li><a href="/assets/blog/2017/ICDE2015.pdf">A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation Networks</a>.<br />
 J. Zhao, J. Lui, D. Towsley, P. Wang, and X. G.<br />
 In proceedings of the 31st IEEE International Conference on Data Engineering (ICDE), 2015.<br />
 [<a href="http://arxiv.org/abs/1405.5097">arXiv</a> (old version)]</li>
@@ -92,47 +92,47 @@ In proceedings of the 31st IEEE International Conference on Data Engineering (IC
 P. Wang, X. Guang, J. Zhao, J. Tao, and T. Qin.<br />
 IEEE Transactions on Information Forensics and Security, 9(6), 2014.</li>
 
-<li><a href="/assets/article/2017/SIMPLEX2014.pdf">Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs</a>.<br />
+<li><a href="/assets/blog/2017/SIMPLEX2014.pdf">Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs</a>.<br />
 J. Zhao, J. Lui, D. Towsley, and X. G.<br />
 In proceedings of the 6th Annual Workshop on Simplifying Complex Networks for Practitioners
 (SIMPLEX, co-located with WWW), 2014.<br />
 [Awarded Best Paper]</li>
 
-<li><a href="/assets/article/2017/COMNET2014.pdf">WTF: Efficient Followee Selection for Cascading Outbreak Detection on Online Social Networks</a>.<br />
+<li><a href="/assets/blog/2017/COMNET2014.pdf">WTF: Efficient Followee Selection for Cascading Outbreak Detection on Online Social Networks</a>.<br />
 J. Zhao, J. Lui, D. Towsley, and X. G.<br />
 Computer Networks, Special Issue on Online Social Networks, 2014.</li>
 
-<li><a href="/assets/article/2017/TKDD2014_node_pair.pdf">Unbiased Characterization of Node Pairs over Large Graphs</a>.<br />
+<li><a href="/assets/blog/2017/TKDD2014_node_pair.pdf">Unbiased Characterization of Node Pairs over Large Graphs</a>.<br />
 P. Wang, J. Zhao, J. Lui, D. Towsley, and X. G.<br />
 ACM Transactions on Knowledge Discovery from Data (TKDD), 2014.</li>
 
-<li><a href="/assets/article/2017/IC2014.pdf">A Tale of Three Social Networks: User Activity Comparations across Facebook, Twitter, and
+<li><a href="/assets/blog/2017/IC2014.pdf">A Tale of Three Social Networks: User Activity Comparations across Facebook, Twitter, and
 Foursquare</a>.<br />
 P. Wang, W. He, and J. Zhao.<br />
 IEEE Internet Computing, 2014.<br />
 [<a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks">Featured Article by STCSN</a>]</li>
 
-<li><a href="/assets/article/2017/TKDD2014_motif.pdf">Efficiently Estimating Motif Statistics of Large Networks</a>.<br />
+<li><a href="/assets/blog/2017/TKDD2014_motif.pdf">Efficiently Estimating Motif Statistics of Large Networks</a>.<br />
 P. Wang, J. Lui, B. Ribeiro, D. Towsley, J. Zhao, and X. G.<br />
 ACM Transactions on Knowledge Discovery form Data (TKDD), 2014.<br />
 [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>]</li>
 
-<li><a href="/assets/article/2017/CrowdRec2013.pdf">On Analyzing Estimation Errors due to Constrained Connections in Online Review Systems</a>.<br />
+<li><a href="/assets/blog/2017/CrowdRec2013.pdf">On Analyzing Estimation Errors due to Constrained Connections in Online Review Systems</a>.<br />
 J. Zhao, X. G, and J. Tao.<br />
 In the Workshop on Crowdsourcing and Human Computation for Recommender Systems (CrowdRec,
 co-located with RecSys), 2013.<br />
 [<a href="http://arxiv.org/abs/1307.3687">arXiv</a>]</li>
 
-<li><a href="/assets/article/2017/ICDE2013.pdf">Sampling Node Pairs Over Large Graphs</a>.<br />
+<li><a href="/assets/blog/2017/ICDE2013.pdf">Sampling Node Pairs Over Large Graphs</a>.<br />
 P. Wang, J. Zhao, J. Lui, D. Towsley, and X. G.<br />
 In proceedings of the 29th International Conference on Data Engineering (ICDE), 2013.</li>
 
-<li><a href="/assets/article/2017/NetSciCom2011.pdf">Empirical Analysis of the Evolution of Follower Network: A Case Study on Douban</a>.<br />
+<li><a href="/assets/blog/2017/NetSciCom2011.pdf">Empirical Analysis of the Evolution of Follower Network: A Case Study on Douban</a>.<br />
 J. Zhao, J. Lui, D. Towsley, X. G, and Y. Z.<br />
 In the 3rd International Workshop on Network Science for Communication Networks (NetSciCom,
 co-located with INFOCOM), 2011.</li>
 
-<li><a href="/assets/article/2017/WebSci2010.pdf">A Peep at Pornography Web in China</a>.<br />
+<li><a href="/assets/blog/2017/WebSci2010.pdf">A Peep at Pornography Web in China</a>.<br />
 Z. Wu, L. Jiang, Z. Tian, J. Liu, and J. Zhao.<br />
 In the 2nd Web Science Conference (WebSci, co-located with WWW), 2010.<br />
 [<a href="http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs">Media Coverage</a>]</li>
@@ -141,11 +141,11 @@ In the 2nd Web Science Conference (WebSci, co-located with WWW), 2010.<br />
 </section>
 ]]></description>
       <pubDate>2017-09-07</pubDate>
-      <guid>https://junzhouzhao.github.io/article/2017/</guid>
+      <guid>https://junzhouzhao.github.io/blog/2017/</guid>
     </item>
     <item>
       <title>Untitled</title>
-      <link>https://junzhouzhao.github.io/article/2017/</link>
+      <link>https://junzhouzhao.github.io/blog/2017/</link>
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
 <li>J. Zhao, P. Wang, J. Lui, and D. Towsley.
@@ -177,7 +177,7 @@ Observations", 2017.
 </section>
 ]]></description>
       <pubDate>2017-09-07</pubDate>
-      <guid>https://junzhouzhao.github.io/article/2017/</guid>
+      <guid>https://junzhouzhao.github.io/blog/2017/</guid>
     </item>
     <item>
       <title>C++17 Library</title>
