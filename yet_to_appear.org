@@ -1,26 +1,25 @@
 # -*- fill-column: 100; -*-
 
-- J. Zhao, P. Wang, J. Lui, and D. Towsley.
-  "Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams", 2017.
+- "[[#][Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams]]".\\
+  J. Zhao, P. Wang, J. Lui, and D. Towsley.
   [[[https://arxiv.org/abs/1708.09089][arXiv]]]
 
-- J. Zhao, P. Wang, and J. Lui.
-  "Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and
-  Observations", 2017.
+- "[[#][Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations]]".\\
+  J. Zhao, P. Wang, and J. Lui.
   [[[https://arxiv.org/abs/1703.04307][arXiv]]]
 
-- J. Zhao, P. Wang, J. Lui, and D. Towsley.
-  "Sampling Online Social Networks by Random Walk with Indirect Jumps", 2017.
+- "[[#][Sampling Online Social Networks by Random Walk with Indirect Jumps]]". \\
+  J. Zhao, P. Wang, J. Lui, and D. Towsley.
   [[[https://arxiv.org/abs/1708.09081][arXiv]]]
 
-- J. Zhao, P. Wang, and J. Lui.
-  "Towards Efficient Node Discoverability Optimization in Large Networks", 2017.
+- "[[#][Towards Efficient Node Discoverability Optimization in Large Networks]]". \\
+  J. Zhao, P. Wang, and J. Lui.
   [[[https://arxiv.org/abs/1703.04307][arXiv]]]
 
-- P. Wang, Jing Tao, and J. Zhao.
-  "Moss: A Scalable Tool for Efficiently Sampling and Counting 4- and 5-Node Graphlets", 2016.
+- "[[#][Moss: A Scalable Tool for Efficiently Sampling and Counting 4- and 5-Node Graphlets]]". \\
+  P. Wang, Jing Tao, and J. Zhao.
   [[[http://arxiv.org/abs/1509.08089][arXiv]]]
 
-- J. Zhao and J. Lui.
-  "Inferring Inhibitory and Excitatory Relations from Time-evolving Event Sequences", 2016.
+- "[[#][Inferring Inhibitory and Excitatory Relations from Time-evolving Event Sequences]]". \\
+  J. Zhao and J. Lui.
   [[[http://arxiv.org/abs/][arXiv]]]

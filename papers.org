@@ -1,16 +1,15 @@
 # -*- fill-column: 100; -*-
 
-- Inferring Higher-Order Structure Statistics of Large Networks From Sampled Edges.\\
+- [[#][Inferring Higher-Order Structure Statistics of Large Networks From Sampled Edges]].\\
   P. Wang, Y. Qi, J. Lui, D. Towsley, J. Zhao, J. Tao.\\
   IEEE Transactions on Knowledge and Data Engineering (TKDE), 2017.
 
-- Modeling the Assimilation-Contrast Effects in Online Product Rating Systems: Debiasing and
-  Recommendations.\\
+- [[#][Modeling the Assimilation-Contrast Effects in Online Product Rating Systems: Debiasing and Recommendations]].\\
   X. Zhang, J. Zhao, and J. Lui.\\
   In proceedings of ACM RecSys, 2017.\\
   [Awarded Best Paper]
 
-- I/O-Efficient Calculation of Group Closeness Centrality over Disk-Resident Graphs.\\
+- [[#][I/O-Efficient Calculation of Group Closeness Centrality over Disk-Resident Graphs]].\\
   J. Zhao, J. Lui, D. Towsley, P. Wang, and X. G.\\
   Information Sciences, 2017.
   # [[[https://github.com/zzjjzzgggg/gc][code]]]
