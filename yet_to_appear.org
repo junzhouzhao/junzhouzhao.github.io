@@ -18,11 +18,3 @@
   *J. Zhao*, P. Wang, J. Lui, and D. Towsley.\\
   /under review/, 2017.
   [[[https://arxiv.org/abs/1708.09081][arXiv]]]
-
-- "Towards Efficient Node Discoverability Optimization in Large Networks". \\
-  *J. Zhao*, P. Wang, and J. Lui.
-  [[[https://arxiv.org/abs/1703.04307][arXiv]]]
-
-- "Inferring Inhibitory and Excitatory Relations from Time-evolving Event Sequences". \\
-  *J. Zhao* and J. Lui.
-  [[[http://arxiv.org/abs/][arXiv]]]
