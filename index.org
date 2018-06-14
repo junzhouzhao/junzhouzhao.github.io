@@ -33,8 +33,3 @@
 ** Papers
 
   #+INCLUDE: "~/git_project/junzhouzhao.github.io/papers.org"
-
-
-# ** ArXiv Updates
-
-   # #+INCLUDE: "~/git_project/junzhouzhao.github.io/arxiv.org"

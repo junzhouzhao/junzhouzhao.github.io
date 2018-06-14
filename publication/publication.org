@@ -16,6 +16,6 @@
   #+INCLUDE: "~/git_project/junzhouzhao.github.io/papers.org"
 
 
-# ** ArXiv Updates
+** Technical Report
 
-   # #+INCLUDE: "~/git_project/junzhouzhao.github.io/arxiv.org"
+   #+INCLUDE: "~/git_project/junzhouzhao.github.io/arxiv.org"
