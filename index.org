@@ -21,19 +21,20 @@
   network data analysis, large-scale graph measurement/mining/optimization, recommendation system,
   streaming algorithms
 
+
 * Publications
 
   [[[https://scholar.google.com/citations?hl=en&user=hBLT754AAAAJ&view_op=list_works&sortby=pubdate][Google Scholar]]] [[[http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou][DBLP]]]
 
 ** Yet to Appear
 
-  #+INCLUDE: "~/git_project/junzhouzhao.github.io/yet_to_appear.org"
+  #+INCLUDE: "~/git_project/junzhouzhao.github.io/publication/yet_to_appear.org"
 
 ** Papers
 
-  #+INCLUDE: "~/git_project/junzhouzhao.github.io/papers.org"
+  #+INCLUDE: "~/git_project/junzhouzhao.github.io/publication/papers.org"
 
 
 # ** ArXiv Updates
 
-   # #+INCLUDE: "~/git_project/junzhouzhao.github.io/arxiv.org"
+   # #+INCLUDE: "~/git_project/junzhouzhao.github.io/publication/arxiv.org"
