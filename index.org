@@ -34,11 +34,6 @@
   #+INCLUDE: "~/git_project/junzhouzhao.github.io/papers.org"
 
 
-* Awards
-  - Best Paper Award, RecSys 2017
-  - Featured Article, IEEE Internet Computing, 2014
-  - Best Paper Award, SIMPLEX Workshop (co-located with WWW), 2014
-
 # ** ArXiv Updates
 
    # #+INCLUDE: "~/git_project/junzhouzhao.github.io/arxiv.org"
