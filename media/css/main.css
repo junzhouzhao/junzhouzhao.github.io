@@ -19,7 +19,7 @@ a {
 
 .container {
   display: block;
-  margin: 2em;
+  margin: 3em;
 }
 
 .container h1 {
@@ -41,7 +41,7 @@ menu {
 }
 
 section {
-  margin-right: 200px;
+  margin-right: 250px;
 }
 
 footer {
