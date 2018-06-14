@@ -1,25 +1,28 @@
 # -*- fill-column: 100; -*-
 
+- "Tracking Influential Nodes in Time-Decaying Dynamic Interaction Networks".\\
+  *J. Zhao*, X. Zhang, S. Shang, P. Wang, and J. Lui.\\
+  /under review/, 2018.
+
 - "Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams".\\
-  J. Zhao, P. Wang, J. Lui, and D. Towsley.
+  *J. Zhao*, P. Wang, J. Lui, and D. Towsley.\\
+  /under review/, 2017.
   [[[https://arxiv.org/abs/1708.09089][arXiv]]]
 
 - "Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations".\\
-  J. Zhao, P. Wang, and J. Lui.
+  *J. Zhao*, P. Wang, and J. Lui.\\
+  /under review/, 2017.
   [[[https://arxiv.org/abs/1703.04307][arXiv]]]
 
 - "Sampling Online Social Networks by Random Walk with Indirect Jumps". \\
-  J. Zhao, P. Wang, J. Lui, and D. Towsley.
+  *J. Zhao*, P. Wang, J. Lui, and D. Towsley.\\
+  /under review/, 2017.
   [[[https://arxiv.org/abs/1708.09081][arXiv]]]
 
 - "Towards Efficient Node Discoverability Optimization in Large Networks". \\
-  J. Zhao, P. Wang, and J. Lui.
+  *J. Zhao*, P. Wang, and J. Lui.
   [[[https://arxiv.org/abs/1703.04307][arXiv]]]
 
-- "Moss: A Scalable Tool for Efficiently Sampling and Counting 4- and 5-Node Graphlets". \\
-  P. Wang, Jing Tao, and J. Zhao.
-  [[[http://arxiv.org/abs/1509.08089][arXiv]]]
-
 - "Inferring Inhibitory and Excitatory Relations from Time-evolving Event Sequences". \\
-  J. Zhao and J. Lui.
+  *J. Zhao* and J. Lui.
   [[[http://arxiv.org/abs/][arXiv]]]

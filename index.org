@@ -2,23 +2,28 @@
 #+TITLE: Welcome
 #+OPTIONS: toc:nil num:nil
 
-* About
-  Junzhou Zhao received the Ph.D. degree in Control Science and Engineering from Xi’an Jiaotong
-  University, supervised by Prof. Xiaohong Guan. He was a postdoctoral researcher at the Department
-  of Computer Science and Engineering, The Chinese University of Hong Kong, working with Prof. John
-  C.S. Lui. His research interests include large-scale graph/network measurement, mining, and
-  optimization, with a particular interest in online social networks, a.k.a. the network science.
+
+* Biography
+  Junzhou Zhao is a postdoctoral researcher at the Department of Computer Electronical and
+  Mathematical Sciences & Engineering (CEMSE), [[https://www.kaust.edu.sa/][King Abdullah University of Science and Technology]]
+  (KAUST). He was a postdoctoral researcher at the Department of Computer Science & Engineering, [[http://www.cse.cuhk.edu.hk/en/][The
+  Chinese University of Hong Kong]] (CUHK). Junzhou Zhao received B.S. degree in Automation Science &
+  Technology and Ph.D. degree in Control Science and Engineering both from [[http://en.xjtu.edu.cn/][Xi’an Jiaotong
+  University]] (XJTU). His research interests manly focus on large-scale graph/network measurement,
+  mining, and optimization, with a particular interest in online social network applications (a.k.a.
+  the [[https://en.wikipedia.org/wiki/Network_science][network science]]).
 
   [[./img/news.gif]] I am available on the job market, and interested in becoming a research scientist,
   data scientist, or software engineer. My CV is available upon request.
 
 * Research
 
-  network data analysis, large-scale graph measurement/mining/optimization, streaming algorithms
+  network data analysis, large-scale graph measurement/mining/optimization, recommendation system,
+  streaming algorithms
 
 * Publications
 
-[[[https://scholar.google.com/citations?hl=en&user=hBLT754AAAAJ&view_op=list_works&sortby=pubdate][Google Scholar]]] [[[http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou][DBLP]]]
+  [[[https://scholar.google.com/citations?hl=en&user=hBLT754AAAAJ&view_op=list_works&sortby=pubdate][Google Scholar]]] [[[http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou][DBLP]]]
 
 ** Yet to Appear
 
@@ -28,6 +33,7 @@
 
   #+INCLUDE: "~/git_project/junzhouzhao.github.io/papers.org"
 
-** ArXiv Updates
 
-   #+INCLUDE: "~/git_project/junzhouzhao.github.io/arxiv.org"
+# ** ArXiv Updates
+
+   # #+INCLUDE: "~/git_project/junzhouzhao.github.io/arxiv.org"
