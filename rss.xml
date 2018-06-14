@@ -4,140 +4,168 @@
     <title>Junzhou Zhao - 赵俊舟</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Wed, 22 Nov 2017 11:35:42 HKT</pubDate>
-    <lastBuildDate>Wed, 22 Nov 2017 11:35:42 HKT</lastBuildDate>
+    <pubDate>Thu, 14 Jun 2018 17:58:33 +03</pubDate>
+    <lastBuildDate>Thu, 14 Jun 2018 17:58:33 +03</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
+      <title>Awards</title>
+      <link>https://junzhouzhao.github.io/blog/2018/</link>
+      <description><![CDATA[<section id="content">
+    
+<div id="outline-container-orgd347ab5" class="outline-2">
+<h2 id="orgd347ab5">Selected Awards</h2>
+<div class="outline-text-2" id="text-orgd347ab5">
+<ul class="org-ul">
+<li>Best Paper Award, RecSys 2017</li>
+<li>Featured Article, IEEE Internet Computing, 2014</li>
+<li>Best Paper Award, SIMPLEX Workshop (co-located with WWW), 2014</li>
+</ul>
+</div>
+</div>
+
+</section>
+]]></description>
+      <pubDate>2018-06-14</pubDate>
+      <guid>https://junzhouzhao.github.io/blog/2018/</guid>
+    </item>
+    <item>
       <title>Untitled</title>
-      <link>https://junzhouzhao.github.io/blog/2017/</link>
+      <link>https://junzhouzhao.github.io/blog/2018/</link>
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
+<li>MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs.<br />
+P. Wang, <b>J. Zhao</b>, X. Zhang, Z. Li, J. Cheng, J. Lui, D. Towsley, J. Tao, and X. Guan.<br />
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018.</li>
+
 <li>Inferring Higher-Order Structure Statistics of Large Networks From Sampled Edges.<br />
-P. Wang, Y. Qi, J. Lui, D. Towsley, J. Zhao, J. Tao.<br />
+P. Wang, Y. Qi, J. Lui, D. Towsley, <b>J. Zhao</b>, J. Tao.<br />
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 2017.</li>
 
 <li>Modeling the Assimilation-Contrast Effects in Online Product Rating Systems: Debiasing and
 Recommendations.<br />
-X. Zhang, J. Zhao, and J. Lui.<br />
+X. Zhang, <b>J. Zhao</b>, and J. Lui.<br />
 In proceedings of ACM RecSys, 2017.<br />
 [Awarded Best Paper]</li>
 
 <li>I/O-Efficient Calculation of Group Closeness Centrality over Disk-Resident Graphs.<br />
-J. Zhao, J. Lui, D. Towsley, P. Wang, and X. G.<br />
+<b>J. Zhao</b>, J. Lui, D. Towsley, P. Wang, and X. G.<br />
 Information Sciences, 2017.</li>
 
 <li><a href="http://ieeexplore.ieee.org/abstract/document/7498312/">Minfer: A Method of Inferring Motif Statistics from Sampled Edges</a>.<br />
-P. Wang, J. Lui, D. Towsley, and J. Zhao.<br />
+P. Wang, J. Lui, D. Towsley, and <b>J. Zhao</b>.<br />
 In proceedings of the 32nd IEEE International Conference on Data Engineering (ICDE), 2016.</li>
 
 <li><a href="http://www.ir.xjtu.edu.cn/item/ir/292498">Structure Measurement and Behavior Monitoring for Complex Online Social Networks</a>.<br />
-J. Zhao.<br />
+<b>J. Zhao</b>.<br />
 Ph.D. thesis, Xi'an Jiaotong University, 2015.</li>
 
-<li><a href="/assets/blog/2017/COSN2015.pdf">Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams</a>.<br />
-J. Zhao, J. Lui, D. Towsley, P. Wang, and X. G.<br />
+<li><a href="/assets/blog/2018/COSN2015.pdf">Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams</a>.<br />
+<b>J. Zhao</b>, J. Lui, D. Towsley, P. Wang, and X. G.<br />
 In proceedings of the ACM Conference on Online Social Networks (COSN), 2015.<br />
 [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</li>
 
-<li><a href="/assets/blog/2017/ICDE2015.pdf">A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation Networks</a>.<br />
-J. Zhao, J. Lui, D. Towsley, P. Wang, and X. G.<br />
+<li><a href="/assets/blog/2018/ICDE2015.pdf">A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation Networks</a>.<br />
+<b>J. Zhao</b>, J. Lui, D. Towsley, P. Wang, and X. G.<br />
 In proceedings of the 31st IEEE International Conference on Data Engineering (ICDE), 2015.<br />
 [<a href="http://arxiv.org/abs/1405.5097">arXiv</a> (old version)]</li>
 
 <li><a href="http://ieeexplore.ieee.org/document/6775257/">A New Sketch Method for Measuring Host Connection Degree Distribution</a>.<br />
-P. Wang, X. Guang, J. Zhao, J. Tao, and T. Qin.<br />
+P. Wang, X. Guang, <b>J. Zhao</b>, J. Tao, and T. Qin.<br />
 IEEE Transactions on Information Forensics and Security, 9(6), 2014.</li>
 
-<li><a href="/assets/blog/2017/SIMPLEX2014.pdf">Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs</a>.<br />
-J. Zhao, J. Lui, D. Towsley, and X. G.<br />
+<li><a href="/assets/blog/2018/SIMPLEX2014.pdf">Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs</a>.<br />
+<b>J. Zhao</b>, J. Lui, D. Towsley, and X. G.<br />
 In proceedings of the 6th Annual Workshop on Simplifying Complex Networks for Practitioners
 (SIMPLEX, co-located with WWW), 2014.<br />
 [Awarded Best Paper]</li>
 
-<li><a href="/assets/blog/2017/COMNET2014.pdf">WTF: Efficient Followee Selection for Cascading Outbreak Detection on Online Social Networks</a>.<br />
-J. Zhao, J. Lui, D. Towsley, and X. G.<br />
+<li><a href="/assets/blog/2018/COMNET2014.pdf">WTF: Efficient Followee Selection for Cascading Outbreak Detection on Online Social Networks</a>.<br />
+<b>J. Zhao</b>, J. Lui, D. Towsley, and X. G.<br />
 Computer Networks, Special Issue on Online Social Networks, 2014.</li>
 
-<li><a href="/assets/blog/2017/TKDD2014_node_pair.pdf">Unbiased Characterization of Node Pairs over Large Graphs</a>.<br />
-P. Wang, J. Zhao, J. Lui, D. Towsley, and X. G.<br />
+<li><a href="/assets/blog/2018/TKDD2014_node_pair.pdf">Unbiased Characterization of Node Pairs over Large Graphs</a>.<br />
+P. Wang, <b>J. Zhao</b>, J. Lui, D. Towsley, and X. G.<br />
 ACM Transactions on Knowledge Discovery from Data (TKDD), 2014.</li>
 
-<li><a href="/assets/blog/2017/IC2014.pdf">A Tale of Three Social Networks: User Activity Comparations across Facebook, Twitter, and
+<li><a href="/assets/blog/2018/IC2014.pdf">A Tale of Three Social Networks: User Activity Comparations across Facebook, Twitter, and
 Foursquare</a>.<br />
-P. Wang, W. He, and J. Zhao.<br />
+P. Wang, W. He, and <b>J. Zhao</b>.<br />
 IEEE Internet Computing, 2014.<br />
 [<a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks">Featured Article by STCSN</a>]</li>
 
-<li><a href="/assets/blog/2017/TKDD2014_motif.pdf">Efficiently Estimating Motif Statistics of Large Networks</a>.<br />
-P. Wang, J. Lui, B. Ribeiro, D. Towsley, J. Zhao, and X. G.<br />
+<li><a href="/assets/blog/2018/TKDD2014_motif.pdf">Efficiently Estimating Motif Statistics of Large Networks</a>.<br />
+P. Wang, J. Lui, B. Ribeiro, D. Towsley, <b>J. Zhao</b>, and X. G.<br />
 ACM Transactions on Knowledge Discovery form Data (TKDD), 2014.<br />
 [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>]</li>
 
-<li><a href="/assets/blog/2017/CrowdRec2013.pdf">On Analyzing Estimation Errors due to Constrained Connections in Online Review Systems</a>.<br />
-J. Zhao, X. G, and J. Tao.<br />
+<li><a href="/assets/blog/2018/CrowdRec2013.pdf">On Analyzing Estimation Errors due to Constrained Connections in Online Review Systems</a>.<br />
+<b>J. Zhao</b>, X. G, and J. Tao.<br />
 In the Workshop on Crowdsourcing and Human Computation for Recommender Systems (CrowdRec,
 co-located with RecSys), 2013.<br />
 [<a href="http://arxiv.org/abs/1307.3687">arXiv</a>]</li>
 
-<li><a href="/assets/blog/2017/ICDE2013.pdf">Sampling Node Pairs Over Large Graphs</a>.<br />
-P. Wang, J. Zhao, J. Lui, D. Towsley, and X. G.<br />
+<li><a href="/assets/blog/2018/ICDE2013.pdf">Sampling Node Pairs Over Large Graphs</a>.<br />
+P. Wang, <b>J. Zhao</b>, J. Lui, D. Towsley, and X. G.<br />
 In proceedings of the 29th International Conference on Data Engineering (ICDE), 2013.</li>
 
-<li><a href="/assets/blog/2017/NetSciCom2011.pdf">Empirical Analysis of the Evolution of Follower Network: A Case Study on Douban</a>.<br />
-J. Zhao, J. Lui, D. Towsley, X. G, and Y. Z.<br />
+<li><a href="/assets/blog/2018/NetSciCom2011.pdf">Empirical Analysis of the Evolution of Follower Network: A Case Study on Douban</a>.<br />
+<b>J. Zhao</b>, J. Lui, D. Towsley, X. G, and Y. Z.<br />
 In the 3rd International Workshop on Network Science for Communication Networks (NetSciCom,
 co-located with INFOCOM), 2011.</li>
 
-<li><a href="/assets/blog/2017/WebSci2010.pdf">A Peep at Pornography Web in China</a>.<br />
-Z. Wu, L. Jiang, Z. Tian, J. Liu, and J. Zhao.<br />
+<li><a href="/assets/blog/2018/WebSci2010.pdf">A Peep at Pornography Web in China</a>.<br />
+Z. Wu, L. Jiang, Z. Tian, J. Liu, and <b>J. Zhao</b>.<br />
 In the 2nd Web Science Conference (WebSci, co-located with WWW), 2010.<br />
 [<a href="http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs">Media Coverage</a>]</li>
 </ul>
 
 </section>
 ]]></description>
-      <pubDate>2017-11-22</pubDate>
-      <guid>https://junzhouzhao.github.io/blog/2017/</guid>
+      <pubDate>2018-06-14</pubDate>
+      <guid>https://junzhouzhao.github.io/blog/2018/</guid>
     </item>
     <item>
       <title>Untitled</title>
-      <link>https://junzhouzhao.github.io/blog/2017/</link>
+      <link>https://junzhouzhao.github.io/blog/2018/</link>
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
+<li>"Tracking Influential Nodes in Time-Decaying Dynamic Interaction Networks".<br />
+<b>J. Zhao</b>, X. Zhang, S. Shang, P. Wang, and J. Lui.<br />
+<i>under review</i>, 2018.</li>
+
 <li>"Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams".<br />
-J. Zhao, P. Wang, J. Lui, and D. Towsley.
+<b>J. Zhao</b>, P. Wang, J. Lui, and D. Towsley.<br />
+<i>under review</i>, 2017.
 [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
 
 <li>"Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations".<br />
-J. Zhao, P. Wang, and J. Lui.
+<b>J. Zhao</b>, P. Wang, and J. Lui.<br />
+<i>under review</i>, 2017.
 [<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
 
 <li>"Sampling Online Social Networks by Random Walk with Indirect Jumps". <br />
-J. Zhao, P. Wang, J. Lui, and D. Towsley.
+<b>J. Zhao</b>, P. Wang, J. Lui, and D. Towsley.<br />
+<i>under review</i>, 2017.
 [<a href="https://arxiv.org/abs/1708.09081">arXiv</a>]</li>
 
 <li>"Towards Efficient Node Discoverability Optimization in Large Networks". <br />
-J. Zhao, P. Wang, and J. Lui.
+<b>J. Zhao</b>, P. Wang, and J. Lui.
 [<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
 
-<li>"Moss: A Scalable Tool for Efficiently Sampling and Counting 4- and 5-Node Graphlets". <br />
-P. Wang, Jing Tao, and J. Zhao.
-[<a href="http://arxiv.org/abs/1509.08089">arXiv</a>]</li>
-
 <li>"Inferring Inhibitory and Excitatory Relations from Time-evolving Event Sequences". <br />
-J. Zhao and J. Lui.
+<b>J. Zhao</b> and J. Lui.
 [<a href="http://arxiv.org/abs/">arXiv</a>]</li>
 </ul>
 
 </section>
 ]]></description>
-      <pubDate>2017-11-22</pubDate>
-      <guid>https://junzhouzhao.github.io/blog/2017/</guid>
+      <pubDate>2018-06-14</pubDate>
+      <guid>https://junzhouzhao.github.io/blog/2018/</guid>
     </item>
     <item>
       <title>Untitled</title>
-      <link>https://junzhouzhao.github.io/blog/2017/</link>
+      <link>https://junzhouzhao.github.io/blog/2018/</link>
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
 <li>Practical Characterization of Large Networks Using Neighborhood Information.<br />
@@ -176,7 +204,7 @@ Online Social Networks" is accepted by Computer Networks 2014.</li>
 </section>
 ]]></description>
       <pubDate>2017-09-07</pubDate>
-      <guid>https://junzhouzhao.github.io/blog/2017/</guid>
+      <guid>https://junzhouzhao.github.io/blog/2018/</guid>
     </item>
     <item>
       <title>C++17 Library</title>
