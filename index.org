@@ -16,7 +16,7 @@
   [[./img/news.gif]] I am available on the job market, and interested in becoming a research scientist,
   data scientist, or software engineer. My CV is available upon request.
 
-* Research
+* Research Interests
 
   network data analysis, large-scale graph measurement/mining/optimization, recommendation system,
   streaming algorithms
