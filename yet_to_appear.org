@@ -4,11 +4,6 @@
   *J. Zhao*, X. Zhang, S. Shang, P. Wang, and J. Lui.\\
   /under review/, 2018.
 
-- "Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams".\\
-  *J. Zhao*, P. Wang, J. Lui, and D. Towsley.\\
-  /under review/, 2017.
-  [[[https://arxiv.org/abs/1708.09089][arXiv]]]
-
 - "Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations".\\
   *J. Zhao*, P. Wang, and J. Lui.\\
   /under review/, 2017.
@@ -18,3 +13,8 @@
   *J. Zhao*, P. Wang, J. Lui, and D. Towsley.\\
   /under review/, 2017.
   [[[https://arxiv.org/abs/1708.09081][arXiv]]]
+
+- "Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams".\\
+  *J. Zhao*, P. Wang, J. Lui, and D. Towsley.\\
+  /under review/, 2017.
+  [[[https://arxiv.org/abs/1708.09089][arXiv]]]
