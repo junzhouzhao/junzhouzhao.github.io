@@ -9,13 +9,13 @@
 
 ** Yet to Appear
 
-  #+INCLUDE: "~/git_project/junzhouzhao.github.io/publication/yet_to_appear.org"
+  #+INCLUDE: "~/git_project/junzhouzhao.github.io/yet_to_appear.org"
 
 ** Papers
 
-  #+INCLUDE: "~/git_project/junzhouzhao.github.io/publication/papers.org"
+  #+INCLUDE: "~/git_project/junzhouzhao.github.io/papers.org"
 
 
 # ** ArXiv Updates
 
-   # #+INCLUDE: "~/git_project/junzhouzhao.github.io/publication/arxiv.org"
+   # #+INCLUDE: "~/git_project/junzhouzhao.github.io/arxiv.org"
