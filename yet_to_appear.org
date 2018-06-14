@@ -1,20 +1,20 @@
 # -*- fill-column: 100; -*-
 
-- "Tracking Influential Nodes in Time-Decaying Dynamic Interaction Networks".\\
+- Tracking Influential Nodes in Time-Decaying Dynamic Interaction Networks.\\
   *J. Zhao*, X. Zhang, S. Shang, P. Wang, and J. Lui.\\
   /under review/, 2018.
 
-- "Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations".\\
+- Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations.\\
   *J. Zhao*, P. Wang, and J. Lui.\\
   /under review/, 2017.
   [[[https://arxiv.org/abs/1703.04307][arXiv]]]
 
-- "Sampling Online Social Networks by Random Walk with Indirect Jumps". \\
+- Sampling Online Social Networks by Random Walk with Indirect Jumps. \\
   *J. Zhao*, P. Wang, J. Lui, and D. Towsley.\\
   /under review/, 2017.
   [[[https://arxiv.org/abs/1708.09081][arXiv]]]
 
-- "Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams".\\
+- Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams.\\
   *J. Zhao*, P. Wang, J. Lui, and D. Towsley.\\
   /under review/, 2017.
   [[[https://arxiv.org/abs/1708.09089][arXiv]]]
