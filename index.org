@@ -4,17 +4,20 @@
 
 
 * Biography
-  Junzhou Zhao is a postdoctoral researcher at the Department of Computer Electronical and
-  Mathematical Sciences & Engineering (CEMSE), [[https://www.kaust.edu.sa/][King Abdullah University of Science and Technology]]
-  (KAUST). He was a postdoctoral researcher at the Department of Computer Science & Engineering, [[http://www.cse.cuhk.edu.hk/en/][The
-  Chinese University of Hong Kong]] (CUHK). He received the B.S. degree in Automation Science &
-  Technology and Ph.D. degree in Control Science and Engineering, both from [[http://en.xjtu.edu.cn/][Xi’an Jiaotong
-  University]] (XJTU). His research interests manly focus on large-scale graph/network measurement,
-  mining, and optimization, with a particular interest in online social network applications (a.k.a.
-  the [[https://en.wikipedia.org/wiki/Network_science][network science]]).
+  Junzhou Zhao is a postdoctoral researcher at the Department of Computer
+  Electronical and Mathematical Sciences & Engineering (CEMSE), [[https://www.kaust.edu.sa/][King Abdullah
+  University of Science and Technology]] (KAUST). He was a postdoctoral researcher
+  at the Department of Computer Science & Engineering, [[http://www.cse.cuhk.edu.hk/en/][The Chinese University of
+  Hong Kong]] (CUHK). He received a B.S. degree in Automation Science & Technology
+  and a Ph.D. degree in Control Science & Engineering, both from [[http://en.xjtu.edu.cn/][Xi’an Jiaotong
+  University]] (XJTU). His research interests focus on large-scale graph/network
+  measurement, mining, and optimization, with a particular interest in online
+  social network applications (a.k.a. the [[https://en.wikipedia.org/wiki/Network_science][network science]]).
 
-  [[./img/news.gif]] I am available on the job market, and interested in becoming a research scientist,
-  data scientist, or software engineer. My CV is available upon request.
+  [[./img/news.gif]] I am available on the job market, and interested in becoming a
+  research scientist, data scientist, or software engineer. My CV is available
+  upon request.
+
 
 * Research Interests
 
