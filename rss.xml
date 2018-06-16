@@ -4,8 +4,8 @@
     <title>Junzhou Zhao - 赵俊舟</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Fri, 15 Jun 2018 10:01:39 +03</pubDate>
-    <lastBuildDate>Fri, 15 Jun 2018 10:01:39 +03</lastBuildDate>
+    <pubDate>Sat, 16 Jun 2018 16:11:32 +03</pubDate>
+    <lastBuildDate>Sat, 16 Jun 2018 16:11:32 +03</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -56,9 +56,9 @@ Online Social Networks" is accepted by Computer Networks 2014.</li>
       <link>https://junzhouzhao.github.io/awards/</link>
       <description><![CDATA[<section id="content">
     
-<div id="outline-container-orge90de8f" class="outline-2">
-<h2 id="orge90de8f">Awards</h2>
-<div class="outline-text-2" id="text-orge90de8f">
+<div id="outline-container-org7e950f6" class="outline-2">
+<h2 id="org7e950f6">Awards</h2>
+<div class="outline-text-2" id="text-org7e950f6">
 <ul class="org-ul">
 <li>Best Paper Award, RecSys 2017</li>
 <li>Featured Article, IEEE Internet Computing, 2014</li>
@@ -173,17 +173,17 @@ In the 2nd Web Science Conference (WebSci, co-located with WWW), 2010.<br />
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org63a69e1" class="outline-2">
-<h2 id="org63a69e1">Publications</h2>
-<div class="outline-text-2" id="text-org63a69e1">
+<div id="outline-container-org1a81c0f" class="outline-2">
+<h2 id="org1a81c0f">Publications</h2>
+<div class="outline-text-2" id="text-org1a81c0f">
 <p>
 [<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar</a>] [<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP</a>]
 </p>
 </div>
 
-<div id="outline-container-org443d0f0" class="outline-3">
-<h3 id="org443d0f0">Yet to Appear</h3>
-<div class="outline-text-3" id="text-org443d0f0">
+<div id="outline-container-org4d425a8" class="outline-3">
+<h3 id="org4d425a8">Yet to Appear</h3>
+<div class="outline-text-3" id="text-org4d425a8">
 <ul class="org-ul">
 <li>Tracking Influential Nodes in Time-Decaying Dynamic Interaction Networks.<br />
 <b>J. Zhao</b>, X. Zhang, S. Shang, P. Wang, and J. Lui.<br />
@@ -207,9 +207,9 @@ In the 2nd Web Science Conference (WebSci, co-located with WWW), 2010.<br />
 </div>
 </div>
 
-<div id="outline-container-org1ea65ba" class="outline-3">
-<h3 id="org1ea65ba">Papers</h3>
-<div class="outline-text-3" id="text-org1ea65ba">
+<div id="outline-container-org6755d22" class="outline-3">
+<h3 id="org6755d22">Papers</h3>
+<div class="outline-text-3" id="text-org6755d22">
 <ul class="org-ul">
 <li>MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs.<br />
 P. Wang, <b>J. Zhao</b>, X. Zhang, Z. Li, J. Cheng, J. Lui, D. Towsley, J. Tao, and X. Guan.<br />
@@ -299,9 +299,9 @@ In the 2nd Web Science Conference (WebSci, co-located with WWW), 2010.<br />
 </div>
 
 
-<div id="outline-container-org493531a" class="outline-3">
-<h3 id="org493531a">Technical Report</h3>
-<div class="outline-text-3" id="text-org493531a">
+<div id="outline-container-org26f678e" class="outline-3">
+<h3 id="org26f678e">Technical Report</h3>
+<div class="outline-text-3" id="text-org26f678e">
 <ul class="org-ul">
 <li>Practical Characterization of Large Networks Using Neighborhood Information.<br />
 <a href="https://arxiv.org/abs/1311.3037">arXiv:1311.3037</a> (2013).</li>
