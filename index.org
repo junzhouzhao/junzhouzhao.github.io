@@ -4,9 +4,10 @@
 
 
 * Biography
+
   Junzhou Zhao is a postdoctoral researcher at the Department of Computer Science, [[https://www.kaust.edu.sa/][King Abdullah
   University of Science and Technology]] (KAUST). He was a postdoctoral researcher at the Department
-  of Computer Science & Engineering, [[http://www.cse.cuhk.edu.hk/en/][The Chinese University of Hong Kong]] (CUHK). He received a Ph.D.
+  of Computer Science & Engineering, [[http://www.cse.cuhk.edu.hk/en/][The Chinese University of Hong Kong]] (CUHK). He holds a Ph.D.
   degree in Control Science & Engineering and a B.S. degree in Automation Science & Technology, both
   from [[http://en.xjtu.edu.cn/][Xi’an Jiaotong University]] (XJTU). His research interests focus on large-scale graph/network
   measurement, mining, and optimization, with a particular interest in online social network
