@@ -1,6 +1,4 @@
 # -*- fill-column: 100; -*-
 
-- Tracking Triadic Cardinality Distributions for Burst Detection in Multigraph Streams.\\
-  *J. Zhao*, P. Wang, J. Lui, and D. Towsley.\\
-  /under review/, 2017.
-  [[[https://arxiv.org/abs/1708.09089][arXiv]]]
+- *Junzhou Zhao*, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality
+  Distributions for Burst Detection in Multigraph Streams". /under review/, 2017. [[[https://arxiv.org/abs/1708.09089][arXiv]]]
