@@ -33,7 +33,7 @@
 
 - Xiaoying Zhang, *Junzhou Zhao*, and John C.S. Lui. "Modeling the Assimilation-Contrast Effects in
   Online Product Rating Systems: Debiasing and Recommendations". ACM RecSys, 2017.\\
-  [Awarded Best Paper]
+  [@@html:<font color = "red">@@Awarded Best Paper@@html:</font>@@]
 
 - *Junzhou Zhao*, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "I/O-Efficient
   Calculation of Group Closeness Centrality over Disk-Resident Graphs". Information Sciences, 2017.
@@ -51,8 +51,8 @@
   Measuring Host Connection Degree Distribution". IEEE TIFS, 2014.
 
 - *Junzhou Zhao*, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group
-  Closeness Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014. [Awarded Best
-  Paper]
+  Closeness Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014.\\
+  [@@html:<font color = "red">@@Awarded Best Paper@@html:</font>@@]
 
 - *Junzhou Zhao*, John C.S. Lui, Don Towsley, and Xiaohong Guan. "WTF: Efficient Followee Selection
   for Cascading Outbreak Detection on Online Social Networks". Computer Networks, Special Issue on
@@ -63,7 +63,7 @@
 
 - Pinghui Wang, Wenbo He, and *Junzhou Zhao*. "A Tale of Three Social Networks: User Activity
   Comparations across Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014.\\
-  [[[http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks][Featured Article by STCSN]]]
+  [@@html:<font color = "red">@@Featured Article@@html:</font>@@][[[http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks][link]]]
 
 - Pinghui Wang, John C.S. Lui, B. Ribeiro, Don Towsley, *Junzhou Zhao*, and Xiaohong Guan.
   "Efficiently Estimating Motif Statistics of Large Networks". ACM TKDD, 2014. [[[http://arxiv.org/abs/1306.5288][arXiv]]]

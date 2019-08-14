@@ -3,5 +3,12 @@
 
 * Contact
 
-  email: junzhouzhao AT gmail DOT com \\
-  wechat: [[file:img/wechat.jpeg][zzjjzzgggg]]
+  Rm 4413, Level 4, Bldg 1, KAUST,\\
+  Thuwal 23955, Makkah Province,\\
+  Kingdom of Saudi Arabia.
+
+  Email: junzhouzhao AT gmail DOT com \\
+  WeChat: zzjjzzgggg
+
+  #+attr_html: :width 180px
+  [[file:img/wechat-qr.jpg]]

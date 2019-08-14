@@ -26,6 +26,10 @@ a {
   font-size: 200%;
 }
 
+.container h2 {
+  font-size: 120%;
+}
+
 .subtit {
   margin-right: 10px;
   font-size: 80%;
@@ -57,5 +61,5 @@ footer a {
 }
 
 .org-ul li {
-	margin-bottom: 1em;
+	margin-bottom: 1ex;
 }
