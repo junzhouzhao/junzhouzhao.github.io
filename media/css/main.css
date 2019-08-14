@@ -9,7 +9,7 @@
 
 body {
   font-family: Verdana, Helvetica, Arial, "Microsoft YaHei", "Source Han Sans SC", sans-serif;
-  font-size: 12pt;
+  font-size: 14pt;
 }
 
 a {
@@ -24,6 +24,10 @@ a {
 
 .container h1 {
   font-size: 200%;
+}
+
+.container h2 {
+  font-size: 120%;
 }
 
 .subtit {
@@ -45,11 +49,11 @@ section {
 }
 
 footer {
-	clear: both;
-	display: block;
-	font-size: 80%;
-	color: gray;
-  padding: 20px 0 20px 20px;
+  clear: both;
+  display: block;
+  font-size: 80%;
+  color: gray;
+  padding: 20px 0 20px 0;
 }
 
 footer a {
@@ -57,5 +61,5 @@ footer a {
 }
 
 .org-ul li {
-	margin-bottom: 1em;
+	margin-bottom: 1ex;
 }
