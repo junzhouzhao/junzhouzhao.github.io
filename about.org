@@ -7,8 +7,7 @@
   Thuwal 23955, Makkah Province,\\
   Kingdom of Saudi Arabia.
 
-  Email: junzhouzhao AT gmail DOT com \\
-  WeChat: zzjjzzgggg
+  Email: junzhouzhao AT gmail DOT com
 
   #+attr_html: :width 180px
   [[file:img/wechat-qr.jpg]]
