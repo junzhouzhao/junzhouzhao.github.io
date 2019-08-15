@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Thu, 15 Aug 2019 22:04:02 CST</pubDate>
-    <lastBuildDate>Thu, 15 Aug 2019 22:04:02 CST</lastBuildDate>
+    <pubDate>Fri, 16 Aug 2019 07:58:22 CST</pubDate>
+    <lastBuildDate>Fri, 16 Aug 2019 07:58:22 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -51,13 +51,13 @@ Information Systems (KAIS), 2018.</li>
 Higher-Order Structure Statistics of Large Networks From Sampled Edges". IEEE Transactions on
 Knowledge and Data Engineering (TKDE), 2017.</li>
 
-<li>Xiaoying Zhang, <b>Junzhou Zhao</b>, and John C.S. Lui. "Modeling the Assimilation-Contrast Effects in
-Online Product Rating Systems: Debiasing and Recommendations". In Proceedings of the 11th ACM
-Conference on Recommendation Systems (RecSys), 2017.<br />
-[<font color = "red">Awarded Best Paper</font>]</li>
-
 <li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "I/O-Efficient
 Calculation of Group Closeness Centrality over Disk-Resident Graphs". Information Sciences, 2017.</li>
+
+<li>Xiaoying Zhang, <b>Junzhou Zhao</b>, and John C.S. Lui. "Modeling the Assimilation-Contrast Effects in
+Online Product Rating Systems: Debiasing and Recommendations". In Proceedings of the 11th ACM
+Conference on Recommendation Systems (RecSys), 2017.
+[<font color = "red">Awarded Best Paper</font>]</li>
 
 <li>Pinghui Wang, John C.S. Lui, Don Towsley, and <b>Junzhou Zhao</b>. "Minfer: A Method of Inferring Motif
 Statistics from Sampled Edges". In Proceedings of the 32nd IEEE International Conference on Data
@@ -76,7 +76,7 @@ Measuring Host Connection Degree Distribution". IEEE Transactions on Information
 Security (TIFS), 2014.</li>
 
 <li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group
-Closeness Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014.<br />
+Closeness Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014.
 [<font color = "red">Awarded Best Paper</font>]</li>
 
 <li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "WTF: Efficient Followee Selection
@@ -88,7 +88,7 @@ Characterization of Node Pairs over Large Graphs". ACM Transactions on Knowledge
 Data (TKDD), 2014.</li>
 
 <li>Pinghui Wang, Wenbo He, and <b>Junzhou Zhao</b>. "A Tale of Three Social Networks: User Activity
-Comparations across Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014.<br />
+Comparations across Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014.
 [<font color = "red">Featured Article</font>][<a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks">link</a>]</li>
 
 <li>Pinghui Wang, John C.S. Lui, B. Ribeiro, Don Towsley, <b>Junzhou Zhao</b>, and Xiaohong Guan.
@@ -111,7 +111,21 @@ China". In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="h
 
 </section>
 ]]></description>
-      <pubDate>2019-08-15</pubDate>
+      <pubDate>2019-08-16</pubDate>
+      <guid>https://junzhouzhao.github.io/blog/2019/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://junzhouzhao.github.io/blog/2019/</link>
+      <description><![CDATA[<section id="content">
+    <ul class="org-ul">
+<li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality
+Distributions for Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
+</ul>
+
+</section>
+]]></description>
+      <pubDate>2019-08-16</pubDate>
       <guid>https://junzhouzhao.github.io/blog/2019/</guid>
     </item>
     <item>
@@ -120,9 +134,9 @@ China". In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="h
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org214f03f" class="outline-2">
-<h2 id="org214f03f">Publications</h2>
-<div class="outline-text-2" id="text-org214f03f">
+<div id="outline-container-org8fbdf25" class="outline-2">
+<h2 id="org8fbdf25">Publications</h2>
+<div class="outline-text-2" id="text-org8fbdf25">
 <p>
 [<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar</a>] [<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP</a>]
 </p>
@@ -166,13 +180,13 @@ Information Systems (KAIS), 2018.</li>
 Higher-Order Structure Statistics of Large Networks From Sampled Edges". IEEE Transactions on
 Knowledge and Data Engineering (TKDE), 2017.</li>
 
-<li>Xiaoying Zhang, <b>Junzhou Zhao</b>, and John C.S. Lui. "Modeling the Assimilation-Contrast Effects in
-Online Product Rating Systems: Debiasing and Recommendations". In Proceedings of the 11th ACM
-Conference on Recommendation Systems (RecSys), 2017.<br />
-[<font color = "red">Awarded Best Paper</font>]</li>
-
 <li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "I/O-Efficient
 Calculation of Group Closeness Centrality over Disk-Resident Graphs". Information Sciences, 2017.</li>
+
+<li>Xiaoying Zhang, <b>Junzhou Zhao</b>, and John C.S. Lui. "Modeling the Assimilation-Contrast Effects in
+Online Product Rating Systems: Debiasing and Recommendations". In Proceedings of the 11th ACM
+Conference on Recommendation Systems (RecSys), 2017.
+[<font color = "red">Awarded Best Paper</font>]</li>
 
 <li>Pinghui Wang, John C.S. Lui, Don Towsley, and <b>Junzhou Zhao</b>. "Minfer: A Method of Inferring Motif
 Statistics from Sampled Edges". In Proceedings of the 32nd IEEE International Conference on Data
@@ -191,7 +205,7 @@ Measuring Host Connection Degree Distribution". IEEE Transactions on Information
 Security (TIFS), 2014.</li>
 
 <li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group
-Closeness Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014.<br />
+Closeness Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014.
 [<font color = "red">Awarded Best Paper</font>]</li>
 
 <li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "WTF: Efficient Followee Selection
@@ -203,7 +217,7 @@ Characterization of Node Pairs over Large Graphs". ACM Transactions on Knowledge
 Data (TKDD), 2014.</li>
 
 <li>Pinghui Wang, Wenbo He, and <b>Junzhou Zhao</b>. "A Tale of Three Social Networks: User Activity
-Comparations across Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014.<br />
+Comparations across Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014.
 [<font color = "red">Featured Article</font>][<a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks">link</a>]</li>
 
 <li>Pinghui Wang, John C.S. Lui, B. Ribeiro, Don Towsley, <b>Junzhou Zhao</b>, and Xiaohong Guan.
@@ -225,12 +239,12 @@ China". In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="h
 </ul>
 </div>
 
-<div id="outline-container-orgf53ba6b" class="outline-3">
-<h3 id="orgf53ba6b">Undated</h3>
-<div class="outline-text-3" id="text-orgf53ba6b">
+<div id="outline-container-orgd39958d" class="outline-3">
+<h3 id="orgd39958d">Undated</h3>
+<div class="outline-text-3" id="text-orgd39958d">
 <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality
-Distributions for Burst Detection in Multigraph Streams". <i>under review</i>, 2017. [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
+Distributions for Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
 </ul>
 </div>
 </div>
@@ -240,20 +254,6 @@ Distributions for Burst Detection in Multigraph Streams". <i>under review</i>, 2
 ]]></description>
       <pubDate>2019-08-15</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
-    </item>
-    <item>
-      <title>Untitled</title>
-      <link>https://junzhouzhao.github.io/blog/2019/</link>
-      <description><![CDATA[<section id="content">
-    <ul class="org-ul">
-<li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality
-Distributions for Burst Detection in Multigraph Streams". <i>under review</i>, 2017. [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
-</ul>
-
-</section>
-]]></description>
-      <pubDate>2019-03-10</pubDate>
-      <guid>https://junzhouzhao.github.io/blog/2019/</guid>
     </item>
     <item>
       <title>C++17 Library</title>
