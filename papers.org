@@ -79,16 +79,18 @@
   [@@html:<font color = "red">@@Featured Article@@html:</font>@@][[[http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks][link]]]
 
 - Pinghui Wang, John C.S. Lui, B. Ribeiro, Don Towsley, *Junzhou Zhao*, and Xiaohong Guan.
-  "Efficiently Estimating Motif Statistics of Large Networks". ACM TKDD, 2014. [[[http://arxiv.org/abs/1306.5288][arXiv]]]
+  "Efficiently Estimating Motif Statistics of Large Networks". ACM Transactions on Knowledge
+  Discovery from Data (TKDD), 2014. [[[http://arxiv.org/abs/1306.5288][arXiv]]]
 
 - *Junzhou Zhao*, Xiaohong Guan, and Jing Tao. "On Analyzing Estimation Errors due to Constrained
   Connections in Online Review Systems". RecSys CrowdRec workshop, 2013. [[[http://arxiv.org/abs/1307.3687][arXiv]]]
 
 - Pinghui Wang, *Junzhou Zhao*, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Node Pairs
-  Over Large Graphs". IEEE ICDE, 2013.
+  Over Large Graphs". In Proceedings of the 29th IEEE International Conference on Data Engineering
+  (ICDE), 2013.
 
 - *Junzhou Zhao*, John C.S. Lui, Don Towsley, Xiaohong Guan, and Yadon. Zhou. "Empirical Analysis of the
   Evolution of Follower Network: A Case Study on Douban". IEEE INFOCOM NetSciCom workshop, 2011.
 
 - Zhaohui Wu, Lu Jiang, Zhenhua Tian, Jun Liu, and *Junzhou Zhao*. "A Peep at Pornography Web in
-  China". WebSci, 2010. [[[http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs][Media]]]
+  China". In Proceedings of the Web Science Conference (WebSci), 2010. [[[http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs][Media]]]

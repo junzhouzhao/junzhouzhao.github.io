@@ -8,12 +8,8 @@
 
   [[[https://scholar.google.com/citations?hl=en&user=hBLT754AAAAJ&view_op=list_works&sortby=pubdate][Google Scholar]]] [[[http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou][DBLP]]]
 
+  #+INCLUDE: "~/git_project/junzhouzhao.github.io/papers.org"
 
 ** Undated
 
   #+INCLUDE: "~/git_project/junzhouzhao.github.io/undated.org"
-
-
-** Papers
-
-  #+INCLUDE: "~/git_project/junzhouzhao.github.io/papers.org"
