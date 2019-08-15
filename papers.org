@@ -38,13 +38,13 @@
   Higher-Order Structure Statistics of Large Networks From Sampled Edges". IEEE Transactions on
   Knowledge and Data Engineering (TKDE), 2017.
 
-- Xiaoying Zhang, *Junzhou Zhao*, and John C.S. Lui. "Modeling the Assimilation-Contrast Effects in
-  Online Product Rating Systems: Debiasing and Recommendations". In Proceedings of the 11th ACM
-  Conference on Recommendation Systems (RecSys), 2017.\\
-  [@@html:<font color = "red">@@Awarded Best Paper@@html:</font>@@]
-
 - *Junzhou Zhao*, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "I/O-Efficient
   Calculation of Group Closeness Centrality over Disk-Resident Graphs". Information Sciences, 2017.
+
+- Xiaoying Zhang, *Junzhou Zhao*, and John C.S. Lui. "Modeling the Assimilation-Contrast Effects in
+  Online Product Rating Systems: Debiasing and Recommendations". In Proceedings of the 11th ACM
+  Conference on Recommendation Systems (RecSys), 2017.
+  [@@html:<font color = "red">@@Awarded Best Paper@@html:</font>@@]
 
 - Pinghui Wang, John C.S. Lui, Don Towsley, and *Junzhou Zhao*. "Minfer: A Method of Inferring Motif
   Statistics from Sampled Edges". In Proceedings of the 32nd IEEE International Conference on Data
@@ -63,7 +63,7 @@
   Security (TIFS), 2014.
 
 - *Junzhou Zhao*, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group
-  Closeness Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014.\\
+  Closeness Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014.
   [@@html:<font color = "red">@@Awarded Best Paper@@html:</font>@@]
 
 - *Junzhou Zhao*, John C.S. Lui, Don Towsley, and Xiaohong Guan. "WTF: Efficient Followee Selection
@@ -75,7 +75,7 @@
   Data (TKDD), 2014.
 
 - Pinghui Wang, Wenbo He, and *Junzhou Zhao*. "A Tale of Three Social Networks: User Activity
-  Comparations across Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014.\\
+  Comparations across Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014.
   [@@html:<font color = "red">@@Featured Article@@html:</font>@@][[[http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks][link]]]
 
 - Pinghui Wang, John C.S. Lui, B. Ribeiro, Don Towsley, *Junzhou Zhao*, and Xiaohong Guan.
