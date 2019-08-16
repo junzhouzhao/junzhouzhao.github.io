@@ -3,12 +3,12 @@
 
 * Contact
 
-  NO. 28, Xianning West Road, Xi'an Jiaotong University,\\
+  No. 28, Xianning West Road, Xi'an Jiaotong University,\\
   Xi'an 710049, Shaanxi Prov., P.R. China
 
   陕西省西安市碑林区咸宁西路 28 号，西安交通大学电信学部网络空间安全学院
 
   Email: junzhou.zhao AT xjtu DOT edu DOT cn
-
+  Wechat:\\
   #+attr_html: :width 180px
   [[file:img/wechat-qr.jpg]]
