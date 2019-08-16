@@ -4,8 +4,13 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
+<<<<<<< HEAD
     <pubDate>Fri, 16 Aug 2019 13:57:26 CST</pubDate>
     <lastBuildDate>Fri, 16 Aug 2019 13:57:26 CST</lastBuildDate>
+=======
+    <pubDate>Fri, 16 Aug 2019 10:47:07 CST</pubDate>
+    <lastBuildDate>Fri, 16 Aug 2019 10:47:07 CST</lastBuildDate>
+>>>>>>> fcf3bebadae8a4e2f0afadaee8c1e87d10f3f7d3
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -134,9 +139,15 @@ Distributions for Burst Detection in Multigraph Streams". [<a href="https://arxi
       <description><![CDATA[<section id="content">
     
 
+<<<<<<< HEAD
 <div id="outline-container-org97cc0b7" class="outline-2">
 <h2 id="org97cc0b7">Publications</h2>
 <div class="outline-text-2" id="text-org97cc0b7">
+=======
+<div id="outline-container-org4d47525" class="outline-2">
+<h2 id="org4d47525">Publications</h2>
+<div class="outline-text-2" id="text-org4d47525">
+>>>>>>> fcf3bebadae8a4e2f0afadaee8c1e87d10f3f7d3
 <p>
 [<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar</a>] [<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP</a>]
 </p>
@@ -239,9 +250,15 @@ China". In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="h
 </ul>
 </div>
 
+<<<<<<< HEAD
 <div id="outline-container-org84397b3" class="outline-3">
 <h3 id="org84397b3">Undated</h3>
 <div class="outline-text-3" id="text-org84397b3">
+=======
+<div id="outline-container-org33df09c" class="outline-3">
+<h3 id="org33df09c">Undated</h3>
+<div class="outline-text-3" id="text-org33df09c">
+>>>>>>> fcf3bebadae8a4e2f0afadaee8c1e87d10f3f7d3
 <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality
 Distributions for Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
