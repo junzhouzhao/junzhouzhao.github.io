@@ -1,5 +1,4 @@
 # -*- fill-column: 100; -*-
-
 - *Junzhou Zhao*, Shuo Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Submodular
   Optimization over Streams with Inhomogeneous Decays". AAAI, 2019.
 
