@@ -13,10 +13,12 @@
   International Conference on Data Engineering (ICDE), 2019. [CCF A]
 
 - *Junzhou Zhao*, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem
-  Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2018. [IF 5.524][[[https://arxiv.org/abs/1703.04307][arXiv]]]
+  Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2018. [IF
+  5.524][[[https://arxiv.org/abs/1703.04307][arXiv]]]
 
 - *Junzhou Zhao*, Pinghui Wang, John C.S. Lui, and Don Towsley. "Sampling Online Social Networks by
-  Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery (DMKD), 2018. [IF 2.481][[[https://arxiv.org/abs/1708.09081][arXiv]]]
+  Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery (DMKD), 2018. [IF
+  2.481][[[https://arxiv.org/abs/1708.09081][arXiv]]]
 
 - Pinghui Wang, *Junzhou Zhao*, Xiangliang Zhang, Z. Li, J. Cheng, John C.S. Lui, Don Towsley, Jing
   Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in

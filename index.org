@@ -15,7 +15,7 @@
 
   #+ATTR_HTML: :style margin-right:1ex;
   [[file:img/news.gif]]
-  招收博士生、硕士生以及本科实习生
+  [@@html:<font color = "red">@@招收博士生、硕士生以及本科实习生@@html:</font>@@]
 
 * Research Interests
 
