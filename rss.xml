@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Fri, 23 Aug 2019 09:21:59 CST</pubDate>
-    <lastBuildDate>Fri, 23 Aug 2019 09:21:59 CST</lastBuildDate>
+    <pubDate>Fri, 23 Aug 2019 09:24:17 CST</pubDate>
+    <lastBuildDate>Fri, 23 Aug 2019 09:24:17 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -26,10 +26,10 @@ Influential Nodes in Time-Decaying Dynamic Interaction Networks". In Proceedings
 International Conference on Data Engineering (ICDE), 2019. [CCF A]</li>
 
 <li><b>Junzhou Zhao</b>, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem
-Definitions, Fast Algorithms, and Observations". Information Sciences, 2018. [IF 5.524][<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
+Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2018. [IF 5.524][<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
 
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Sampling Online Social Networks by
-Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery, 2018. [<a href="https://arxiv.org/abs/1708.09081">arXiv</a>]</li>
+Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery (DMKD), 2018. [IF 2.481][<a href="https://arxiv.org/abs/1708.09081">arXiv</a>]</li>
 
 <li>Pinghui Wang, <b>Junzhou Zhao</b>, Xiangliang Zhang, Z. Li, J. Cheng, John C.S. Lui, Don Towsley, Jing
 Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in
@@ -52,8 +52,8 @@ Higher-Order Structure Statistics of Large Networks From Sampled Edges". IEEE Tr
 Knowledge and Data Engineering (TKDE), 2017. [CCF A][IF 2.775]</li>
 
 <li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "I/O-Efficient
-Calculation of Group Closeness Centrality over Disk-Resident Graphs". Information Sciences, 2017.
-[IF 5.524]</li>
+Calculation of Group Closeness Centrality over Disk-Resident Graphs". Information Sciences
+(INS), 2017. [IF 5.524]</li>
 
 <li>Xiaoying Zhang, <b>Junzhou Zhao</b>, and John C.S. Lui. "Modeling the Assimilation-Contrast Effects in
 Online Product Rating Systems: Debiasing and Recommendations". In Proceedings of the 11th ACM
@@ -135,9 +135,9 @@ Distributions for Burst Detection in Multigraph Streams". [<a href="https://arxi
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-orgeb72678" class="outline-2">
-<h2 id="orgeb72678">Publications</h2>
-<div class="outline-text-2" id="text-orgeb72678">
+<div id="outline-container-org6bf7bad" class="outline-2">
+<h2 id="org6bf7bad">Publications</h2>
+<div class="outline-text-2" id="text-org6bf7bad">
 <p>
 [<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar</a>] [<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP</a>]
 </p>
@@ -156,10 +156,10 @@ Influential Nodes in Time-Decaying Dynamic Interaction Networks". In Proceedings
 International Conference on Data Engineering (ICDE), 2019. [CCF A]</li>
 
 <li><b>Junzhou Zhao</b>, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem
-Definitions, Fast Algorithms, and Observations". Information Sciences, 2018. [IF 5.524][<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
+Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2018. [IF 5.524][<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
 
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Sampling Online Social Networks by
-Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery, 2018. [<a href="https://arxiv.org/abs/1708.09081">arXiv</a>]</li>
+Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery (DMKD), 2018. [IF 2.481][<a href="https://arxiv.org/abs/1708.09081">arXiv</a>]</li>
 
 <li>Pinghui Wang, <b>Junzhou Zhao</b>, Xiangliang Zhang, Z. Li, J. Cheng, John C.S. Lui, Don Towsley, Jing
 Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in
@@ -182,8 +182,8 @@ Higher-Order Structure Statistics of Large Networks From Sampled Edges". IEEE Tr
 Knowledge and Data Engineering (TKDE), 2017. [CCF A][IF 2.775]</li>
 
 <li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "I/O-Efficient
-Calculation of Group Closeness Centrality over Disk-Resident Graphs". Information Sciences, 2017.
-[IF 5.524]</li>
+Calculation of Group Closeness Centrality over Disk-Resident Graphs". Information Sciences
+(INS), 2017. [IF 5.524]</li>
 
 <li>Xiaoying Zhang, <b>Junzhou Zhao</b>, and John C.S. Lui. "Modeling the Assimilation-Contrast Effects in
 Online Product Rating Systems: Debiasing and Recommendations". In Proceedings of the 11th ACM
@@ -241,9 +241,9 @@ China". In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="h
 </ul>
 </div>
 
-<div id="outline-container-org467ce2a" class="outline-3">
-<h3 id="org467ce2a">Undated</h3>
-<div class="outline-text-3" id="text-org467ce2a">
+<div id="outline-container-org8189f7e" class="outline-3">
+<h3 id="org8189f7e">Undated</h3>
+<div class="outline-text-3" id="text-org8189f7e">
 <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality
 Distributions for Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
