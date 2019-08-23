@@ -6,7 +6,10 @@
   No. 28, Xianning West Road, Xi'an Jiaotong University,\\
   Xi'an 710049, Shaanxi Prov., P.R. China
 
-  陕西省西安市碑林区咸宁西路 28 号，西安交通大学电信学部网络空间安全学院
+  陕西省西安市碑林区咸宁西路 28 号，西安交通大学
+
+  电信学部网络空间安全学院\\
+  智能网络与网络安全教育部重点实验室
 
   Email: junzhou.zhao AT xjtu DOT edu DOT cn \\
   Wechat QR code:
