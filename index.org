@@ -19,13 +19,13 @@
 
 * Research Interests
 
-  - network/graph data analysis: measurement, mining, and optimization \\
-    网络大数据/大图数据的测量、挖掘与优化算法
-  - data stream management and processing, streaming algorithms \\
+  - big network/graph data analysis: measurement, computation, mining, and optimization\\
+    网络大数据/大图数据的测量、计算、挖掘与优化方法
+  - data stream management and computation, streaming algorithms\\
     流数据管理与计算、数据流算法
-  - optimization algorithms, approximation algorithms \\
+  - optimization algorithms, approximation algorithms\\
     优化方法、近似计算方法
-  - learning theory \\
+  - learning theory\\
     学习理论
 
 * Awards
