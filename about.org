@@ -14,5 +14,4 @@
   Email: junzhou.zhao AT xjtu DOT edu DOT cn \\
   Wechat QR code:
 
-  #+attr_html: :width 180px
   [[file:img/wechat-qr.jpg]]
