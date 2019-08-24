@@ -10,7 +10,7 @@
 
 - *Junzhou Zhao*, Shuo Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Tracking
   Influential Nodes in Time-Decaying Dynamic Interaction Networks". In Proceedings of the 35th IEEE
-  International Conference on Data Engineering (ICDE), 2019. [[[https://arxiv.org/abs/1810.07917][arXiv]]][CCF A]
+  International Conference on Data Engineering (ICDE), 2019. [[[https://arxiv.org/abs/1810.07917][arXiv]]][[[file:assets/ICDE19_poster.pdf][poster]]][CCF A]
 
 - *Junzhou Zhao*, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem
   Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2018. [[[https://arxiv.org/abs/1703.04307][arXiv]]][IF
@@ -22,7 +22,8 @@
 
 - Pinghui Wang, *Junzhou Zhao*, Xiangliang Zhang, Z. Li, J. Cheng, John C.S. Lui, Don Towsley, Jing
   Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in
-  Large Graphs". IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018. [CCF A][IF 2.775]
+  Large Graphs". IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018. [[[file:assets/TKDE18_poster.pdf][poster]]][CCF
+  A][IF 2.775]
 
 - Pinghui Wang, *Junzhou Zhao*, Xiangliang Zhang, Jing Tao, and Xiaohong Guan. "SNOD: A Fast
   Sampling Method of Exploring Node Orbit Degrees for Large Graphs". Knowledge and Information
