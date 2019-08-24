@@ -33,3 +33,11 @@
   - Best Paper Award, ACM RecSys, 2017.
   - Best Paper Award, WWW SIMPLEX workshop, 2014.
   - Featured Article, IEEE Internet Computing, 2014.
+
+
+  [[file:img/xjtu.png]]
+  [[file:img/cuhk.png]]
+  [[file:img/kaust.png]]
+
+  [[file:img/simplex.png]]
+  [[file:img/recsys.png]]
