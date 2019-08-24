@@ -2,23 +2,23 @@
 
 - Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, *Junzhou Zhao*, "MR-GNN: Multi-resolution and dual
   graph neural network for predicting structured entity interaction". In Proceedings of the 28th
-  International Joint Conference on Artificial Intelligence (IJCAI), 2019. [CCF A]
+  International Joint Conference on Artificial Intelligence (IJCAI), 2019. [[[https://arxiv.org/abs/1905.09558][arXiv]]][CCF A]
 
 - *Junzhou Zhao*, Shuo Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Submodular
   Optimization over Streams with Inhomogeneous Decays". In Proceedings of the 33rd AAAI Conference
-  on Artificial Intelligence (AAAI), 2019. [CCF A]
+  on Artificial Intelligence (AAAI), 2019. [[[https://arxiv.org/abs/1811.05652][arXiv]]][CCF A]
 
 - *Junzhou Zhao*, Shuo Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Tracking
   Influential Nodes in Time-Decaying Dynamic Interaction Networks". In Proceedings of the 35th IEEE
-  International Conference on Data Engineering (ICDE), 2019. [CCF A]
+  International Conference on Data Engineering (ICDE), 2019. [[[https://arxiv.org/abs/1810.07917][arXiv]]][CCF A]
 
 - *Junzhou Zhao*, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem
-  Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2018. [IF
-  5.524][[[https://arxiv.org/abs/1703.04307][arXiv]]]
+  Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2018. [[[https://arxiv.org/abs/1703.04307][arXiv]]][IF
+  5.524]
 
 - *Junzhou Zhao*, Pinghui Wang, John C.S. Lui, and Don Towsley. "Sampling Online Social Networks by
-  Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery (DMKD), 2018. [IF
-  2.481][[[https://arxiv.org/abs/1708.09081][arXiv]]]
+  Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery (DMKD), 2018. [[[https://arxiv.org/abs/1708.09081][arXiv]]][IF
+  2.481]
 
 - Pinghui Wang, *Junzhou Zhao*, Xiangliang Zhang, Z. Li, J. Cheng, John C.S. Lui, Don Towsley, Jing
   Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in
@@ -59,41 +59,42 @@
 
 - *Junzhou Zhao*, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "A Tale of Three
   Graphs: Sampling Design on Hybrid Social-Affiliation Networks". In Proceedings of the 31st IEEE
-  International Conference on Data Engineering (ICDE), 2015. [CCF A]
+  International Conference on Data Engineering (ICDE), 2015. [[[file:assets/ICDE2015.pdf][pdf]]][CCF A]
 
 - Pinghui Wang, Xiaohong Guang, *Junzhou Zhao*, Jing Tao, and T. Qin. "A New Sketch Method for
   Measuring Host Connection Degree Distribution". IEEE Transactions on Information Forensics and
   Security (TIFS), 2014. [CCF A][IF 6.211]
 
 - *Junzhou Zhao*, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group
-  Closeness Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014.
+  Closeness Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014. [[[file:assets/SIMPLEX2014.pdf][pdf]]]
   [@@html:<font color = "red">@@Awarded Best Paper@@html:</font>@@]
 
 - *Junzhou Zhao*, John C.S. Lui, Don Towsley, and Xiaohong Guan. "WTF: Efficient Followee Selection
   for Cascading Outbreak Detection on Online Social Networks". Computer Networks, Special Issue on
-  Online Social Networks, 2014. [IF 2.522]
+  Online Social Networks, 2014. [[[file:assets/COMNET2014.pdf][pdf]]][IF 2.522]
 
 - Pinghui Wang, *Junzhou Zhao*, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Unbiased
   Characterization of Node Pairs over Large Graphs". ACM Transactions on Knowledge Discovery from
-  Data (TKDD), 2014. [IF 1.489]
+  Data (TKDD), 2014. [[[file:assets/TKDD2014_node_pair.pdf][pdf]]][IF 1.489]
 
 - Pinghui Wang, Wenbo He, and *Junzhou Zhao*. "A Tale of Three Social Networks: User Activity
-  Comparations across Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014.
-  [@@html:<font color = "red">@@Featured Article@@html:</font>@@][[[http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks][link]]]
+  Comparations across Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014. [[[file:assets/IC2014.pdf][pdf]]]
+  [[[http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks][@@html:<font color = "red">@@Featured Article@@html:</font>@@]]]
 
 - Pinghui Wang, John C.S. Lui, B. Ribeiro, Don Towsley, *Junzhou Zhao*, and Xiaohong Guan.
   "Efficiently Estimating Motif Statistics of Large Networks". ACM Transactions on Knowledge
-  Discovery from Data (TKDD), 2014. [IF 1.489][[[http://arxiv.org/abs/1306.5288][arXiv]]]
+  Discovery from Data (TKDD), 2014. [[[http://arxiv.org/abs/1306.5288][arXiv]]][IF 1.489]
 
 - *Junzhou Zhao*, Xiaohong Guan, and Jing Tao. "On Analyzing Estimation Errors due to Constrained
   Connections in Online Review Systems". RecSys CrowdRec workshop, 2013. [[[http://arxiv.org/abs/1307.3687][arXiv]]]
 
 - Pinghui Wang, *Junzhou Zhao*, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Node Pairs
   Over Large Graphs". In Proceedings of the 29th IEEE International Conference on Data Engineering
-  (ICDE), 2013. [CCF A]
+  (ICDE), 2013. [[[file:assets/ICDE2013.pdf][pdf]]][CCF A]
 
-- *Junzhou Zhao*, John C.S. Lui, Don Towsley, Xiaohong Guan, and Yadon. Zhou. "Empirical Analysis of the
-  Evolution of Follower Network: A Case Study on Douban". IEEE INFOCOM NetSciCom workshop, 2011.
+- *Junzhou Zhao*, John C.S. Lui, Don Towsley, Xiaohong Guan, and Yadon. Zhou. "Empirical Analysis of
+  the Evolution of Follower Network: A Case Study on Douban". IEEE INFOCOM NetSciCom workshop, 2011.
+  [[[file:assets/NetSciCom2011.pdf][pdf]]]
 
 - Zhaohui Wu, Lu Jiang, Zhenhua Tian, Jun Liu, and *Junzhou Zhao*. "A Peep at Pornography Web in
-  China". In Proceedings of the Web Science Conference (WebSci), 2010. [[[http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs][Media]]]
+  China". In Proceedings of the Web Science Conference (WebSci), 2010. [[[file:assets/WebSci2010.pdf][pdf]]][[[http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs][Media]]]
