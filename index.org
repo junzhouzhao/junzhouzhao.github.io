@@ -21,12 +21,15 @@
 
   - network/graph data: measurement, management, computation, mining, and optimization\\
     网络大数据/大图数据的测量、管理、计算、挖掘与优化方法
+
   - data stream management and computation, streaming algorithms\\
     流数据管理与计算、数据流算法
+
   - optimization theory, approximation algorithms\\
     优化理论、近似计算方法
-  - learning theory\\
-    学习理论
+
+  - learning theory, decision making\\
+    学习理论、决策过程
 
 * Awards
 
