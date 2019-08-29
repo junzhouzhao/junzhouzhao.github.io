@@ -38,9 +38,11 @@
   - Featured Article, IEEE Internet Computing, 2014.
 
 
+  #+ATTR_HTML: :style margin-top:2em;
   [[file:img/xjtu.png]]
   [[file:img/cuhk.png]]
   [[file:img/kaust.png]]
+
 
   [[file:img/simplex.png]]
   [[file:img/recsys.png]]
