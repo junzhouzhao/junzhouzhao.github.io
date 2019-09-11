@@ -32,7 +32,6 @@
   - learning theory, decision making\\
     学习理论、决策过程
 
-
 * Services
   + Program Committee
     - AAAI 2020

@@ -3,8 +3,7 @@
 
 * Contact
 
-  No.28, Xianning West Road, Xi'an Jiaotong University,\\
-  Xi'an 710049, Shaanxi Prov., P.R. China
+  No.28, Xianning West Road, Xi'an Jiaotong University, Xi'an 710049, Shaanxi Prov., P.R. China
   - School of Cyber Science and Engineering
   - Ministry of Education Key Lab for Intelligent Networks and Network Security
     (MOEKLINNS Lab)
