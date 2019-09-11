@@ -32,6 +32,23 @@
   - learning theory, decision making\\
     学习理论、决策过程
 
+
+* Services
+  + Program Committee
+    - AAAI 2020
+    - IEEE BigSecurity 2019
+    - IJCAI-ECAI 2018 2019
+
+  + Reviewer
+    - IEEE Transactions on Data Science (TDS)
+    - IEEE Transactions on Mobile Computation (TMC)
+    - IEEE Transactions on Network Science and Engineering (TNSE)
+    - ACM/IEEE Transactions on Networking (ToN)
+    - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+    - IEEE Transactions on Information Forensics and Security (TIFS)
+    - Elsevier Journal on Computer Networks (COMNET)
+    - Knowledge and Information Systems (KAIS)
+
 * Awards
 
   - Best Paper Award, ACM RecSys, 2017.
