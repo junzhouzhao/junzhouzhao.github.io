@@ -18,6 +18,7 @@
   [[file:img/news.gif]]
   招收博士生、硕士生以及本科实习生
 
+
 * Research Interests
 
   - network/graph data: measurement, management, computation, mining, and optimization\\
@@ -32,7 +33,9 @@
   - learning theory, decision making\\
     学习理论、决策过程
 
+
 * Activities
+
   + Program Committee
     - AAAI 2020
     - IEEE BigSecurity 2019
@@ -47,6 +50,7 @@
     - IEEE Transactions on Information Forensics and Security (TIFS)
     - Elsevier Journal on Computer Networks (COMNET)
     - Knowledge and Information Systems (KAIS)
+
 
 * Awards
 
