@@ -1,6 +1,10 @@
 # -*- fill-column: 100; -*-
 
-- Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, *Junzhou Zhao*, "MR-GNN: Multi-resolution and dual
+- Xiaoying Zhang, Hong Xie, *Junzhou Zhao*, John C.S. Lui. "Understanding Assimilation-Contrast
+  Effects in Online Rating Systems: Modeling, Debiasing and Applications". Accepted to ACM
+  Transactions on Information Systems (TOIS), 2019.
+
+- Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, *Junzhou Zhao*. "MR-GNN: Multi-resolution and dual
   graph neural network for predicting structured entity interaction". In Proceedings of the 28th
   International Joint Conference on Artificial Intelligence (IJCAI), 2019. [[[https://arxiv.org/abs/1905.09558][arXiv]]][CCF A]
 
