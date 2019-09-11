@@ -4,23 +4,20 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Sat, 07 Sep 2019 19:29:23 CST</pubDate>
-    <lastBuildDate>Sat, 07 Sep 2019 19:29:23 CST</lastBuildDate>
+    <pubDate>Wed, 11 Sep 2019 11:04:33 CST</pubDate>
+    <lastBuildDate>Wed, 11 Sep 2019 11:04:33 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
-    <item>
-      <title>Network Science</title>
-      <link>https://junzhouzhao.github.io/article/2019/08/30/network-science</link>
-      <description><![CDATA[<TODO: insert your description here>]]></description>
-      <pubDate>2019-08-30</pubDate>
-      <guid>https://junzhouzhao.github.io/article/2019/08/30/network-science</guid>
-    </item>
     <item>
       <title>Untitled</title>
       <link>https://junzhouzhao.github.io/blog/2019/</link>
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
-<li>Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, <b>Junzhou Zhao</b>, "MR-GNN: Multi-resolution and dual
+<li>Xiaoying Zhang, Hong Xie, <b>Junzhou Zhao</b>, John C.S. Lui. "Understanding Assimilation-Contrast
+Effects in Online Rating Systems: Modeling, Debiasing and Applications". Accepted to ACM
+Transactions on Information Systems (TOIS), 2019.</li>
+
+<li>Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, <b>Junzhou Zhao</b>. "MR-GNN: Multi-resolution and dual
 graph neural network for predicting structured entity interaction". In Proceedings of the 28th
 International Joint Conference on Artificial Intelligence (IJCAI), 2019. [<a href="https://arxiv.org/abs/1905.09558">arXiv</a>][CCF A]</li>
 
@@ -124,8 +121,15 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
 
 </section>
 ]]></description>
-      <pubDate>2019-08-24</pubDate>
+      <pubDate>2019-09-11</pubDate>
       <guid>https://junzhouzhao.github.io/blog/2019/</guid>
+    </item>
+    <item>
+      <title>Network Science</title>
+      <link>https://junzhouzhao.github.io/article/2019/08/30/network-science</link>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
+      <pubDate>2019-08-30</pubDate>
+      <guid>https://junzhouzhao.github.io/article/2019/08/30/network-science</guid>
     </item>
     <item>
       <title>Untitled</title>
@@ -147,15 +151,19 @@ Distributions for Burst Detection in Multigraph Streams". [<a href="https://arxi
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org23663f9" class="outline-2">
-<h2 id="org23663f9">Publications</h2>
-<div class="outline-text-2" id="text-org23663f9">
+<div id="outline-container-orgf4c49da" class="outline-2">
+<h2 id="orgf4c49da">Publications</h2>
+<div class="outline-text-2" id="text-orgf4c49da">
 <p>
 [<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar</a>] [<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP</a>]
 </p>
 
 <ul class="org-ul">
-<li>Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, <b>Junzhou Zhao</b>, "MR-GNN: Multi-resolution and dual
+<li>Xiaoying Zhang, Hong Xie, <b>Junzhou Zhao</b>, John C.S. Lui. "Understanding Assimilation-Contrast
+Effects in Online Rating Systems: Modeling, Debiasing and Applications". Accepted to ACM
+Transactions on Information Systems (TOIS), 2019.</li>
+
+<li>Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, <b>Junzhou Zhao</b>. "MR-GNN: Multi-resolution and dual
 graph neural network for predicting structured entity interaction". In Proceedings of the 28th
 International Joint Conference on Artificial Intelligence (IJCAI), 2019. [<a href="https://arxiv.org/abs/1905.09558">arXiv</a>][CCF A]</li>
 
@@ -258,9 +266,9 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
 </ul>
 </div>
 
-<div id="outline-container-org11564de" class="outline-3">
-<h3 id="org11564de">Undated</h3>
-<div class="outline-text-3" id="text-org11564de">
+<div id="outline-container-org763e915" class="outline-3">
+<h3 id="org763e915">Undated</h3>
+<div class="outline-text-3" id="text-org763e915">
 <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality
 Distributions for Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
