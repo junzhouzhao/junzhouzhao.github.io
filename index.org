@@ -19,7 +19,7 @@
   招收博士生、硕士生以及本科实习生
 
 
-* Research Interests
+* Research
 
   - network/graph data: measurement, management, computation, mining, and optimization\\
     网络大数据/大图数据的测量、管理、计算、挖掘与优化方法
