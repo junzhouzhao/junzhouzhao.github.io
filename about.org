@@ -13,7 +13,8 @@
   - 电信学部网络空间安全学院
   - 智能网络与网络安全教育部重点实验室
 
-  Email: junzhou.zhao AT xjtu DOT edu DOT cn\\
+  Email: junzhou.zhao AT xjtu DOT edu DOT cn
+
   Wechat:\\
   #+ATTR_HTML: :style margin-left:2em;
   [[file:img/wechat-qr.jpg]]
