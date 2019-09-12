@@ -38,8 +38,9 @@
 
   Program Committee
     - AAAI 2020
-    - IEEE BigSecurity 2019
     - IJCAI-ECAI 2018 2019
+    - IEEE BigCyberSecurity 2019
+    - IEEE Data Engineering 2018 2019
 
   Reviewer
     - IEEE Transactions on Data Science (TDS)
