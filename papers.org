@@ -1,5 +1,9 @@
 # -*- fill-column: 100; -*-
 
+- Lin Lan, Pinghui Wang, *Junzhou Zhao*, Jing Tao, John C.S. Lui, Xiaohong Guan. "Improving Network
+  Embedding with Partially Available Vertex and Edge Content". Accepted to Information
+  Sciences, 2019.
+
 - Xiaoying Zhang, Hong Xie, *Junzhou Zhao*, John C.S. Lui. "Understanding Assimilation-Contrast
   Effects in Online Rating Systems: Modeling, Debiasing and Applications". Accepted to ACM
   Transactions on Information Systems (TOIS), 2019.
