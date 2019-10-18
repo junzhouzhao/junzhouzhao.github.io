@@ -11,8 +11,7 @@
   and Technology (KAUST)]], working with [[https://www.kaust.edu.sa/en/study/faculty/xiangliang-zhang][Prof. Xiangliang Zhang]]. He was also a postdoctoral researcher
   at the Department of Computer Science and Engineering, [[http://www.cse.cuhk.edu.hk/en/][The Chinese University of Hong Kong (CUHK)]],
   working with [[http://www.cse.cuhk.edu.hk/~cslui/][Prof. John C.S. Lui]]. He holds a Ph.D. degree in Control Science and Engineering, and
-  a B.S. degree in Automation Science and Technology, both from Xi'an Jiaotong University under the
-  supervision of [[http://www.sei.xjtu.edu.cn/html/tt/tch/2018/1120/2.html][Prof. Xiaohong Guan]].
+  a B.S. degree in Automation Science and Technology, both from XJTU.
 
   #+ATTR_HTML: :style margin-right:1ex;
   [[file:img/news.gif]]
