@@ -4,10 +4,40 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Wed, 30 Oct 2019 16:32:52 CST</pubDate>
-    <lastBuildDate>Wed, 30 Oct 2019 16:32:52 CST</lastBuildDate>
+    <pubDate>Thu, 07 Nov 2019 11:32:49 CST</pubDate>
+    <lastBuildDate>Thu, 07 Nov 2019 11:32:49 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Resources</title>
+      <link>https://junzhouzhao.github.io/resources/</link>
+      <description><![CDATA[<section id="content">
+    
+<div id="outline-container-org217ed76" class="outline-2">
+<h2 id="org217ed76">Resources</h2>
+<div class="outline-text-2" id="text-org217ed76">
+</div>
+<div id="outline-container-org09209e4" class="outline-3">
+<h3 id="org09209e4">Machine learning, data mining, and AI conferences</h3>
+<div class="outline-text-3" id="text-org09209e4">
+
+<div class="figure">
+<p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
+</p>
+</div>
+
+<p>
+Source: <a href="http://www.kamishima.net/archive/MLDMAImap.pdf">http://www.kamishima.net/archive/MLDMAImap.pdf</a>
+</p>
+</div>
+</div>
+</div>
+
+</section>
+]]></description>
+      <pubDate>2019-11-07</pubDate>
+      <guid>https://junzhouzhao.github.io/resources/</guid>
+    </item>
     <item>
       <title>Untitled</title>
       <link>https://junzhouzhao.github.io/blog/2019/</link>
@@ -155,9 +185,9 @@ Distributions for Burst Detection in Multigraph Streams". [<a href="https://arxi
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org33da163" class="outline-2">
-<h2 id="org33da163">Publications</h2>
-<div class="outline-text-2" id="text-org33da163">
+<div id="outline-container-org5d40ec7" class="outline-2">
+<h2 id="org5d40ec7">Publications</h2>
+<div class="outline-text-2" id="text-org5d40ec7">
 <p>
 [<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar</a>] [<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP</a>]
 </p>
@@ -274,9 +304,9 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
 </ul>
 </div>
 
-<div id="outline-container-org48ea948" class="outline-3">
-<h3 id="org48ea948">Undated</h3>
-<div class="outline-text-3" id="text-org48ea948">
+<div id="outline-container-org395abb6" class="outline-3">
+<h3 id="org395abb6">Undated</h3>
+<div class="outline-text-3" id="text-org395abb6">
 <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality
 Distributions for Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
@@ -324,13 +354,6 @@ Distributions for Burst Detection in Multigraph Streams". [<a href="https://arxi
       <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2016-09-01</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/blackboard</guid>
-    </item>
-    <item>
-      <title>Quick Links</title>
-      <link>https://junzhouzhao.github.io/article/2016/08/26/quick-links</link>
-      <description><![CDATA[desc]]></description>
-      <pubDate>2016-09-01</pubDate>
-      <guid>https://junzhouzhao.github.io/article/2016/08/26/quick-links</guid>
     </item>
   </channel>
 </rss>
