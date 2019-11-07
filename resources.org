@@ -3,5 +3,6 @@
 #+URI: /resources/
 #+OPTIONS: toc:nil num:nil
 
+* Resources
 
-aa
+  [[file:img/MLDMAImap.png]]
