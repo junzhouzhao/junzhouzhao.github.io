@@ -1,0 +1,7 @@
+# -*- fill-column: 100; -*-
+#+TITLE: Resources
+#+URI: /resources/
+#+OPTIONS: toc:nil num:nil
+
+
+aa
