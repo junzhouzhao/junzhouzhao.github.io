@@ -5,4 +5,8 @@
 
 * Resources
 
+** Machine learning, data mining, and AI conferences
+
   [[file:img/MLDMAImap.png]]
+
+  Source: http://www.kamishima.net/archive/MLDMAImap.pdf
