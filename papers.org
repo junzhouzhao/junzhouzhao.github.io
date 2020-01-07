@@ -1,12 +1,11 @@
 # -*- fill-column: 100; -*-
 
 - Lin Lan, Pinghui Wang, *Junzhou Zhao*, Jing Tao, John C.S. Lui, Xiaohong Guan. "Improving Network
-  Embedding with Partially Available Vertex and Edge Content". Accepted to Information
-  Sciences, 2019.
+  Embedding with Partially Available Vertex and Edge Content". Information Sciences, 2020.
 
 - Xiaoying Zhang, Hong Xie, *Junzhou Zhao*, John C.S. Lui. "Understanding Assimilation-Contrast
-  Effects in Online Rating Systems: Modeling, Debiasing and Applications". Accepted to ACM
-  Transactions on Information Systems (TOIS), 2019.
+  Effects in Online Rating Systems: Modeling, Debiasing and Applications". ACM Transactions on
+  Information Systems (TOIS), 2020.
 
 - Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, *Junzhou Zhao*. "MR-GNN: Multi-resolution and dual
   graph neural network for predicting structured entity interaction". In Proceedings of the 28th
@@ -21,12 +20,12 @@
   International Conference on Data Engineering (ICDE), 2019. [[https://arxiv.org/abs/1810.07917][[arXiv]​]][[file:assets/ICDE19_poster.pdf][[poster]​]][CCF A]
 
 - *Junzhou Zhao*, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem
-  Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2018. [[https://arxiv.org/abs/1703.04307][[arXiv]​]][IF
+  Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2019. [[https://arxiv.org/abs/1703.04307][[arXiv]​]][IF
   5.524]
 
 - *Junzhou Zhao*, Pinghui Wang, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Online
   Social Networks by Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery
-  (DMKD), 2018. [[https://arxiv.org/abs/1708.09081][[arXiv]​]][IF 2.481]
+  (DMKD), 2019. [[https://arxiv.org/abs/1708.09081][[arXiv]​]][IF 2.481]
 
 - Pinghui Wang, *Junzhou Zhao*, Xiangliang Zhang, Z. Li, J. Cheng, John C.S. Lui, Don Towsley, Jing
   Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in
