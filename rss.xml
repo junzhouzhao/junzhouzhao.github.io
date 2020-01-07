@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Thu, 02 Jan 2020 20:31:18 CST</pubDate>
-    <lastBuildDate>Thu, 02 Jan 2020 20:31:18 CST</lastBuildDate>
+    <pubDate>Tue, 07 Jan 2020 17:19:43 CST</pubDate>
+    <lastBuildDate>Tue, 07 Jan 2020 17:19:43 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,12 +14,11 @@
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
 <li>Lin Lan, Pinghui Wang, <b>Junzhou Zhao</b>, Jing Tao, John C.S. Lui, Xiaohong Guan. "Improving Network
-Embedding with Partially Available Vertex and Edge Content". Accepted to Information
-Sciences, 2019.</li>
+Embedding with Partially Available Vertex and Edge Content". Information Sciences, 2020.</li>
 
 <li>Xiaoying Zhang, Hong Xie, <b>Junzhou Zhao</b>, John C.S. Lui. "Understanding Assimilation-Contrast
-Effects in Online Rating Systems: Modeling, Debiasing and Applications". Accepted to ACM
-Transactions on Information Systems (TOIS), 2019.</li>
+Effects in Online Rating Systems: Modeling, Debiasing and Applications". ACM Transactions on
+Information Systems (TOIS), 2020.</li>
 
 <li>Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, <b>Junzhou Zhao</b>. "MR-GNN: Multi-resolution and dual
 graph neural network for predicting structured entity interaction". In Proceedings of the 28th
@@ -34,12 +33,12 @@ Influential Nodes in Time-Decaying Dynamic Interaction Networks". In Proceedings
 International Conference on Data Engineering (ICDE), 2019. <a href="https://arxiv.org/abs/1810.07917">[arXiv]​</a><a href="/assets/blog/2020/ICDE19_poster.pdf">[poster]​</a>[CCF A]</li>
 
 <li><b>Junzhou Zhao</b>, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem
-Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2018. <a href="https://arxiv.org/abs/1703.04307">[arXiv]​</a>[IF
+Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2019. <a href="https://arxiv.org/abs/1703.04307">[arXiv]​</a>[IF
 5.524]</li>
 
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Online
 Social Networks by Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery
-(DMKD), 2018. <a href="https://arxiv.org/abs/1708.09081">[arXiv]​</a>[IF 2.481]</li>
+(DMKD), 2019. <a href="https://arxiv.org/abs/1708.09081">[arXiv]​</a>[IF 2.481]</li>
 
 <li>Pinghui Wang, <b>Junzhou Zhao</b>, Xiangliang Zhang, Z. Li, J. Cheng, John C.S. Lui, Don Towsley, Jing
 Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in
@@ -125,7 +124,7 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
 
 </section>
 ]]></description>
-      <pubDate>2019-12-16</pubDate>
+      <pubDate>2020-01-07</pubDate>
       <guid>https://junzhouzhao.github.io/blog/2020/</guid>
     </item>
     <item>
@@ -134,21 +133,20 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org625c75a" class="outline-2">
-<h2 id="org625c75a">Publications</h2>
-<div class="outline-text-2" id="text-org625c75a">
+<div id="outline-container-org7be5749" class="outline-2">
+<h2 id="org7be5749">Publications</h2>
+<div class="outline-text-2" id="text-org7be5749">
 <p>
 <a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">[Google Scholar]​</a> <a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">[DBLP]​</a>
 </p>
 
 <ul class="org-ul">
 <li>Lin Lan, Pinghui Wang, <b>Junzhou Zhao</b>, Jing Tao, John C.S. Lui, Xiaohong Guan. "Improving Network
-Embedding with Partially Available Vertex and Edge Content". Accepted to Information
-Sciences, 2019.</li>
+Embedding with Partially Available Vertex and Edge Content". Information Sciences, 2020.</li>
 
 <li>Xiaoying Zhang, Hong Xie, <b>Junzhou Zhao</b>, John C.S. Lui. "Understanding Assimilation-Contrast
-Effects in Online Rating Systems: Modeling, Debiasing and Applications". Accepted to ACM
-Transactions on Information Systems (TOIS), 2019.</li>
+Effects in Online Rating Systems: Modeling, Debiasing and Applications". ACM Transactions on
+Information Systems (TOIS), 2020.</li>
 
 <li>Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, <b>Junzhou Zhao</b>. "MR-GNN: Multi-resolution and dual
 graph neural network for predicting structured entity interaction". In Proceedings of the 28th
@@ -163,12 +161,12 @@ Influential Nodes in Time-Decaying Dynamic Interaction Networks". In Proceedings
 International Conference on Data Engineering (ICDE), 2019. <a href="https://arxiv.org/abs/1810.07917">[arXiv]​</a><a href="/assets/publication/ICDE19_poster.pdf">[poster]​</a>[CCF A]</li>
 
 <li><b>Junzhou Zhao</b>, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem
-Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2018. <a href="https://arxiv.org/abs/1703.04307">[arXiv]​</a>[IF
+Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2019. <a href="https://arxiv.org/abs/1703.04307">[arXiv]​</a>[IF
 5.524]</li>
 
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Online
 Social Networks by Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery
-(DMKD), 2018. <a href="https://arxiv.org/abs/1708.09081">[arXiv]​</a>[IF 2.481]</li>
+(DMKD), 2019. <a href="https://arxiv.org/abs/1708.09081">[arXiv]​</a>[IF 2.481]</li>
 
 <li>Pinghui Wang, <b>Junzhou Zhao</b>, Xiangliang Zhang, Z. Li, J. Cheng, John C.S. Lui, Don Towsley, Jing
 Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in
@@ -253,9 +251,9 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
 </ul>
 </div>
 
-<div id="outline-container-orgb994527" class="outline-3">
-<h3 id="orgb994527">Undated</h3>
-<div class="outline-text-3" id="text-orgb994527">
+<div id="outline-container-org1e8080c" class="outline-3">
+<h3 id="org1e8080c">Undated</h3>
+<div class="outline-text-3" id="text-org1e8080c">
 <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality
 Distributions for Burst Detection in Multigraph Streams". <a href="https://arxiv.org/abs/1708.09089">[arXiv]​</a></li>
@@ -288,13 +286,13 @@ Distributions for Burst Detection in Multigraph Streams". <a href="https://arxiv
       <link>https://junzhouzhao.github.io/resources/</link>
       <description><![CDATA[<section id="content">
     
-<div id="outline-container-orgcb4aa75" class="outline-2">
-<h2 id="orgcb4aa75">Resources</h2>
-<div class="outline-text-2" id="text-orgcb4aa75">
+<div id="outline-container-orgac1fb5c" class="outline-2">
+<h2 id="orgac1fb5c">Resources</h2>
+<div class="outline-text-2" id="text-orgac1fb5c">
 </div>
-<div id="outline-container-org7964ef0" class="outline-3">
-<h3 id="org7964ef0">Machine learning, data mining, and AI conferences</h3>
-<div class="outline-text-3" id="text-org7964ef0">
+<div id="outline-container-orgca2d31e" class="outline-3">
+<h3 id="orgca2d31e">Machine learning, data mining, and AI conferences</h3>
+<div class="outline-text-3" id="text-orgca2d31e">
 
 <div class="figure">
 <p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
