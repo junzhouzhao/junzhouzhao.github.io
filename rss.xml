@@ -4,22 +4,13 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-<<<<<<< HEAD
-    <pubDate>Wed, 29 Jan 2020 11:57:04 HKT</pubDate>
-    <lastBuildDate>Wed, 29 Jan 2020 11:57:04 HKT</lastBuildDate>
-=======
-    <pubDate>Thu, 16 Jan 2020 15:16:09 CST</pubDate>
-    <lastBuildDate>Thu, 16 Jan 2020 15:16:09 CST</lastBuildDate>
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
+    <pubDate>Wed, 29 Jan 2020 12:54:38 HKT</pubDate>
+    <lastBuildDate>Wed, 29 Jan 2020 12:54:38 HKT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>Untitled</title>
-<<<<<<< HEAD
       <link>https://junzhouzhao.github.io/</link>
-=======
-      <link>https://junzhouzhao.github.io/blog/2020/</link>
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
 <li>Lin Lan, Pinghui Wang, <b>Junzhou Zhao</b>, Jing Tao, John C.S. Lui, Xiaohong Guan. "Improving Network
@@ -39,11 +30,7 @@ on Artificial Intelligence (AAAI), 2019. <a href="https://arxiv.org/abs/1811.056
 
 <li><b>Junzhou Zhao</b>, Shuo Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Tracking
 Influential Nodes in Time-Decaying Dynamic Interaction Networks". In Proceedings of the 35th IEEE
-<<<<<<< HEAD
 International Conference on Data Engineering (ICDE), 2019. <a href="https://arxiv.org/abs/1810.07917">[arXiv]​</a><a href="/assets/ICDE19_poster.pdf">[poster]​</a>[CCF A]</li>
-=======
-International Conference on Data Engineering (ICDE), 2019. <a href="https://arxiv.org/abs/1810.07917">[arXiv]​</a><a href="/assets/blog/2020/ICDE19_poster.pdf">[poster]​</a>[CCF A]</li>
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
 
 <li><b>Junzhou Zhao</b>, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem
 Definitions, Fast Algorithms, and Observations". Information Sciences (INS), 2019. <a href="https://arxiv.org/abs/1703.04307">[arXiv]​</a>[IF
@@ -55,11 +42,7 @@ Social Networks by Random Walk with Indirect Jumps". Data Mining and Knowledge D
 
 <li>Pinghui Wang, <b>Junzhou Zhao</b>, Xiangliang Zhang, Z. Li, J. Cheng, John C.S. Lui, Don Towsley, Jing
 Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in
-<<<<<<< HEAD
 Large Graphs". IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018. <a href="/assets/TKDE18_poster.pdf">[poster]​</a>[CCF
-=======
-Large Graphs". IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018. <a href="/assets/blog/2020/TKDE18_poster.pdf">[poster]​</a>[CCF
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
 A][IF 2.775]</li>
 
 <li>Pinghui Wang, <b>Junzhou Zhao</b>, Xiangliang Zhang, Jing Tao, and Xiaohong Guan. "SNOD: A Fast
@@ -97,27 +80,18 @@ Conference on Online Social Networks (COSN), 2015. <a href="http://arxiv.org/abs
 
 <li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "A Tale of Three
 Graphs: Sampling Design on Hybrid Social-Affiliation Networks". In Proceedings of the 31st IEEE
-<<<<<<< HEAD
 International Conference on Data Engineering (ICDE), 2015. <a href="/assets/ICDE2015.pdf">[pdf]​</a>[CCF A]</li>
-=======
-International Conference on Data Engineering (ICDE), 2015. <a href="/assets/blog/2020/ICDE2015.pdf">[pdf]​</a>[CCF A]</li>
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
 
 <li>Pinghui Wang, Xiaohong Guang, <b>Junzhou Zhao</b>, Jing Tao, and T. Qin. "A New Sketch Method for
 Measuring Host Connection Degree Distribution". IEEE Transactions on Information Forensics and
 Security (TIFS), 2014. [CCF A][IF 6.211]</li>
 
 <li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group
-<<<<<<< HEAD
 Closeness Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014. <a href="/assets/SIMPLEX2014.pdf">[pdf]​</a>
-=======
-Closeness Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014. <a href="/assets/blog/2020/SIMPLEX2014.pdf">[pdf]​</a>
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
 [<font color = "red">Awarded Best Paper</font>]</li>
 
 <li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "WTF: Efficient Followee Selection
 for Cascading Outbreak Detection on Online Social Networks". Computer Networks, Special Issue on
-<<<<<<< HEAD
 Online Social Networks, 2014. <a href="/assets/COMNET2014.pdf">[pdf]​</a>[IF 2.522]</li>
 
 <li>Pinghui Wang, <b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Unbiased
@@ -126,16 +100,6 @@ Data (TKDD), 2014. <a href="/assets/TKDD2014_node_pair.pdf">[pdf]​</a>[IF 1.48
 
 <li>Pinghui Wang, Wenbo He, and <b>Junzhou Zhao</b>. "A Tale of Three Social Networks: User Activity
 Comparations across Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014. <a href="/assets/IC2014.pdf">[pdf]​</a>
-=======
-Online Social Networks, 2014. <a href="/assets/blog/2020/COMNET2014.pdf">[pdf]​</a>[IF 2.522]</li>
-
-<li>Pinghui Wang, <b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Unbiased
-Characterization of Node Pairs over Large Graphs". ACM Transactions on Knowledge Discovery from
-Data (TKDD), 2014. <a href="/assets/blog/2020/TKDD2014_node_pair.pdf">[pdf]​</a>[IF 1.489]</li>
-
-<li>Pinghui Wang, Wenbo He, and <b>Junzhou Zhao</b>. "A Tale of Three Social Networks: User Activity
-Comparations across Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014. <a href="/assets/blog/2020/IC2014.pdf">[pdf]​</a>
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
 <a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks">[<font color = "red">Featured Article</font>]​</a></li>
 
 <li>Pinghui Wang, John C.S. Lui, B. Ribeiro, Don Towsley, <b>Junzhou Zhao</b>, and Xiaohong Guan.
@@ -147,7 +111,6 @@ Connections in Online Review Systems". RecSys CrowdRec workshop, 2013. <a href="
 
 <li>Pinghui Wang, <b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Node Pairs
 Over Large Graphs". In Proceedings of the 29th IEEE International Conference on Data Engineering
-<<<<<<< HEAD
 (ICDE), 2013. <a href="/assets/ICDE2013.pdf">[pdf]​</a>[CCF A]</li>
 
 <li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Empirical Analysis of the
@@ -157,27 +120,12 @@ Evolution of Follower Network: A Case Study on Douban". IEEE INFOCOM NetSciCom w
 <li>Zhaohui Wu, Lu Jiang, Zhenhua Tian, Jun Liu, Qinghua Zheng, and <b>Junzhou Zhao</b>. "A Peep at
 Pornography Web in China". In Proceedings of the Web Science Conference (WebSci), 2010.
 <a href="/assets/WebSci2010.pdf">[pdf]​</a><a href="http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs">[Media]​</a></li>
-=======
-(ICDE), 2013. <a href="/assets/blog/2020/ICDE2013.pdf">[pdf]​</a>[CCF A]</li>
-
-<li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Empirical Analysis of the
-Evolution of Follower Network: A Case Study on Douban". IEEE INFOCOM NetSciCom workshop, 2011.
-<a href="/assets/blog/2020/NetSciCom2011.pdf">[pdf]​</a></li>
-
-<li>Zhaohui Wu, Lu Jiang, Zhenhua Tian, Jun Liu, Qinghua Zheng, and <b>Junzhou Zhao</b>. "A Peep at
-Pornography Web in China". In Proceedings of the Web Science Conference (WebSci), 2010.
-<a href="/assets/blog/2020/WebSci2010.pdf">[pdf]​</a><a href="http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs">[Media]​</a></li>
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
 </ul>
 
 </section>
 ]]></description>
       <pubDate>2020-01-07</pubDate>
-<<<<<<< HEAD
       <guid>https://junzhouzhao.github.io/</guid>
-=======
-      <guid>https://junzhouzhao.github.io/blog/2020/</guid>
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
     </item>
     <item>
       <title>Publications</title>
@@ -185,15 +133,9 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
       <description><![CDATA[<section id="content">
     
 
-<<<<<<< HEAD
-<div id="outline-container-org7aab39e" class="outline-2">
-<h2 id="org7aab39e">Publications</h2>
-<div class="outline-text-2" id="text-org7aab39e">
-=======
-<div id="outline-container-org2389dde" class="outline-2">
-<h2 id="org2389dde">Publications</h2>
-<div class="outline-text-2" id="text-org2389dde">
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
+<div id="outline-container-org17fec61" class="outline-2">
+<h2 id="org17fec61">Publications</h2>
+<div class="outline-text-2" id="text-org17fec61">
 <p>
 <a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">[Google Scholar]​</a> <a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">[DBLP]​</a>
 </p>
@@ -309,15 +251,9 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
 </ul>
 </div>
 
-<<<<<<< HEAD
-<div id="outline-container-orgdd21643" class="outline-3">
-<h3 id="orgdd21643">Undated</h3>
-<div class="outline-text-3" id="text-orgdd21643">
-=======
-<div id="outline-container-orgca039fa" class="outline-3">
-<h3 id="orgca039fa">Undated</h3>
-<div class="outline-text-3" id="text-orgca039fa">
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
+<div id="outline-container-org7e3f455" class="outline-3">
+<h3 id="org7e3f455">Undated</h3>
+<div class="outline-text-3" id="text-org7e3f455">
 <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality
 Distributions for Burst Detection in Multigraph Streams". <a href="https://arxiv.org/abs/1708.09089">[arXiv]​</a></li>
@@ -333,11 +269,7 @@ Distributions for Burst Detection in Multigraph Streams". <a href="https://arxiv
     </item>
     <item>
       <title>Untitled</title>
-<<<<<<< HEAD
       <link>https://junzhouzhao.github.io/</link>
-=======
-      <link>https://junzhouzhao.github.io/blog/2020/</link>
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality
@@ -347,34 +279,20 @@ Distributions for Burst Detection in Multigraph Streams". <a href="https://arxiv
 </section>
 ]]></description>
       <pubDate>2019-12-16</pubDate>
-<<<<<<< HEAD
       <guid>https://junzhouzhao.github.io/</guid>
-=======
-      <guid>https://junzhouzhao.github.io/blog/2020/</guid>
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
     </item>
     <item>
       <title>Resources</title>
       <link>https://junzhouzhao.github.io/resources/</link>
       <description><![CDATA[<section id="content">
     
-<<<<<<< HEAD
-<div id="outline-container-orgcfbb992" class="outline-2">
-<h2 id="orgcfbb992">Resources</h2>
-<div class="outline-text-2" id="text-orgcfbb992">
+<div id="outline-container-orge904d61" class="outline-2">
+<h2 id="orge904d61">Resources</h2>
+<div class="outline-text-2" id="text-orge904d61">
 </div>
-<div id="outline-container-orgf61b6c3" class="outline-3">
-<h3 id="orgf61b6c3">Machine learning, data mining, and AI conferences</h3>
-<div class="outline-text-3" id="text-orgf61b6c3">
-=======
-<div id="outline-container-orge73f620" class="outline-2">
-<h2 id="orge73f620">Resources</h2>
-<div class="outline-text-2" id="text-orge73f620">
-</div>
-<div id="outline-container-org5384a20" class="outline-3">
-<h3 id="org5384a20">Machine learning, data mining, and AI conferences</h3>
-<div class="outline-text-3" id="text-org5384a20">
->>>>>>> 96a67e4a8563254c1cea86d362529fb2d60ac018
+<div id="outline-container-orgac2d756" class="outline-3">
+<h3 id="orgac2d756">Machine learning, data mining, and AI conferences</h3>
+<div class="outline-text-3" id="text-orgac2d756">
 
 <div class="figure">
 <p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
