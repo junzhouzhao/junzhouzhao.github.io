@@ -29,8 +29,8 @@ Technology, both from [[http://www.xjtu.edu.cn/][Xi'an Jiaotong University]].
   - optimization theory, approximation algorithms\\
     优化理论、近似计算方法
 
-  - learning theory, decision making\\
-    学习理论、决策过程
+  - learning and decision making\\
+    学习理论与决策过程
 
 
 * Activities
