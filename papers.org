@@ -1,5 +1,11 @@
 # -*- fill-column: 100; -*-
 
+- Y. Qi, P. Wang, Y. Zhang, *J. Zhao*, G. Tian and X. Guan. "Fast Generating A Large Number of
+  Gumbel-Max Variables". The Web Conference (WWW), 2020.
+
+- *J. Zhao*, P. Wang, S. Zhang, J. C.S. Lui. "Continuously Tracking Core Items in Data Streams with
+  Probabilistic Decays". IEEE International Conference on Data Engineering (ICDE), 2020.
+
 - L. Lan, P. Wang, *J. Zhao*, J Tao, J. C.S. Lui, X. Guan. "Improving Network Embedding with
   Partially Available Vertex and Edge Content". Information Sciences, 2020.
 
