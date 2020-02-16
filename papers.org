@@ -7,14 +7,14 @@
   with Probabilistic Decays". IEEE International Conference on Data Engineering (ICDE), 2020. [CCF
   A]
 
-- L. Lan, P. Wang, *J. Zhao*, J Tao, J. C.S. Lui, and X. Guan. "Improving Network Embedding with
+- L. Lan, P. Wang, *J. Zhao*, J. Tao, J. C.S. Lui, and X. Guan. "Improving Network Embedding with
   Partially Available Vertex and Edge Content". Information Sciences, 2020.
 
 - X. Zhang, H. Xie, *J. Zhao*, and J. C.S. Lui. "Understanding Assimilation-Contrast Effects in
   Online Rating Systems: Modeling, Debiasing and Applications". ACM Transactions on Information
   Systems (TOIS), 2020. [CCF A]
 
-- N. Xu, P. Wang, L. Chen, J Tao, and *J. Zhao*. "MR-GNN: Multi-resolution and dual graph neural
+- N. Xu, P. Wang, L. Chen, J. Tao, and *J. Zhao*. "MR-GNN: Multi-resolution and dual graph neural
   network for predicting structured entity interaction". In Proceedings of the 28th International
   Joint Conference on Artificial Intelligence (IJCAI), 2019. [[[https://arxiv.org/abs/1905.09558][arXiv]]][CCF A]
 
@@ -37,7 +37,7 @@
   "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs". IEEE
   Transactions on Knowledge and Data Engineering (TKDE), 2018. [[[file:assets/TKDE18_poster.pdf][poster]]][CCF A][IF 2.775]
 
-- P. Wang, *J. Zhao*, X. Zhang, J Tao, and X. Guan. "SNOD: A Fast Sampling Method of Exploring Node
+- P. Wang, *J. Zhao*, X. Zhang, J. Tao, and X. Guan. "SNOD: A Fast Sampling Method of Exploring Node
   Orbit Degrees for Large Graphs". Knowledge and Information Systems (KAIS), 2018. [IF 2.247]
 
 - P. Wang, *J. Zhao*, J. C.S. Lui, D. Towsley, and X. Guan. "Fast Crawling Methods of Exploring
@@ -47,7 +47,7 @@
   of Large Networks Using Neighborhood Information". Knowledge and Information Systems (KAIS), 2018.
   [IF 2.247]
 
-- P. Wang, Y. Qi, J. C.S. Lui, D. Towsley, *J. Zhao*, J Tao. "Inferring Higher-Order Structure
+- P. Wang, Y. Qi, J. C.S. Lui, D. Towsley, *J. Zhao*, J. Tao. "Inferring Higher-Order Structure
   Statistics of Large Networks From Sampled Edges". IEEE Transactions on Knowledge and Data
   Engineering (TKDE), 2017. [CCF A][IF 2.775]
 
@@ -71,7 +71,7 @@
   on Hybrid Social-Affiliation Networks". In Proceedings of the 31st IEEE International Conference
   on Data Engineering (ICDE), 2015. [[[file:assets/ICDE2015.pdf][pdf]]][CCF A]
 
-- P. Wang, X. Guang, *J. Zhao*, J Tao, and T. Qin. "A New Sketch Method for Measuring Host
+- P. Wang, X. Guang, *J. Zhao*, J. Tao, and T. Qin. "A New Sketch Method for Measuring Host
   Connection Degree Distribution". IEEE Transactions on Information Forensics and Security
   (TIFS), 2014. [CCF A][IF 6.211]
 
@@ -95,7 +95,7 @@
   Motif Statistics of Large Networks". ACM Transactions on Knowledge Discovery from Data
   (TKDD), 2014. [[[http://arxiv.org/abs/1306.5288][arXiv]]][IF 1.489]
 
-- *J. Zhao*, X. Guan, and J Tao. "On Analyzing Estimation Errors due to Constrained Connections in
+- *J. Zhao*, X. Guan, and J. Tao. "On Analyzing Estimation Errors due to Constrained Connections in
   Online Review Systems". RecSys CrowdRec workshop, 2013. [[[http://arxiv.org/abs/1307.3687][arXiv]]]
 
 - P. Wang, *J. Zhao*, J. C.S. Lui, D. Towsley, and X. Guan. "Sampling Node Pairs Over Large Graphs".
