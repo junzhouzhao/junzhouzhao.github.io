@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Sat, 15 Feb 2020 09:15:21 HKT</pubDate>
-    <lastBuildDate>Sat, 15 Feb 2020 09:15:21 HKT</lastBuildDate>
+    <pubDate>Sun, 16 Feb 2020 20:59:02 HKT</pubDate>
+    <lastBuildDate>Sun, 16 Feb 2020 20:59:02 HKT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,40 +14,40 @@
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
 <li>Y. Qi, P. Wang, Y. Zhang, <b>J. Zhao</b>, G. Tian and X. Guan. "Fast Generating A Large Number of
-Gumbel-Max Variables". The Web Conference (WWW), 2020.</li>
+Gumbel-Max Variables". The Web Conference (WWW), 2020. [<a href="https://arxiv.org/abs/2002.03129">arXiv</a>][CCF A]</li>
 
 <li><b>J. Zhao</b>, P. Wang, S. Zhang, J. C.S. Lui. "Continuously Tracking Core Items in Data Streams with
-Probabilistic Decays". IEEE International Conference on Data Engineering (ICDE), 2020.</li>
+Probabilistic Decays". IEEE International Conference on Data Engineering (ICDE), 2020. [CCF A]</li>
 
 <li>L. Lan, P. Wang, <b>J. Zhao</b>, J Tao, J. C.S. Lui, X. Guan. "Improving Network Embedding with
 Partially Available Vertex and Edge Content". Information Sciences, 2020.</li>
 
 <li>X. Zhang, H. Xie, <b>J. Zhao</b>, J. C.S. Lui. "Understanding Assimilation-Contrast Effects in Online
 Rating Systems: Modeling, Debiasing and Applications". ACM Transactions on Information Systems
-(TOIS), 2020.</li>
+(TOIS), 2020. [CCF A]</li>
 
 <li>N. Xu, P. Wang, L. Chen, J Tao, <b>J. Zhao</b>. "MR-GNN: Multi-resolution and dual graph neural network
 for predicting structured entity interaction". In Proceedings of the 28th International Joint
-Conference on Artificial Intelligence (IJCAI), 2019. <a href="https://arxiv.org/abs/1905.09558">[arXiv]​</a>[CCF A]</li>
+Conference on Artificial Intelligence (IJCAI), 2019. [<a href="https://arxiv.org/abs/1905.09558">arXiv</a>][CCF A]</li>
 
 <li><b>J. Zhao</b>, S. Shang, P. Wang, J. C.S. Lui, and X. Zhang. "Submodular Optimization over Streams
 with Inhomogeneous Decays". In Proceedings of the 33rd AAAI Conference on Artificial Intelligence
-(AAAI), 2019. <a href="https://arxiv.org/abs/1811.05652">[arXiv]​</a>[CCF A]</li>
+(AAAI), 2019. [<a href="https://arxiv.org/abs/1811.05652">arXiv</a>][CCF A]</li>
 
 <li><b>J. Zhao</b>, S. Shang, P. Wang, J. C.S. Lui, and X. Zhang. "Tracking Influential Nodes in
 Time-Decaying Dynamic Interaction Networks". In Proceedings of the 35th IEEE International
-Conference on Data Engineering (ICDE), 2019. <a href="https://arxiv.org/abs/1810.07917">[arXiv]​</a><a href="/assets/article/2020/02/ICDE19_poster.pdf">[poster]​</a>[CCF A]</li>
+Conference on Data Engineering (ICDE), 2019. [<a href="https://arxiv.org/abs/1810.07917">arXiv</a>][<a href="/assets/article/2020/02/ICDE19_poster.pdf">poster</a>][CCF A]</li>
 
 <li><b>J. Zhao</b>, P. Wang, and J. C.S. Lui. "Optimizing Node Discovery on Networks: Problem Definitions,
-Fast Algorithms, and Observations". Information Sciences (INS), 2019. <a href="https://arxiv.org/abs/1703.04307">[arXiv]​</a>[IF 5.524]</li>
+Fast Algorithms, and Observations". Information Sciences (INS), 2019. [<a href="https://arxiv.org/abs/1703.04307">arXiv</a>][IF 5.524]</li>
 
 <li><b>J. Zhao</b>, P. Wang, J. C.S. Lui, D. Towsley, and X. Guan. "Sampling Online Social Networks by
-Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery (DMKD), 2019. <a href="https://arxiv.org/abs/1708.09081">[arXiv]​</a>[IF
+Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery (DMKD), 2019. [<a href="https://arxiv.org/abs/1708.09081">arXiv</a>][IF
 2.481]</li>
 
 <li>P. Wang, <b>J. Zhao</b>, X. Zhang, Z. Li, J. Cheng, J. C.S. Lui, D. Towsley, J. Tao, and X. Guan.
 "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs". IEEE
-Transactions on Knowledge and Data Engineering (TKDE), 2018. <a href="/assets/article/2020/02/TKDE18_poster.pdf">[poster]​</a>[CCF A][IF 2.775]</li>
+Transactions on Knowledge and Data Engineering (TKDE), 2018. [<a href="/assets/article/2020/02/TKDE18_poster.pdf">poster</a>][CCF A][IF 2.775]</li>
 
 <li>P. Wang, <b>J. Zhao</b>, X. Zhang, J Tao, and X. Guan. "SNOD: A Fast Sampling Method of Exploring Node
 Orbit Degrees for Large Graphs". Knowledge and Information Systems (KAIS), 2018. [IF 2.247]</li>
@@ -77,53 +77,53 @@ from Sampled Edges". In Proceedings of the 32nd IEEE International Conference on
 
 <li><b>J. Zhao</b>, J. C.S. Lui, D. Towsley, P. Wang, and X. Guan. "Tracking Triadic Cardinality
 Distributions for Burst Detection in Social Activity Streams". In Proceedings of ACM Conference on
-Online Social Networks (COSN), 2015. <a href="http://arxiv.org/abs/1411.3808">[arXiv]​</a></li>
+Online Social Networks (COSN), 2015. [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</li>
 
 <li><b>J. Zhao</b>, J. C.S. Lui, D. Towsley, P. Wang, and X. Guan. "A Tale of Three Graphs: Sampling Design
 on Hybrid Social-Affiliation Networks". In Proceedings of the 31st IEEE International Conference
-on Data Engineering (ICDE), 2015. <a href="/assets/article/2020/02/ICDE2015.pdf">[pdf]​</a>[CCF A]</li>
+on Data Engineering (ICDE), 2015. [<a href="/assets/article/2020/02/ICDE2015.pdf">pdf</a>][CCF A]</li>
 
 <li>P. Wang, X. Guang, <b>J. Zhao</b>, J Tao, and T. Qin. "A New Sketch Method for Measuring Host
 Connection Degree Distribution". IEEE Transactions on Information Forensics and Security
 (TIFS), 2014. [CCF A][IF 6.211]</li>
 
 <li><b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "Measuring and Maximizing Group Closeness
-Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014. <a href="/assets/article/2020/02/SIMPLEX2014.pdf">[pdf]​</a> [<font
+Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014. [<a href="/assets/article/2020/02/SIMPLEX2014.pdf">pdf</a>][<font
   color="red">Awarded Best Paper</font>]</li>
 
 <li><b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "WTF: Efficient Followee Selection for Cascading
 Outbreak Detection on Online Social Networks". Computer Networks, Special Issue on Online Social
-Networks, 2014. <a href="/assets/article/2020/02/COMNET2014.pdf">[pdf]​</a>[IF 2.522]</li>
+Networks, 2014. [<a href="/assets/article/2020/02/COMNET2014.pdf">pdf</a>][IF 2.522]</li>
 
 <li>P. Wang, <b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "Unbiased Characterization of Node Pairs
-over Large Graphs". ACM Transactions on Knowledge Discovery from Data (TKDD), 2014. <a href="/assets/article/2020/02/TKDD2014_node_pair.pdf">[pdf]​</a>[IF
+over Large Graphs". ACM Transactions on Knowledge Discovery from Data (TKDD), 2014. [<a href="/assets/article/2020/02/TKDD2014_node_pair.pdf">pdf</a>][IF
 1.489]</li>
 
 <li>P. Wang, W. He, and <b>J. Zhao</b>. "A Tale of Three Social Networks: User Activity Comparations across
-Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014. <a href="/assets/article/2020/02/IC2014.pdf">[pdf]​</a> <a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks">[<font color =
-  "red">Featured Article</font>]​</a></li>
+Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014.
+[<a href="/assets/article/2020/02/IC2014.pdf">pdf</a>][<a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks"><font color="red">Featured Article</font></a>]</li>
 
 <li>P. Wang, J. C.S. Lui, B. Ribeiro, D. Towsley, <b>J. Zhao</b>, and X. Guan. "Efficiently Estimating
 Motif Statistics of Large Networks". ACM Transactions on Knowledge Discovery from Data
-(TKDD), 2014. <a href="http://arxiv.org/abs/1306.5288">[arXiv]​</a>[IF 1.489]</li>
+(TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>][IF 1.489]</li>
 
 <li><b>J. Zhao</b>, X. Guan, and J Tao. "On Analyzing Estimation Errors due to Constrained Connections in
-Online Review Systems". RecSys CrowdRec workshop, 2013. <a href="http://arxiv.org/abs/1307.3687">[arXiv]​</a></li>
+Online Review Systems". RecSys CrowdRec workshop, 2013. [<a href="http://arxiv.org/abs/1307.3687">arXiv</a>]</li>
 
 <li>P. Wang, <b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "Sampling Node Pairs Over Large Graphs".
 In Proceedings of the 29th IEEE International Conference on Data Engineering (ICDE), 2013.
-<a href="/assets/article/2020/02/ICDE2013.pdf">[pdf]​</a>[CCF A]</li>
+[<a href="/assets/article/2020/02/ICDE2013.pdf">pdf</a>][CCF A]</li>
 
 <li><b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "Empirical Analysis of the Evolution of Follower
-Network: A Case Study on Douban". IEEE INFOCOM NetSciCom workshop, 2011. <a href="/assets/article/2020/02/NetSciCom2011.pdf">[pdf]​</a></li>
+Network: A Case Study on Douban". IEEE INFOCOM NetSciCom workshop, 2011. [<a href="/assets/article/2020/02/NetSciCom2011.pdf">pdf</a>]</li>
 
 <li>Z. Wu, L. Jiang, Z. Tian, J. Liu, Q. Zheng, and <b>J. Zhao</b>. "A Peep at Pornography Web in China".
-In Proceedings of the Web Science Conference (WebSci), 2010. <a href="/assets/article/2020/02/WebSci2010.pdf">[pdf]​</a><a href="http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs">[Media]​</a></li>
+In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="/assets/article/2020/02/WebSci2010.pdf">pdf</a>][<a href="http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs">Media</a>]</li>
 </ul>
 
 </section>
 ]]></description>
-      <pubDate>2020-02-15</pubDate>
+      <pubDate>2020-02-16</pubDate>
       <guid>https://junzhouzhao.github.io/article/2020/02/</guid>
     </item>
     <item>
@@ -132,12 +132,12 @@ In Proceedings of the Web Science Conference (WebSci), 2010. <a href="/assets/ar
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
 <li><b>J. Zhao</b>, P. Wang, J. C.S. Lui, and D. Towsley. "Tracking Triadic Cardinality Distributions for
-Burst Detection in Multigraph Streams". <a href="https://arxiv.org/abs/1708.09089">[arXiv]​</a></li>
+Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
 </ul>
 
 </section>
 ]]></description>
-      <pubDate>2020-02-12</pubDate>
+      <pubDate>2020-02-16</pubDate>
       <guid>https://junzhouzhao.github.io/article/2020/02/</guid>
     </item>
     <item>
@@ -146,49 +146,49 @@ Burst Detection in Multigraph Streams". <a href="https://arxiv.org/abs/1708.0908
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-orgbf546c3" class="outline-2">
-<h2 id="orgbf546c3">Publications</h2>
-<div class="outline-text-2" id="text-orgbf546c3">
+<div id="outline-container-org655f19b" class="outline-2">
+<h2 id="org655f19b">Publications</h2>
+<div class="outline-text-2" id="text-org655f19b">
 <p>
 <a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">[Google Scholar]​</a> <a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">[DBLP]​</a>
 </p>
 
 <ul class="org-ul">
 <li>Y. Qi, P. Wang, Y. Zhang, <b>J. Zhao</b>, G. Tian and X. Guan. "Fast Generating A Large Number of
-Gumbel-Max Variables". The Web Conference (WWW), 2020.</li>
+Gumbel-Max Variables". The Web Conference (WWW), 2020. [<a href="https://arxiv.org/abs/2002.03129">arXiv</a>][CCF A]</li>
 
 <li><b>J. Zhao</b>, P. Wang, S. Zhang, J. C.S. Lui. "Continuously Tracking Core Items in Data Streams with
-Probabilistic Decays". IEEE International Conference on Data Engineering (ICDE), 2020.</li>
+Probabilistic Decays". IEEE International Conference on Data Engineering (ICDE), 2020. [CCF A]</li>
 
 <li>L. Lan, P. Wang, <b>J. Zhao</b>, J Tao, J. C.S. Lui, X. Guan. "Improving Network Embedding with
 Partially Available Vertex and Edge Content". Information Sciences, 2020.</li>
 
 <li>X. Zhang, H. Xie, <b>J. Zhao</b>, J. C.S. Lui. "Understanding Assimilation-Contrast Effects in Online
 Rating Systems: Modeling, Debiasing and Applications". ACM Transactions on Information Systems
-(TOIS), 2020.</li>
+(TOIS), 2020. [CCF A]</li>
 
 <li>N. Xu, P. Wang, L. Chen, J Tao, <b>J. Zhao</b>. "MR-GNN: Multi-resolution and dual graph neural network
 for predicting structured entity interaction". In Proceedings of the 28th International Joint
-Conference on Artificial Intelligence (IJCAI), 2019. <a href="https://arxiv.org/abs/1905.09558">[arXiv]​</a>[CCF A]</li>
+Conference on Artificial Intelligence (IJCAI), 2019. [<a href="https://arxiv.org/abs/1905.09558">arXiv</a>][CCF A]</li>
 
 <li><b>J. Zhao</b>, S. Shang, P. Wang, J. C.S. Lui, and X. Zhang. "Submodular Optimization over Streams
 with Inhomogeneous Decays". In Proceedings of the 33rd AAAI Conference on Artificial Intelligence
-(AAAI), 2019. <a href="https://arxiv.org/abs/1811.05652">[arXiv]​</a>[CCF A]</li>
+(AAAI), 2019. [<a href="https://arxiv.org/abs/1811.05652">arXiv</a>][CCF A]</li>
 
 <li><b>J. Zhao</b>, S. Shang, P. Wang, J. C.S. Lui, and X. Zhang. "Tracking Influential Nodes in
 Time-Decaying Dynamic Interaction Networks". In Proceedings of the 35th IEEE International
-Conference on Data Engineering (ICDE), 2019. <a href="https://arxiv.org/abs/1810.07917">[arXiv]​</a><a href="/assets/publication/ICDE19_poster.pdf">[poster]​</a>[CCF A]</li>
+Conference on Data Engineering (ICDE), 2019. [<a href="https://arxiv.org/abs/1810.07917">arXiv</a>][<a href="/assets/publication/ICDE19_poster.pdf">poster</a>][CCF A]</li>
 
 <li><b>J. Zhao</b>, P. Wang, and J. C.S. Lui. "Optimizing Node Discovery on Networks: Problem Definitions,
-Fast Algorithms, and Observations". Information Sciences (INS), 2019. <a href="https://arxiv.org/abs/1703.04307">[arXiv]​</a>[IF 5.524]</li>
+Fast Algorithms, and Observations". Information Sciences (INS), 2019. [<a href="https://arxiv.org/abs/1703.04307">arXiv</a>][IF 5.524]</li>
 
 <li><b>J. Zhao</b>, P. Wang, J. C.S. Lui, D. Towsley, and X. Guan. "Sampling Online Social Networks by
-Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery (DMKD), 2019. <a href="https://arxiv.org/abs/1708.09081">[arXiv]​</a>[IF
+Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery (DMKD), 2019. [<a href="https://arxiv.org/abs/1708.09081">arXiv</a>][IF
 2.481]</li>
 
 <li>P. Wang, <b>J. Zhao</b>, X. Zhang, Z. Li, J. Cheng, J. C.S. Lui, D. Towsley, J. Tao, and X. Guan.
 "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs". IEEE
-Transactions on Knowledge and Data Engineering (TKDE), 2018. <a href="/assets/publication/TKDE18_poster.pdf">[poster]​</a>[CCF A][IF 2.775]</li>
+Transactions on Knowledge and Data Engineering (TKDE), 2018. [<a href="/assets/publication/TKDE18_poster.pdf">poster</a>][CCF A][IF 2.775]</li>
 
 <li>P. Wang, <b>J. Zhao</b>, X. Zhang, J Tao, and X. Guan. "SNOD: A Fast Sampling Method of Exploring Node
 Orbit Degrees for Large Graphs". Knowledge and Information Systems (KAIS), 2018. [IF 2.247]</li>
@@ -218,57 +218,57 @@ from Sampled Edges". In Proceedings of the 32nd IEEE International Conference on
 
 <li><b>J. Zhao</b>, J. C.S. Lui, D. Towsley, P. Wang, and X. Guan. "Tracking Triadic Cardinality
 Distributions for Burst Detection in Social Activity Streams". In Proceedings of ACM Conference on
-Online Social Networks (COSN), 2015. <a href="http://arxiv.org/abs/1411.3808">[arXiv]​</a></li>
+Online Social Networks (COSN), 2015. [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</li>
 
 <li><b>J. Zhao</b>, J. C.S. Lui, D. Towsley, P. Wang, and X. Guan. "A Tale of Three Graphs: Sampling Design
 on Hybrid Social-Affiliation Networks". In Proceedings of the 31st IEEE International Conference
-on Data Engineering (ICDE), 2015. <a href="/assets/publication/ICDE2015.pdf">[pdf]​</a>[CCF A]</li>
+on Data Engineering (ICDE), 2015. [<a href="/assets/publication/ICDE2015.pdf">pdf</a>][CCF A]</li>
 
 <li>P. Wang, X. Guang, <b>J. Zhao</b>, J Tao, and T. Qin. "A New Sketch Method for Measuring Host
 Connection Degree Distribution". IEEE Transactions on Information Forensics and Security
 (TIFS), 2014. [CCF A][IF 6.211]</li>
 
 <li><b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "Measuring and Maximizing Group Closeness
-Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014. <a href="/assets/publication/SIMPLEX2014.pdf">[pdf]​</a> [<font
+Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014. [<a href="/assets/publication/SIMPLEX2014.pdf">pdf</a>][<font
     color="red">Awarded Best Paper</font>]</li>
 
 <li><b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "WTF: Efficient Followee Selection for Cascading
 Outbreak Detection on Online Social Networks". Computer Networks, Special Issue on Online Social
-Networks, 2014. <a href="/assets/publication/COMNET2014.pdf">[pdf]​</a>[IF 2.522]</li>
+Networks, 2014. [<a href="/assets/publication/COMNET2014.pdf">pdf</a>][IF 2.522]</li>
 
 <li>P. Wang, <b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "Unbiased Characterization of Node Pairs
-over Large Graphs". ACM Transactions on Knowledge Discovery from Data (TKDD), 2014. <a href="/assets/publication/TKDD2014_node_pair.pdf">[pdf]​</a>[IF
+over Large Graphs". ACM Transactions on Knowledge Discovery from Data (TKDD), 2014. [<a href="/assets/publication/TKDD2014_node_pair.pdf">pdf</a>][IF
 1.489]</li>
 
 <li>P. Wang, W. He, and <b>J. Zhao</b>. "A Tale of Three Social Networks: User Activity Comparations across
-Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014. <a href="/assets/publication/IC2014.pdf">[pdf]​</a> <a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks">[<font color =
-    "red">Featured Article</font>]​</a></li>
+Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014.
+[<a href="/assets/publication/IC2014.pdf">pdf</a>][<a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks"><font color="red">Featured Article</font></a>]</li>
 
 <li>P. Wang, J. C.S. Lui, B. Ribeiro, D. Towsley, <b>J. Zhao</b>, and X. Guan. "Efficiently Estimating
 Motif Statistics of Large Networks". ACM Transactions on Knowledge Discovery from Data
-(TKDD), 2014. <a href="http://arxiv.org/abs/1306.5288">[arXiv]​</a>[IF 1.489]</li>
+(TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>][IF 1.489]</li>
 
 <li><b>J. Zhao</b>, X. Guan, and J Tao. "On Analyzing Estimation Errors due to Constrained Connections in
-Online Review Systems". RecSys CrowdRec workshop, 2013. <a href="http://arxiv.org/abs/1307.3687">[arXiv]​</a></li>
+Online Review Systems". RecSys CrowdRec workshop, 2013. [<a href="http://arxiv.org/abs/1307.3687">arXiv</a>]</li>
 
 <li>P. Wang, <b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "Sampling Node Pairs Over Large Graphs".
 In Proceedings of the 29th IEEE International Conference on Data Engineering (ICDE), 2013.
-<a href="/assets/publication/ICDE2013.pdf">[pdf]​</a>[CCF A]</li>
+[<a href="/assets/publication/ICDE2013.pdf">pdf</a>][CCF A]</li>
 
 <li><b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "Empirical Analysis of the Evolution of Follower
-Network: A Case Study on Douban". IEEE INFOCOM NetSciCom workshop, 2011. <a href="/assets/publication/NetSciCom2011.pdf">[pdf]​</a></li>
+Network: A Case Study on Douban". IEEE INFOCOM NetSciCom workshop, 2011. [<a href="/assets/publication/NetSciCom2011.pdf">pdf</a>]</li>
 
 <li>Z. Wu, L. Jiang, Z. Tian, J. Liu, Q. Zheng, and <b>J. Zhao</b>. "A Peep at Pornography Web in China".
-In Proceedings of the Web Science Conference (WebSci), 2010. <a href="/assets/publication/WebSci2010.pdf">[pdf]​</a><a href="http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs">[Media]​</a></li>
+In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="/assets/publication/WebSci2010.pdf">pdf</a>][<a href="http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs">Media</a>]</li>
 </ul>
 </div>
 
-<div id="outline-container-org3ada6e0" class="outline-3">
-<h3 id="org3ada6e0">Undated</h3>
-<div class="outline-text-3" id="text-org3ada6e0">
+<div id="outline-container-orga34ada2" class="outline-3">
+<h3 id="orga34ada2">Undated</h3>
+<div class="outline-text-3" id="text-orga34ada2">
 <ul class="org-ul">
 <li><b>J. Zhao</b>, P. Wang, J. C.S. Lui, and D. Towsley. "Tracking Triadic Cardinality Distributions for
-Burst Detection in Multigraph Streams". <a href="https://arxiv.org/abs/1708.09089">[arXiv]​</a></li>
+Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
 </ul>
 </div>
 </div>
@@ -284,13 +284,13 @@ Burst Detection in Multigraph Streams". <a href="https://arxiv.org/abs/1708.0908
       <link>https://junzhouzhao.github.io/resources/</link>
       <description><![CDATA[<section id="content">
     
-<div id="outline-container-org0b10761" class="outline-2">
-<h2 id="org0b10761">Resources</h2>
-<div class="outline-text-2" id="text-org0b10761">
+<div id="outline-container-org9974366" class="outline-2">
+<h2 id="org9974366">Resources</h2>
+<div class="outline-text-2" id="text-org9974366">
 </div>
-<div id="outline-container-org05296a6" class="outline-3">
-<h3 id="org05296a6">Machine learning, data mining, and AI conferences</h3>
-<div class="outline-text-3" id="text-org05296a6">
+<div id="outline-container-org1add64d" class="outline-3">
+<h3 id="org1add64d">Machine learning, data mining, and AI conferences</h3>
+<div class="outline-text-3" id="text-org1add64d">
 
 <div class="figure">
 <p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
