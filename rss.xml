@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Sun, 16 Feb 2020 21:05:08 HKT</pubDate>
-    <lastBuildDate>Sun, 16 Feb 2020 21:05:08 HKT</lastBuildDate>
+    <pubDate>Sun, 16 Feb 2020 21:07:38 HKT</pubDate>
+    <lastBuildDate>Sun, 16 Feb 2020 21:07:38 HKT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -20,14 +20,14 @@ Gumbel-Max Variables". The Web Conference (WWW), 2020. [<a href="https://arxiv.o
 with Probabilistic Decays". IEEE International Conference on Data Engineering (ICDE), 2020. [CCF
 A]</li>
 
-<li>L. Lan, P. Wang, <b>J. Zhao</b>, J Tao, J. C.S. Lui, and X. Guan. "Improving Network Embedding with
+<li>L. Lan, P. Wang, <b>J. Zhao</b>, J. Tao, J. C.S. Lui, and X. Guan. "Improving Network Embedding with
 Partially Available Vertex and Edge Content". Information Sciences, 2020.</li>
 
 <li>X. Zhang, H. Xie, <b>J. Zhao</b>, and J. C.S. Lui. "Understanding Assimilation-Contrast Effects in
 Online Rating Systems: Modeling, Debiasing and Applications". ACM Transactions on Information
 Systems (TOIS), 2020. [CCF A]</li>
 
-<li>N. Xu, P. Wang, L. Chen, J Tao, and <b>J. Zhao</b>. "MR-GNN: Multi-resolution and dual graph neural
+<li>N. Xu, P. Wang, L. Chen, J. Tao, and <b>J. Zhao</b>. "MR-GNN: Multi-resolution and dual graph neural
 network for predicting structured entity interaction". In Proceedings of the 28th International
 Joint Conference on Artificial Intelligence (IJCAI), 2019. [<a href="https://arxiv.org/abs/1905.09558">arXiv</a>][CCF A]</li>
 
@@ -50,7 +50,7 @@ Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery (DMKD), 20
 "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs". IEEE
 Transactions on Knowledge and Data Engineering (TKDE), 2018. [<a href="/assets/article/2020/02/TKDE18_poster.pdf">poster</a>][CCF A][IF 2.775]</li>
 
-<li>P. Wang, <b>J. Zhao</b>, X. Zhang, J Tao, and X. Guan. "SNOD: A Fast Sampling Method of Exploring Node
+<li>P. Wang, <b>J. Zhao</b>, X. Zhang, J. Tao, and X. Guan. "SNOD: A Fast Sampling Method of Exploring Node
 Orbit Degrees for Large Graphs". Knowledge and Information Systems (KAIS), 2018. [IF 2.247]</li>
 
 <li>P. Wang, <b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "Fast Crawling Methods of Exploring
@@ -60,7 +60,7 @@ Content Distributed Over Large Graphs". Knowledge and Information Systems (KAIS)
 of Large Networks Using Neighborhood Information". Knowledge and Information Systems (KAIS), 2018.
 [IF 2.247]</li>
 
-<li>P. Wang, Y. Qi, J. C.S. Lui, D. Towsley, <b>J. Zhao</b>, J Tao. "Inferring Higher-Order Structure
+<li>P. Wang, Y. Qi, J. C.S. Lui, D. Towsley, <b>J. Zhao</b>, J. Tao. "Inferring Higher-Order Structure
 Statistics of Large Networks From Sampled Edges". IEEE Transactions on Knowledge and Data
 Engineering (TKDE), 2017. [CCF A][IF 2.775]</li>
 
@@ -84,7 +84,7 @@ Online Social Networks (COSN), 2015. [<a href="http://arxiv.org/abs/1411.3808">a
 on Hybrid Social-Affiliation Networks". In Proceedings of the 31st IEEE International Conference
 on Data Engineering (ICDE), 2015. [<a href="/assets/article/2020/02/ICDE2015.pdf">pdf</a>][CCF A]</li>
 
-<li>P. Wang, X. Guang, <b>J. Zhao</b>, J Tao, and T. Qin. "A New Sketch Method for Measuring Host
+<li>P. Wang, X. Guang, <b>J. Zhao</b>, J. Tao, and T. Qin. "A New Sketch Method for Measuring Host
 Connection Degree Distribution". IEEE Transactions on Information Forensics and Security
 (TIFS), 2014. [CCF A][IF 6.211]</li>
 
@@ -108,7 +108,7 @@ Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014.
 Motif Statistics of Large Networks". ACM Transactions on Knowledge Discovery from Data
 (TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>][IF 1.489]</li>
 
-<li><b>J. Zhao</b>, X. Guan, and J Tao. "On Analyzing Estimation Errors due to Constrained Connections in
+<li><b>J. Zhao</b>, X. Guan, and J. Tao. "On Analyzing Estimation Errors due to Constrained Connections in
 Online Review Systems". RecSys CrowdRec workshop, 2013. [<a href="http://arxiv.org/abs/1307.3687">arXiv</a>]</li>
 
 <li>P. Wang, <b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "Sampling Node Pairs Over Large Graphs".
@@ -147,9 +147,9 @@ Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.090
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org7d7fea8" class="outline-2">
-<h2 id="org7d7fea8">Publications</h2>
-<div class="outline-text-2" id="text-org7d7fea8">
+<div id="outline-container-org335641d" class="outline-2">
+<h2 id="org335641d">Publications</h2>
+<div class="outline-text-2" id="text-org335641d">
 <p>
 <a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">[Google Scholar]​</a> <a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">[DBLP]​</a>
 </p>
@@ -162,14 +162,14 @@ Gumbel-Max Variables". The Web Conference (WWW), 2020. [<a href="https://arxiv.o
 with Probabilistic Decays". IEEE International Conference on Data Engineering (ICDE), 2020. [CCF
 A]</li>
 
-<li>L. Lan, P. Wang, <b>J. Zhao</b>, J Tao, J. C.S. Lui, and X. Guan. "Improving Network Embedding with
+<li>L. Lan, P. Wang, <b>J. Zhao</b>, J. Tao, J. C.S. Lui, and X. Guan. "Improving Network Embedding with
 Partially Available Vertex and Edge Content". Information Sciences, 2020.</li>
 
 <li>X. Zhang, H. Xie, <b>J. Zhao</b>, and J. C.S. Lui. "Understanding Assimilation-Contrast Effects in
 Online Rating Systems: Modeling, Debiasing and Applications". ACM Transactions on Information
 Systems (TOIS), 2020. [CCF A]</li>
 
-<li>N. Xu, P. Wang, L. Chen, J Tao, and <b>J. Zhao</b>. "MR-GNN: Multi-resolution and dual graph neural
+<li>N. Xu, P. Wang, L. Chen, J. Tao, and <b>J. Zhao</b>. "MR-GNN: Multi-resolution and dual graph neural
 network for predicting structured entity interaction". In Proceedings of the 28th International
 Joint Conference on Artificial Intelligence (IJCAI), 2019. [<a href="https://arxiv.org/abs/1905.09558">arXiv</a>][CCF A]</li>
 
@@ -192,7 +192,7 @@ Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery (DMKD), 20
 "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs". IEEE
 Transactions on Knowledge and Data Engineering (TKDE), 2018. [<a href="/assets/publication/TKDE18_poster.pdf">poster</a>][CCF A][IF 2.775]</li>
 
-<li>P. Wang, <b>J. Zhao</b>, X. Zhang, J Tao, and X. Guan. "SNOD: A Fast Sampling Method of Exploring Node
+<li>P. Wang, <b>J. Zhao</b>, X. Zhang, J. Tao, and X. Guan. "SNOD: A Fast Sampling Method of Exploring Node
 Orbit Degrees for Large Graphs". Knowledge and Information Systems (KAIS), 2018. [IF 2.247]</li>
 
 <li>P. Wang, <b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "Fast Crawling Methods of Exploring
@@ -202,7 +202,7 @@ Content Distributed Over Large Graphs". Knowledge and Information Systems (KAIS)
 of Large Networks Using Neighborhood Information". Knowledge and Information Systems (KAIS), 2018.
 [IF 2.247]</li>
 
-<li>P. Wang, Y. Qi, J. C.S. Lui, D. Towsley, <b>J. Zhao</b>, J Tao. "Inferring Higher-Order Structure
+<li>P. Wang, Y. Qi, J. C.S. Lui, D. Towsley, <b>J. Zhao</b>, J. Tao. "Inferring Higher-Order Structure
 Statistics of Large Networks From Sampled Edges". IEEE Transactions on Knowledge and Data
 Engineering (TKDE), 2017. [CCF A][IF 2.775]</li>
 
@@ -226,7 +226,7 @@ Online Social Networks (COSN), 2015. [<a href="http://arxiv.org/abs/1411.3808">a
 on Hybrid Social-Affiliation Networks". In Proceedings of the 31st IEEE International Conference
 on Data Engineering (ICDE), 2015. [<a href="/assets/publication/ICDE2015.pdf">pdf</a>][CCF A]</li>
 
-<li>P. Wang, X. Guang, <b>J. Zhao</b>, J Tao, and T. Qin. "A New Sketch Method for Measuring Host
+<li>P. Wang, X. Guang, <b>J. Zhao</b>, J. Tao, and T. Qin. "A New Sketch Method for Measuring Host
 Connection Degree Distribution". IEEE Transactions on Information Forensics and Security
 (TIFS), 2014. [CCF A][IF 6.211]</li>
 
@@ -250,7 +250,7 @@ Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014.
 Motif Statistics of Large Networks". ACM Transactions on Knowledge Discovery from Data
 (TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>][IF 1.489]</li>
 
-<li><b>J. Zhao</b>, X. Guan, and J Tao. "On Analyzing Estimation Errors due to Constrained Connections in
+<li><b>J. Zhao</b>, X. Guan, and J. Tao. "On Analyzing Estimation Errors due to Constrained Connections in
 Online Review Systems". RecSys CrowdRec workshop, 2013. [<a href="http://arxiv.org/abs/1307.3687">arXiv</a>]</li>
 
 <li>P. Wang, <b>J. Zhao</b>, J. C.S. Lui, D. Towsley, and X. Guan. "Sampling Node Pairs Over Large Graphs".
@@ -265,9 +265,9 @@ In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="/assets/p
 </ul>
 </div>
 
-<div id="outline-container-org26c56ce" class="outline-3">
-<h3 id="org26c56ce">Undated</h3>
-<div class="outline-text-3" id="text-org26c56ce">
+<div id="outline-container-org0885d26" class="outline-3">
+<h3 id="org0885d26">Undated</h3>
+<div class="outline-text-3" id="text-org0885d26">
 <ul class="org-ul">
 <li><b>J. Zhao</b>, P. Wang, J. C.S. Lui, and D. Towsley. "Tracking Triadic Cardinality Distributions for
 Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
@@ -286,13 +286,13 @@ Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.090
       <link>https://junzhouzhao.github.io/resources/</link>
       <description><![CDATA[<section id="content">
     
-<div id="outline-container-orgde1e91f" class="outline-2">
-<h2 id="orgde1e91f">Resources</h2>
-<div class="outline-text-2" id="text-orgde1e91f">
+<div id="outline-container-org6f0e3b1" class="outline-2">
+<h2 id="org6f0e3b1">Resources</h2>
+<div class="outline-text-2" id="text-org6f0e3b1">
 </div>
-<div id="outline-container-org5d9cbf7" class="outline-3">
-<h3 id="org5d9cbf7">Machine learning, data mining, and AI conferences</h3>
-<div class="outline-text-3" id="text-org5d9cbf7">
+<div id="outline-container-orge04ee37" class="outline-3">
+<h3 id="orge04ee37">Machine learning, data mining, and AI conferences</h3>
+<div class="outline-text-3" id="text-orge04ee37">
 
 <div class="figure">
 <p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
