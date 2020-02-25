@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Sun, 16 Feb 2020 21:07:38 HKT</pubDate>
-    <lastBuildDate>Sun, 16 Feb 2020 21:07:38 HKT</lastBuildDate>
+    <pubDate>Tue, 25 Feb 2020 15:53:39 HKT</pubDate>
+    <lastBuildDate>Tue, 25 Feb 2020 15:53:39 HKT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,7 +14,7 @@
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
 <li>Y. Qi, P. Wang, Y. Zhang, <b>J. Zhao</b>, G. Tian, and X. Guan. "Fast Generating A Large Number of
-Gumbel-Max Variables". The Web Conference (WWW), 2020. [<a href="https://arxiv.org/abs/2002.03129">arXiv</a>][CCF A]</li>
+Gumbel-Max Variables". The Web Conference (WWW), 2020. [<a href="https://arxiv.org/abs/2002.00413">arXiv</a>][CCF A]</li>
 
 <li><b>J. Zhao</b>, P. Wang, S. Zhang, and J. C.S. Lui. "Continuously Tracking Core Items in Data Streams
 with Probabilistic Decays". IEEE International Conference on Data Engineering (ICDE), 2020. [CCF
@@ -124,7 +124,7 @@ In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="/assets/a
 
 </section>
 ]]></description>
-      <pubDate>2020-02-16</pubDate>
+      <pubDate>2020-02-25</pubDate>
       <guid>https://junzhouzhao.github.io/article/2020/02/</guid>
     </item>
     <item>
@@ -147,16 +147,16 @@ Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.090
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org335641d" class="outline-2">
-<h2 id="org335641d">Publications</h2>
-<div class="outline-text-2" id="text-org335641d">
+<div id="outline-container-org99277f9" class="outline-2">
+<h2 id="org99277f9">Publications</h2>
+<div class="outline-text-2" id="text-org99277f9">
 <p>
 <a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">[Google Scholar]​</a> <a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">[DBLP]​</a>
 </p>
 
 <ul class="org-ul">
 <li>Y. Qi, P. Wang, Y. Zhang, <b>J. Zhao</b>, G. Tian, and X. Guan. "Fast Generating A Large Number of
-Gumbel-Max Variables". The Web Conference (WWW), 2020. [<a href="https://arxiv.org/abs/2002.03129">arXiv</a>][CCF A]</li>
+Gumbel-Max Variables". The Web Conference (WWW), 2020. [<a href="https://arxiv.org/abs/2002.00413">arXiv</a>][CCF A]</li>
 
 <li><b>J. Zhao</b>, P. Wang, S. Zhang, and J. C.S. Lui. "Continuously Tracking Core Items in Data Streams
 with Probabilistic Decays". IEEE International Conference on Data Engineering (ICDE), 2020. [CCF
@@ -265,9 +265,9 @@ In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="/assets/p
 </ul>
 </div>
 
-<div id="outline-container-org0885d26" class="outline-3">
-<h3 id="org0885d26">Undated</h3>
-<div class="outline-text-3" id="text-org0885d26">
+<div id="outline-container-orge4539f0" class="outline-3">
+<h3 id="orge4539f0">Undated</h3>
+<div class="outline-text-3" id="text-orge4539f0">
 <ul class="org-ul">
 <li><b>J. Zhao</b>, P. Wang, J. C.S. Lui, and D. Towsley. "Tracking Triadic Cardinality Distributions for
 Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
@@ -286,13 +286,13 @@ Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.090
       <link>https://junzhouzhao.github.io/resources/</link>
       <description><![CDATA[<section id="content">
     
-<div id="outline-container-org6f0e3b1" class="outline-2">
-<h2 id="org6f0e3b1">Resources</h2>
-<div class="outline-text-2" id="text-org6f0e3b1">
+<div id="outline-container-orgde9a18f" class="outline-2">
+<h2 id="orgde9a18f">Resources</h2>
+<div class="outline-text-2" id="text-orgde9a18f">
 </div>
-<div id="outline-container-orge04ee37" class="outline-3">
-<h3 id="orge04ee37">Machine learning, data mining, and AI conferences</h3>
-<div class="outline-text-3" id="text-orge04ee37">
+<div id="outline-container-org7871658" class="outline-3">
+<h3 id="org7871658">Machine learning, data mining, and AI conferences</h3>
+<div class="outline-text-3" id="text-org7871658">
 
 <div class="figure">
 <p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
