@@ -35,7 +35,7 @@ Technology, both from [[http://www.xjtu.edu.cn/][Xi'an Jiaotong University]].
 
 * Activities
 
-  Program Committee
+  Program Committee Member
     - AAAI 2020
     - IJCAI-ECAI 2018 2019 2020
     - IEEE CyberSciTech 2020
