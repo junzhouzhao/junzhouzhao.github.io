@@ -76,7 +76,7 @@
   (TIFS), 2014. [CCF A][IF 6.211]
 
 - *J. Zhao*, J. C.S. Lui, D. Towsley, and X. Guan. "Measuring and Maximizing Group Closeness
-  Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014. [[[file:assets/SIMPLEX2014.pdf][pdf]]][@@html:<font
+  Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014. [[[file:assets/SIMPLEX2014.pdf][pdf]]][[[file:assets/NodeGroup_TR.pdf][TR]]][@@html:<font
   color="red">@@Awarded Best Paper@@html:</font>@@]
 
 - *J. Zhao*, J. C.S. Lui, D. Towsley, and X. Guan. "WTF: Efficient Followee Selection for Cascading
