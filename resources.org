@@ -11,11 +11,11 @@
 
   Source: http://www.kamishima.net/archive/MLDMAImap.pdf
 
-
 ** Paper writing suggestions
    - How to Write a Great Research Paper (by Prof. Simon Peyton Jones)
-     [[[file:assets/Writing a paper_slides.pdf][Slides]]][[[https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html][Video (Youku)]]][[[https://www.youtube.com/watch?v=VEXaUHNmpQw][Video (YouTube)]]]
+     [[[file:assets/Writing a paper_slides.pdf][Slides]]][[[https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html][Video@Youku]]][[[https://www.youtube.com/watch?v=VEXaUHNmpQw][Video@YouTube]]]
+   - Book: The Elements of Style (by Strunk and White)
 
-** Presentation Tools
-   - Latex Beamer [[[https://en.wikipedia.org/wiki/Beamer_(LaTeX)][link]]]
-   - IPE [[[http://ipe.otfried.org/][link]]]
+** Presentation tools
+   - [[https://en.wikipedia.org/wiki/Beamer_(LaTeX)][Beamer]]
+   - [[http://ipe.otfried.org/][IPE]]
