@@ -85,6 +85,9 @@
   Connection Degree Distribution". IEEE Transactions on Information Forensics and Security
   (TIFS), 2014. [CCF A][IF 6.211]
 
+- *J. Zhao*. "Measuring and Monitoring Large-Scale Online Social Networks". Ph.D. thesis, Xi'an
+  Jiaotong University, 2015.
+
 - *J. Zhao*, J. C.S. Lui, D. Towsley, and X. Guan. "Measuring and Maximizing Group Closeness
   Centrality over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014. [[[file:assets/SIMPLEX2014.pdf][pdf]]][[[file:assets/NodeGroup_TR.pdf][TR]]][@@html:<font
   color="red">@@Awarded Best Paper@@html:</font>@@]
