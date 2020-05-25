@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Mon, 25 May 2020 15:49:30 CST</pubDate>
-    <lastBuildDate>Mon, 25 May 2020 15:49:30 CST</lastBuildDate>
+    <pubDate>Mon, 25 May 2020 15:53:35 CST</pubDate>
+    <lastBuildDate>Mon, 25 May 2020 15:53:35 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,9 +14,9 @@
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org0a914c1" class="outline-2">
-<h2 id="org0a914c1">Publications</h2>
-<div class="outline-text-2" id="text-org0a914c1">
+<div id="outline-container-org5e04263" class="outline-2">
+<h2 id="org5e04263">Publications</h2>
+<div class="outline-text-2" id="text-org5e04263">
 <p>
 <a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">[Google Scholar]​</a> <a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">[DBLP]​</a>
 </p>
@@ -30,7 +30,7 @@ Gumbel-Max Variables". The Web Conference (WWW), 2020. [<a href="https://arxiv.o
 
 <li><b>J. Zhao</b>, P. Wang, J. Tao, S. Zhang, and J. C.S. Lui. "Continuously Tracking Core Items in Data
 Streams with Probabilistic Decays". IEEE International Conference on Data Engineering
-(ICDE), 2020. [<a href="/assets/publication/ICDE2020_full_version.pdf">full paper</a>][<a href="assets/ICDE2020_slides.pdf">slides</a>]</li>
+(ICDE), 2020. [<a href="/assets/publication/ICDE2020_full_version.pdf">full paper</a>][<a href="/assets/publication/ICDE2020_slides.pdf">slides</a>]</li>
 
 <li>L. Lan, P. Wang, <b>J. Zhao</b>, J. Tao, J. C.S. Lui, and X. Guan. "Improving Network Embedding with
 Partially Available Vertex and Edge Content". Information Sciences, 2020.</li>
@@ -136,9 +136,9 @@ In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="/assets/p
 </div>
 
 
-<div id="outline-container-org7cc283d" class="outline-3">
-<h3 id="org7cc283d">Undated</h3>
-<div class="outline-text-3" id="text-org7cc283d">
+<div id="outline-container-orgebb676d" class="outline-3">
+<h3 id="orgebb676d">Undated</h3>
+<div class="outline-text-3" id="text-orgebb676d">
 <ul class="org-ul">
 <li><b>J. Zhao</b>, P. Wang, J. C.S. Lui, and D. Towsley. "Tracking Triadic Cardinality Distributions for
 Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
@@ -155,56 +155,100 @@ Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.090
     <item>
       <title>Resources</title>
       <link>https://junzhouzhao.github.io/resources/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<section id="content">
+    
+<div id="outline-container-orgc713f9f" class="outline-2">
+<h2 id="orgc713f9f">Resources</h2>
+<div class="outline-text-2" id="text-orgc713f9f">
+</div>
+<div id="outline-container-org8414cbb" class="outline-3">
+<h3 id="org8414cbb">Machine learning, data mining, and AI conferences</h3>
+<div class="outline-text-3" id="text-org8414cbb">
+
+<div class="figure">
+<p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
+</p>
+</div>
+
+<p>
+Source: <a href="http://www.kamishima.net/archive/MLDMAImap.pdf">http://www.kamishima.net/archive/MLDMAImap.pdf</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga294de8" class="outline-3">
+<h3 id="orga294de8">Paper writing suggestions</h3>
+<div class="outline-text-3" id="text-orga294de8">
+<ul class="org-ul">
+<li>How to Write a Great Research Paper (by Prof. Simon Peyton Jones)
+[<a href="/assets/resources/Writing a paper_slides.pdf">Slides</a>][<a href="https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html">Video@Youku</a>][<a href="https://www.youtube.com/watch?v=VEXaUHNmpQw">Video@YouTube</a>]</li>
+<li>Book: The Elements of Style (by Strunk and White)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org55133a0" class="outline-3">
+<h3 id="org55133a0">Presentation tools</h3>
+<div class="outline-text-3" id="text-org55133a0">
+<ul class="org-ul">
+<li><a href="https://en.wikipedia.org/wiki/Beamer_(LaTeX)">Beamer</a></li>
+<li><a href="http://ipe.otfried.org/">IPE</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+</section>
+]]></description>
       <pubDate>2020-03-28</pubDate>
       <guid>https://junzhouzhao.github.io/resources/</guid>
     </item>
     <item>
       <title>Network Science</title>
       <link>https://junzhouzhao.github.io/article/2019/08/30/network-science</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2019-08-30</pubDate>
       <guid>https://junzhouzhao.github.io/article/2019/08/30/network-science</guid>
     </item>
     <item>
       <title>C++17 Library</title>
       <link>https://junzhouzhao.github.io/article/2017/06/25/cpplib</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2017-06-28</pubDate>
       <guid>https://junzhouzhao.github.io/article/2017/06/25/cpplib</guid>
     </item>
     <item>
       <title>Graph Statistic Calculation Tool</title>
       <link>https://junzhouzhao.github.io/article/2017/06/28/graphstat</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2017-06-28</pubDate>
       <guid>https://junzhouzhao.github.io/article/2017/06/28/graphstat</guid>
     </item>
     <item>
       <title>Graph Analysis Library</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/graph-analysis-library</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2016-09-15</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/graph-analysis-library</guid>
     </item>
     <item>
       <title>Python Packages</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/python-packages</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2016-09-15</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/python-packages</guid>
     </item>
     <item>
       <title>Blackboard</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/blackboard</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2016-09-01</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/blackboard</guid>
     </item>
     <item>
       <title>Quick Links</title>
       <link>https://junzhouzhao.github.io/article/2016/08/26/quick-links</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[desc]]></description>
       <pubDate>2016-09-01</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/08/26/quick-links</guid>
     </item>
