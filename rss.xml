@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Mon, 25 May 2020 15:53:35 CST</pubDate>
-    <lastBuildDate>Mon, 25 May 2020 15:53:35 CST</lastBuildDate>
+    <pubDate>Mon, 25 May 2020 16:02:11 CST</pubDate>
+    <lastBuildDate>Mon, 25 May 2020 16:02:11 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,9 +14,9 @@
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org5e04263" class="outline-2">
-<h2 id="org5e04263">Publications</h2>
-<div class="outline-text-2" id="text-org5e04263">
+<div id="outline-container-orgd0a2498" class="outline-2">
+<h2 id="orgd0a2498">Publications</h2>
+<div class="outline-text-2" id="text-orgd0a2498">
 <p>
 <a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">[Google Scholar]​</a> <a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">[DBLP]​</a>
 </p>
@@ -136,9 +136,9 @@ In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="/assets/p
 </div>
 
 
-<div id="outline-container-orgebb676d" class="outline-3">
-<h3 id="orgebb676d">Undated</h3>
-<div class="outline-text-3" id="text-orgebb676d">
+<div id="outline-container-org7b5ca44" class="outline-3">
+<h3 id="org7b5ca44">Undated</h3>
+<div class="outline-text-3" id="text-org7b5ca44">
 <ul class="org-ul">
 <li><b>J. Zhao</b>, P. Wang, J. C.S. Lui, and D. Towsley. "Tracking Triadic Cardinality Distributions for
 Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
@@ -157,13 +157,13 @@ Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.090
       <link>https://junzhouzhao.github.io/resources/</link>
       <description><![CDATA[<section id="content">
     
-<div id="outline-container-orgc713f9f" class="outline-2">
-<h2 id="orgc713f9f">Resources</h2>
-<div class="outline-text-2" id="text-orgc713f9f">
+<div id="outline-container-org3ae2ec1" class="outline-2">
+<h2 id="org3ae2ec1">Resources</h2>
+<div class="outline-text-2" id="text-org3ae2ec1">
 </div>
-<div id="outline-container-org8414cbb" class="outline-3">
-<h3 id="org8414cbb">Machine learning, data mining, and AI conferences</h3>
-<div class="outline-text-3" id="text-org8414cbb">
+<div id="outline-container-org61beb9e" class="outline-3">
+<h3 id="org61beb9e">Machine learning, data mining, and AI conferences</h3>
+<div class="outline-text-3" id="text-org61beb9e">
 
 <div class="figure">
 <p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
@@ -176,9 +176,9 @@ Source: <a href="http://www.kamishima.net/archive/MLDMAImap.pdf">http://www.kami
 </div>
 </div>
 
-<div id="outline-container-orga294de8" class="outline-3">
-<h3 id="orga294de8">Paper writing suggestions</h3>
-<div class="outline-text-3" id="text-orga294de8">
+<div id="outline-container-org040ae8a" class="outline-3">
+<h3 id="org040ae8a">Paper writing suggestions</h3>
+<div class="outline-text-3" id="text-org040ae8a">
 <ul class="org-ul">
 <li>How to Write a Great Research Paper (by Prof. Simon Peyton Jones)
 [<a href="/assets/resources/Writing a paper_slides.pdf">Slides</a>][<a href="https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html">Video@Youku</a>][<a href="https://www.youtube.com/watch?v=VEXaUHNmpQw">Video@YouTube</a>]</li>
@@ -187,9 +187,9 @@ Source: <a href="http://www.kamishima.net/archive/MLDMAImap.pdf">http://www.kami
 </div>
 </div>
 
-<div id="outline-container-org55133a0" class="outline-3">
-<h3 id="org55133a0">Presentation tools</h3>
-<div class="outline-text-3" id="text-org55133a0">
+<div id="outline-container-org0f27629" class="outline-3">
+<h3 id="org0f27629">Presentation tools</h3>
+<div class="outline-text-3" id="text-org0f27629">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Beamer_(LaTeX)">Beamer</a></li>
 <li><a href="http://ipe.otfried.org/">IPE</a></li>
