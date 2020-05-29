@@ -26,11 +26,11 @@ Technology, both from [[http://www.xjtu.edu.cn/][Xi'an Jiaotong University]].
   - data stream management and computation, streaming algorithms\\
     流数据管理与计算、数据流算法
 
-  - optimization theory, approximation algorithms, data selection algorithms\\
-    优化理论、近似计算方法、数据选择算法
+  - optimization theory, approximation algorithms\\
+    优化理论、近似计算方法
 
-  - learning and decision making、streaming machine learning\\
-    学习与决策过程、流式机器学习
+  - learning and decision making\\
+    学习与决策过程
 
 
 * Activities
