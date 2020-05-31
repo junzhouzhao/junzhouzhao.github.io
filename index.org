@@ -32,6 +32,8 @@ Technology, both from [[http://www.xjtu.edu.cn/][Xi'an Jiaotong University]].
   - learning and decision making\\
     学习与决策过程
 
+  - data security, privacy\\
+    数据安全、隐私保护
 
 * Activities
 
