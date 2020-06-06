@@ -45,6 +45,8 @@ Technology, both from [[http://www.xjtu.edu.cn/][Xi'an Jiaotong University]].
     - IEEE Data Engineering 2018 2019
 
   Reviewer
+    - ACM MobiHoc
+    - ECML/PKDD
     - IEEE Transactions on Data Science (TDS)
     - IEEE Transactions on Mobile Computation (TMC)
     - IEEE Transactions on Network Science and Engineering (TNSE)
@@ -53,6 +55,7 @@ Technology, both from [[http://www.xjtu.edu.cn/][Xi'an Jiaotong University]].
     - IEEE Transactions on Information Forensics and Security (TIFS)
     - Elsevier Journal on Computer Networks (COMNET)
     - Knowledge and Information Systems (KAIS)
+    - Wiley Journal on Expert Systems
 
 
 * Awards
