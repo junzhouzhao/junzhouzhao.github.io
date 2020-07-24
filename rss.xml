@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Fri, 24 Jul 2020 21:16:26 CST</pubDate>
-    <lastBuildDate>Fri, 24 Jul 2020 21:16:26 CST</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2020 22:04:35 CST</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2020 22:04:35 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,9 +14,9 @@
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-orgb525787" class="outline-2">
-<h2 id="orgb525787">Publications</h2>
-<div class="outline-text-2" id="text-orgb525787">
+<div id="outline-container-org0a84ccb" class="outline-2">
+<h2 id="org0a84ccb">Publications</h2>
+<div class="outline-text-2" id="text-org0a84ccb">
 <p>
 <a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">[Google Scholar]​</a> <a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">[DBLP]​</a>
 </p>
@@ -144,9 +144,9 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
 </div>
 
 
-<div id="outline-container-org0acdda0" class="outline-3">
-<h3 id="org0acdda0">Undated</h3>
-<div class="outline-text-3" id="text-org0acdda0">
+<div id="outline-container-org5ded910" class="outline-3">
+<h3 id="org5ded910">Undated</h3>
+<div class="outline-text-3" id="text-org5ded910">
 <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality Distributions for
 Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
@@ -163,56 +163,100 @@ Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.090
     <item>
       <title>Resources</title>
       <link>https://junzhouzhao.github.io/resources/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<section id="content">
+    
+<div id="outline-container-org68218dd" class="outline-2">
+<h2 id="org68218dd">Resources</h2>
+<div class="outline-text-2" id="text-org68218dd">
+</div>
+<div id="outline-container-org7516094" class="outline-3">
+<h3 id="org7516094">Machine learning, data mining, and AI conferences</h3>
+<div class="outline-text-3" id="text-org7516094">
+
+<div class="figure">
+<p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
+</p>
+</div>
+
+<p>
+Source: <a href="http://www.kamishima.net/archive/MLDMAImap.pdf">http://www.kamishima.net/archive/MLDMAImap.pdf</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org51e2a29" class="outline-3">
+<h3 id="org51e2a29">Paper writing suggestions</h3>
+<div class="outline-text-3" id="text-org51e2a29">
+<ul class="org-ul">
+<li>How to Write a Great Research Paper (by Prof. Simon Peyton Jones)
+[<a href="/assets/resources/Writing a paper_slides.pdf">Slides</a>][<a href="https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html">Video@Youku</a>][<a href="https://www.youtube.com/watch?v=VEXaUHNmpQw">Video@YouTube</a>]</li>
+<li>Book: The Elements of Style (by Strunk and White)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgabfdd12" class="outline-3">
+<h3 id="orgabfdd12">Presentation tools</h3>
+<div class="outline-text-3" id="text-orgabfdd12">
+<ul class="org-ul">
+<li><a href="https://en.wikipedia.org/wiki/Beamer_(LaTeX)">Beamer</a></li>
+<li><a href="http://ipe.otfried.org/">IPE</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+</section>
+]]></description>
       <pubDate>2020-03-28</pubDate>
       <guid>https://junzhouzhao.github.io/resources/</guid>
     </item>
     <item>
       <title>Network Science</title>
       <link>https://junzhouzhao.github.io/article/2019/08/30/network-science</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2019-08-30</pubDate>
       <guid>https://junzhouzhao.github.io/article/2019/08/30/network-science</guid>
     </item>
     <item>
       <title>C++17 Library</title>
       <link>https://junzhouzhao.github.io/article/2017/06/25/cpplib</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2017-06-28</pubDate>
       <guid>https://junzhouzhao.github.io/article/2017/06/25/cpplib</guid>
     </item>
     <item>
       <title>Graph Statistic Calculation Tool</title>
       <link>https://junzhouzhao.github.io/article/2017/06/28/graphstat</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2017-06-28</pubDate>
       <guid>https://junzhouzhao.github.io/article/2017/06/28/graphstat</guid>
     </item>
     <item>
       <title>Graph Analysis Library</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/graph-analysis-library</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2016-09-15</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/graph-analysis-library</guid>
     </item>
     <item>
       <title>Python Packages</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/python-packages</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2016-09-15</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/python-packages</guid>
     </item>
     <item>
       <title>Blackboard</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/blackboard</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2016-09-01</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/blackboard</guid>
     </item>
     <item>
       <title>Quick Links</title>
       <link>https://junzhouzhao.github.io/article/2016/08/26/quick-links</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[desc]]></description>
       <pubDate>2016-09-01</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/08/26/quick-links</guid>
     </item>
