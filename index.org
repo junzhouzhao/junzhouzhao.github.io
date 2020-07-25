@@ -33,7 +33,7 @@ degree in Automation Science and Technology, both from [[http://www.xjtu.edu.cn/
     学习理论与决策过程
 
   - data security and privacy\\
-    数据安全、隐私保护
+    数据安全与隐私保护
 
 
 * Activities
@@ -57,6 +57,7 @@ degree in Automation Science and Technology, both from [[http://www.xjtu.edu.cn/
     - Elsevier Journal on Computer Networks (COMNET)
     - Knowledge and Information Systems (KAIS)
     - Wiley Journal on Expert Systems
+    - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 
 * Awards
