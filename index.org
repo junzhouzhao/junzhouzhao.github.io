@@ -29,8 +29,8 @@ degree in Automation Science and Technology, both from [[http://www.xjtu.edu.cn/
   - optimization theory, approximation algorithms\\
     优化理论、近似计算方法
 
-  - learning and decision making\\
-    学习与决策过程
+  - learning theory and decision making\\
+    学习理论与决策过程
 
   - data security and privacy\\
     数据安全、隐私保护
