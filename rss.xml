@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Sat, 25 Jul 2020 09:14:31 CST</pubDate>
-    <lastBuildDate>Sat, 25 Jul 2020 09:14:31 CST</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2020 09:19:04 CST</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2020 09:19:04 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,11 +14,11 @@
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-orgfa3741f" class="outline-2">
-<h2 id="orgfa3741f">Publications</h2>
-<div class="outline-text-2" id="text-orgfa3741f">
+<div id="outline-container-orgdb7d374" class="outline-2">
+<h2 id="orgdb7d374">Publications</h2>
+<div class="outline-text-2" id="text-orgdb7d374">
 <p>
-[<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar​</a>] [<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP​</a>] [<a href="/assets/publication/MLDMAImap.pdf">CS 主流会议</a>]
+[<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar​</a>] [<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP​</a>] [<a href="/assets/publication/MLDMAImap.pdf">机器学习、数据挖掘、人工智能领域主流国际会议</a>]
 </p>
 
 <ul class="org-ul">
@@ -144,9 +144,9 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
 </div>
 
 
-<div id="outline-container-org38afdc8" class="outline-3">
-<h3 id="org38afdc8">Undated</h3>
-<div class="outline-text-3" id="text-org38afdc8">
+<div id="outline-container-org8d1190f" class="outline-3">
+<h3 id="org8d1190f">Undated</h3>
+<div class="outline-text-3" id="text-org8d1190f">
 <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality Distributions for
 Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
