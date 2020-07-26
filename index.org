@@ -38,14 +38,14 @@ degree in Automation Science and Technology, both from [[http://www.xjtu.edu.cn/
 
 * Activities
 
-  Program Committee Member
+  Program Committee Member of
     - AAAI 2020
     - IJCAI 2018 2019 2020
     - IEEE CyberSciTech 2020
     - IEEE BigCyberSecurity 2019
     - IEEE Data Engineering 2018 2019
 
-  Reviewer
+  Reviewer of
     - ACM MobiHoc
     - ECML/PKDD
     - IEEE Transactions on Data Science (TDS)
