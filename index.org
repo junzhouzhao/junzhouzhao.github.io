@@ -1,7 +1,6 @@
 # -*- fill-column: 100; -*-
 #+TITLE: Welcome
 #+KEYWORDS: 赵俊舟, Junzhou Zhao, 西安交大, 西安交通大学
-#+AUTHOR: 赵俊舟, Junzhou Zhao
 #+OPTIONS: toc:nil num:nil
 
 
