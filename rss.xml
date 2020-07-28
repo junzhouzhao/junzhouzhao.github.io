@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Tue, 28 Jul 2020 09:32:29 CST</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2020 09:32:29 CST</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2020 09:35:45 CST</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2020 09:35:45 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,9 +14,9 @@
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-orgb078fd2" class="outline-2">
-<h2 id="orgb078fd2">Publications</h2>
-<div class="outline-text-2" id="text-orgb078fd2">
+<div id="outline-container-org605ac4d" class="outline-2">
+<h2 id="org605ac4d">Publications</h2>
+<div class="outline-text-2" id="text-org605ac4d">
 <p>
 [<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar​</a>] [<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP​</a>] [<a href="/assets/publication/MLDMAImap.pdf">机器学习、数据挖掘、人工智能领域主流国际会议</a>]
 </p>
@@ -144,9 +144,9 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
 </div>
 
 
-<div id="outline-container-org9535341" class="outline-3">
-<h3 id="org9535341">Undated</h3>
-<div class="outline-text-3" id="text-org9535341">
+<div id="outline-container-org50c5d01" class="outline-3">
+<h3 id="org50c5d01">Undated</h3>
+<div class="outline-text-3" id="text-org50c5d01">
 <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality Distributions for
 Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
@@ -165,13 +165,13 @@ Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.090
       <link>https://junzhouzhao.github.io/resources/</link>
       <description><![CDATA[<section id="content">
     
-<div id="outline-container-org564daea" class="outline-2">
-<h2 id="org564daea">Resources</h2>
-<div class="outline-text-2" id="text-org564daea">
+<div id="outline-container-orgbf1bbbf" class="outline-2">
+<h2 id="orgbf1bbbf">Resources</h2>
+<div class="outline-text-2" id="text-orgbf1bbbf">
 </div>
-<div id="outline-container-orgf81ec8d" class="outline-3">
-<h3 id="orgf81ec8d">Machine learning, data mining, and AI conferences</h3>
-<div class="outline-text-3" id="text-orgf81ec8d">
+<div id="outline-container-orge8d80ad" class="outline-3">
+<h3 id="orge8d80ad">Machine learning, data mining, and AI conferences</h3>
+<div class="outline-text-3" id="text-orge8d80ad">
 
 <div class="figure">
 <p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
@@ -184,9 +184,9 @@ Source: <a href="http://www.kamishima.net/archive/MLDMAImap.pdf">http://www.kami
 </div>
 </div>
 
-<div id="outline-container-org733bd84" class="outline-3">
-<h3 id="org733bd84">Paper writing suggestions</h3>
-<div class="outline-text-3" id="text-org733bd84">
+<div id="outline-container-org4810a4d" class="outline-3">
+<h3 id="org4810a4d">Paper writing suggestions</h3>
+<div class="outline-text-3" id="text-org4810a4d">
 <ul class="org-ul">
 <li>How to Write a Great Research Paper (by Prof. Simon Peyton Jones)
 [<a href="/assets/resources/Writing a paper_slides.pdf">Slides</a>][<a href="https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html">Video@Youku</a>][<a href="https://www.youtube.com/watch?v=VEXaUHNmpQw">Video@YouTube</a>]</li>
@@ -195,9 +195,9 @@ Source: <a href="http://www.kamishima.net/archive/MLDMAImap.pdf">http://www.kami
 </div>
 </div>
 
-<div id="outline-container-orgf46b865" class="outline-3">
-<h3 id="orgf46b865">Presentation tools</h3>
-<div class="outline-text-3" id="text-orgf46b865">
+<div id="outline-container-orgf6f85bc" class="outline-3">
+<h3 id="orgf6f85bc">Presentation tools</h3>
+<div class="outline-text-3" id="text-orgf6f85bc">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Beamer_(LaTeX)">Beamer</a></li>
 <li><a href="http://ipe.otfried.org/">IPE</a></li>
