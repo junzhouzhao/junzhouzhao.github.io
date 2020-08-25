@@ -18,7 +18,7 @@
 
 - *Junzhou Zhao*, Pinghui Wang, Jing Tao, Shuo Zhang, and John C.S. Lui. "Continuously Tracking Core
   Items in Data Streams with Probabilistic Decays". IEEE International Conference on Data
-  Engineering (ICDE), 2020. [[[file:assets/ICDE2020_full_version.pdf][full paper]]][[[file:assets/ICDE2020_slides.pdf][slides]]]
+  Engineering (ICDE), 2020. [[[file:assets/ICDE2020_full_version.pdf][full paper]]][[[file:assets/ICDE2020_slides.pdf][slides]]][[[file:assets/ICDE2020_poster.pdf][poster]]]
 
 - L. Lan, Pinghui Wang, *Junzhou Zhao*, Jing Tao, John C.S. Lui, and Xiaohong Guan. "Improving
   Network Embedding with Partially Available Vertex and Edge Content". Information Sciences, 2020.
