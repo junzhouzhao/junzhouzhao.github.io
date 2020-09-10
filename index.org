@@ -40,7 +40,7 @@ B.S. degree in Automation Science and Technology, both from [[http://www.xjtu.ed
 * Activities
 
   Program Committee Member of
-    - AAAI 2020
+    - AAAI 2020 2021
     - IJCAI 2018 2019 2020
     - IEEE CyberSciTech 2020
     - IEEE BigCyberSecurity 2019
