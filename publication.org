@@ -6,7 +6,7 @@
 
 * Publications
 
-  [[[https://scholar.google.com/citations?hl=en&user=hBLT754AAAAJ&view_op=list_works&sortby=pubdate][Google Scholar​]]] [[[http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou][DBLP​]]] [[[file:assets/MLDMAImap.pdf][机器学习、数据挖掘、人工智能领域主流国际会议]]]
+  [[[https://scholar.google.com/citations?hl=en&user=hBLT754AAAAJ&view_op=list_works&sortby=pubdate][Google Scholar​]]] [[[http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou][DBLP​]]] [[[file:assets/MLDMAImap.pdf][机器学习、数据挖掘、人工智能领域主流国际会议]]] [[[file:assets/CCF2019.pdf][CCF推荐国际会议与期刊目录]]]
 
   # #+INCLUDE: "~/git_project/junzhouzhao.github.io/papers.org"
 
