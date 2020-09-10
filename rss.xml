@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Thu, 10 Sep 2020 08:02:34 CST</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2020 08:02:34 CST</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2020 08:06:49 CST</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2020 08:06:49 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,11 +14,11 @@
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-orgcc06a08" class="outline-2">
-<h2 id="orgcc06a08">Publications</h2>
-<div class="outline-text-2" id="text-orgcc06a08">
+<div id="outline-container-org4b8913e" class="outline-2">
+<h2 id="org4b8913e">Publications</h2>
+<div class="outline-text-2" id="text-org4b8913e">
 <p>
-[<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar​</a>] [<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP​</a>] [<a href="/assets/publication/MLDMAImap.pdf">机器学习、数据挖掘、人工智能领域主流国际会议</a>]
+[<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar​</a>] [<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP​</a>] [<a href="/assets/publication/MLDMAImap.pdf">机器学习、数据挖掘、人工智能领域主流国际会议</a>] [<a href="/assets/publication/CCF2019.pdf">CCF推荐国际会议与期刊目录</a>]
 </p>
 
 <ul class="org-ul">
@@ -150,9 +150,9 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
 </div>
 
 
-<div id="outline-container-orgaf7d8bb" class="outline-3">
-<h3 id="orgaf7d8bb">Undated</h3>
-<div class="outline-text-3" id="text-orgaf7d8bb">
+<div id="outline-container-orgc37c4ca" class="outline-3">
+<h3 id="orgc37c4ca">Undated</h3>
+<div class="outline-text-3" id="text-orgc37c4ca">
 <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality Distributions for
 Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
