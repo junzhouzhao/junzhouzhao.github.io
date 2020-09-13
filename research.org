@@ -1,13 +1,13 @@
 # -*- fill-column: 100; -*-
 #+TITLE: Research
 #+URI: /research/
-#+OPTIONS: toc:t num:nil
+#+OPTIONS: toc:t
 
 　　大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据
 在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、
 隐私保护等方面的挑战。针对这些挑战，我们开展了一系列相关研究。
 
-* 1. 大数据（Big Data）
+* 大数据（Big Data）
 
   #+ATTR_HTML: :style margin-left:2em;
   [[file:img/big_data.png]]
@@ -24,9 +24,9 @@
 
 
 
-* 2. 计算与优化（Computation and Optimization）
+* 计算与优化（Computation and Optimization）
 
-** 2.1 大图采样测量方法（Graph Sampling）
+** 大图采样测量方法（Graph Sampling）
 
   #+ATTR_HTML: :style margin-left:2em;
   [[file:img/random_walk_sampling.png]]
@@ -41,7 +41,7 @@
 慢），产生较大估计误差。我们利用一种多层网络结构特征，设计了一种可间接跳跃的随机游
 走机制解决传统随机游走收敛慢的问题。相关工作发表在 ICDE'15 及 DMKD'19。
 
-** 2.2 子图模式挖掘算法（Graphlets Mining）
+** 子图模式挖掘算法（Graphlets Mining）
 
   #+ATTR_HTML: :style margin-left:2em;
   [[file:img/graphlets.png]]
@@ -53,7 +53,7 @@
 我们设计了一系列基于采样的快速估计算法，只需要较少的样本便可准确的估计网络中各种子
 图的数量情况。相关工作发表在 ICDE、TKDD、TKDE 等国际会议和期刊上。
 
-** 2.3 大图优化算法（Graph Optimization Algorithms）
+** 大图优化算法（Graph Optimization Algorithms）
 
   #+ATTR_HTML: :style margin-left:2em;
   [[file:img/group.png]]
@@ -68,7 +68,7 @@
 并且设计了一种 I/O 有效的高效计算方法。相关工作发表在 WWW、Information Science 等
 会议和期刊上。
 
-** 2.4 流数据在线优化算法（Online Optimization Algorithms）
+** 流数据在线优化算法（Online Optimization Algorithms）
 
   #+ATTR_HTML: :style margin-left:2em;
   [[file:img/sso.png]]
@@ -80,7 +80,7 @@
 AAAI 等国际会议上。
 
 
-* 3. 学习算法（Learning Algorithms）
+* 学习算法（Learning Algorithms）
 
   #+ATTR_HTML: :style margin-left:1em;
   [[file:img/embedding_and_ddi.png]]
@@ -94,7 +94,7 @@ AAAI 等国际会议上。
 
 
 
-* 4. 数据安全与隐私保护（Data Security and Privacy）
+* 数据安全与隐私保护（Data Security and Privacy）
 
   #+ATTR_HTML: :style margin-left:2em;
   [[file:img/monitoring.png]]
