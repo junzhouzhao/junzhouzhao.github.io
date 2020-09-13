@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Sun, 13 Sep 2020 11:23:30 CST</pubDate>
-    <lastBuildDate>Sun, 13 Sep 2020 11:23:30 CST</lastBuildDate>
+    <pubDate>Sun, 13 Sep 2020 11:24:46 CST</pubDate>
+    <lastBuildDate>Sun, 13 Sep 2020 11:24:46 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,9 +14,9 @@
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org080e1ab" class="outline-2">
-<h2 id="org080e1ab">Publications</h2>
-<div class="outline-text-2" id="text-org080e1ab">
+<div id="outline-container-org4df06b8" class="outline-2">
+<h2 id="org4df06b8">Publications</h2>
+<div class="outline-text-2" id="text-org4df06b8">
 <p>
 [<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar​</a>][<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP​</a>][<a href="/assets/publication/MLDMAImap.pdf">机器学习、数据挖掘、人工智能领域主流国际会议</a>][<a href="/assets/publication/CCF2019.pdf">CCF推荐国际会议与期刊目录</a>]
 </p>
@@ -24,7 +24,7 @@
 <ul class="org-ul">
 <li>Nuo Xu, Pinghui Wang, Long Chen, Li Pan, Xiaoyan Wang and <b>Junzhou Zhao</b>. "Distinguish Confusing Law Articles for
 Legal Judgment Prediction". In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics
-(ACL), 2020. [<font color="red">CCF-A</font>]</li>
+(ACL), 2020. [<font color="red">CCF-A</font>][<a href="https://arxiv.org/abs/2004.02557">arXiv</a>]</li>
 
 <li>Yiyan Qi, Pinghui Wang, Yuanming Zhang, <b>Junzhou Zhao</b>, Guangjian Tian, and Xiaohong Guan. "Fast Generating A Large
 Number of Gumbel-Max Variables". The Web Conference (WWW), 2020. [<font
@@ -137,9 +137,9 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
 </div>
 
 
-<div id="outline-container-org0d572eb" class="outline-3">
-<h3 id="org0d572eb">Undated</h3>
-<div class="outline-text-3" id="text-org0d572eb">
+<div id="outline-container-org6264acf" class="outline-3">
+<h3 id="org6264acf">Undated</h3>
+<div class="outline-text-3" id="text-org6264acf">
 <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality Distributions for
 Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
