@@ -26,7 +26,7 @@
 
 * 2. 计算与优化（Computation and Optimization）
 
-** 2.1 大图采样测量方法
+** 2.1 大图采样测量方法（Graph Sampling）
 
   #+ATTR_HTML: :style margin-left:2em;
   [[file:img/random_walk_sampling.png]]
@@ -41,7 +41,7 @@
 慢），产生较大估计误差。我们利用一种多层网络结构特征，设计了一种可间接跳跃的随机游
 走机制解决传统随机游走收敛慢的问题。相关工作发表在 ICDE'15 及 DMKD'19。
 
-** 2.2 子图模式近似计算
+** 2.2 子图模式挖掘算法（Graphlets Mining）
 
   #+ATTR_HTML: :style margin-left:2em;
   [[file:img/graphlets.png]]
@@ -53,7 +53,7 @@
 我们设计了一系列基于采样的快速估计算法，只需要较少的样本便可准确的估计网络中各种子
 图的数量情况。相关工作发表在 ICDE、TKDD、TKDE 等国际会议和期刊上。
 
-** 2.3 大图优化算法
+** 2.3 大图优化算法（Graph Optimization Algorithms）
 
   #+ATTR_HTML: :style margin-left:2em;
   [[file:img/group.png]]
@@ -68,7 +68,7 @@
 并且设计了一种 I/O 有效的高效计算方法。相关工作发表在 WWW、Information Science 等
 会议和期刊上。
 
-** 2.4 流数据在线优化算法
+** 2.4 流数据在线优化算法（Online Optimization Algorithms）
 
   #+ATTR_HTML: :style margin-left:2em;
   [[file:img/sso.png]]
