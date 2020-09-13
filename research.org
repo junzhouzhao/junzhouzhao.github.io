@@ -1,0 +1,27 @@
+# -*- fill-column: 100; -*-
+#+TITLE: Research
+#+URI: /research/
+#+OPTIONS: toc:nil num:nil
+
+
+* 大数据 Big Data
+
+大图数据、流数据、药物大数据、司法大数据等
+
+
+
+* 高性能计算 Computation
+
+大图采样测量、子图模式计算、大图优化算法、流数据在线优化算法、快速局部敏感哈希算法
+
+
+
+* 学习理论 Learning Theory
+
+图数据节点表示学习、药物相互作用预测
+
+
+
+* 数据安全与隐私保护 Data Security and Privacy
+
+推荐系统用户评价去偏算法、大规模网络监控算法
