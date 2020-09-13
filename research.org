@@ -9,11 +9,11 @@
 
 * 大数据 Big Data
 
-  #+ATTR_HTML: :style margin-top:2em;
+  #+ATTR_HTML: :style margin-top:2em, align:center;
     [[file:img/big_data.png]]
 
 
-　　研究对象主要包括以下各种大规模数据：
+研究对象主要包括以下各种大规模数据：
  - 图/网络大数据（Big Graphs/Networks)：例如 Facebook 用户的好友网络、Twitter/微博
    用户的关注网络、论文引用网络、帖子转发网络、道路交通网络等；
  - 大规模高速流数据：例如 OSN 用户发送的帖子流（Message Stream）、信息流（Tweet
