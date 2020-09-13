@@ -23,6 +23,8 @@ management and mining, high performance computation, and machine learning.
 
 * Research
 
+ [[[https://junzhouzhao.github.io/research/][更多介绍]]]
+
   - network/graph data: measurement, management, computation, mining, and optimization\\
     网络大数据/大图数据的测量、管理、计算、挖掘与优化方法
 
