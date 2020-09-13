@@ -9,12 +9,16 @@
 
 * 大数据 Big Data
 
+  #+ATTR_HTML: :style margin-top:2em;
+    [[file:img/big_data.png]]
+
+
 　　研究对象主要包括以下各种大规模数据：
  - 图/网络大数据（Big Graphs/Networks)：例如 Facebook 用户的好友网络、Twitter/微博
-   用户的关注网络、论文引用网络、帖子转发网络等；
+   用户的关注网络、论文引用网络、帖子转发网络、道路交通网络等；
  - 大规模高速流数据：例如 OSN 用户发送的帖子流（Message Stream）、信息流（Tweet
    Stream）、高速网络流（Traffic Stream）、网站点击流（Click Stream）等；
- - 生物/医药大数据：例如药物相互作用与分子结构关系等；
+ - 生物/医药大数据：例如药物相互作用与分子结构关系、基因调控关系数据等；
  - 司法/文本大数据等：例如司法文书、合同文书等文本数据；
  - 其他大数据：POI 签到数据（Check-in records）、商品购买数据（Purchasing records）、
    IoT 数据流等。
