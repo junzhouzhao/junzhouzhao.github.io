@@ -80,7 +80,7 @@
 AAAI 等国际会议上。
 
 
-* 3. 学习算法（Learning Algorithm）
+* 3. 学习算法（Learning Algorithms）
 
   #+ATTR_HTML: :style margin-left:1em;
   [[file:img/embedding_and_ddi.png]]
