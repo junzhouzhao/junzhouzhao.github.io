@@ -75,6 +75,9 @@
   Sampled Edges". In Proceedings of the 32nd IEEE International Conference on Data Engineering (ICDE), 2016.
   [@@html:<font color="red">@@CCF-A@@html:</font>@@]
 
+- *Junzhou Zhao*. "Measuring and Monitoring Large-Scale Online Social Networks". Ph.D. thesis, Xi'an Jiaotong
+  University, 2015.
+
 - *Junzhou Zhao*, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "Tracking Triadic Cardinality
   Distributions for Burst Detection in Social Activity Streams". In Proceedings of ACM Conference on
   Online Social Networks (COSN), 2015. [[[http://arxiv.org/abs/1411.3808][arXiv]]]
@@ -86,9 +89,6 @@
 - Pinghui Wang, Xiaohong Guang, *Junzhou Zhao*, Jing Tao, and Tao Qin. "A New Sketch Method for Measuring Host
   Connection Degree Distribution". IEEE Transactions on Information Forensics and Security (TIFS), 2014. [@@html:<font
   color="red">@@CCF-A@@html:</font>@@]
-
-- *Junzhou Zhao*. "Measuring and Monitoring Large-Scale Online Social Networks". Ph.D. thesis, Xi'an Jiaotong
-  University, 2015.
 
 - *Junzhou Zhao*, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group Closeness Centrality
   over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014. [@@html:<font color="red">@@Awarded Best
