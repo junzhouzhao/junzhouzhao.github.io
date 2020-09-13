@@ -1,7 +1,7 @@
 # -*- fill-column: 100; -*-
 #+TITLE: Research
 #+URI: /research/
-#+OPTIONS: toc:nil num:nil
+#+OPTIONS: toc:t num:nil
 
 　　大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据
 在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、
