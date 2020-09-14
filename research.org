@@ -168,5 +168,5 @@ Sensor）用来及时发现网络中的传播事件，也是网络监控需要�
 - WTF: Efficient Followee Selection for Cascading Outbreak Detection on Online Social Networks.
   Computer Networks, Special Issue on Online Social Networks, 2014. [[[file:assets/COMNET2014.pdf][pdf]]]
 
-- A New Sketch Method for Measuring Host Connection Degree Distribution". IEEE Transactions on
+- A New Sketch Method for Measuring Host Connection Degree Distribution. IEEE Transactions on
   Information Forensics and Security (TIFS), 2014.
