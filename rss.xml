@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Mon, 14 Sep 2020 09:28:40 CST</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2020 09:28:40 CST</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2020 15:19:05 CST</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2020 15:19:05 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -16,24 +16,24 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org39f08fd">1. 大数据（Big Data）</a></li>
-<li><a href="#orgf23ac10">2. 计算与优化（Computation and Optimization）</a>
+<li><a href="#org158b21a">1. 大数据（Big Data）</a></li>
+<li><a href="#orgb194745">2. 计算与优化（Computation and Optimization）</a>
 <ul>
-<li><a href="#org2d134f4">2.1. 大图采样测量方法（Graph Sampling）</a></li>
-<li><a href="#orgd0dc4e8">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
-<li><a href="#org3042dd3">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
-<li><a href="#orgb588b38">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
+<li><a href="#org5e5245a">2.1. 大图采样测量方法（Graph Sampling）</a></li>
+<li><a href="#org36fc8bd">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
+<li><a href="#org785da85">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
+<li><a href="#orgc7a81fb">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
 </ul>
 </li>
-<li><a href="#org466d232">3. 学习算法（Learning Algorithms）</a></li>
-<li><a href="#orgaf12b33">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
+<li><a href="#org5daff92">3. 学习算法（Learning Algorithms）</a></li>
+<li><a href="#org9a4f4f6">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
 </ul>
 </div>
 </div>
 <p>　　大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些挑战，我们开展了一系列相关研究。</p>
 
-<div id="outline-container-org39f08fd" class="outline-2">
-<h2 id="org39f08fd"><span class="section-number-2">1</span> 大数据（Big Data）</h2>
+<div id="outline-container-org158b21a" class="outline-2">
+<h2 id="org158b21a"><span class="section-number-2">1</span> 大数据（Big Data）</h2>
 <div class="outline-text-2" id="text-1">
 
 <div class="figure">
@@ -54,12 +54,12 @@
 
 
 
-<div id="outline-container-orgf23ac10" class="outline-2">
-<h2 id="orgf23ac10"><span class="section-number-2">2</span> 计算与优化（Computation and Optimization）</h2>
+<div id="outline-container-orgb194745" class="outline-2">
+<h2 id="orgb194745"><span class="section-number-2">2</span> 计算与优化（Computation and Optimization）</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-org2d134f4" class="outline-3">
-<h3 id="org2d134f4"><span class="section-number-3">2.1</span> 大图采样测量方法（Graph Sampling）</h3>
+<div id="outline-container-org5e5245a" class="outline-3">
+<h3 id="org5e5245a"><span class="section-number-3">2.1</span> 大图采样测量方法（Graph Sampling）</h3>
 <div class="outline-text-3" id="text-2-1">
 
 <div class="figure">
@@ -90,8 +90,8 @@ the 31st IEEE International Conference on Data Engineering (ICDE), 2015. [<a hre
 
 
 
-<div id="outline-container-orgd0dc4e8" class="outline-3">
-<h3 id="orgd0dc4e8"><span class="section-number-3">2.2</span> 子图模式挖掘算法（Graphlets Mining）</h3>
+<div id="outline-container-org36fc8bd" class="outline-3">
+<h3 id="org36fc8bd"><span class="section-number-3">2.2</span> 子图模式挖掘算法（Graphlets Mining）</h3>
 <div class="outline-text-3" id="text-2-2">
 
 <div class="figure">
@@ -122,8 +122,8 @@ from Data (TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>]</li
 
 
 
-<div id="outline-container-org3042dd3" class="outline-3">
-<h3 id="org3042dd3"><span class="section-number-3">2.3</span> 大图优化算法（Graph Optimization Algorithms）</h3>
+<div id="outline-container-org785da85" class="outline-3">
+<h3 id="org785da85"><span class="section-number-3">2.3</span> 大图优化算法（Graph Optimization Algorithms）</h3>
 <div class="outline-text-3" id="text-2-3">
 
 <div class="figure">
@@ -147,8 +147,8 @@ workshop, 2014. [<a href="/assets/research/SIMPLEX2014.pdf">pdf</a>][<a href="/a
 </div>
 
 
-<div id="outline-container-orgb588b38" class="outline-3">
-<h3 id="orgb588b38"><span class="section-number-3">2.4</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
+<div id="outline-container-orgc7a81fb" class="outline-3">
+<h3 id="orgc7a81fb"><span class="section-number-3">2.4</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
 <div class="outline-text-3" id="text-2-4">
 
 <div class="figure">
@@ -175,8 +175,8 @@ Conference on Artificial Intelligence (AAAI), 2019. [<a href="https://arxiv.org/
 
 
 
-<div id="outline-container-org466d232" class="outline-2">
-<h2 id="org466d232"><span class="section-number-2">3</span> 学习算法（Learning Algorithms）</h2>
+<div id="outline-container-org5daff92" class="outline-2">
+<h2 id="org5daff92"><span class="section-number-2">3</span> 学习算法（Learning Algorithms）</h2>
 <div class="outline-text-2" id="text-3">
 
 <div class="figure">
@@ -202,8 +202,8 @@ interaction. In Proceedings of the 28th International Joint Conference on Artifi
 
 
 
-<div id="outline-container-orgaf12b33" class="outline-2">
-<h2 id="orgaf12b33"><span class="section-number-2">4</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
+<div id="outline-container-org9a4f4f6" class="outline-2">
+<h2 id="org9a4f4f6"><span class="section-number-2">4</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
 <div class="outline-text-2" id="text-4">
 
 <div class="figure">
@@ -235,63 +235,245 @@ Information Forensics and Security (TIFS), 2014.</li>
     <item>
       <title>Publications</title>
       <link>https://junzhouzhao.github.io/publication/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<section id="content">
+    
+
+<div id="outline-container-orgb6c2c7f" class="outline-2">
+<h2 id="orgb6c2c7f">Publications</h2>
+<div class="outline-text-2" id="text-orgb6c2c7f">
+<p>
+[<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar​</a>][<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP​</a>][<a href="/assets/publication/MLDMAImap.pdf">机器学习、数据挖掘、人工智能领域主流国际会议</a>][<a href="/assets/publication/CCF2019.pdf">CCF推荐国际会议与期刊目录</a>]
+</p>
+
+<ul class="org-ul">
+<li>Nuo Xu, Pinghui Wang, Long Chen, Li Pan, Xiaoyan Wang and <b>Junzhou Zhao</b>. "Distinguish Confusing Law Articles for
+Legal Judgment Prediction". In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics
+(ACL), 2020. [<font color="red">CCF-A</font>][<a href="https://arxiv.org/abs/2004.02557">arXiv</a>]</li>
+
+<li>Yiyan Qi, Pinghui Wang, Yuanming Zhang, <b>Junzhou Zhao</b>, Guangjian Tian, and Xiaohong Guan. "Fast Generating A Large
+Number of Gumbel-Max Variables". The Web Conference (WWW), 2020. [<font
+  color="red">CCF-A</font>][<a href="https://arxiv.org/abs/2002.00413">arXiv</a>]</li>
+
+<li><b>Junzhou Zhao</b>, Pinghui Wang, Jing Tao, Shuo Zhang, and John C.S. Lui. "Continuously Tracking Core Items in Data
+Streams with Probabilistic Decays". In Proceedings of the 36th IEEE International Conference on Data Engineering
+(ICDE), 2020. [<font color="red">CCF-A</font>][<a href="/assets/publication/ICDE2020_full_version.pdf">full paper</a>][<a href="/assets/publication/ICDE2020_slides.pdf">slides</a>][<a href="/assets/publication/ICDE2020_poster.pdf">poster</a>]</li>
+
+<li>L. Lan, Pinghui Wang, <b>Junzhou Zhao</b>, Jing Tao, John C.S. Lui, and Xiaohong Guan. "Improving Network Embedding with
+Partially Available Vertex and Edge Content". Information Sciences, 2020.</li>
+
+<li>Xiaoying Zhang, Hong Xie, <b>Junzhou Zhao</b>, and John C.S. Lui. "Understanding Assimilation-Contrast Effects in Online
+Rating Systems: Modeling, Debiasing and Applications". ACM Transactions on Information Systems (TOIS), 2020.
+[<font color="red">CCF-A</font>]</li>
+
+<li>Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, and <b>Junzhou Zhao</b>. "MR-GNN: Multi-resolution and dual graph neural network
+for predicting structured entity interaction". In Proceedings of the 28th International Joint Conference on Artificial
+Intelligence (IJCAI), 2019. [<font color="red">CCF-A</font>][<a href="https://arxiv.org/abs/1905.09558">arXiv</a>]</li>
+
+<li><b>Junzhou Zhao</b>, Shuo Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Submodular Optimization over Streams
+with Inhomogeneous Decays". In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019.
+[<font color="red">CCF-A</font>][<a href="https://arxiv.org/abs/1811.05652">arXiv</a>]</li>
+
+<li><b>Junzhou Zhao</b>, Shuo Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Tracking Influential Nodes in
+Time-Decaying Dynamic Interaction Networks". In Proceedings of the 35th IEEE International Conference on Data
+Engineering (ICDE), 2019. [<font color="red">CCF-A</font>][<a href="https://arxiv.org/abs/1810.07917">arXiv</a>][<a href="/assets/publication/ICDE19_poster.pdf">poster</a>]</li>
+
+<li><b>Junzhou Zhao</b>, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem Definitions, Fast
+Algorithms, and Observations". Information Sciences (INS), 2019. [<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
+
+<li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Online Social Networks by
+Random Walk with Indirect Jumps". Data Mining and Knowledge Discovery (DMKD), 2019. [<a href="https://arxiv.org/abs/1708.09081">arXiv</a>]</li>
+
+<li>Pinghui Wang, <b>Junzhou Zhao</b>, Xiangliang Zhang, Zhenhua Li, Jiefeng Cheng, John C.S. Lui, Don Towsley, Jing Tao, and
+Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs". IEEE Transactions
+on Knowledge and Data Engineering (TKDE), 2018. [<font color="red">CCF-A</font>][<a href="/assets/publication/TKDE18_poster.pdf">poster</a>]</li>
+
+<li>Pinghui Wang, <b>Junzhou Zhao</b>, Xiangliang Zhang, Jing Tao, and Xiaohong Guan. "SNOD: A Fast Sampling Method of
+Exploring Node Orbit Degrees for Large Graphs". Knowledge and Information Systems (KAIS), 2018.</li>
+
+<li>Pinghui Wang, <b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Fast Crawling Methods of Exploring
+Content Distributed Over Large Graphs". Knowledge and Information Systems (KAIS), 2018.</li>
+
+<li>Pinghui Wang, <b>Junzhou Zhao</b>, Bruno Ribeiro, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Practical
+Characterization of Large Networks Using Neighborhood Information". Knowledge and Information Systems (KAIS), 2018.</li>
+
+<li>Pinghui Wang, Yiyan Qi, John C.S. Lui, Don Towsley, <b>Junzhou Zhao</b>, Jing Tao. "Inferring Higher-Order Structure
+Statistics of Large Networks From Sampled Edges". IEEE Transactions on Knowledge and Data Engineering (TKDE), 2017.
+[<font color="red">CCF-A</font>]</li>
+
+<li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "I/O-Efficient Calculation of Group
+Closeness Centrality over Disk-Resident Graphs". Information Sciences (INS), 2017.</li>
+
+<li>Xiaoying Zhang, <b>Junzhou Zhao</b>, and John C.S. Lui. "Modeling the Assimilation-Contrast Effects in Online Product
+Rating Systems: Debiasing and Recommendations". In Proceedings of the 11th ACM Conference on Recommendation Systems
+(RecSys), 2017. [<font color = "red">Awarded Best Paper</font>]</li>
+
+<li>Pinghui Wang, John C.S. Lui, Don Towsley, and <b>Junzhou Zhao</b>. "Minfer: A Method of Inferring Motif Statistics from
+Sampled Edges". In Proceedings of the 32nd IEEE International Conference on Data Engineering (ICDE), 2016.
+[<font color="red">CCF-A</font>]</li>
+
+<li><b>Junzhou Zhao</b>. "Measuring and Monitoring Large-Scale Online Social Networks". Ph.D. thesis, Xi'an Jiaotong
+University, 2015.</li>
+
+<li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "Tracking Triadic Cardinality
+Distributions for Burst Detection in Social Activity Streams". In Proceedings of ACM Conference on
+Online Social Networks (COSN), 2015. [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</li>
+
+<li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "A Tale of Three Graphs: Sampling Design
+on Hybrid Social-Affiliation Networks". In Proceedings of the 31st IEEE International Conference on Data Engineering
+(ICDE), 2015. [<font color="red">CCF-A</font>][<a href="/assets/publication/ICDE2015.pdf">pdf</a>]</li>
+
+<li>Pinghui Wang, Xiaohong Guang, <b>Junzhou Zhao</b>, Jing Tao, and Tao Qin. "A New Sketch Method for Measuring Host
+Connection Degree Distribution". IEEE Transactions on Information Forensics and Security (TIFS), 2014. [<font
+  color="red">CCF-A</font>]</li>
+
+<li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group Closeness Centrality
+over Disk-Resident Graphs". In WWW SIMPLEX workshop, 2014. [<font color="red">Awarded Best
+Paper</font>][<a href="/assets/publication/SIMPLEX2014.pdf">pdf</a>][<a href="/assets/publication/NodeGroup_TR.pdf">TR</a>]</li>
+
+<li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "WTF: Efficient Followee Selection for Cascading
+Outbreak Detection on Online Social Networks". Computer Networks, Special Issue on Online Social Networks, 2014. [<a href="/assets/publication/COMNET2014.pdf">pdf</a>]</li>
+
+<li>Pinghui Wang, <b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Unbiased Characterization of Node Pairs
+over Large Graphs". ACM Transactions on Knowledge Discovery from Data (TKDD), 2014. [<a href="/assets/publication/TKDD2014_node_pair.pdf">pdf</a>]</li>
+
+<li>Pinghui Wang, Wenbo He, and <b>Junzhou Zhao</b>. "A Tale of Three Social Networks: User Activity Comparations across
+Facebook, Twitter, and Foursquare". IEEE Internet Computing, 2014. [<a href="/assets/publication/IC2014.pdf">pdf</a>][<a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks"><font color="red">Featured
+Article</font></a>]</li>
+
+<li>Pinghui Wang, John C.S. Lui, Bruno Ribeiro, Don Towsley, <b>Junzhou Zhao</b>, and Xiaohong Guan. "Efficiently Estimating
+Motif Statistics of Large Networks". ACM Transactions on Knowledge Discovery from Data (TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>]</li>
+
+<li><b>Junzhou Zhao</b>, Xiaohong Guan, and Jing Tao. "On Analyzing Estimation Errors due to Constrained Connections in Online
+Review Systems". RecSys CrowdRec workshop, 2013. [<a href="http://arxiv.org/abs/1307.3687">arXiv</a>]</li>
+
+<li>Pinghui Wang, <b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Node Pairs Over Large Graphs".
+In Proceedings of the 29th IEEE International Conference on Data Engineering (ICDE), 2013. [<font
+  color="red">CCF-A</font>][<a href="/assets/publication/ICDE2013.pdf">pdf</a>]</li>
+
+<li><b>Junzhou Zhao</b>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Empirical Analysis of the
+Evolution of Follower Network: A Case Study on Douban". IEEE INFOCOM NetSciCom workshop, 2011.
+[<a href="/assets/publication/NetSciCom2011.pdf">pdf</a>]</li>
+
+<li>Zhaohui Wu, Lu Jiang, Zhenhua Tian, Jun Liu, Qinghua Zheng, and <b>Junzhou Zhao</b>. "A Peep at
+Pornography Web in China". In Proceedings of the Web Science Conference (WebSci), 2010.
+[<a href="/assets/publication/WebSci2010.pdf">pdf</a>][<a href="http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs">Media</a>]</li>
+</ul>
+</div>
+
+
+<div id="outline-container-orgecf079d" class="outline-3">
+<h3 id="orgecf079d">Undated</h3>
+<div class="outline-text-3" id="text-orgecf079d">
+<ul class="org-ul">
+<li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality Distributions for
+Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
+</ul>
+</div>
+</div>
+</div>
+
+</section>
+]]></description>
       <pubDate>2020-09-13</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
     </item>
     <item>
       <title>Resources</title>
       <link>https://junzhouzhao.github.io/resources/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<section id="content">
+    
+<div id="outline-container-org4b86aa1" class="outline-2">
+<h2 id="org4b86aa1">Resources</h2>
+<div class="outline-text-2" id="text-org4b86aa1">
+</div>
+<div id="outline-container-orgf326dd4" class="outline-3">
+<h3 id="orgf326dd4">Machine learning, data mining, and AI conferences</h3>
+<div class="outline-text-3" id="text-orgf326dd4">
+
+<div class="figure">
+<p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
+</p>
+</div>
+
+<p>
+Source: <a href="http://www.kamishima.net/archive/MLDMAImap.pdf">http://www.kamishima.net/archive/MLDMAImap.pdf</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga5e5f93" class="outline-3">
+<h3 id="orga5e5f93">Paper writing suggestions</h3>
+<div class="outline-text-3" id="text-orga5e5f93">
+<ul class="org-ul">
+<li>How to Write a Great Research Paper (by Prof. Simon Peyton Jones)
+[<a href="/assets/resources/Writing a paper_slides.pdf">Slides</a>][<a href="https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html">Video@Youku</a>][<a href="https://www.youtube.com/watch?v=VEXaUHNmpQw">Video@YouTube</a>]</li>
+<li>Book: The Elements of Style (by Strunk and White)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org3337907" class="outline-3">
+<h3 id="org3337907">Presentation tools</h3>
+<div class="outline-text-3" id="text-org3337907">
+<ul class="org-ul">
+<li><a href="https://en.wikipedia.org/wiki/Beamer_(LaTeX)">Beamer</a></li>
+<li><a href="http://ipe.otfried.org/">IPE</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+</section>
+]]></description>
       <pubDate>2020-03-28</pubDate>
       <guid>https://junzhouzhao.github.io/resources/</guid>
     </item>
     <item>
       <title>Network Science</title>
       <link>https://junzhouzhao.github.io/article/2019/08/30/network-science</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2019-08-30</pubDate>
       <guid>https://junzhouzhao.github.io/article/2019/08/30/network-science</guid>
     </item>
     <item>
       <title>C++17 Library</title>
       <link>https://junzhouzhao.github.io/article/2017/06/25/cpplib</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2017-06-28</pubDate>
       <guid>https://junzhouzhao.github.io/article/2017/06/25/cpplib</guid>
     </item>
     <item>
       <title>Graph Statistic Calculation Tool</title>
       <link>https://junzhouzhao.github.io/article/2017/06/28/graphstat</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2017-06-28</pubDate>
       <guid>https://junzhouzhao.github.io/article/2017/06/28/graphstat</guid>
     </item>
     <item>
       <title>Graph Analysis Library</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/graph-analysis-library</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2016-09-15</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/graph-analysis-library</guid>
     </item>
     <item>
       <title>Python Packages</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/python-packages</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2016-09-15</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/python-packages</guid>
     </item>
     <item>
       <title>Blackboard</title>
       <link>https://junzhouzhao.github.io/article/2016/09/01/blackboard</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
       <pubDate>2016-09-01</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/09/01/blackboard</guid>
     </item>
     <item>
       <title>Quick Links</title>
       <link>https://junzhouzhao.github.io/article/2016/08/26/quick-links</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[desc]]></description>
       <pubDate>2016-09-01</pubDate>
       <guid>https://junzhouzhao.github.io/article/2016/08/26/quick-links</guid>
     </item>
