@@ -15,3 +15,8 @@
   - 电信学部物理信息融合实验室
 
   Email: junzhou.zhao AT xjtu DOT edu DOT cn
+
+  WeChat:
+
+  #+ATTR_HTML: :style margin-left:2em;
+  [[file:img/wechat-qr.jpg]]
