@@ -29,8 +29,8 @@
   Rating Systems: Modeling, Debiasing and Applications". ACM Transactions on Information Systems (TOIS), 2020.
   [@@html:<font color="red">@@CCF-A@@html:</font>@@]
 
-- Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, and *Junzhou Zhao*. "MR-GNN: Multi-resolution and dual graph neural network
-  for predicting structured entity interaction". In Proceedings of the 28th International Joint Conference on Artificial
+- Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, and *Junzhou Zhao*. "MR-GNN: Multi-Resolution and Dual Graph Neural Network
+  for Predicting Structured Entity Interaction". In Proceedings of the 28th International Joint Conference on Artificial
   Intelligence (IJCAI), 2019. [@@html:<font color="red">@@CCF-A@@html:</font>@@][[[https://arxiv.org/abs/1905.09558][arXiv]]]
 
 - *Junzhou Zhao*, Shuo Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Submodular Optimization over Streams
