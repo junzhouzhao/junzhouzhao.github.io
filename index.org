@@ -9,12 +9,13 @@
 Junzhou Zhao is an associate professor at the School of Cyber Science and Engineering, [[http://www.xjtu.edu.cn/][Xi'an
 Jiaotong University (XJTU)]]. Before joining XJTU, he was a postdoctoral researcher at the School of
 Computer, Electrical and Mathematical Science and Engineering (CEMSE), [[https://www.kaust.edu.sa/][King Abdullah University of
-Science and Technology (KAUST)]], working with [[https://www.kaust.edu.sa/en/study/faculty/xiangliang-zhang][Prof. Xiangliang Zhang]] from 2017 to 2019. He was also a
-postdoctoral researcher at the Department of Computer Science & Engineering, [[http://www.cse.cuhk.edu.hk/en/][The Chinese University
-of Hong Kong (CUHK)]], working with [[http://www.cse.cuhk.edu.hk/~cslui/][Prof. John C.S. Lui]] from 2015 to 2017. He holds a Ph.D. degree in
-Control Science and Engineering, and a B.S. degree in Automation Science and Technology, both from
-[[http://www.xjtu.edu.cn/][XJTU]] under the supervision of Prof. Xiaohong Guan. His research interests mainly focus on data
-management and mining, high performance computation, machine learning, and security.
+Science and Technology (KAUST)]], working with [[https://www.kaust.edu.sa/en/study/faculty/xiangliang-zhang][Prof. Xiangliang Zhang]], from 2017 to 2019. He was also
+a postdoctoral researcher at the Department of Computer Science & Engineering, [[http://www.cse.cuhk.edu.hk/en/][The Chinese
+University of Hong Kong (CUHK)]], working with [[http://www.cse.cuhk.edu.hk/~cslui/][Prof. John C.S. Lui]], from 2015 to 2017. He holds a
+Ph.D. degree in Control Science and Engineering, and a B.S. degree in Automation Science and
+Technology, both from [[http://www.xjtu.edu.cn/][XJTU]], under the supervision of Prof. Xiaohong Guan. His research interests
+mainly focus on data management and mining, high performance computation, machine learning, and
+data security.
 
 #+ATTR_HTML: :style margin-right:1ex;
 [[file:img/news.gif]]

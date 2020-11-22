@@ -22,7 +22,7 @@
   Streams with Probabilistic Decays". In Proceedings of the 36th IEEE International Conference on Data Engineering
   (ICDE), 2020. [@@html:<font color="red">@@CCF-A@@html:</font>@@][[[file:assets/ICDE2020_full_version.pdf][full paper]]][[[file:assets/ICDE2020_slides.pdf][slides]]][[[file:assets/ICDE2020_poster.pdf][poster]]]
 
-- L. Lan, Pinghui Wang, *Junzhou Zhao*, Jing Tao, John C.S. Lui, and Xiaohong Guan. "Improving Network Embedding with
+- Lin Lan, Pinghui Wang, *Junzhou Zhao*, Jing Tao, John C.S. Lui, and Xiaohong Guan. "Improving Network Embedding with
   Partially Available Vertex and Edge Content". Information Sciences, 2020.
 
 - Xiaoying Zhang, Hong Xie, *Junzhou Zhao*, and John C.S. Lui. "Understanding Assimilation-Contrast Effects in Online
