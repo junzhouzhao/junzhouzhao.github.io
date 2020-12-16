@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Wed, 16 Dec 2020 10:14:17 CST</pubDate>
-    <lastBuildDate>Wed, 16 Dec 2020 10:14:17 CST</lastBuildDate>
+    <pubDate>Wed, 16 Dec 2020 10:15:34 CST</pubDate>
+    <lastBuildDate>Wed, 16 Dec 2020 10:15:34 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,9 +14,9 @@
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org5593f97" class="outline-2">
-<h2 id="org5593f97">Publications</h2>
-<div class="outline-text-2" id="text-org5593f97">
+<div id="outline-container-org28a7402" class="outline-2">
+<h2 id="org28a7402">Publications</h2>
+<div class="outline-text-2" id="text-org28a7402">
 <p>
 [<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar​</a>][<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP​</a>][<a href="/assets/publication/MLDMAImap.pdf">机器学习、数据挖掘、人工智能领域主流国际会议</a>][<a href="/assets/publication/CCF2019.pdf">CCF推荐国际会议与期刊目录</a>]
 </p>
@@ -145,9 +145,9 @@ Pornography Web in China". In Proceedings of the Web Science Conference (WebSci)
 </div>
 
 
-<div id="outline-container-org1841860" class="outline-3">
-<h3 id="org1841860">Undated</h3>
-<div class="outline-text-3" id="text-org1841860">
+<div id="outline-container-orgb334fc8" class="outline-3">
+<h3 id="orgb334fc8">Undated</h3>
+<div class="outline-text-3" id="text-orgb334fc8">
 <ul class="org-ul">
 <li><b>Junzhou Zhao</b>, Pinghui Wang, John C.S. Lui, and Don Towsley. "Tracking Triadic Cardinality Distributions for
 Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
@@ -169,27 +169,27 @@ Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.090
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org75a0c9d">1. 大数据（Big Data）</a></li>
-<li><a href="#org45a667b">2. 计算与优化（Computation and Optimization）</a>
+<li><a href="#orgc176b47">1. 大数据（Big Data）</a></li>
+<li><a href="#orga56c51e">2. 计算与优化（Computation and Optimization）</a>
 <ul>
-<li><a href="#orgc41d304">2.1. 大图采样测量方法（Graph Sampling）</a></li>
-<li><a href="#org463244d">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
-<li><a href="#org283b466">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
-<li><a href="#org682c42c">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
+<li><a href="#org361dbb1">2.1. 大图采样测量方法（Graph Sampling）</a></li>
+<li><a href="#org1838307">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
+<li><a href="#orge95b4fe">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
+<li><a href="#org874ba6c">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
 </ul>
 </li>
-<li><a href="#orge028219">3. 学习算法（Learning Algorithms）</a></li>
-<li><a href="#org0c463d0">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
+<li><a href="#org84b8bb5">3. 学习算法（Learning Algorithms）</a></li>
+<li><a href="#org924c233">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
 </ul>
 </div>
 </div>
 <p>　　大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些挑战，我们开展了一系列相关研究。</p>
 
-<div id="outline-container-org75a0c9d" class="outline-2">
-<h2 id="org75a0c9d"><span class="section-number-2">1</span> 大数据（Big Data）</h2>
+<div id="outline-container-orgc176b47" class="outline-2">
+<h2 id="orgc176b47"><span class="section-number-2">1</span> 大数据（Big Data）</h2>
 <div class="outline-text-2" id="text-1">
 
-<div id="org7c6349a" class="figure">
+<div id="org494f0ee" class="figure">
 <p><img src="/assets/research/big_data.png" alt="big_data.png" style="margin-left:2em;" />
 </p>
 </div>
@@ -207,15 +207,15 @@ Burst Detection in Multigraph Streams". [<a href="https://arxiv.org/abs/1708.090
 
 
 
-<div id="outline-container-org45a667b" class="outline-2">
-<h2 id="org45a667b"><span class="section-number-2">2</span> 计算与优化（Computation and Optimization）</h2>
+<div id="outline-container-orga56c51e" class="outline-2">
+<h2 id="orga56c51e"><span class="section-number-2">2</span> 计算与优化（Computation and Optimization）</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-orgc41d304" class="outline-3">
-<h3 id="orgc41d304"><span class="section-number-3">2.1</span> 大图采样测量方法（Graph Sampling）</h3>
+<div id="outline-container-org361dbb1" class="outline-3">
+<h3 id="org361dbb1"><span class="section-number-3">2.1</span> 大图采样测量方法（Graph Sampling）</h3>
 <div class="outline-text-3" id="text-2-1">
 
-<div id="org40b6826" class="figure">
+<div id="org56c3678" class="figure">
 <p><img src="/assets/research/random_walk_sampling.png" alt="random_walk_sampling.png" style="margin-left:2em;" />
 </p>
 </div>
@@ -243,11 +243,11 @@ the 31st IEEE International Conference on Data Engineering (ICDE), 2015. [<a hre
 
 
 
-<div id="outline-container-org463244d" class="outline-3">
-<h3 id="org463244d"><span class="section-number-3">2.2</span> 子图模式挖掘算法（Graphlets Mining）</h3>
+<div id="outline-container-org1838307" class="outline-3">
+<h3 id="org1838307"><span class="section-number-3">2.2</span> 子图模式挖掘算法（Graphlets Mining）</h3>
 <div class="outline-text-3" id="text-2-2">
 
-<div id="org12456c4" class="figure">
+<div id="orgb157dc6" class="figure">
 <p><img src="/assets/research/graphlets.png" alt="graphlets.png" style="margin-left:2em;" />
 </p>
 </div>
@@ -275,11 +275,11 @@ from Data (TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>]</li
 
 
 
-<div id="outline-container-org283b466" class="outline-3">
-<h3 id="org283b466"><span class="section-number-3">2.3</span> 大图优化算法（Graph Optimization Algorithms）</h3>
+<div id="outline-container-orge95b4fe" class="outline-3">
+<h3 id="orge95b4fe"><span class="section-number-3">2.3</span> 大图优化算法（Graph Optimization Algorithms）</h3>
 <div class="outline-text-3" id="text-2-3">
 
-<div id="orge226be2" class="figure">
+<div id="org9baa1a8" class="figure">
 <p><img src="/assets/research/group.png" alt="group.png" style="margin-left:2em;" />
 </p>
 </div>
@@ -300,11 +300,11 @@ workshop, 2014. [<a href="/assets/research/SIMPLEX2014.pdf">pdf</a>][<a href="/a
 </div>
 
 
-<div id="outline-container-org682c42c" class="outline-3">
-<h3 id="org682c42c"><span class="section-number-3">2.4</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
+<div id="outline-container-org874ba6c" class="outline-3">
+<h3 id="org874ba6c"><span class="section-number-3">2.4</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
 <div class="outline-text-3" id="text-2-4">
 
-<div id="orgbb8e908" class="figure">
+<div id="org081a90a" class="figure">
 <p><img src="/assets/research/sso.png" alt="sso.png" style="margin-left:2em;" />
 </p>
 </div>
@@ -328,11 +328,11 @@ Conference on Artificial Intelligence (AAAI), 2019. [<a href="https://arxiv.org/
 
 
 
-<div id="outline-container-orge028219" class="outline-2">
-<h2 id="orge028219"><span class="section-number-2">3</span> 学习算法（Learning Algorithms）</h2>
+<div id="outline-container-org84b8bb5" class="outline-2">
+<h2 id="org84b8bb5"><span class="section-number-2">3</span> 学习算法（Learning Algorithms）</h2>
 <div class="outline-text-2" id="text-3">
 
-<div id="orgf3d5555" class="figure">
+<div id="org36e5614" class="figure">
 <p><img src="/assets/research/embedding_and_ddi.png" alt="embedding_and_ddi.png" style="margin-left:1em;" />
 </p>
 </div>
@@ -355,11 +355,11 @@ interaction. In Proceedings of the 28th International Joint Conference on Artifi
 
 
 
-<div id="outline-container-org0c463d0" class="outline-2">
-<h2 id="org0c463d0"><span class="section-number-2">4</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
+<div id="outline-container-org924c233" class="outline-2">
+<h2 id="org924c233"><span class="section-number-2">4</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
 <div class="outline-text-2" id="text-4">
 
-<div id="org9aba6ff" class="figure">
+<div id="org224c821" class="figure">
 <p><img src="/assets/research/monitoring.png" alt="monitoring.png" style="margin-left:2em;" />
 </p>
 </div>
@@ -390,15 +390,15 @@ Information Forensics and Security (TIFS), 2014.</li>
       <link>https://junzhouzhao.github.io/resources/</link>
       <description><![CDATA[<section id="content">
     
-<div id="outline-container-org0af9568" class="outline-2">
-<h2 id="org0af9568">Resources</h2>
-<div class="outline-text-2" id="text-org0af9568">
+<div id="outline-container-orga22f4f5" class="outline-2">
+<h2 id="orga22f4f5">Resources</h2>
+<div class="outline-text-2" id="text-orga22f4f5">
 </div>
-<div id="outline-container-org0f93edb" class="outline-3">
-<h3 id="org0f93edb">Machine learning, data mining, and AI conferences</h3>
-<div class="outline-text-3" id="text-org0f93edb">
+<div id="outline-container-org11ba267" class="outline-3">
+<h3 id="org11ba267">Machine learning, data mining, and AI conferences</h3>
+<div class="outline-text-3" id="text-org11ba267">
 
-<div id="org4a79920" class="figure">
+<div id="org622a8ab" class="figure">
 <p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
 </p>
 </div>
@@ -409,9 +409,9 @@ Source: <a href="http://www.kamishima.net/archive/MLDMAImap.pdf">http://www.kami
 </div>
 </div>
 
-<div id="outline-container-orgc91a569" class="outline-3">
-<h3 id="orgc91a569">Paper writing suggestions</h3>
-<div class="outline-text-3" id="text-orgc91a569">
+<div id="outline-container-orgb85b94d" class="outline-3">
+<h3 id="orgb85b94d">Paper writing suggestions</h3>
+<div class="outline-text-3" id="text-orgb85b94d">
 <ul class="org-ul">
 <li>How to Write a Great Research Paper (by Prof. Simon Peyton Jones)
 [<a href="/assets/resources/Writing a paper_slides.pdf">Slides</a>][<a href="https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html">Video@Youku</a>][<a href="https://www.youtube.com/watch?v=VEXaUHNmpQw">Video@YouTube</a>]</li>
@@ -420,9 +420,9 @@ Source: <a href="http://www.kamishima.net/archive/MLDMAImap.pdf">http://www.kami
 </div>
 </div>
 
-<div id="outline-container-org4097f4a" class="outline-3">
-<h3 id="org4097f4a">Presentation tools</h3>
-<div class="outline-text-3" id="text-org4097f4a">
+<div id="outline-container-orgee418c9" class="outline-3">
+<h3 id="orgee418c9">Presentation tools</h3>
+<div class="outline-text-3" id="text-orgee418c9">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Beamer_(LaTeX)">Beamer</a></li>
 <li><a href="http://ipe.otfried.org/">IPE</a></li>
