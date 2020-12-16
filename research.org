@@ -140,6 +140,10 @@
 可以用来预测两种药物是否会产生副作用，可用于指导用药。相关工作发表在 IJCAI 和 Information Science 等
 国际会议和期刊上。
 
+
+- Learning to Check Contract Inconsistencies. In Proceedings of the 35th AAAI Conference on
+  Artificial Intelligence (AAAI), 2021.
+
 - Distinguish Confusing Law Articles for Legal Judgment Prediction. In Proceedings of the 58th
   Annual Meeting of the Association for Computational Linguistics (ACL), 2020. [[[https://arxiv.org/abs/2004.02557][arXiv]]]
 
