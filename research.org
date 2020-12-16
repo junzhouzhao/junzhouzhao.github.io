@@ -166,6 +166,9 @@
 Sensor）用来及时发现网络中的传播事件，也是网络监控需要解决的问题。我们设计了针对大规模网络的监控节点
 最优选择算法。相关工作发表在 COSN、Computer Networks 等国际会议和期刊上。
 
+- Tracking Triadic Cardinality Distributions for Burst Detection in High-Speed Graph Streams.
+  Knowledge and Information Systems (KAIS), 2021. [[[https://arxiv.org/abs/1708.09089][arXiv]]]
+
 - Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams. In
   Proceedings of ACM Conference on Online Social Networks (COSN), 2015. [[[http://arxiv.org/abs/1411.3808][arXiv]]]
 
