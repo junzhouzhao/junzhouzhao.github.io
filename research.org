@@ -127,9 +127,7 @@
   35th IEEE International Conference on Data Engineering (ICDE), 2019. [[[https://arxiv.org/abs/1810.07917][arXiv]]][[[file:assets/ICDE19_poster.pdf][poster]]]
 
 
-
-
-* 学习算法（Learning Algorithms）
+* 学习理论（Learning Theory）
 
   #+ATTR_HTML: :style margin-left:1em;
   [[file:img/embedding_and_ddi.png]]
