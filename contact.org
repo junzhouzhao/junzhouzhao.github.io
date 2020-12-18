@@ -6,7 +6,7 @@
   P.O. Box 1088#, Xi'an Jiaotong University, No.28, Xianning West Road, Xi'an
   710049, Shaanxi Prov., P. R. China
   - Ministry of Education Key Lab for Intelligent Networks and Network Security
-    (MOEKLINNS Lab)
+    (MOE KLINNS Lab)
   - School of Cyber Science and Engineering
 
   陕西省西安市碑林区咸宁西路 28 号，西安交通大学智网实验室 1088 信箱
