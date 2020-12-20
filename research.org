@@ -23,7 +23,7 @@
 
 
 
-* 近似计算与优化方法（Computation and Optimization Techniques）
+* 近似计算与优化方法（Approximate Computation and Optimization Techniques）
 
 ** 大图采样测量方法（Graph Sampling）
 
