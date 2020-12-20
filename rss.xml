@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Sun, 20 Dec 2020 11:25:27 CST</pubDate>
-    <lastBuildDate>Sun, 20 Dec 2020 11:25:27 CST</lastBuildDate>
+    <pubDate>Sun, 20 Dec 2020 11:27:33 CST</pubDate>
+    <lastBuildDate>Sun, 20 Dec 2020 11:27:33 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -16,27 +16,27 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgd392b36">1. 大数据（Big Data）</a></li>
-<li><a href="#orgb9fa04b">2. 近似计算与优化方法（Computation and Optimization Techniques）</a>
+<li><a href="#org9409ff7">1. 大数据（Big Data）</a></li>
+<li><a href="#org9fe1762">2. 近似计算与优化方法（Approximate Computation and Optimization Techniques）</a>
 <ul>
-<li><a href="#org1b6bfd7">2.1. 大图采样测量方法（Graph Sampling）</a></li>
-<li><a href="#org35780f8">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
-<li><a href="#org24c3fcd">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
-<li><a href="#org7521bb9">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
+<li><a href="#org38aefb5">2.1. 大图采样测量方法（Graph Sampling）</a></li>
+<li><a href="#org919a586">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
+<li><a href="#orga23b3b1">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
+<li><a href="#org1c90e76">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
 </ul>
 </li>
-<li><a href="#orga3e21c5">3. 学习理论（Learning Theory）</a></li>
-<li><a href="#org5d81535">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
+<li><a href="#org165a388">3. 学习理论（Learning Theory）</a></li>
+<li><a href="#orgdb85431">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
 </ul>
 </div>
 </div>
 <p>　　大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些挑战，我们开展了一系列相关研究。</p>
 
-<div id="outline-container-orgd392b36" class="outline-2">
-<h2 id="orgd392b36"><span class="section-number-2">1</span> 大数据（Big Data）</h2>
+<div id="outline-container-org9409ff7" class="outline-2">
+<h2 id="org9409ff7"><span class="section-number-2">1</span> 大数据（Big Data）</h2>
 <div class="outline-text-2" id="text-1">
 
-<div id="org05394f0" class="figure">
+<div id="orgcfc5be1" class="figure">
 <p><img src="/assets/research/big_data.png" alt="big_data.png" style="margin-left:2em;" />
 </p>
 </div>
@@ -54,15 +54,15 @@
 
 
 
-<div id="outline-container-orgb9fa04b" class="outline-2">
-<h2 id="orgb9fa04b"><span class="section-number-2">2</span> 近似计算与优化方法（Computation and Optimization Techniques）</h2>
+<div id="outline-container-org9fe1762" class="outline-2">
+<h2 id="org9fe1762"><span class="section-number-2">2</span> 近似计算与优化方法（Approximate Computation and Optimization Techniques）</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-org1b6bfd7" class="outline-3">
-<h3 id="org1b6bfd7"><span class="section-number-3">2.1</span> 大图采样测量方法（Graph Sampling）</h3>
+<div id="outline-container-org38aefb5" class="outline-3">
+<h3 id="org38aefb5"><span class="section-number-3">2.1</span> 大图采样测量方法（Graph Sampling）</h3>
 <div class="outline-text-3" id="text-2-1">
 
-<div id="org1276608" class="figure">
+<div id="orgda63dde" class="figure">
 <p><img src="/assets/research/random_walk_sampling.png" alt="random_walk_sampling.png" style="margin-left:2em;" />
 </p>
 </div>
@@ -90,11 +90,11 @@ the 31st IEEE International Conference on Data Engineering (ICDE), 2015. [<a hre
 
 
 
-<div id="outline-container-org35780f8" class="outline-3">
-<h3 id="org35780f8"><span class="section-number-3">2.2</span> 子图模式挖掘算法（Graphlets Mining）</h3>
+<div id="outline-container-org919a586" class="outline-3">
+<h3 id="org919a586"><span class="section-number-3">2.2</span> 子图模式挖掘算法（Graphlets Mining）</h3>
 <div class="outline-text-3" id="text-2-2">
 
-<div id="org71d30f0" class="figure">
+<div id="orgfbd9d7e" class="figure">
 <p><img src="/assets/research/graphlets.png" alt="graphlets.png" style="margin-left:2em;" />
 </p>
 </div>
@@ -122,11 +122,11 @@ from Data (TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>]</li
 
 
 
-<div id="outline-container-org24c3fcd" class="outline-3">
-<h3 id="org24c3fcd"><span class="section-number-3">2.3</span> 大图优化算法（Graph Optimization Algorithms）</h3>
+<div id="outline-container-orga23b3b1" class="outline-3">
+<h3 id="orga23b3b1"><span class="section-number-3">2.3</span> 大图优化算法（Graph Optimization Algorithms）</h3>
 <div class="outline-text-3" id="text-2-3">
 
-<div id="orgc4a5f23" class="figure">
+<div id="org714defc" class="figure">
 <p><img src="/assets/research/group.png" alt="group.png" style="margin-left:2em;" />
 </p>
 </div>
@@ -147,11 +147,11 @@ workshop, 2014. [<a href="/assets/research/SIMPLEX2014.pdf">pdf</a>][<a href="/a
 </div>
 
 
-<div id="outline-container-org7521bb9" class="outline-3">
-<h3 id="org7521bb9"><span class="section-number-3">2.4</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
+<div id="outline-container-org1c90e76" class="outline-3">
+<h3 id="org1c90e76"><span class="section-number-3">2.4</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
 <div class="outline-text-3" id="text-2-4">
 
-<div id="org2c5daee" class="figure">
+<div id="org1359d65" class="figure">
 <p><img src="/assets/research/sso.png" alt="sso.png" style="margin-left:2em;" />
 </p>
 </div>
@@ -173,11 +173,11 @@ Conference on Artificial Intelligence (AAAI), 2019. [<a href="https://arxiv.org/
 </div>
 
 
-<div id="outline-container-orga3e21c5" class="outline-2">
-<h2 id="orga3e21c5"><span class="section-number-2">3</span> 学习理论（Learning Theory）</h2>
+<div id="outline-container-org165a388" class="outline-2">
+<h2 id="org165a388"><span class="section-number-2">3</span> 学习理论（Learning Theory）</h2>
 <div class="outline-text-2" id="text-3">
 
-<div id="org3458fe3" class="figure">
+<div id="orge9cfdc4" class="figure">
 <p><img src="/assets/research/embedding_and_ddi.png" alt="embedding_and_ddi.png" style="margin-left:1em;" />
 </p>
 </div>
@@ -204,11 +204,11 @@ interaction. In Proceedings of the 28th International Joint Conference on Artifi
 
 
 
-<div id="outline-container-org5d81535" class="outline-2">
-<h2 id="org5d81535"><span class="section-number-2">4</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
+<div id="outline-container-orgdb85431" class="outline-2">
+<h2 id="orgdb85431"><span class="section-number-2">4</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
 <div class="outline-text-2" id="text-4">
 
-<div id="org95053bd" class="figure">
+<div id="org80bfdc4" class="figure">
 <p><img src="/assets/research/monitoring.png" alt="monitoring.png" style="margin-left:2em;" />
 </p>
 </div>
