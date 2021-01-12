@@ -86,7 +86,7 @@
 
 ** 大图优化算法（Graph Optimization Algorithms）
 
-  #+ATTR_HTML: :style margin-left:2em; width: 1000px;
+  #+ATTR_HTML: :style margin-left:2em; width: 1200px;
   [[file:img/group.png]]
 
 　　度量图中节点的重要性程度是网络科学研究中一个重要问题，例如利用 PageRank 来评估一个网页在网页链接
@@ -109,8 +109,10 @@
 
 ** 流数据在线优化算法（Online Optimization Algorithms）
 
-  #+ATTR_HTML: :style margin-left:2em; width:600px;
+  #+ATTR_HTML: :style margin-left:2em; width:600px; float: left;
   [[file:img/SSO1.png]]
+  #+ATTR_HTML: :style margin-left:2em; width:500px;
+  [[file:img/influence.png]]
 
 　　识别图中最有影响力的节点在很多实际问题中都有应用，例如在线广告投放、病毒营销等。目前的工作大都假
 设网络结构固定不变，但实际中网络结构可能在不断发生变化，导致昨天识别的一组最有影响力节点在今天不一定
@@ -129,7 +131,7 @@
 
 * 学习理论（Learning Theory）
 
-  #+ATTR_HTML: :style margin-left:1em; width: 800px;
+  #+ATTR_HTML: :style margin-left:2em; width: 1000px;
   [[file:img/embedding_and_ddi.png]]
 
 　　图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节
