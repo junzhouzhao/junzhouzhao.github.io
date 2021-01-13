@@ -158,7 +158,7 @@
 
 * 数据安全与隐私保护（Data Security and Privacy）
 
-  #+ATTR_HTML: :style margin-left:2em; width: 800px;
+  #+ATTR_HTML: :style margin-left:2em; width: 1000px;
   [[file:img/monitoring.png]]
 
 　　如何及时发现大规模网络中的攻击行为，例如通信网络中的 DDoS 攻击以及 OSN 中的 Social Bot 攻击。针对
