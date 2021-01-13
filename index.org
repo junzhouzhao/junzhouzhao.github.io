@@ -37,7 +37,7 @@ security.
     学习理论与决策过程
 
   - data security and privacy\\
-    数据安全与隐私计算
+    数据安全与隐私保护
 
 
 * Activities
