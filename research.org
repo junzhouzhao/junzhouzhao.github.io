@@ -9,7 +9,7 @@
 
 * 大数据（Big Data）
 
-  #+ATTR_HTML: :style margin-left:2em; width: 800px;
+  #+ATTR_HTML: :style margin-left:2em; width: 90%;
   [[file:img/big_data.png]]
 
 主要研究以下各种大数据：
@@ -27,7 +27,7 @@
 
 ** 大图采样测量方法（Graph Sampling）
 
-  #+ATTR_HTML: :style margin-left:2em; width: 800px;
+  #+ATTR_HTML: :style margin-left:2em; width: 90%;
   [[file:img/random_walk_sampling.png]]
 
 　　研究者作为第三方通常不拥有网络数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业
@@ -58,7 +58,7 @@
 
 ** 子图模式挖掘算法（Graphlets Mining）
 
-  #+ATTR_HTML: :style margin-left:2em; width: 800px;
+  #+ATTR_HTML: :style margin-left:2em; width: 90%;
   [[file:img/graphlets.png]]
 
 　　连通子图指网络中连通的子图，例如 3 节点子图、4-节点子图等。这样的子图被认为是构成大规模复杂网络
@@ -86,7 +86,7 @@
 
 ** 大图优化算法（Graph Optimization Algorithms）
 
-  #+ATTR_HTML: :style margin-left:2em; width: 1200px;
+  #+ATTR_HTML: :style margin-left:2em; width: 90%;
   [[file:img/group.png]]
 
 　　度量图中节点的重要性程度是网络科学研究中一个重要问题，例如利用 PageRank 来评估一个网页在网页链接
@@ -109,11 +109,12 @@
 
 ** 流数据在线优化算法（Online Optimization Algorithms）
 
-  #+ATTR_HTML: :style margin-left:2em; width:600px; float: left;
+  #+ATTR_HTML: :style margin-left:2em; width:50%; float: left;
   [[file:img/SSO1.png]]
-  #+ATTR_HTML: :style margin-left:2em; width:500px;
+  #+ATTR_HTML: :style margin-left:2em; width:40%;
   [[file:img/influence.png]]
 
+  \\
 　　识别图中最有影响力的节点在很多实际问题中都有应用，例如在线广告投放、病毒营销等。目前的工作大都假
 设网络结构固定不变，但实际中网络结构可能在不断发生变化，导致昨天识别的一组最有影响力节点在今天不一定
 仍然有影响力。我们设计了一种动态图数据流上的最优节点识别算法，可以实时的跟踪图数据流中 /K/ 个最有影
@@ -131,7 +132,7 @@
 
 * 学习理论（Learning Theory）
 
-  #+ATTR_HTML: :style margin-left:2em; width: 1000px;
+  #+ATTR_HTML: :style margin-left:2em; width: 90%;
   [[file:img/embedding_and_ddi.png]]
 
 　　图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节
@@ -139,7 +140,6 @@
 药物相互作用预测也是一个重要的问题，我们将药物分子模型抽象为图结构，设计了图与图之间相似度的评估方法，
 可以用来预测两种药物是否会产生副作用，可用于指导用药。相关工作发表在 IJCAI 和 Information Science 等
 国际会议和期刊上。
-
 
 - Learning to Check Contract Inconsistencies. In Proceedings of the 35th AAAI Conference on
   Artificial Intelligence (AAAI), 2021.
@@ -158,9 +158,12 @@
 
 * 数据安全与隐私保护（Data Security and Privacy）
 
-  #+ATTR_HTML: :style margin-left:2em; width: 1000px;
-  [[file:img/monitoring.png]]
+  #+ATTR_HTML: :style margin-left:2em; width:44%; float:left;
+  [[file:img/monitoring1.png]]
+  #+ATTR_HTML: :style margin-left:2em; width:46%;
+  [[file:img/monitoring2.png]]
 
+  \\
 　　如何及时发现大规模网络中的攻击行为，例如通信网络中的 DDoS 攻击以及 OSN 中的 Social Bot 攻击。针对
 这些攻击，我们设计了高效的攻击检测方法。此外，如何选择网络中的一组最优观测节点（或者称为 Social
 Sensor）用来及时发现网络中的传播事件，也是网络监控需要解决的问题。我们设计了针对大规模网络的监控节点
