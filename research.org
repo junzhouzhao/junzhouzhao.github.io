@@ -9,7 +9,7 @@
 
 * 大数据（Big Data）
 
-  #+ATTR_HTML: :style margin-left:2em; width: 90%;
+  #+ATTR_HTML: :style margin-left:2em; width: 60%;
   [[file:img/big_data.png]]
 
 主要研究以下各种大数据：
