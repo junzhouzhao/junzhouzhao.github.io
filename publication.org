@@ -8,6 +8,10 @@
 
   [[[https://scholar.google.com/citations?hl=en&user=hBLT754AAAAJ&view_op=list_works&sortby=pubdate][Google Scholar​]]][[[http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou][DBLP​]]][[[file:assets/MLDMAImap.pdf][机器学习、数据挖掘、人工智能领域主流国际会议]]][[[file:assets/CCF2019.pdf][CCF推荐国际会议与期刊目录]]]
 
+- Peng Jia, Pinghui Wang, *Junzhou Zhao*, Jing Tao, Ye Yuan, Xiaohong Guan. "Erasable Virtual HyperLogLog for
+  Approximating Cumulative Distribution over Data Streams". IEEE Transactions on Knowledge and Data Engineering
+  (TKDE), 2021.
+
 - Shuo Zhang, *Junzhou Zhao*, Pinghui Wang, Nuo Xu, Yang Yang, Yiting Liu, Yi Huang, and Junlan Feng. "Learning to Check
   Contract Inconsistencies". In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI), 2021.
   [@@html:<font color="red">@@CCF-A@@html:</font>@@]
