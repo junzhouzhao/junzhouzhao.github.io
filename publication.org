@@ -13,7 +13,7 @@
   (TKDE), 2021.
 
 - Shuo Zhang, *Junzhou Zhao*, Pinghui Wang, Nuo Xu, Yang Yang, Yiting Liu, Yi Huang, and Junlan Feng. "Learning to Check
-  Contract Inconsistencies". In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI), 2021.
+  Contract Inconsistencies". In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI), 2021. [[[https://arxiv.org/abs/2012.08150][arXiv]]]
 
 - *Junzhou Zhao*, Pinghui Wang, Zhouguo Chen, Jianwei Ding, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Tracking
   Triadic Cardinality Distributions for Burst Detection in High-Speed Graph Streams". Knowledge and Information Systems
