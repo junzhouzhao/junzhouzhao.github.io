@@ -8,6 +8,12 @@
 
   [[[https://scholar.google.com/citations?hl=en&user=hBLT754AAAAJ&view_op=list_works&sortby=pubdate][Google Scholar​]]][[[http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou][DBLP​]]][[[file:assets/MLDMAImap.pdf][机器学习、数据挖掘、人工智能领域主流国际会议]]][[[file:assets/CCF2019.pdf][CCF推荐国际会议与期刊目录]]]
 
+- Peng Jia, Pinghui Wang, *Junzhou Zhao*, Shuo Zhang, Yiyan Qi, Min Hu, Chao Deng, and Xiaohong Guan. "Bidirectionally
+  Densifying LSH Sketches with Empty Bins". SIGMOD 2021.
+
+- Rundong Li, Pinghui Wang, Jiongli Zhu, *Junzhou Zhao*, Jia Di, Xiaofei Yang and Kai Ye. "Building Fast and Compact
+  Sketches for Approximately Multi-Set Multi-Membership Querying". SIGMOD 2021.
+
 - Peng Jia, Pinghui Wang, *Junzhou Zhao*, Jing Tao, Ye Yuan, Xiaohong Guan. "Erasable Virtual HyperLogLog for
   Approximating Cumulative Distribution over Data Streams". IEEE Transactions on Knowledge and Data Engineering
   (TKDE), 2021.
