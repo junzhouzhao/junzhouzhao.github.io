@@ -18,8 +18,7 @@ mainly focus on data management and mining, high performance computation, machin
 security.
 
 #+ATTR_HTML: :style margin-right:1ex;
-[[file:img/news.gif]]
-招收博士生、硕士生以及本科实习生
+[[file:img/news.gif]]常年招收博士生、硕士生以及本科实习生。
 
 
 * Research
@@ -51,6 +50,7 @@ security.
 
   Reviewer of
     - ACM MobiHoc
+    - ACM SIGKDD
     - ECML/PKDD
     - IEEE Transactions on Data Science (TDS)
     - IEEE Transactions on Mobile Computation (TMC)
