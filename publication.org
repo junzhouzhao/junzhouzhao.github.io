@@ -50,11 +50,10 @@
   for Predicting Structured Entity Interaction". In Proceedings of the 28th International Joint Conference on Artificial
   Intelligence (IJCAI), 2019. [[[https://arxiv.org/abs/1905.09558][arXiv]]]
 
-- Junzhou Zhao, Shuo Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Submodular Optimization over Streams
-  with Inhomogeneous Decays". In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019.
-  [[[https://arxiv.org/abs/1811.05652][arXiv]]]
+- Junzhou Zhao, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Submodular Optimization over Streams with
+  Inhomogeneous Decays". In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019. [[[https://arxiv.org/abs/1811.05652][arXiv]]]
 
-- Junzhou Zhao, Shuo Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Tracking Influential Nodes in
+- Junzhou Zhao, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Tracking Influential Nodes in
   Time-Decaying Dynamic Interaction Networks". In Proceedings of the 35th IEEE International Conference on Data
   Engineering (ICDE), 2019. [[[https://arxiv.org/abs/1810.07917][arXiv]]][[[file:assets/ICDE19_poster.pdf][poster]]]
 
