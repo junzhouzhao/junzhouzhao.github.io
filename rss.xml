@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Tue, 06 Apr 2021 14:35:06 CST</pubDate>
-    <lastBuildDate>Tue, 06 Apr 2021 14:35:06 CST</lastBuildDate>
+    <pubDate>Tue, 06 Apr 2021 15:25:16 CST</pubDate>
+    <lastBuildDate>Tue, 06 Apr 2021 15:25:16 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,9 +14,9 @@
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-orgd14d454" class="outline-2">
-<h2 id="orgd14d454">Publications</h2>
-<div class="outline-text-2" id="text-orgd14d454">
+<div id="outline-container-orge61889d" class="outline-2">
+<h2 id="orge61889d">Publications</h2>
+<div class="outline-text-2" id="text-orge61889d">
 <p>
 [<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar​</a>][<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP​</a>][<a href="/assets/publication/MLDMAImap.pdf">机器学习、数据挖掘、人工智能领域主流国际会议</a>][<a href="/assets/publication/CCF2019.pdf">CCF推荐国际会议与期刊目录</a>]
 </p>
@@ -55,7 +55,7 @@ Number of Gumbel-Max Variables". The Web Conference (WWW), 2020. [<a href="https
 
 <li><b>Junzhou Zhao</b>, Pinghui Wang, Jing Tao, Shuo Zhang, and John C.S. Lui. "Continuously Tracking Core Items in Data
 Streams with Probabilistic Decays". In Proceedings of the 36th IEEE International Conference on Data Engineering
-(ICDE), 2020. [<a href="/assets/publication/ICDE2020_full_version.pdf">full paper</a>][<a href="/assets/publication/ICDE2020_slides.pdf">slides</a>][<a href="/assets/publication/ICDE2020_poster.pdf">poster</a>] [<a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks"><font color="red">CCF-A</font></a>]</li>
+(ICDE), 2020. [<a href="/assets/publication/ICDE2020_full_version.pdf">full paper</a>][<a href="/assets/publication/ICDE2020_slides.pdf">slides</a>][<a href="/assets/publication/ICDE2020_poster.pdf">poster</a>][<a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks"><font color="red">CCF-A</font></a>]</li>
 
 <li>Lin Lan, Pinghui Wang, <b>Junzhou Zhao</b>, Jing Tao, John C.S. Lui, and Xiaohong Guan. "Improving Network Embedding with
 Partially Available Vertex and Edge Content". Information Sciences, 2020.</li>
@@ -70,7 +70,7 @@ Intelligence (IJCAI), 2019. [<a href="https://arxiv.org/abs/1905.09558">arXiv</a
 
 <li><b>Junzhou Zhao</b>, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Submodular Optimization over Streams
 with Inhomogeneous Decays". In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019.
-[<a href="https://arxiv.org/abs/1811.05652">arXiv</a>] [<a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks"><font color="red">CCF-A</font></a>]</li>
+[<a href="https://arxiv.org/abs/1811.05652">arXiv</a>][<a href="http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks"><font color="red">CCF-A</font></a>]</li>
 
 <li><b>Junzhou Zhao</b>, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Tracking Influential Nodes in
 Time-Decaying Dynamic Interaction Networks". In Proceedings of the 35th IEEE International Conference on Data
@@ -171,27 +171,32 @@ In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="/assets/p
 <h2>&#30446;&#24405;</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgdc25410">1. 大数据（Big Data）</a></li>
-<li><a href="#orgfe5974a">2. 近似计算与优化方法（Approximate Computation and Optimization Techniques）</a>
+<li><a href="#org5ca136a">1. 大数据（Big Data）</a></li>
+<li><a href="#org4d9f80e">2. 近似计算与优化方法（Approximate Computation and Optimization Techniques）</a>
 <ul>
-<li><a href="#orge6d7f74">2.1. 大图采样测量方法（Graph Sampling）</a></li>
-<li><a href="#orgd57434f">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
-<li><a href="#org959df28">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
-<li><a href="#orgf9c5864">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
+<li><a href="#org3b11748">2.1. 大图采样测量方法（Graph Sampling）</a></li>
+<li><a href="#org526dd56">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
+<li><a href="#org28c9b90">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
+<li><a href="#org5c0b90e">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
 </ul>
 </li>
-<li><a href="#org596f397">3. 学习理论（Learning Theory）</a></li>
-<li><a href="#orgf918cbb">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
+<li><a href="#orga5f62ce">3. 学习理论与人工智能（Learning Theory and AI）</a>
+<ul>
+<li><a href="#orga6ba70c">3.1. 图数据表示学习（Graph Data Representation Learning）</a></li>
+<li><a href="#orgf3662fa">3.2. 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</a></li>
+</ul>
+</li>
+<li><a href="#orgfd69dfe">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
 </ul>
 </div>
 </div>
 <p>　　大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些挑战，我们开展了一系列相关研究。</p>
 
-<div id="outline-container-orgdc25410" class="outline-2">
-<h2 id="orgdc25410"><span class="section-number-2">1</span> 大数据（Big Data）</h2>
+<div id="outline-container-org5ca136a" class="outline-2">
+<h2 id="org5ca136a"><span class="section-number-2">1</span> 大数据（Big Data）</h2>
 <div class="outline-text-2" id="text-1">
 
-<div id="org858cec4" class="figure">
+<div id="orga97eedb" class="figure">
 <p><img src="/assets/research/big_data.png" alt="big_data.png" style="margin-left:2em; width: 60%;" />
 </p>
 </div>
@@ -209,15 +214,15 @@ In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="/assets/p
 
 
 
-<div id="outline-container-orgfe5974a" class="outline-2">
-<h2 id="orgfe5974a"><span class="section-number-2">2</span> 近似计算与优化方法（Approximate Computation and Optimization Techniques）</h2>
+<div id="outline-container-org4d9f80e" class="outline-2">
+<h2 id="org4d9f80e"><span class="section-number-2">2</span> 近似计算与优化方法（Approximate Computation and Optimization Techniques）</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-orge6d7f74" class="outline-3">
-<h3 id="orge6d7f74"><span class="section-number-3">2.1</span> 大图采样测量方法（Graph Sampling）</h3>
+<div id="outline-container-org3b11748" class="outline-3">
+<h3 id="org3b11748"><span class="section-number-3">2.1</span> 大图采样测量方法（Graph Sampling）</h3>
 <div class="outline-text-3" id="text-2-1">
 
-<div id="org3f535e6" class="figure">
+<div id="org02c493c" class="figure">
 <p><img src="/assets/research/random_walk_sampling.png" alt="random_walk_sampling.png" style="margin-left:2em; width: 90%;" />
 </p>
 </div>
@@ -245,11 +250,11 @@ the 31st IEEE International Conference on Data Engineering (ICDE), 2015. [<a hre
 
 
 
-<div id="outline-container-orgd57434f" class="outline-3">
-<h3 id="orgd57434f"><span class="section-number-3">2.2</span> 子图模式挖掘算法（Graphlets Mining）</h3>
+<div id="outline-container-org526dd56" class="outline-3">
+<h3 id="org526dd56"><span class="section-number-3">2.2</span> 子图模式挖掘算法（Graphlets Mining）</h3>
 <div class="outline-text-3" id="text-2-2">
 
-<div id="orgf5aace7" class="figure">
+<div id="org392da9c" class="figure">
 <p><img src="/assets/research/graphlets.png" alt="graphlets.png" style="margin-left:2em; width: 90%;" />
 </p>
 </div>
@@ -277,11 +282,11 @@ from Data (TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>]</li
 
 
 
-<div id="outline-container-org959df28" class="outline-3">
-<h3 id="org959df28"><span class="section-number-3">2.3</span> 大图优化算法（Graph Optimization Algorithms）</h3>
+<div id="outline-container-org28c9b90" class="outline-3">
+<h3 id="org28c9b90"><span class="section-number-3">2.3</span> 大图优化算法（Graph Optimization Algorithms）</h3>
 <div class="outline-text-3" id="text-2-3">
 
-<div id="org7970734" class="figure">
+<div id="orgc2cdb9a" class="figure">
 <p><img src="/assets/research/group.png" alt="group.png" style="margin-left:2em; width: 90%;" />
 </p>
 </div>
@@ -302,16 +307,16 @@ workshop, 2014. [<a href="/assets/research/SIMPLEX2014.pdf">pdf</a>][<a href="/a
 </div>
 
 
-<div id="outline-container-orgf9c5864" class="outline-3">
-<h3 id="orgf9c5864"><span class="section-number-3">2.4</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
+<div id="outline-container-org5c0b90e" class="outline-3">
+<h3 id="org5c0b90e"><span class="section-number-3">2.4</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
 <div class="outline-text-3" id="text-2-4">
 
-<div id="orgb69c900" class="figure">
+<div id="org879b891" class="figure">
 <p><img src="/assets/research/SSO1.png" alt="SSO1.png" style="margin-left:2em; width:50%; float: left;" />
 </p>
 </div>
 
-<div id="orgf52c168" class="figure">
+<div id="org53375f7" class="figure">
 <p><img src="/assets/research/influence.png" alt="influence.png" style="margin-left:2em; width:40%;" />
 </p>
 </div>
@@ -334,17 +339,45 @@ Conference on Artificial Intelligence (AAAI), 2019. [<a href="https://arxiv.org/
 </div>
 
 
-<div id="outline-container-org596f397" class="outline-2">
-<h2 id="org596f397"><span class="section-number-2">3</span> 学习理论（Learning Theory）</h2>
+<div id="outline-container-orga5f62ce" class="outline-2">
+<h2 id="orga5f62ce"><span class="section-number-2">3</span> 学习理论与人工智能（Learning Theory and AI）</h2>
 <div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-orga6ba70c" class="outline-3">
+<h3 id="orga6ba70c"><span class="section-number-3">3.1</span> 图数据表示学习（Graph Data Representation Learning）</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>　　图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节点的表示。我们同时利用图的结构信息和部分节点/边的属性信息设计了一种新的节点表示学习算法框架。此外，药物相互作用预测也是一个重要的问题，我们将药物分子模型抽象为图结构，设计了图与图之间相似度的评估方法，可以用来预测两种药物是否会产生副作用，可用于指导用药。相关工作发表在 IJCAI 和 Information Science 等国际会议和期刊上。</p>
 
-<div id="org766bb04" class="figure">
+
+<div id="orged6f836" class="figure">
 <p><img src="/assets/research/embedding_and_ddi.png" alt="embedding_and_ddi.png" style="margin-left:2em; width: 90%;" />
 </p>
 </div>
+</div>
+</div>
 
-<p>　　图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节点的表示。我们同时利用图的结构信息和部分节点/边的属性信息设计了一种新的节点表示学习算法框架。此外，药物相互作用预测也是一个重要的问题，我们将药物分子模型抽象为图结构，设计了图与图之间相似度的评估方法，可以用来预测两种药物是否会产生副作用，可用于指导用药。相关工作发表在 IJCAI 和 Information Science 等国际会议和期刊上。</p>
 
+<div id="outline-container-orgf3662fa" class="outline-3">
+<h3 id="orgf3662fa"><span class="section-number-3">3.2</span> 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>　　随着我国法制化进程的逐步深化，司法大数据形成另外一种重要的大数据。利用司法大数据，有利于智慧法院建设，有助于实现审判执行的自动化和精准化。在众多司法活动领域如类案推送、量刑辅助、偏离预警、裁判文书自动生成、虚假诉讼识别、判决结果预测、诉讼风险评估等都有应用前景，给审判执行工作现代化带来新机遇。</p>
+
+<p>　　此外，合同文书也是企业经常遇到的一种法律文书，然而管理、填写大量合同文本时，往往会因为粗心大意导致合同内容前后不一致等填写错误，进而影响合同的法律效益。企业需要雇佣大量司法人员人工审核合同文本，耗时费力。课题组利用近期取得突破的 Transformer、BERT、孪生网络等方法实现自动化合同文本一致性检查。</p>
+
+
+<div id="org215246c" class="figure">
+<p><img src="/assets/research/ACL2020-LJP.png" alt="ACL2020-LJP.png" style="margin-left:2em; width:40%; float:left;" />
+</p>
+</div>
+
+<div id="org500abe2" class="figure">
+<p><img src="/assets/research/AAAI2021-CIC.png" alt="AAAI2021-CIC.png" style="margin-left:2em; width:48%;" />
+</p>
+</div>
+
+<p>
+<br />
+</p>
 <ul class="org-ul">
 <li>Learning to Check Contract Inconsistencies. In Proceedings of the 35th AAAI Conference on
 Artificial Intelligence (AAAI), 2021.</li>
@@ -361,19 +394,18 @@ interaction. In Proceedings of the 28th International Joint Conference on Artifi
 </ul>
 </div>
 </div>
+</div>
 
-
-
-<div id="outline-container-orgf918cbb" class="outline-2">
-<h2 id="orgf918cbb"><span class="section-number-2">4</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
+<div id="outline-container-orgfd69dfe" class="outline-2">
+<h2 id="orgfd69dfe"><span class="section-number-2">4</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
 <div class="outline-text-2" id="text-4">
 
-<div id="org1597796" class="figure">
+<div id="org5797bb3" class="figure">
 <p><img src="/assets/research/monitoring1.png" alt="monitoring1.png" style="margin-left:2em; width:44%; float:left;" />
 </p>
 </div>
 
-<div id="org0ce2708" class="figure">
+<div id="org6958330" class="figure">
 <p><img src="/assets/research/monitoring2.png" alt="monitoring2.png" style="margin-left:2em; width:46%;" />
 </p>
 </div>
