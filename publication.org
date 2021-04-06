@@ -41,7 +41,7 @@
 
 - *Junzhou Zhao*, Pinghui Wang, Jing Tao, Shuo Zhang, and John C.S. Lui. "Continuously Tracking Core Items in Data
   Streams with Probabilistic Decays". In Proceedings of the 36th IEEE International Conference on Data Engineering
-  (ICDE), 2020. [[[file:assets/ICDE2020_full_version.pdf][full paper]]][[[file:assets/ICDE2020_slides.pdf][slides]]][[[file:assets/ICDE2020_poster.pdf][poster]]] [[[http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks][@@html:<font color="red">@@CCF-A@@html:</font>@@]]]
+  (ICDE), 2020. [[[file:assets/ICDE2020_full_version.pdf][full paper]]][[[file:assets/ICDE2020_slides.pdf][slides]]][[[file:assets/ICDE2020_poster.pdf][poster]]][[[http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks][@@html:<font color="red">@@CCF-A@@html:</font>@@]]]
 
 - Lin Lan, Pinghui Wang, *Junzhou Zhao*, Jing Tao, John C.S. Lui, and Xiaohong Guan. "Improving Network Embedding with
   Partially Available Vertex and Edge Content". Information Sciences, 2020.
@@ -56,7 +56,7 @@
 
 - *Junzhou Zhao*, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Submodular Optimization over Streams
   with Inhomogeneous Decays". In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019.
-  [[[https://arxiv.org/abs/1811.05652][arXiv]]] [[[http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks][@@html:<font color="red">@@CCF-A@@html:</font>@@]]]
+  [[[https://arxiv.org/abs/1811.05652][arXiv]]][[[http://stcsn.ieee.net/featured-articles/may2014ataleofthreesocialnetworks][@@html:<font color="red">@@CCF-A@@html:</font>@@]]]
 
 - *Junzhou Zhao*, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Tracking Influential Nodes in
   Time-Decaying Dynamic Interaction Networks". In Proceedings of the 35th IEEE International Conference on Data

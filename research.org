@@ -131,17 +131,34 @@
   35th IEEE International Conference on Data Engineering (ICDE), 2019. [[[https://arxiv.org/abs/1810.07917][arXiv]]][[[file:assets/ICDE19_poster.pdf][poster]]]
 
 
-* 学习理论（Learning Theory）
+* 学习理论与人工智能（Learning Theory and AI）
 
-  #+ATTR_HTML: :style margin-left:2em; width: 90%;
-  [[file:img/embedding_and_ddi.png]]
-
+** 图数据表示学习（Graph Data Representation Learning）
 　　图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节
 点的表示。我们同时利用图的结构信息和部分节点/边的属性信息设计了一种新的节点表示学习算法框架。此外，
 药物相互作用预测也是一个重要的问题，我们将药物分子模型抽象为图结构，设计了图与图之间相似度的评估方法，
 可以用来预测两种药物是否会产生副作用，可用于指导用药。相关工作发表在 IJCAI 和 Information Science 等
 国际会议和期刊上。
 
+#+ATTR_HTML: :style margin-left:2em; width: 90%;
+[[file:img/embedding_and_ddi.png]]
+
+
+** 人工智能自然语言处理技术（NLP using Advanced AI Techniques）
+　　随着我国法制化进程的逐步深化，司法大数据形成另外一种重要的大数据。利用司法大数据，有利于智慧法院
+建设，有助于实现审判执行的自动化和精准化。在众多司法活动领域如类案推送、量刑辅助、偏离预警、裁判文书
+自动生成、虚假诉讼识别、判决结果预测、诉讼风险评估等都有应用前景，给审判执行工作现代化带来新机遇。
+
+　　此外，合同文书也是企业经常遇到的一种法律文书，然而管理、填写大量合同文本时，往往会因为粗心大意导
+致合同内容前后不一致等填写错误，进而影响合同的法律效益。企业需要雇佣大量司法人员人工审核合同文本，耗
+时费力。课题组利用近期取得突破的 Transformer、BERT、孪生网络等方法实现自动化合同文本一致性检查。
+
+  #+ATTR_HTML: :style margin-left:2em; width:40%; float:left;
+  [[file:img/ACL2020-LJP.png]]
+  #+ATTR_HTML: :style margin-left:2em; width:48%;
+  [[file:img/AAAI2021-CIC.png]]
+
+\\
 - Learning to Check Contract Inconsistencies. In Proceedings of the 35th AAAI Conference on
   Artificial Intelligence (AAAI), 2021.
 
@@ -154,8 +171,6 @@
 - MR-GNN: Multi-resolution and dual graph neural network for predicting structured entity
   interaction. In Proceedings of the 28th International Joint Conference on Artificial Intelligence
   (IJCAI), 2019. [[[https://arxiv.org/abs/1905.09558][arXiv]]]
-
-
 
 * 数据安全与隐私保护（Data Security and Privacy）
 
