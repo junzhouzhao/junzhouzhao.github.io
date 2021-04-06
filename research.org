@@ -155,7 +155,7 @@
 
   #+ATTR_HTML: :style margin-left:2em; width:40%; float:left;
   [[file:img/ACL2020-LJP.png]]
-  #+ATTR_HTML: :style margin-left:2em; width:48%;
+  #+ATTR_HTML: :style margin-left:2em; width:46%;
   [[file:img/AAAI2021-CIC.png]]
 
 \\
