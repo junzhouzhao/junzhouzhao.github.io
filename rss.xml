@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Junzhou Zhao （赵俊舟，西安交通大学）</title>
+    <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description></description>
-    <pubDate>Wed, 07 Apr 2021 14:38:14 CST</pubDate>
-    <lastBuildDate>Wed, 07 Apr 2021 14:38:14 CST</lastBuildDate>
+    <pubDate>Wed, 07 Apr 2021 14:39:42 CST</pubDate>
+    <lastBuildDate>Wed, 07 Apr 2021 14:39:42 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,9 +14,9 @@
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org44f17bb" class="outline-2">
-<h2 id="org44f17bb">Publications</h2>
-<div class="outline-text-2" id="text-org44f17bb">
+<div id="outline-container-org22908cf" class="outline-2">
+<h2 id="org22908cf">Publications</h2>
+<div class="outline-text-2" id="text-org22908cf">
 <p>
 [<a href="https://scholar.google.com/citations?hl=en&amp;user=hBLT754AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar​</a>][<a href="http://dblp.uni-trier.de/pers/hd/z/Zhao:Junzhou">DBLP​</a>][<a href="/assets/publication/MLDMAImap.pdf">机器学习、数据挖掘、人工智能领域主流国际会议</a>][<a href="/assets/publication/CCF2019.pdf">CCF推荐国际会议与期刊目录</a>]
 </p>
@@ -171,32 +171,32 @@ In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="/assets/p
 <h2>&#30446;&#24405;</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgf06fa0f">1. 大数据（Big Data）</a></li>
-<li><a href="#orgb40dc13">2. 近似计算与优化方法（Approximate Computation and Optimization Techniques）</a>
+<li><a href="#org39a55cc">1. 大数据（Big Data）</a></li>
+<li><a href="#org2d2f961">2. 近似计算与优化方法（Approximate Computation and Optimization Techniques）</a>
 <ul>
-<li><a href="#orgf9f7536">2.1. 大图采样测量方法（Graph Sampling）</a></li>
-<li><a href="#org64ad4e3">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
-<li><a href="#org1f84450">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
-<li><a href="#org480a135">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
+<li><a href="#org3147b6e">2.1. 大图采样测量方法（Graph Sampling）</a></li>
+<li><a href="#orgc211bb8">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
+<li><a href="#org524bc9a">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
+<li><a href="#org6eb4e70">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
 </ul>
 </li>
-<li><a href="#org0cb5458">3. 学习理论与人工智能（Learning Theory and AI）</a>
+<li><a href="#orgdca2b23">3. 学习理论与人工智能（Learning Theory and AI）</a>
 <ul>
-<li><a href="#org4a8926a">3.1. 图数据表示学习（Graph Data Representation Learning）</a></li>
-<li><a href="#orged8434a">3.2. 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</a></li>
+<li><a href="#org0eaa612">3.1. 图数据表示学习（Graph Data Representation Learning）</a></li>
+<li><a href="#orgd98abe9">3.2. 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</a></li>
 </ul>
 </li>
-<li><a href="#org6cb2592">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
+<li><a href="#org7a67ddd">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
 </ul>
 </div>
 </div>
 <p>　　大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些挑战，我们开展了一系列相关研究。</p>
 
-<div id="outline-container-orgf06fa0f" class="outline-2">
-<h2 id="orgf06fa0f"><span class="section-number-2">1</span> 大数据（Big Data）</h2>
+<div id="outline-container-org39a55cc" class="outline-2">
+<h2 id="org39a55cc"><span class="section-number-2">1</span> 大数据（Big Data）</h2>
 <div class="outline-text-2" id="text-1">
 
-<div id="org8f97edc" class="figure">
+<div id="org179fbef" class="figure">
 <p><img src="/assets/research/big_data.png" alt="big_data.png" style="margin-left:2em; width: 60%;" />
 </p>
 </div>
@@ -214,15 +214,15 @@ In Proceedings of the Web Science Conference (WebSci), 2010. [<a href="/assets/p
 
 
 
-<div id="outline-container-orgb40dc13" class="outline-2">
-<h2 id="orgb40dc13"><span class="section-number-2">2</span> 近似计算与优化方法（Approximate Computation and Optimization Techniques）</h2>
+<div id="outline-container-org2d2f961" class="outline-2">
+<h2 id="org2d2f961"><span class="section-number-2">2</span> 近似计算与优化方法（Approximate Computation and Optimization Techniques）</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-orgf9f7536" class="outline-3">
-<h3 id="orgf9f7536"><span class="section-number-3">2.1</span> 大图采样测量方法（Graph Sampling）</h3>
+<div id="outline-container-org3147b6e" class="outline-3">
+<h3 id="org3147b6e"><span class="section-number-3">2.1</span> 大图采样测量方法（Graph Sampling）</h3>
 <div class="outline-text-3" id="text-2-1">
 
-<div id="org15c9131" class="figure">
+<div id="org9581493" class="figure">
 <p><img src="/assets/research/random_walk_sampling.png" alt="random_walk_sampling.png" style="margin-left:2em; width: 90%;" />
 </p>
 </div>
@@ -250,11 +250,11 @@ the 31st IEEE International Conference on Data Engineering (ICDE), 2015. [<a hre
 
 
 
-<div id="outline-container-org64ad4e3" class="outline-3">
-<h3 id="org64ad4e3"><span class="section-number-3">2.2</span> 子图模式挖掘算法（Graphlets Mining）</h3>
+<div id="outline-container-orgc211bb8" class="outline-3">
+<h3 id="orgc211bb8"><span class="section-number-3">2.2</span> 子图模式挖掘算法（Graphlets Mining）</h3>
 <div class="outline-text-3" id="text-2-2">
 
-<div id="org93a6bff" class="figure">
+<div id="org1388b24" class="figure">
 <p><img src="/assets/research/graphlets.png" alt="graphlets.png" style="margin-left:2em; width: 90%;" />
 </p>
 </div>
@@ -282,11 +282,11 @@ from Data (TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>]</li
 
 
 
-<div id="outline-container-org1f84450" class="outline-3">
-<h3 id="org1f84450"><span class="section-number-3">2.3</span> 大图优化算法（Graph Optimization Algorithms）</h3>
+<div id="outline-container-org524bc9a" class="outline-3">
+<h3 id="org524bc9a"><span class="section-number-3">2.3</span> 大图优化算法（Graph Optimization Algorithms）</h3>
 <div class="outline-text-3" id="text-2-3">
 
-<div id="orgcd29240" class="figure">
+<div id="orgb08165c" class="figure">
 <p><img src="/assets/research/group.png" alt="group.png" style="margin-left:2em; width: 90%;" />
 </p>
 </div>
@@ -307,16 +307,16 @@ workshop, 2014. [<a href="/assets/research/SIMPLEX2014.pdf">pdf</a>][<a href="/a
 </div>
 
 
-<div id="outline-container-org480a135" class="outline-3">
-<h3 id="org480a135"><span class="section-number-3">2.4</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
+<div id="outline-container-org6eb4e70" class="outline-3">
+<h3 id="org6eb4e70"><span class="section-number-3">2.4</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
 <div class="outline-text-3" id="text-2-4">
 
-<div id="org4305b8a" class="figure">
+<div id="org4ae2b9a" class="figure">
 <p><img src="/assets/research/SSO1.png" alt="SSO1.png" style="margin-left:2em; width:50%; float: left;" />
 </p>
 </div>
 
-<div id="org21d90a3" class="figure">
+<div id="orgf8b05a5" class="figure">
 <p><img src="/assets/research/influence.png" alt="influence.png" style="margin-left:2em; width:40%;" />
 </p>
 </div>
@@ -339,17 +339,17 @@ Conference on Artificial Intelligence (AAAI), 2019. [<a href="https://arxiv.org/
 </div>
 
 
-<div id="outline-container-org0cb5458" class="outline-2">
-<h2 id="org0cb5458"><span class="section-number-2">3</span> 学习理论与人工智能（Learning Theory and AI）</h2>
+<div id="outline-container-orgdca2b23" class="outline-2">
+<h2 id="orgdca2b23"><span class="section-number-2">3</span> 学习理论与人工智能（Learning Theory and AI）</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org4a8926a" class="outline-3">
-<h3 id="org4a8926a"><span class="section-number-3">3.1</span> 图数据表示学习（Graph Data Representation Learning）</h3>
+<div id="outline-container-org0eaa612" class="outline-3">
+<h3 id="org0eaa612"><span class="section-number-3">3.1</span> 图数据表示学习（Graph Data Representation Learning）</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>　　图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节点的表示。我们同时利用图的结构信息和部分节点/边的属性信息设计了一种新的节点表示学习算法框架。此外，药物相互作用预测也是一个重要的问题，我们将药物分子模型抽象为图结构，设计了图与图之间相似度的评估方法，可以用来预测两种药物是否会产生副作用，可用于指导用药。相关工作发表在 IJCAI 和 Information Science 等国际会议和期刊上。</p>
 
 
-<div id="org2a82256" class="figure">
+<div id="orga8c83e4" class="figure">
 <p><img src="/assets/research/embedding_and_ddi.png" alt="embedding_and_ddi.png" style="margin-left:2em; width: 90%;" />
 </p>
 </div>
@@ -357,20 +357,20 @@ Conference on Artificial Intelligence (AAAI), 2019. [<a href="https://arxiv.org/
 </div>
 
 
-<div id="outline-container-orged8434a" class="outline-3">
-<h3 id="orged8434a"><span class="section-number-3">3.2</span> 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</h3>
+<div id="outline-container-orgd98abe9" class="outline-3">
+<h3 id="orgd98abe9"><span class="section-number-3">3.2</span> 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</h3>
 <div class="outline-text-3" id="text-3-2">
 <p>　　随着我国法制化进程的逐步深化，司法大数据形成另外一种重要的大数据。利用司法大数据，有利于智慧法院建设，有助于实现审判执行的自动化和精准化。在众多司法活动领域如类案推送、量刑辅助、偏离预警、裁判文书自动生成、虚假诉讼识别、判决结果预测、诉讼风险评估等都有应用前景，给审判执行工作现代化带来新机遇。</p>
 
 <p>　　此外，合同文书也是企业经常遇到的一种法律文书，然而管理、填写大量合同文本时，往往会因为粗心大意导致合同内容前后不一致等填写错误，进而影响合同的法律效益。企业需要雇佣大量司法人员人工审核合同文本，耗时费力。课题组利用近期取得突破的 Transformer、BERT、孪生网络等方法实现自动化合同文本一致性检查。</p>
 
 
-<div id="org783e960" class="figure">
+<div id="orgff1bb6c" class="figure">
 <p><img src="/assets/research/ACL2020-LJP.png" alt="ACL2020-LJP.png" style="margin-left:2em; width:40%; float:left;" />
 </p>
 </div>
 
-<div id="org1566461" class="figure">
+<div id="org32a95bc" class="figure">
 <p><img src="/assets/research/AAAI2021-CIC.png" alt="AAAI2021-CIC.png" style="margin-left:2em; width:46%;" />
 </p>
 </div>
@@ -396,16 +396,16 @@ interaction. In Proceedings of the 28th International Joint Conference on Artifi
 </div>
 </div>
 
-<div id="outline-container-org6cb2592" class="outline-2">
-<h2 id="org6cb2592"><span class="section-number-2">4</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
+<div id="outline-container-org7a67ddd" class="outline-2">
+<h2 id="org7a67ddd"><span class="section-number-2">4</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
 <div class="outline-text-2" id="text-4">
 
-<div id="org0dd811f" class="figure">
+<div id="orgd6c0a60" class="figure">
 <p><img src="/assets/research/monitoring1.png" alt="monitoring1.png" style="margin-left:2em; width:44%; float:left;" />
 </p>
 </div>
 
-<div id="org5f32718" class="figure">
+<div id="org10d16c0" class="figure">
 <p><img src="/assets/research/monitoring2.png" alt="monitoring2.png" style="margin-left:2em; width:46%;" />
 </p>
 </div>
@@ -440,15 +440,15 @@ Information Forensics and Security (TIFS), 2014.</li>
       <link>https://junzhouzhao.github.io/resources/</link>
       <description><![CDATA[<section id="content">
     
-<div id="outline-container-orgd2a3807" class="outline-2">
-<h2 id="orgd2a3807">Resources</h2>
-<div class="outline-text-2" id="text-orgd2a3807">
+<div id="outline-container-org9d86ffa" class="outline-2">
+<h2 id="org9d86ffa">Resources</h2>
+<div class="outline-text-2" id="text-org9d86ffa">
 </div>
-<div id="outline-container-org9bfe14f" class="outline-3">
-<h3 id="org9bfe14f">Machine learning, data mining, and AI conferences</h3>
-<div class="outline-text-3" id="text-org9bfe14f">
+<div id="outline-container-orgd4ef36e" class="outline-3">
+<h3 id="orgd4ef36e">Machine learning, data mining, and AI conferences</h3>
+<div class="outline-text-3" id="text-orgd4ef36e">
 
-<div id="org0b6906d" class="figure">
+<div id="orgbd5e46d" class="figure">
 <p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
 </p>
 </div>
@@ -459,9 +459,9 @@ Source: <a href="http://www.kamishima.net/archive/MLDMAImap.pdf">http://www.kami
 </div>
 </div>
 
-<div id="outline-container-org797aff6" class="outline-3">
-<h3 id="org797aff6">Paper writing suggestions</h3>
-<div class="outline-text-3" id="text-org797aff6">
+<div id="outline-container-org612f529" class="outline-3">
+<h3 id="org612f529">Paper writing suggestions</h3>
+<div class="outline-text-3" id="text-org612f529">
 <ul class="org-ul">
 <li>How to Write a Great Research Paper (by Prof. Simon Peyton Jones)
 [<a href="/assets/resources/Writing a paper_slides.pdf">Slides</a>][<a href="https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html">Video@Youku</a>][<a href="https://www.youtube.com/watch?v=VEXaUHNmpQw">Video@YouTube</a>]</li>
@@ -470,9 +470,9 @@ Source: <a href="http://www.kamishima.net/archive/MLDMAImap.pdf">http://www.kami
 </div>
 </div>
 
-<div id="outline-container-orgdd15ef5" class="outline-3">
-<h3 id="orgdd15ef5">Presentation tools</h3>
-<div class="outline-text-3" id="text-orgdd15ef5">
+<div id="outline-container-org13d7e2f" class="outline-3">
+<h3 id="org13d7e2f">Presentation tools</h3>
+<div class="outline-text-3" id="text-org13d7e2f">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Beamer_(LaTeX)">Beamer</a></li>
 <li><a href="http://ipe.otfried.org/">IPE</a></li>
