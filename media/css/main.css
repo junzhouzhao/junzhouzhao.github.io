@@ -40,6 +40,10 @@ a {
   color: gray;
 }
 
+.underline {
+    text-decoration:underline;
+}
+
 menu {
   position: fixed;
   float: right;
