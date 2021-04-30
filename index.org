@@ -23,7 +23,7 @@ mining, high performance computation, machine learning, and data security.
 
 #+ATTR_HTML: :style margin-right:1ex;
 [[file:img/news.gif]]
-常年招收博士生、硕士生以及本科实习生。要求态度踏实认真、做事积极主动、有钻研精神。
+常年招收博士生、硕士生以及本科实习生。要求态度踏实认真、做事积极主动、有钻研探索精神。
 
 
 * Research
