@@ -2,7 +2,7 @@
 #+AUTHOR:      Junzhou Zhao
 #+EMAIL:       junzhou.zhao@xjtu.edu.cn
 #+DATE:        2019-08-30 Fri
-#+URI:         /article/%y/%m/%d/network-science
+#+URI:         /article/network-science
 #+KEYWORDS:    network, graph
 #+TAGS:        network, graph
 #+LANGUAGE:    en
