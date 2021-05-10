@@ -3,17 +3,17 @@
 #+EMAIL:       jzzhao@zh-desktop
 #+DATE:        2021-05-10 Mon
 #+URI:         /article/big_graph
-#+KEYWORDS:    <TODO: insert your keywords here>
-#+TAGS:        <TODO: insert your tags here>
-#+LANGUAGE:    en
+#+KEYWORDS:    big_graph
+#+TAGS:        big_graph
+#+LANGUAGE:    zh-CN
 #+OPTIONS:     H:3 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: <TODO: insert your description here>
 
+* 网络大数据分析
 
-* 大图采样测量方法（Graph Sampling）
+** 大图采样测量方法（Graph Sampling）
 
   #+ATTR_HTML: :style margin-left:2em; width: 90%;
-  [[file:img/random_walk_sampling.png]]
+  [[file:../img/random_walk_sampling.png]]
 
 　　研究者作为第三方通常不拥有网络数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业
 机密的考虑，Facebook 并不愿意共享给第三方。在这种情况下，第三方只能利用网络数据拥有者提供的 API 接口
@@ -41,10 +41,10 @@
 
 
 
-* 子图模式挖掘算法（Graphlets Mining）
+** 子图模式挖掘算法（Graphlets Mining）
 
   #+ATTR_HTML: :style margin-left:2em; width: 90%;
-  [[file:img/graphlets.png]]
+  [[file:../img/graphlets.png]]
 
 　　连通子图指网络中连通的子图，例如 3 节点子图、4-节点子图等。这样的子图被认为是构成大规模复杂网络
 的最小单元，被称为图基因，graphlets，或 motif 结构。子图模式挖掘在分析复杂网络的功能方面有大量应用，
@@ -69,10 +69,10 @@
 
 
 
-* 大图优化算法（Graph Optimization Algorithms）
+** 大图优化算法（Graph Optimization Algorithms）
 
   #+ATTR_HTML: :style margin-left:2em; width: 90%;
-  [[file:img/group.png]]
+  [[file:../img/group.png]]
 
 　　度量图中节点的重要性程度是网络科学研究中一个重要问题，例如利用 PageRank 来评估一个网页在网页链接
 网络中的重要性程度。中心度（Closeness Centrality）通常用来衡量网络中一个节点到其他节点的平均距离远近
@@ -90,3 +90,26 @@
 
 - Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs. In WWW SIMPLEX
   workshop, 2014. [[[file:assets/SIMPLEX2014.pdf][pdf]]][[[file:assets/NodeGroup_TR.pdf][TR]]]
+
+
+** 图数据流在线优化算法（Streaming Graph Online Optimization Algorithms）
+
+  #+ATTR_HTML: :style margin-left:2em; width:50%; float: left;
+  [[file:../img/SSO1.png]]
+  #+ATTR_HTML: :style margin-left:2em; width:40%;
+  [[file:../img/influence.png]]
+
+  \\
+　　识别图中最有影响力的节点在很多实际问题中都有应用，例如在线广告投放、病毒营销等。目前的工作大都假
+设网络结构固定不变，但实际中网络结构可能在不断发生变化，导致昨天识别的一组最有影响力节点在今天不一定
+仍然有影响力。我们设计了一种动态图数据流上的最优节点识别算法，可以实时的跟踪图数据流中 /K/ 个最有影
+响力的节点。相关工作发表在 ICDE、AAAI 等国际会议上。
+
+- Continuously Tracking Core Items in Data Streams with Probabilistic Decays. In Proceedings of the
+  36th IEEE International Conference on Data Engineering (ICDE), 2020. [[[file:assets/ICDE2020_full_version.pdf][full paper]]][[[file:assets/ICDE2020_slides.pdf][slides]]][[[file:assets/ICDE2020_poster.pdf][poster]]]
+
+- Submodular Optimization over Streams with Inhomogeneous Decays. In Proceedings of the 33rd AAAI
+  Conference on Artificial Intelligence (AAAI), 2019. [[[https://arxiv.org/abs/1811.05652][arXiv]]]
+
+- Tracking Influential Nodes in Time-Decaying Dynamic Interaction Networks. In Proceedings of the
+  35th IEEE International Conference on Data Engineering (ICDE), 2019. [[[https://arxiv.org/abs/1810.07917][arXiv]]][[[file:assets/ICDE19_poster.pdf][poster]]]
