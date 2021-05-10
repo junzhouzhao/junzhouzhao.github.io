@@ -8,9 +8,8 @@
 #+LANGUAGE:    zh-CN
 #+OPTIONS:     H:3 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 
-* 网络大数据分析
 
-** 大图采样测量方法（Graph Sampling）
+* 图采样（Graph Sampling）
 
   #+ATTR_HTML: :style margin-left:2em; width: 90%;
   [[file:../img/random_walk_sampling.png]]
@@ -41,7 +40,7 @@
 
 
 
-** 子图模式挖掘算法（Graphlets Mining）
+* 子图模式挖掘算法（Graphlets Mining）
 
   #+ATTR_HTML: :style margin-left:2em; width: 90%;
   [[file:../img/graphlets.png]]
@@ -69,7 +68,7 @@
 
 
 
-** 大图优化算法（Graph Optimization Algorithms）
+* 大图优化算法（Graph Optimization Algorithms）
 
   #+ATTR_HTML: :style margin-left:2em; width: 90%;
   [[file:../img/group.png]]
@@ -92,7 +91,7 @@
   workshop, 2014. [[[file:assets/SIMPLEX2014.pdf][pdf]]][[[file:assets/NodeGroup_TR.pdf][TR]]]
 
 
-** 图数据流在线优化算法（Streaming Graph Online Optimization Algorithms）
+* 图数据流在线优化算法（Streaming Graph Online Optimization Algorithms）
 
   #+ATTR_HTML: :style margin-left:2em; width:50%; float: left;
   [[file:../img/SSO1.png]]
