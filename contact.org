@@ -1,22 +1,21 @@
 #+TITLE: Contact
 #+OPTIONS: toc:nil num:nil
 
-* Contact
 
-  P.O. Box 1088#, Xi'an Jiaotong University, No.28, Xianning West Road, Xi'an
-  710049, Shaanxi Prov., P. R. China
-  - Ministry of Education Key Lab for Intelligent Networks and Network Security
-    (MOE KLINNS Lab)
-  - School of Cyber Science and Engineering
+P.O. Box 1088#, Xi'an Jiaotong University, No.28, Xianning West Road, Xi'an
+710049, Shaanxi Prov., P. R. China
+- Ministry of Education Key Lab for Intelligent Networks and Network Security
+  (MOE KLINNS Lab)
+- School of Cyber Science and Engineering
 
-  陕西省西安市碑林区咸宁西路 28 号，西安交通大学智网实验室 1088 信箱
-  - [[https://nskeylab.xjtu.edu.cn][智能网络与网络安全教育部重点实验室]]
-  - [[http://cybersec.xjtu.edu.cn][电信学部网络空间安全学院]]
-  - 电信学部物理信息融合实验室
+陕西省西安市碑林区咸宁西路 28 号，西安交通大学智网实验室 1088 信箱
+- [[https://nskeylab.xjtu.edu.cn][智能网络与网络安全教育部重点实验室]]
+- [[http://cybersec.xjtu.edu.cn][电信学部网络空间安全学院]]
+- 电信学部物理信息融合实验室
 
-  Email: junzhou.zhao AT xjtu DOT edu DOT cn
+Email: junzhou.zhao AT xjtu DOT edu DOT cn
 
-  WeChat:
+WeChat:
 
-  #+ATTR_HTML: :style margin-left:2em;
-  [[file:img/wechat-qr.jpg]]
+#+ATTR_HTML: :style margin-left:2em;
+[[file:img/wechat-qr.jpg]]

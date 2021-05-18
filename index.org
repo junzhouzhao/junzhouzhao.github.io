@@ -1,10 +1,8 @@
 # -*- fill-column: 100; -*-
-#+TITLE: Welcome
+#+TITLE: Biography
 #+KEYWORDS: 赵俊舟, Junzhou Zhao, 西安交大, 西安交通大学
 #+OPTIONS: toc:nil num:nil
 
-
-* Biography
 
 Junzhou Zhao is an associate professor at the School of Cyber Science and Engineering, [[http://www.xjtu.edu.cn/][Xi'an
 Jiaotong University (XJTU)]]. Prior to joining XJTU, he was a postdoctoral researcher at the School of
@@ -31,8 +29,8 @@ security.
 
 * Research
 
-  - network/graph data: measurement, management, computation, mining, and optimization\\
-    网络大数据/大图数据的测量、管理、计算、挖掘与优化方法 [[[file:article/big_graph][more]]]
+  - network/graph data: measurement, management, computation, mining, and optimization  [[file:article/big_graph][<read more>]] \\
+    网络大数据/大图数据的测量、管理、计算、挖掘与优化方法
 
   - data stream management and computation, streaming algorithms\\
     流数据管理与计算、数据流算法
