@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Junzhou Zhao (赵俊舟)</title>
+    <title>Junzhou Zhao (赵俊舟) - Home on Junzhou Zhao (赵俊舟)</title>
     <link>https://junzhouzhao.github.io/</link>
-    <description>Recent content in Welcome on Junzhou Zhao (赵俊舟)</description>
+    <description>Recent content in Junzhou Zhao (赵俊舟) - Home on Junzhou Zhao (赵俊舟)</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://junzhouzhao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>Junzhou Zhao (赵俊舟) - Home</title>
+      <link>https://junzhouzhao.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junzhouzhao.github.io/about/</guid>
+      <description>Biography   Junzhou Zhao is an associate professor at the School of Cyber Science and Engineering, Xi&amp;#39;an Jiaotong University (XJTU). Prior to joining XJTU, he was a postdoctoral researcher at the School of Computer, Electrical and Mathematical Science and Engineering (CEMSE), King Abdullah University of Science and Technology (KAUST), working with Prof. Xiangliang Zhang, from 2017 to 2019. He was also a postdoctoral researcher at the Department of Computer Science &amp;amp; Engineering, The Chinese University of Hong Kong (CUHK), working with Prof.</description>
+    </item>
+    
+    <item>
       <title>Research</title>
       <link>https://junzhouzhao.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,15 +57,6 @@
   司法/文本大数据等：例如司法文书、合同文书等文本数据；
   其他大数据：POI 签到数据（Check-in records）、商品购买数据（Purchasing records）、IoT 数据流等。
     近似计算与优化方法（Approximate Computation and Optimization Techniques）  大图采样测量方法（Graph Sampling）   研究者作为第三方通常不拥有网络数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业 机密的考虑，Facebook 并不愿意共享给第三方。在这种情况下，第三方只能利用网络数据拥有者提供的 API 接口 访问网络数据。但 API 一般会限制调用总次数或调用频率，从而使第三方无法获得完整网络数据。为了分析网络 数据的连接特征，第三方通常只能用采样的方法采样得到一些网络的节点和边，用这些少量样本估计网络的整体特 征参数。常用的做法是在网络上进行随机游走（Random Walk）。但如果网络不连通或连通性差（例如存在社区结 构），随机游走容易困在一个局部网络中，导致得到的样本不具代表性（即收敛速度慢），产生较大估计误差。我 们利用一种多层网络结构特征，设计了一种可间接跳跃的随机游走机制解决传统随机游走收敛慢的问题。相关工作 发表在 ICDE&amp;#39;15 及 DMKD&amp;#39;19。</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://junzhouzhao.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://junzhouzhao.github.io/about/</guid>
-      <description>Biography   Junzhou Zhao is an associate professor at the School of Cyber Science and Engineering, Xi&amp;#39;an Jiaotong University (XJTU). Prior to joining XJTU, he was a postdoctoral researcher at the School of Computer, Electrical and Mathematical Science and Engineering (CEMSE), King Abdullah University of Science and Technology (KAUST), working with Prof. Xiangliang Zhang, from 2017 to 2019. He was also a postdoctoral researcher at the Department of Computer Science &amp;amp; Engineering, The Chinese University of Hong Kong (CUHK), working with Prof.</description>
     </item>
     
   </channel>
