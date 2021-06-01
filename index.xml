@@ -6,19 +6,6 @@
     <description>Recent content in Junzhou Zhao (赵俊舟) - Home on Junzhou Zhao (赵俊舟)</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://junzhouzhao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://junzhouzhao.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://junzhouzhao.github.io/publications/</guid>
-      <description>Publications
-  [Google Scholar​][DBLP​][机器学习、数据挖掘、人工智能领域主流国际会议][CCF推荐国际会议与期刊目录]
-  [SIGKDD&amp;#39;21] Runze Lei, Pinghui Wang, Rundong Li, Peng Jia, Junzhou Zhao, Xiaohong Guan, and Chao Deng. &amp;#34;Fast Rotation Kernel Density Estimation over Data Streams&amp;#34;. Accepted for SIGKDD 2021. CCF-A
-  [SIGKDD&amp;#39;21] Junzhou Zhao, Pinghui Wang, Chao Deng, and Jing Tao. &amp;#34;Temporal Biased Streaming Submodular Optimization&amp;#34;. Accepted for SIGKDD 2021. CCF-A
-  [TMC&amp;#39;21] Feiyang Sun, Pinghui Wang, Junzhou Zhao, Nuo Xu, Juxiang Zeng, Jing Tao, Kaikai Song, Chao Deng, John C.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://junzhouzhao.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,6 +28,18 @@
       
       <guid>https://junzhouzhao.github.io/about/</guid>
       <description>Biography   Junzhou Zhao is an associate professor at the School of Cyber Science and Engineering, Xi&amp;#39;an Jiaotong University (XJTU). Prior to joining XJTU, he was a postdoctoral researcher at the School of Computer, Electrical and Mathematical Science and Engineering (CEMSE), King Abdullah University of Science and Technology (KAUST), working with Prof. Xiangliang Zhang, from 2017 to 2019. He was also a postdoctoral researcher at the Department of Computer Science &amp;amp; Engineering, The Chinese University of Hong Kong (CUHK), working with Prof.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://junzhouzhao.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junzhouzhao.github.io/publications/</guid>
+      <description>[Google Scholar​][DBLP​][机器学习、数据挖掘、人工智能领域主流国际会议][CCF推荐国际会议与期刊目录]
+  [SIGKDD&amp;#39;21] Runze Lei, Pinghui Wang, Rundong Li, Peng Jia, Junzhou Zhao, Xiaohong Guan, and Chao Deng. &amp;#34;Fast Rotation Kernel Density Estimation over Data Streams&amp;#34;. Accepted for SIGKDD 2021. CCF-A
+  [SIGKDD&amp;#39;21] Junzhou Zhao, Pinghui Wang, Chao Deng, and Jing Tao. &amp;#34;Temporal Biased Streaming Submodular Optimization&amp;#34;. Accepted for SIGKDD 2021. CCF-A
+  [TMC&amp;#39;21] Feiyang Sun, Pinghui Wang, Junzhou Zhao, Nuo Xu, Juxiang Zeng, Jing Tao, Kaikai Song, Chao Deng, John C.</description>
     </item>
     
     <item>
