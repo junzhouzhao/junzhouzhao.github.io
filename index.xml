@@ -57,5 +57,16 @@
     近似计算与优化方法（Approximate Computation and Optimization Techniques）  大图采样测量方法（Graph Sampling）   研究者作为第三方通常不拥有网络数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业 机密的考虑，Facebook 并不愿意共享给第三方。在这种情况下，第三方只能利用网络数据拥有者提供的 API 接口 访问网络数据。但 API 一般会限制调用总次数或调用频率，从而使第三方无法获得完整网络数据。为了分析网络 数据的连接特征，第三方通常只能用采样的方法采样得到一些网络的节点和边，用这些少量样本估计网络的整体特 征参数。常用的做法是在网络上进行随机游走（Random Walk）。但如果网络不连通或连通性差（例如存在社区结 构），随机游走容易困在一个局部网络中，导致得到的样本不具代表性（即收敛速度慢），产生较大估计误差。我 们利用一种多层网络结构特征，设计了一种可间接跳跃的随机游走机制解决传统随机游走收敛慢的问题。相关工作 发表在 ICDE&amp;#39;15 及 DMKD&amp;#39;19。</description>
     </item>
     
+    <item>
+      <title>Students</title>
+      <link>https://junzhouzhao.github.io/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junzhouzhao.github.io/students/</guid>
+      <description>研 0：
+   姓名 本科院校 本科专业 入学时间 邮箱 研究方向     张钊淞 重庆大学 自动化 2021.9 20173943@cqu.edu.cn 待定   曹垦 同济大学 物理 2021.9 dmgx5dsckey@163.com 待定   骆诗绮 南京邮电大学 软件工程 2021.9 1643670151@qq.com 待定   李扬帆 西安交通大学 软件工程 2021.9 fattsh@stu.xjtu.edu.cn 待定     硕士生：
+   姓名 本科院校 本科专业 入学时间 邮箱 研究方向     张兴宇 西安电子科技大学 计算机 2020.9 870690672@qq.com 网络流量分析   张旭东 山西农业大学 软件工程 2020.</description>
+    </item>
+    
   </channel>
 </rss>
