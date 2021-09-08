@@ -56,5 +56,16 @@
     近似计算与优化方法（Approximate Computation and Optimization Techniques）  大图采样测量方法（Graph Sampling）   研究者作为第三方通常不拥有网络数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业 机密的考虑，Facebook 并不愿意共享给第三方。在这种情况下，第三方只能利用网络数据拥有者提供的 API 接口 访问网络数据。但 API 一般会限制调用总次数或调用频率，从而使第三方无法获得完整网络数据。为了分析网络 数据的连接特征，第三方通常只能用采样的方法采样得到一些网络的节点和边，用这些少量样本估计网络的整体特 征参数。常用的做法是在网络上进行随机游走（Random Walk）。但如果网络不连通或连通性差（例如存在社区结 构），随机游走容易困在一个局部网络中，导致得到的样本不具代表性（即收敛速度慢），产生较大估计误差。我 们利用一种多层网络结构特征，设计了一种可间接跳跃的随机游走机制解决传统随机游走收敛慢的问题。相关工作 发表在 ICDE&amp;#39;15 及 DMKD&amp;#39;19。</description>
     </item>
     
+    <item>
+      <title>实验室情况介绍</title>
+      <link>https://junzhouzhao.github.io/lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://junzhouzhao.github.io/lab/</guid>
+      <description>实验室简介   学习地点主要位于西安交通大学智能网络与网络安全教育部重点实验室。实验室成立于 2005 年，是国家 985 工程重要建设单位，具有世界一流的研究环境。实验室与国际知名团队 有紧密合作关系，包括香港中文大学、马萨诸塞大学、明尼苏达州立大学、阿卜杜拉国王科技 大学、新加坡国立大学等。
+        
+lightGallery(document.getElementById(&#39;outline-text-headline-1&#39;).getElementsByTagName(&#39;p&#39;)[1], { thumbnail: true, });   实验室网络以 2Gbps 直接接入西安交大校园网、CERNET 西北网和中国电信。机房配有多 种高性能服务器，例如 SUN E3500 高性能工作站、IBM RS6000 Server、曙光 AMD 64 位服务 器、各种 Linux 和 Windows 工作站等、海量数据存储阵列、GPU 服务集群等。</description>
+    </item>
+    
   </channel>
 </rss>
