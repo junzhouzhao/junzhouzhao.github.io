@@ -9,9 +9,6 @@
 
 * 大数据（Big Data）
 
-  #+ATTR_HTML: :style margin:2ex auto;
-  [[file:images/big_data.png]]
-
 主要研究以下各种大数据：
  - 图/网络大数据（Big Graphs/Networks)：例如 Facebook 用户的好友网络、Twitter/微博用户的关注网络、论
    文引用网络、帖子转发网络、道路交通网络、计算机通信网络等；
@@ -22,13 +19,12 @@
  - 其他大数据：POI 签到数据（Check-in records）、商品购买数据（Purchasing records）、IoT 数据流等。
 
 
+[[file:images/big_data.png]]
+
 
 * 近似计算与优化方法（Approximate Computation and Optimization Techniques）
 
 ** 大图采样测量方法（Graph Sampling）
-
-  #+ATTR_HTML: :style margin:2ex auto;
-  [[file:images/random_walk_sampling.png]]
 
 　　研究者作为第三方通常不拥有网络数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业
 机密的考虑，Facebook 并不愿意共享给第三方。在这种情况下，第三方只能利用网络数据拥有者提供的 API 接口
@@ -55,11 +51,10 @@
   the 31st IEEE International Conference on Data Engineering (ICDE), 2015. [[[file:assets/ICDE2015.pdf][pdf]]]
 
 
+[[file:images/random_walk_sampling.png]]
+
 
 ** 子图模式挖掘算法（Graphlets Mining）
-
-  #+ATTR_HTML: :style margin:2ex auto;
-  [[file:images/graphlets.png]]
 
 　　连通子图指网络中连通的子图，例如 3 节点子图、4-节点子图等。这样的子图被认为是构成大规模复杂网络
 的最小单元，被称为图基因，graphlets，或 motif 结构。子图模式挖掘在分析复杂网络的功能方面有大量应用，
@@ -83,11 +78,9 @@
   from Data (TKDD), 2014. [[[http://arxiv.org/abs/1306.5288][arXiv]]]
 
 
+[[file:images/graphlets.png]]
 
 ** 大图优化算法（Graph Optimization Algorithms）
-
-  #+ATTR_HTML: :style margin:3ex auto;
-  [[file:images/group.png]]
 
 　　度量图中节点的重要性程度是网络科学研究中一个重要问题，例如利用 PageRank 来评估一个网页在网页链接
 网络中的重要性程度。中心度（Closeness Centrality）通常用来衡量网络中一个节点到其他节点的平均距离远近
@@ -106,13 +99,11 @@
 - Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs. In WWW SIMPLEX
   workshop, 2014. [[[file:assets/SIMPLEX2014.pdf][pdf]]][[[file:assets/NodeGroup_TR.pdf][TR]]]
 
+[[file:images/group.png]]
+
+
 
 ** 流数据在线优化算法（Online Optimization Algorithms）
-
-
-  #+ATTR_HTML: :style margin:2ex auto;
-  [[file:images/SSO_inf.png]]
-
 
 　　识别图中最有影响力的节点在很多实际问题中都有应用，例如在线广告投放、病毒营销等。目前的工作大都假
 设网络结构固定不变，但实际中网络结构可能在不断发生变化，导致昨天识别的一组最有影响力节点在今天不一定
@@ -128,6 +119,9 @@
 - Tracking Influential Nodes in Time-Decaying Dynamic Interaction Networks. In Proceedings of the
   35th IEEE International Conference on Data Engineering (ICDE), 2019. [[[https://arxiv.org/abs/1810.07917][arXiv]]][[[file:assets/ICDE19_poster.pdf][poster]]]
 
+[[file:images/SSO_inf.png]]
+
+
 
 * 学习理论与人工智能（Learning Theory and AI）
 
@@ -138,7 +132,6 @@
 可以用来预测两种药物是否会产生副作用，可用于指导用药。相关工作发表在 IJCAI 和 Information Science 等
 国际会议和期刊上。
 
-#+ATTR_HTML: :style margin:2ex auto;
 [[file:images/embedding_and_ddi.png]]
 
 
@@ -150,10 +143,6 @@
 　　此外，合同文书也是企业经常遇到的一种法律文书，然而管理、填写大量合同文本时，往往会因为粗心大意导
 致合同内容前后不一致等填写错误，进而影响合同的法律效益。企业需要雇佣大量司法人员人工审核合同文本，耗
 时费力。课题组利用近期取得突破的 Transformer、BERT、孪生网络等方法实现自动化合同文本一致性检查。
-
-  #+ATTR_HTML: :style margin:2ex auto;
-  [[file:images/ACL_AAAI.png]]
-
 
 - Learning to Check Contract Inconsistencies. In Proceedings of the 35th AAAI Conference on
   Artificial Intelligence (AAAI), 2021.
@@ -168,11 +157,11 @@
   interaction. In Proceedings of the 28th International Joint Conference on Artificial Intelligence
   (IJCAI), 2019. [[[https://arxiv.org/abs/1905.09558][arXiv]]]
 
+
+[[file:images/ACL_AAAI.png]]
+
+
 * 数据安全与隐私保护（Data Security and Privacy）
-
-  #+ATTR_HTML: :style margin:2ex auto;
-  [[file:images/monitoring.png]]
-
 
 　　如何及时发现大规模网络中的攻击行为，例如通信网络中的 DDoS 攻击以及 OSN 中的 Social Bot 攻击。针对
 这些攻击，我们设计了高效的攻击检测方法。此外，如何选择网络中的一组最优观测节点（或者称为 Social
@@ -190,3 +179,5 @@ Sensor）用来及时发现网络中的传播事件，也是网络监控需要�
 
 - A New Sketch Method for Measuring Host Connection Degree Distribution. IEEE Transactions on
   Information Forensics and Security (TIFS), 2014.
+
+[[file:images/monitoring.png]]
