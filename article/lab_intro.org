@@ -13,7 +13,7 @@
 明尼苏达州立大学、阿卜杜拉国王科技大学、新加坡国立大学等。
 
 
-#+ATTR_HTML: :style height:250px; margin-bottom:5ex;
+#+ATTR_HTML: :style margin-bottom:5ex;
 [[file:../images/lab.png]]
 
 
@@ -22,7 +22,7 @@
 同学配置高性能工作站，实验室机房配有多种高性能服务器，包括高性能 Linux 和 Windows
 工作站、海量数据存储阵列、高性能 GPU 服务器集群等。
 
-#+ATTR_HTML: :style height:250px; margin-bottom:5ex;
+#+ATTR_HTML: :style margin-bottom:5ex;
 [[file:../images/equipment.png]]
 
 
@@ -32,7 +32,7 @@
 会、技术交流会以及其他活动，定期举办总结交流大会，奖励成果突出的同学，同时激励其他
 同学努力。
 
-#+ATTR_HTML: :style height:250px; margin-bottom:5ex;
+#+ATTR_HTML: :style margin-bottom:5ex;
 [[file:../images/workspace.png]]
 
 
