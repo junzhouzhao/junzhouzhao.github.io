@@ -36,36 +36,30 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org167b4eb">1. 大数据（Big Data）</a></li>
-<li><a href="#org7ab0e28">2. 近似计算与优化方法（Approximate Computation and Optimization Techniques）</a>
+<li><a href="#org506bec6">1. 大数据（Big Data）</a></li>
+<li><a href="#orgc5f4ce6">2. 近似计算与优化方法（Approximate Computation and Optimization Techniques）</a>
 <ul>
-<li><a href="#org73d6bcb">2.1. 大图采样测量方法（Graph Sampling）</a></li>
-<li><a href="#org4df8bd6">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
-<li><a href="#org3702723">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
-<li><a href="#orge9c9c92">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
+<li><a href="#orgf7151b7">2.1. 大图采样测量方法（Graph Sampling）</a></li>
+<li><a href="#org9b46406">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
+<li><a href="#org7b6dd02">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
+<li><a href="#orgc6b052f">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
 </ul>
 </li>
-<li><a href="#orga870857">3. 学习理论与人工智能（Learning Theory and AI）</a>
+<li><a href="#org6a67229">3. 学习理论与人工智能（Learning Theory and AI）</a>
 <ul>
-<li><a href="#org34eab2c">3.1. 图数据表示学习（Graph Data Representation Learning）</a></li>
-<li><a href="#org1c9a766">3.2. 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</a></li>
+<li><a href="#org66d74bc">3.1. 图数据表示学习（Graph Data Representation Learning）</a></li>
+<li><a href="#orga0023ce">3.2. 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</a></li>
 </ul>
 </li>
-<li><a href="#org4646ea4">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
+<li><a href="#orge9db8b3">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
 </ul>
 </div>
 </div>
 <p>　　大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些挑战，我们开展了一系列相关研究。</p>
 
-<div id="outline-container-org167b4eb" class="outline-2">
-<h2 id="org167b4eb"><span class="section-number-2">1.</span> 大数据（Big Data）</h2>
+<div id="outline-container-org506bec6" class="outline-2">
+<h2 id="org506bec6"><span class="section-number-2">1.</span> 大数据（Big Data）</h2>
 <div class="outline-text-2" id="text-1">
-
-<div id="org39c2725" class="figure">
-<p><img src="/assets/research/big_data.png" alt="big_data.png" style="margin:2ex auto;" />
-</p>
-</div>
-
 <p>主要研究以下各种大数据：</p>
 <ul class="org-ul">
 <li>图/网络大数据（Big Graphs/Networks)：例如 Facebook 用户的好友网络、Twitter/微博用户的关注网络、论文引用网络、帖子转发网络、道路交通网络、计算机通信网络等；</li>
@@ -74,24 +68,24 @@
 <li>司法/文本大数据等：例如司法文书、合同文书等文本数据；</li>
 <li>其他大数据：POI 签到数据（Check-in records）、商品购买数据（Purchasing records）、IoT 数据流等。</li>
 </ul>
-</div>
-</div>
 
 
 
-<div id="outline-container-org7ab0e28" class="outline-2">
-<h2 id="org7ab0e28"><span class="section-number-2">2.</span> 近似计算与优化方法（Approximate Computation and Optimization Techniques）</h2>
-<div class="outline-text-2" id="text-2">
-</div>
-<div id="outline-container-org73d6bcb" class="outline-3">
-<h3 id="org73d6bcb"><span class="section-number-3">2.1.</span> 大图采样测量方法（Graph Sampling）</h3>
-<div class="outline-text-3" id="text-2-1">
-
-<div id="orgafc0dcf" class="figure">
-<p><img src="/assets/research/random_walk_sampling.png" alt="random_walk_sampling.png" style="margin:2ex auto;" />
+<div id="org25dc6d1" class="figure">
+<p><img src="/assets/research/big_data.png" alt="big_data.png" />
 </p>
 </div>
+</div>
+</div>
 
+
+<div id="outline-container-orgc5f4ce6" class="outline-2">
+<h2 id="orgc5f4ce6"><span class="section-number-2">2.</span> 近似计算与优化方法（Approximate Computation and Optimization Techniques）</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-orgf7151b7" class="outline-3">
+<h3 id="orgf7151b7"><span class="section-number-3">2.1.</span> 大图采样测量方法（Graph Sampling）</h3>
+<div class="outline-text-3" id="text-2-1">
 <p>　　研究者作为第三方通常不拥有网络数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业机密的考虑，Facebook 并不愿意共享给第三方。在这种情况下，第三方只能利用网络数据拥有者提供的 API 接口访问网络数据。但 API 一般会限制调用总次数或调用频率，从而使第三方无法获得完整网络数据。为了分析网络数据的连接特征，第三方通常只能用采样的方法采样得到一些网络的节点和边，用这些少量样本估计网络的整体特征参数。常用的做法是在网络上进行随机游走（Random Walk）。但如果网络不连通或连通性差（例如存在社区结构），随机游走容易困在一个局部网络中，导致得到的样本不具代表性（即收敛速度慢），产生较大估计误差。我们利用一种多层网络结构特征，设计了一种可间接跳跃的随机游走机制解决传统随机游走收敛慢的问题。相关工作发表在 ICDE'15 及 DMKD'19。</p>
 
 <ul class="org-ul">
@@ -110,20 +104,20 @@ Information Systems (KAIS), 2018.</li>
 <li>A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation Networks. In Proceedings of
 the 31st IEEE International Conference on Data Engineering (ICDE), 2015. [<a href="/assets/research/ICDE2015.pdf">pdf</a>]</li>
 </ul>
-</div>
-</div>
 
 
 
-<div id="outline-container-org4df8bd6" class="outline-3">
-<h3 id="org4df8bd6"><span class="section-number-3">2.2.</span> 子图模式挖掘算法（Graphlets Mining）</h3>
-<div class="outline-text-3" id="text-2-2">
-
-<div id="org03accc9" class="figure">
-<p><img src="/assets/research/graphlets.png" alt="graphlets.png" style="margin:2ex auto;" />
+<div id="orge1bbf14" class="figure">
+<p><img src="/assets/research/random_walk_sampling.png" alt="random_walk_sampling.png" />
 </p>
 </div>
+</div>
+</div>
 
+
+<div id="outline-container-org9b46406" class="outline-3">
+<h3 id="org9b46406"><span class="section-number-3">2.2.</span> 子图模式挖掘算法（Graphlets Mining）</h3>
+<div class="outline-text-3" id="text-2-2">
 <p>　　连通子图指网络中连通的子图，例如 3 节点子图、4-节点子图等。这样的子图被认为是构成大规模复杂网络的最小单元，被称为图基因，graphlets，或 motif 结构。子图模式挖掘在分析复杂网络的功能方面有大量应用，例如一些生物大分子的功能由其基本子图单元决定。但是大规模图中由于子图数量巨大，如果穷举统计，则会效率低下。为了解决子图计数问题，我们设计了一系列基于采样的快速估计算法，只需要较少的样本便可准确的估计网络中各种子图的数量情况。相关工作发表在 ICDE、TKDD、TKDE 等国际会议和期刊上。</p>
 
 <ul class="org-ul">
@@ -142,20 +136,19 @@ Proceedings of ACM Conference on Online Social Networks (COSN), 2015. [<a href="
 <li>Efficiently Estimating Motif Statistics of Large Networks. ACM Transactions on Knowledge Discovery
 from Data (TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>]</li>
 </ul>
-</div>
-</div>
 
 
 
-<div id="outline-container-org3702723" class="outline-3">
-<h3 id="org3702723"><span class="section-number-3">2.3.</span> 大图优化算法（Graph Optimization Algorithms）</h3>
-<div class="outline-text-3" id="text-2-3">
-
-<div id="orgd907c63" class="figure">
-<p><img src="/assets/research/group.png" alt="group.png" style="margin:3ex auto;" />
+<div id="org372817a" class="figure">
+<p><img src="/assets/research/graphlets.png" alt="graphlets.png" />
 </p>
 </div>
+</div>
+</div>
 
+<div id="outline-container-org7b6dd02" class="outline-3">
+<h3 id="org7b6dd02"><span class="section-number-3">2.3.</span> 大图优化算法（Graph Optimization Algorithms）</h3>
+<div class="outline-text-3" id="text-2-3">
 <p>　　度量图中节点的重要性程度是网络科学研究中一个重要问题，例如利用 PageRank 来评估一个网页在网页链接网络中的重要性程度。中心度（Closeness Centrality）通常用来衡量网络中一个节点到其他节点的平均距离远近程度。中心度可以用来计算网络中 Top-<i>K</i>最重要节点，但是实际中我们通常需要度量一组节点作为一个整体在网络中的重要性程度，这时中心度就不能解决这样的问题。例如要在一个城市的交通网络中寻找<i>K</i>个最重要的节点建设充电站，我们应该整体考虑这<i>K</i>个节点的重要性程度，而不是独立考虑各自的重要性程度。为了解决这样的一类问题，我们定义了一种节点组中心度（Group Closeness Centrality），并且设计了一种 I/O 有效的高效计算方法。相关工作发表在 WWW、Information Science 等会议和期刊上。</p>
 
 <ul class="org-ul">
@@ -168,20 +161,20 @@ Sciences (INS), 2017.</li>
 <li>Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs. In WWW SIMPLEX
 workshop, 2014. [<a href="/assets/research/SIMPLEX2014.pdf">pdf</a>][<a href="/assets/research/NodeGroup_TR.pdf">TR</a>]</li>
 </ul>
-</div>
-</div>
 
 
-<div id="outline-container-orge9c9c92" class="outline-3">
-<h3 id="orge9c9c92"><span class="section-number-3">2.4.</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
-<div class="outline-text-3" id="text-2-4">
-
-<div id="orgd746d59" class="figure">
-<p><img src="/assets/research/SSO_inf.png" alt="SSO_inf.png" style="margin:2ex auto;" />
+<div id="orgb09de98" class="figure">
+<p><img src="/assets/research/group.png" alt="group.png" />
 </p>
 </div>
+</div>
+</div>
 
 
+
+<div id="outline-container-orgc6b052f" class="outline-3">
+<h3 id="orgc6b052f"><span class="section-number-3">2.4.</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
+<div class="outline-text-3" id="text-2-4">
 <p>　　识别图中最有影响力的节点在很多实际问题中都有应用，例如在线广告投放、病毒营销等。目前的工作大都假设网络结构固定不变，但实际中网络结构可能在不断发生变化，导致昨天识别的一组最有影响力节点在今天不一定仍然有影响力。我们设计了一种动态图数据流上的最优节点识别算法，可以实时的跟踪图数据流中<i>K</i>个最有影响力的节点。相关工作发表在 ICDE、AAAI 等国际会议上。</p>
 
 <ul class="org-ul">
@@ -194,42 +187,42 @@ Conference on Artificial Intelligence (AAAI), 2019. [<a href="https://arxiv.org/
 <li>Tracking Influential Nodes in Time-Decaying Dynamic Interaction Networks. In Proceedings of the
 35th IEEE International Conference on Data Engineering (ICDE), 2019. [<a href="https://arxiv.org/abs/1810.07917">arXiv</a>][<a href="/assets/research/ICDE19_poster.pdf">poster</a>]</li>
 </ul>
+
+
+<div id="org8245c16" class="figure">
+<p><img src="/assets/research/SSO_inf.png" alt="SSO_inf.png" />
+</p>
+</div>
 </div>
 </div>
 </div>
 
 
-<div id="outline-container-orga870857" class="outline-2">
-<h2 id="orga870857"><span class="section-number-2">3.</span> 学习理论与人工智能（Learning Theory and AI）</h2>
+
+<div id="outline-container-org6a67229" class="outline-2">
+<h2 id="org6a67229"><span class="section-number-2">3.</span> 学习理论与人工智能（Learning Theory and AI）</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org34eab2c" class="outline-3">
-<h3 id="org34eab2c"><span class="section-number-3">3.1.</span> 图数据表示学习（Graph Data Representation Learning）</h3>
+<div id="outline-container-org66d74bc" class="outline-3">
+<h3 id="org66d74bc"><span class="section-number-3">3.1.</span> 图数据表示学习（Graph Data Representation Learning）</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>　　图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节点的表示。我们同时利用图的结构信息和部分节点/边的属性信息设计了一种新的节点表示学习算法框架。此外，药物相互作用预测也是一个重要的问题，我们将药物分子模型抽象为图结构，设计了图与图之间相似度的评估方法，可以用来预测两种药物是否会产生副作用，可用于指导用药。相关工作发表在 IJCAI 和 Information Science 等国际会议和期刊上。</p>
 
 
-<div id="org5cb1ff6" class="figure">
-<p><img src="/assets/research/embedding_and_ddi.png" alt="embedding_and_ddi.png" style="margin:2ex auto;" />
+<div id="orgb3a7a25" class="figure">
+<p><img src="/assets/research/embedding_and_ddi.png" alt="embedding_and_ddi.png" />
 </p>
 </div>
 </div>
 </div>
 
 
-<div id="outline-container-org1c9a766" class="outline-3">
-<h3 id="org1c9a766"><span class="section-number-3">3.2.</span> 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</h3>
+<div id="outline-container-orga0023ce" class="outline-3">
+<h3 id="orga0023ce"><span class="section-number-3">3.2.</span> 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</h3>
 <div class="outline-text-3" id="text-3-2">
 <p>　　随着我国法制化进程的逐步深化，司法大数据形成另外一种重要的大数据。利用司法大数据，有利于智慧法院建设，有助于实现审判执行的自动化和精准化。在众多司法活动领域如类案推送、量刑辅助、偏离预警、裁判文书自动生成、虚假诉讼识别、判决结果预测、诉讼风险评估等都有应用前景，给审判执行工作现代化带来新机遇。</p>
 
 <p>　　此外，合同文书也是企业经常遇到的一种法律文书，然而管理、填写大量合同文本时，往往会因为粗心大意导致合同内容前后不一致等填写错误，进而影响合同的法律效益。企业需要雇佣大量司法人员人工审核合同文本，耗时费力。课题组利用近期取得突破的 Transformer、BERT、孪生网络等方法实现自动化合同文本一致性检查。</p>
-
-
-<div id="org7b3bc9c" class="figure">
-<p><img src="/assets/research/ACL_AAAI.png" alt="ACL_AAAI.png" style="margin:2ex auto;" />
-</p>
-</div>
-
 
 <ul class="org-ul">
 <li>Learning to Check Contract Inconsistencies. In Proceedings of the 35th AAAI Conference on
@@ -245,20 +238,21 @@ Sciences, 2020.</li>
 interaction. In Proceedings of the 28th International Joint Conference on Artificial Intelligence
 (IJCAI), 2019. [<a href="https://arxiv.org/abs/1905.09558">arXiv</a>]</li>
 </ul>
-</div>
-</div>
-</div>
 
-<div id="outline-container-org4646ea4" class="outline-2">
-<h2 id="org4646ea4"><span class="section-number-2">4.</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
-<div class="outline-text-2" id="text-4">
 
-<div id="orgefff458" class="figure">
-<p><img src="/assets/research/monitoring.png" alt="monitoring.png" style="margin:2ex auto;" />
+
+<div id="orgdb4131d" class="figure">
+<p><img src="/assets/research/ACL_AAAI.png" alt="ACL_AAAI.png" />
 </p>
 </div>
+</div>
+</div>
+</div>
 
 
+<div id="outline-container-orge9db8b3" class="outline-2">
+<h2 id="orge9db8b3"><span class="section-number-2">4.</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
+<div class="outline-text-2" id="text-4">
 <p>　　如何及时发现大规模网络中的攻击行为，例如通信网络中的 DDoS 攻击以及 OSN 中的 Social Bot 攻击。针对这些攻击，我们设计了高效的攻击检测方法。此外，如何选择网络中的一组最优观测节点（或者称为 Social
 Sensor）用来及时发现网络中的传播事件，也是网络监控需要解决的问题。我们设计了针对大规模网络的监控节点最优选择算法。相关工作发表在 COSN、Computer Networks 等国际会议和期刊上。</p>
 
@@ -275,6 +269,12 @@ Computer Networks, Special Issue on Online Social Networks, 2014. [<a href="/ass
 <li>A New Sketch Method for Measuring Host Connection Degree Distribution. IEEE Transactions on
 Information Forensics and Security (TIFS), 2014.</li>
 </ul>
+
+
+<div id="org0da55bc" class="figure">
+<p><img src="/assets/research/monitoring.png" alt="monitoring.png" />
+</p>
+</div>
 </div>
 </div>
 
