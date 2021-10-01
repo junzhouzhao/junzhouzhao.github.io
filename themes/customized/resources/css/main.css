@@ -1,6 +1,6 @@
 body {
     font-family: Verdana, Helvetica, Arial, "Microsoft YaHei", sans-serif;
-    font-size: 12pt;
+    font-size: 1rem;
     line-height: 1.5;
 }
 .container {
@@ -29,9 +29,8 @@ ul {
     padding-left: 2rem;
 }
 li {
-    margin-bottom: 1ex;
+    margin-bottom: .5rem;
 }
-
 
 .container h1 {
   font-size: 160%;
@@ -79,5 +78,5 @@ footer a {
 }
 
 .org-ul li {
-	margin-bottom: 1ex;
+	margin-bottom: .5rem;
 }
