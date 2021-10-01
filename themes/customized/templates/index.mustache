@@ -1,0 +1,12 @@
+<section id="content">
+    {{#categories}}
+    <div>
+        <h2>{{category}}</h2>
+        <ul>
+            {{#posts}}
+                <li><a href="{{post-uri}}">{{post-title}}</a></li>
+            {{/posts}}
+        </ul>
+    </div>
+    {{/categories}}
+</section>

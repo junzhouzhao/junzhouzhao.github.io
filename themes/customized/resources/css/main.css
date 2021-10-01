@@ -1,0 +1,83 @@
+body {
+    font-family: Verdana, Helvetica, Arial, "Microsoft YaHei", sans-serif;
+    font-size: 12pt;
+    line-height: 1.5;
+}
+.container {
+    max-width: 1024px;
+}
+.navbar-brand {
+    color: black;
+    text-decoration: none;
+    font-size: 2rem;
+}
+.nav-link {
+  color: blue;
+  text-decoration: none;
+}
+p { margin-bottom: .6rem; }
+h1, h2, h3, h4, h5, h6 {
+    font-size: medium;
+    font-weight: bold;
+    margin: 1.0rem 0 .6rem 0;
+}
+
+.container > ol, .footnotes > ol {
+    padding-left: 2rem;
+}
+ul {
+    padding-left: 2rem;
+}
+li {
+    margin-bottom: 1ex;
+}
+
+
+.container h1 {
+  font-size: 200%;
+}
+
+.container h2 {
+  font-size: 150%;
+}
+
+.container h3 {
+    font-size: 120%;
+}
+
+code {
+  color: red;
+  border: 1px solid #cccccc;
+  border-radius: 10%;
+  padding: 0px 4px;
+}
+
+.container b, strong {
+  color: blue;
+  font-weight: normal;
+}
+
+.figure {
+  display: block;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+footer {
+  clear: both;
+  display: block;
+  font-size: 90%;
+  color: gray;
+  padding: 2em 0 2em 0;
+}
+
+footer a {
+	color: gray;
+}
+
+.org-ul li {
+	margin-bottom: 1ex;
+}
