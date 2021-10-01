@@ -12,17 +12,13 @@
 有世界一流的科研环境，并与国际知名团队保持紧密合作，包括香港中文大学、马萨诸塞大学、
 明尼苏达州立大学、阿卜杜拉国王科技大学、新加坡国立大学等。
 
-
-#+ATTR_HTML: :style margin-bottom:5ex;
 [[file:../images/lab.png]]
-
 
 
 　　实验室网络以百 G 带宽直接接入西安交大校园网、CERNET 西北网和中国电信。实验室为
 每位同学配置高性能工作站，实验室机房配有多种高性能服务器，包括高性能 Linux 和
 Windows 工作站、海量数据存储阵列、高性能 GPU 服务器集群等。
 
-#+ATTR_HTML: :style margin-bottom:5ex;
 [[file:../images/equipment.png]]
 
 
@@ -32,9 +28,7 @@ Windows 工作站、海量数据存储阵列、高性能 GPU 服务器集群等�
 交流会、技术交流会以及其他活动，定期举办总结交流大会，奖励成果突出的同学，同时激励
 其他同学努力。
 
-#+ATTR_HTML: :style margin-bottom:5ex;
 [[file:../images/workspace.png]]
-
 
 
 　　欢迎有志从事@@html:<font color="red">@@大数据、机器学习、人工智能、数据安全、
