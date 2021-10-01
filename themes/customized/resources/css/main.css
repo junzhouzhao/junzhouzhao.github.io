@@ -34,19 +34,15 @@ li {
 
 
 .container h1 {
-  font-size: 200%;
+  font-size: 160%;
 }
 
 .container h2 {
-  font-size: 150%;
+  font-size: 140%;
 }
 
 .container h3 {
     font-size: 120%;
-}
-
-a > code {
-  color: red;
 }
 
 code {
