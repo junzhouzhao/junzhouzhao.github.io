@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Fri, 01 Oct 2021 15:28:19 CST</pubDate>
-    <lastBuildDate>Fri, 01 Oct 2021 15:28:19 CST</lastBuildDate>
+    <pubDate>Fri, 01 Oct 2021 15:49:58 CST</pubDate>
+    <lastBuildDate>Fri, 01 Oct 2021 15:49:58 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,14 +14,14 @@
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org738eef3" class="outline-2">
-<h2 id="org738eef3">实验室简介</h2>
-<div class="outline-text-2" id="text-org738eef3">
+<div id="outline-container-org142a7a8" class="outline-2">
+<h2 id="org142a7a8">实验室简介</h2>
+<div class="outline-text-2" id="text-org142a7a8">
 <p>课题组主要位于西安交通大学智能网络与网络安全教育部重点实验室（简称智网实验室）。智网实验室正式成立于 2008 年，并在 2017 年教育部重点实验室评估中获得“优”。实验室具有世界一流的科研环境，并与国际知名团队保持紧密合作，包括香港中文大学、马萨诸塞大学、明尼苏达州立大学、阿卜杜拉国王科技大学、新加坡国立大学等。</p>
 
 
 
-<div id="orgfcb685e" class="figure">
+<div id="org2957422" class="figure">
 <p><img src="/assets/article/lab_intro/lab.png" alt="lab.png" style="height:250px; margin-bottom:5ex;" />
 </p>
 </div>
@@ -32,7 +32,7 @@
 工作站、海量数据存储阵列、高性能 GPU 服务器集群等。</p>
 
 
-<div id="orgd2af568" class="figure">
+<div id="orge87b1ed" class="figure">
 <p><img src="/assets/article/lab_intro/equipment.png" alt="equipment.png" style="height:250px; margin-bottom:5ex;" />
 </p>
 </div>
@@ -42,7 +42,7 @@
 <p>实验室向同学提供优良、宽松的学习环境，包括会议室、讨论室、设备间、硬件工作室及学生工作室。实验室不打卡、不签到，师生关系融洽，科研气氛浓厚。实验室每周会组织学术交流会、技术交流会以及其他活动，定期举办总结交流大会，奖励成果突出的同学，同时激励其他同学努力。</p>
 
 
-<div id="org21c979a" class="figure">
+<div id="org2800240" class="figure">
 <p><img src="/assets/article/lab_intro/workspace.png" alt="workspace.png" style="height:250px; margin-bottom:5ex;" />
 </p>
 </div>
@@ -262,32 +262,32 @@ Science Conference (WebSci)</i>, 2010. [<a href="/assets/publication/WebSci2010.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org73b6ce0">1. 大数据（Big Data）</a></li>
-<li><a href="#org45607e4">2. 近似计算与优化方法（Approximate Computation and Optimization Techniques）</a>
+<li><a href="#org4e3c3e8">1. 大数据（Big Data）</a></li>
+<li><a href="#org06036bd">2. 近似计算与优化方法（Approximate Computation and Optimization Techniques）</a>
 <ul>
-<li><a href="#org8f89fcf">2.1. 大图采样测量方法（Graph Sampling）</a></li>
-<li><a href="#orga5619e5">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
-<li><a href="#orgec329e9">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
-<li><a href="#org87e848f">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
+<li><a href="#org7cd71b7">2.1. 大图采样测量方法（Graph Sampling）</a></li>
+<li><a href="#org0654987">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
+<li><a href="#org1935f71">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
+<li><a href="#org389337a">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
 </ul>
 </li>
-<li><a href="#org5448045">3. 学习理论与人工智能（Learning Theory and AI）</a>
+<li><a href="#org1c3e965">3. 学习理论与人工智能（Learning Theory and AI）</a>
 <ul>
-<li><a href="#org291399d">3.1. 图数据表示学习（Graph Data Representation Learning）</a></li>
-<li><a href="#orgc53eb47">3.2. 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</a></li>
+<li><a href="#org12d5325">3.1. 图数据表示学习（Graph Data Representation Learning）</a></li>
+<li><a href="#orgbee6ffa">3.2. 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</a></li>
 </ul>
 </li>
-<li><a href="#org61501fa">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
+<li><a href="#orge656375">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
 </ul>
 </div>
 </div>
 <p>　　大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些挑战，我们开展了一系列相关研究。</p>
 
-<div id="outline-container-org73b6ce0" class="outline-2">
-<h2 id="org73b6ce0"><span class="section-number-2">1.</span> 大数据（Big Data）</h2>
+<div id="outline-container-org4e3c3e8" class="outline-2">
+<h2 id="org4e3c3e8"><span class="section-number-2">1.</span> 大数据（Big Data）</h2>
 <div class="outline-text-2" id="text-1">
 
-<div id="org72dee0f" class="figure">
+<div id="org9d1dcef" class="figure">
 <p><img src="/assets/research/big_data.png" alt="big_data.png" style="margin:2ex auto; width: 100%;" />
 </p>
 </div>
@@ -305,15 +305,15 @@ Science Conference (WebSci)</i>, 2010. [<a href="/assets/publication/WebSci2010.
 
 
 
-<div id="outline-container-org45607e4" class="outline-2">
-<h2 id="org45607e4"><span class="section-number-2">2.</span> 近似计算与优化方法（Approximate Computation and Optimization Techniques）</h2>
+<div id="outline-container-org06036bd" class="outline-2">
+<h2 id="org06036bd"><span class="section-number-2">2.</span> 近似计算与优化方法（Approximate Computation and Optimization Techniques）</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-org8f89fcf" class="outline-3">
-<h3 id="org8f89fcf"><span class="section-number-3">2.1.</span> 大图采样测量方法（Graph Sampling）</h3>
+<div id="outline-container-org7cd71b7" class="outline-3">
+<h3 id="org7cd71b7"><span class="section-number-3">2.1.</span> 大图采样测量方法（Graph Sampling）</h3>
 <div class="outline-text-3" id="text-2-1">
 
-<div id="org3e4eb39" class="figure">
+<div id="org9716bf5" class="figure">
 <p><img src="/assets/research/random_walk_sampling.png" alt="random_walk_sampling.png" style="margin:2ex auto; width: 100%;" />
 </p>
 </div>
@@ -341,11 +341,11 @@ the 31st IEEE International Conference on Data Engineering (ICDE), 2015. [<a hre
 
 
 
-<div id="outline-container-orga5619e5" class="outline-3">
-<h3 id="orga5619e5"><span class="section-number-3">2.2.</span> 子图模式挖掘算法（Graphlets Mining）</h3>
+<div id="outline-container-org0654987" class="outline-3">
+<h3 id="org0654987"><span class="section-number-3">2.2.</span> 子图模式挖掘算法（Graphlets Mining）</h3>
 <div class="outline-text-3" id="text-2-2">
 
-<div id="org0a15a0d" class="figure">
+<div id="org677a6cf" class="figure">
 <p><img src="/assets/research/graphlets.png" alt="graphlets.png" style="margin:2ex auto; width: 100%;" />
 </p>
 </div>
@@ -373,11 +373,11 @@ from Data (TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>]</li
 
 
 
-<div id="outline-container-orgec329e9" class="outline-3">
-<h3 id="orgec329e9"><span class="section-number-3">2.3.</span> 大图优化算法（Graph Optimization Algorithms）</h3>
+<div id="outline-container-org1935f71" class="outline-3">
+<h3 id="org1935f71"><span class="section-number-3">2.3.</span> 大图优化算法（Graph Optimization Algorithms）</h3>
 <div class="outline-text-3" id="text-2-3">
 
-<div id="org9bf1aa0" class="figure">
+<div id="orgcef676e" class="figure">
 <p><img src="/assets/research/group.png" alt="group.png" style="margin:3ex auto; width: 100%;" />
 </p>
 </div>
@@ -398,11 +398,11 @@ workshop, 2014. [<a href="/assets/research/SIMPLEX2014.pdf">pdf</a>][<a href="/a
 </div>
 
 
-<div id="outline-container-org87e848f" class="outline-3">
-<h3 id="org87e848f"><span class="section-number-3">2.4.</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
+<div id="outline-container-org389337a" class="outline-3">
+<h3 id="org389337a"><span class="section-number-3">2.4.</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
 <div class="outline-text-3" id="text-2-4">
 
-<div id="org21e13e8" class="figure">
+<div id="org0cf286f" class="figure">
 <p><img src="/assets/research/SSO_inf.png" alt="SSO_inf.png" style="margin:2ex auto; width:100%;" />
 </p>
 </div>
@@ -425,17 +425,17 @@ Conference on Artificial Intelligence (AAAI), 2019. [<a href="https://arxiv.org/
 </div>
 
 
-<div id="outline-container-org5448045" class="outline-2">
-<h2 id="org5448045"><span class="section-number-2">3.</span> 学习理论与人工智能（Learning Theory and AI）</h2>
+<div id="outline-container-org1c3e965" class="outline-2">
+<h2 id="org1c3e965"><span class="section-number-2">3.</span> 学习理论与人工智能（Learning Theory and AI）</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org291399d" class="outline-3">
-<h3 id="org291399d"><span class="section-number-3">3.1.</span> 图数据表示学习（Graph Data Representation Learning）</h3>
+<div id="outline-container-org12d5325" class="outline-3">
+<h3 id="org12d5325"><span class="section-number-3">3.1.</span> 图数据表示学习（Graph Data Representation Learning）</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>　　图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节点的表示。我们同时利用图的结构信息和部分节点/边的属性信息设计了一种新的节点表示学习算法框架。此外，药物相互作用预测也是一个重要的问题，我们将药物分子模型抽象为图结构，设计了图与图之间相似度的评估方法，可以用来预测两种药物是否会产生副作用，可用于指导用药。相关工作发表在 IJCAI 和 Information Science 等国际会议和期刊上。</p>
 
 
-<div id="orgb1705be" class="figure">
+<div id="org1401428" class="figure">
 <p><img src="/assets/research/embedding_and_ddi.png" alt="embedding_and_ddi.png" style="margin:2ex auto; width: 100%;" />
 </p>
 </div>
@@ -443,15 +443,15 @@ Conference on Artificial Intelligence (AAAI), 2019. [<a href="https://arxiv.org/
 </div>
 
 
-<div id="outline-container-orgc53eb47" class="outline-3">
-<h3 id="orgc53eb47"><span class="section-number-3">3.2.</span> 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</h3>
+<div id="outline-container-orgbee6ffa" class="outline-3">
+<h3 id="orgbee6ffa"><span class="section-number-3">3.2.</span> 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</h3>
 <div class="outline-text-3" id="text-3-2">
 <p>　　随着我国法制化进程的逐步深化，司法大数据形成另外一种重要的大数据。利用司法大数据，有利于智慧法院建设，有助于实现审判执行的自动化和精准化。在众多司法活动领域如类案推送、量刑辅助、偏离预警、裁判文书自动生成、虚假诉讼识别、判决结果预测、诉讼风险评估等都有应用前景，给审判执行工作现代化带来新机遇。</p>
 
 <p>　　此外，合同文书也是企业经常遇到的一种法律文书，然而管理、填写大量合同文本时，往往会因为粗心大意导致合同内容前后不一致等填写错误，进而影响合同的法律效益。企业需要雇佣大量司法人员人工审核合同文本，耗时费力。课题组利用近期取得突破的 Transformer、BERT、孪生网络等方法实现自动化合同文本一致性检查。</p>
 
 
-<div id="org7e2cb4e" class="figure">
+<div id="org3845f5b" class="figure">
 <p><img src="/assets/research/ACL_AAAI.png" alt="ACL_AAAI.png" style="margin:2ex auto; width:100%;" />
 </p>
 </div>
@@ -475,11 +475,11 @@ interaction. In Proceedings of the 28th International Joint Conference on Artifi
 </div>
 </div>
 
-<div id="outline-container-org61501fa" class="outline-2">
-<h2 id="org61501fa"><span class="section-number-2">4.</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
+<div id="outline-container-orge656375" class="outline-2">
+<h2 id="orge656375"><span class="section-number-2">4.</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
 <div class="outline-text-2" id="text-4">
 
-<div id="org108808e" class="figure">
+<div id="org575c93b" class="figure">
 <p><img src="/assets/research/monitoring.png" alt="monitoring.png" style="margin:2ex auto; width:100%;" />
 </p>
 </div>
@@ -517,29 +517,29 @@ Information Forensics and Security (TIFS), 2014.</li>
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgfae0a54">1. Top Conferences (仅供参考)</a>
+<li><a href="#orgdb858a4">1. Top Conferences (仅供参考)</a>
 <ul>
-<li><a href="#org5c4d58e">1.1. Machine Learning, Data Mining, and AI</a></li>
-<li><a href="#org4223719">1.2. Security</a></li>
+<li><a href="#org5dab5a9">1.1. Machine Learning, Data Mining, and AI</a></li>
+<li><a href="#org9580597">1.2. Security</a></li>
 </ul>
 </li>
-<li><a href="#org083037d">2. 国际期刊黑名单（计算机专业）</a></li>
-<li><a href="#org751170f">3. Tips</a></li>
+<li><a href="#org4119588">2. 国际期刊黑名单（计算机专业）</a></li>
+<li><a href="#org57ffd7f">3. Tips</a></li>
 </ul>
 </div>
 </div>
 
 
 
-<div id="outline-container-orgfae0a54" class="outline-2">
-<h2 id="orgfae0a54"><span class="section-number-2">1.</span> Top Conferences (仅供参考)</h2>
+<div id="outline-container-orgdb858a4" class="outline-2">
+<h2 id="orgdb858a4"><span class="section-number-2">1.</span> Top Conferences (仅供参考)</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-org5c4d58e" class="outline-3">
-<h3 id="org5c4d58e"><span class="section-number-3">1.1.</span> Machine Learning, Data Mining, and AI</h3>
+<div id="outline-container-org5dab5a9" class="outline-3">
+<h3 id="org5dab5a9"><span class="section-number-3">1.1.</span> Machine Learning, Data Mining, and AI</h3>
 <div class="outline-text-3" id="text-1-1">
 
-<div id="orgc2c7e1e" class="figure">
+<div id="org395bdf0" class="figure">
 <p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
 </p>
 </div>
@@ -550,8 +550,8 @@ Source: <a href="https://www.kamishima.net/archive/MLDMAImap.pdf">https://www.ka
 </div>
 </div>
 
-<div id="outline-container-org4223719" class="outline-3">
-<h3 id="org4223719"><span class="section-number-3">1.2.</span> Security</h3>
+<div id="outline-container-org9580597" class="outline-3">
+<h3 id="org9580597"><span class="section-number-3">1.2.</span> Security</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 Tier 1:
@@ -590,8 +590,8 @@ Source: <a href="https://people.engr.tamu.edu/guofei/sec_conf_stat.htm">https://
 </div>
 </div>
 
-<div id="outline-container-org083037d" class="outline-2">
-<h2 id="org083037d"><span class="section-number-2">2.</span> 国际期刊黑名单（计算机专业）</h2>
+<div id="outline-container-org4119588" class="outline-2">
+<h2 id="org4119588"><span class="section-number-2">2.</span> 国际期刊黑名单（计算机专业）</h2>
 <div class="outline-text-2" id="text-2">
 <ul class="org-ul">
 <li>IEEE Access</li>
@@ -604,8 +604,8 @@ Source: <a href="https://mp.weixin.qq.com/s?__biz=MzI1MzA2MzM1NA==&amp;mid=26595
 </div>
 
 
-<div id="outline-container-org751170f" class="outline-2">
-<h2 id="org751170f"><span class="section-number-2">3.</span> Tips</h2>
+<div id="outline-container-org57ffd7f" class="outline-2">
+<h2 id="org57ffd7f"><span class="section-number-2">3.</span> Tips</h2>
 <div class="outline-text-2" id="text-3">
 <ul class="org-ul">
 <li>How to write a great research paper? by Prof. Simon Peyton-Jones [<a href="https://www.bilibili.com/video/BV1vb411G7WD">Video</a>][<a href="/assets/resources/Writing_a_paper_slides.pdf">Slides</a>]</li>
