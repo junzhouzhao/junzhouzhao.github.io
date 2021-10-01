@@ -45,6 +45,10 @@ li {
     font-size: 120%;
 }
 
+a > code {
+  color: red;
+}
+
 code {
   color: red;
   border: 1px solid #cccccc;
