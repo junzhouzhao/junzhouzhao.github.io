@@ -1,415 +1,311 @@
 <!DOCTYPE html>
-<html lang="">
-    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<html lang="en-us">
+<head>
+    <title>Research - Junzhou Zhao （赵俊舟）</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="" />
 
-<title>Research</title>
-<meta name="description" content="">
-<meta name="author" content='J. Zhao'>
-<meta name="keywords" content='赵俊舟, Junzhou Zhao, 西安交大, 西安交通大学'>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.css">
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.css">
-
+    <link rel="stylesheet" href="/media/css/main.css" />
 
 
-<link rel="stylesheet" href="/sass/researcher.min.css">
+</head>
 
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-
-
-<link rel="icon" type="image/ico" href="https://junzhouzhao.github.io/favicon.ico">
-
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js" integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
-
-
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        renderMathInElement(document.body, {
-            delimiters: [
-                {left: "$$", right: "$$", display: true},
-                {left: "\\[", right: "\\]", display: true},
-                {left: "$", right: "$", display: false},
-                {left: "\\(", right: "\\)", display: false}
-            ]
-        });
-    });
-</script>
-
-        
-    </head>
-    <body><div class="container mt-5">
-    <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
-        <a class="navbar-brand mx-0 mr-sm-auto" href="https://junzhouzhao.github.io" title="Junzhou Zhao (赵俊舟)">
-          
-          Junzhou Zhao (赵俊舟)
-        </a>
-        <div class="navbar-nav flex-row flex-wrap justify-content-center">
-            
-                
-                
-                    <a class="nav-item nav-link" href="/about" title="About">
-                        About
-                    </a>
-                    
-                    <span class="nav-item navbar-text mx-1">/</span>
-                    
-                
-                    <a class="nav-item nav-link" href="/research" title="Research">
-                        Research
-                    </a>
-                    
-                    <span class="nav-item navbar-text mx-1">/</span>
-                    
-                
-                    <a class="nav-item nav-link" href="/publications" title="Publications">
-                        Publications
-                    </a>
-                    
-                    <span class="nav-item navbar-text mx-1">/</span>
-                    
-                
-                    <a class="nav-item nav-link" href="/contact" title="Contact">
-                        Contact
-                    </a>
-                    
-                
-            
-        </div>
-    </nav>
-</div>
-<hr>
-<nav id="TableOfContents">
-<ul>
-<li><a href="#headline-1">大数据（Big Data）</a>
-</li>
-<li><a href="#headline-2">近似计算与优化方法（Approximate Computation and Optimization Techniques）</a>
-<ul>
-<li><a href="#headline-3">大图采样测量方法（Graph Sampling）</a>
-</li>
-<li><a href="#headline-4">子图模式挖掘算法（Graphlets Mining）</a>
-</li>
-<li><a href="#headline-5">大图优化算法（Graph Optimization Algorithms）</a>
-</li>
-<li><a href="#headline-6">流数据在线优化算法（Online Optimization Algorithms）</a>
-</li>
-</ul>
-</li>
-<li><a href="#headline-7">学习理论与人工智能（Learning Theory and AI）</a>
-<ul>
-<li><a href="#headline-8">图数据表示学习（Graph Data Representation Learning）</a>
-</li>
-<li><a href="#headline-9">人工智能自然语言处理技术（NLP using Advanced AI Techniques）</a>
-</li>
-</ul>
-</li>
-<li><a href="#headline-10">数据安全与隐私保护（Data Security and Privacy）</a>
-</li>
-</ul>
+<body>
+    <div class="container mt-5">
+        <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
+    <a class="navbar-brand mx-0 mr-sm-auto" href="/">Junzhou Zhao （赵俊舟）</a>
+    <div class="navbar-nav flex-row flex-wrap justify-content-center">
+        <a class="nav-item nav-link" href="/">About</a>
+        <span class="nav-item navbar-text mx-1">/</span>
+        <a class="nav-item nav-link" href="/research/">Research</a>
+        <span class="nav-item navbar-text mx-1">/</span>
+        <a class="nav-item nav-link" href="/publication/">Publication</a>
+        <span class="nav-item navbar-text mx-1">/</span>
+        <a class="nav-item nav-link" href="/contact/">Contact</a>
+    </div>
 </nav>
+<hr>
 
-        <div id="content">
-<div class="container">
-    
-<p>
-　　大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机
-遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些挑战，
-我们开展了一系列相关研究。</p>
-<div id="outline-container-headline-1" class="outline-2">
-<h2 id="headline-1">
-大数据（Big Data）
-</h2>
-<div id="outline-text-headline-1" class="outline-text-2">
-<img src="/images/big_data.png" alt="/images/big_data.png" title="/images/big_data.png" style="margin:2ex auto; width: 100%;"/>
-<p>
-主要研究以下各种大数据：</p>
+        <section id="content">
+    <div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
 <ul>
-<li>
-<p>图/网络大数据（Big Graphs/Networks)：例如 Facebook 用户的好友网络、Twitter/微博用户的关注网络、论
-文引用网络、帖子转发网络、道路交通网络、计算机通信网络等；</p>
+<li><a href="#orge8f0ee4">1. 大数据（Big Data）</a></li>
+<li><a href="#org77317f2">2. 近似计算与优化方法（Approximate Computation and Optimization Techniques）</a>
+<ul>
+<li><a href="#org70e788f">2.1. 大图采样测量方法（Graph Sampling）</a></li>
+<li><a href="#org1e13d38">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
+<li><a href="#orgd4fdc36">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
+<li><a href="#org09a4601">2.4. 流数据在线优化算法（Online Optimization Algorithms）</a></li>
+</ul>
 </li>
-<li>
-<p>大规模高速流数据：例如 OSN 用户发送的帖子流（Message Stream）、信息流（Tweet Stream）、高速网络流
-（Traffic Stream）、网站点击流（Click Stream）等；</p>
+<li><a href="#org20cfe9f">3. 学习理论与人工智能（Learning Theory and AI）</a>
+<ul>
+<li><a href="#org459d385">3.1. 图数据表示学习（Graph Data Representation Learning）</a></li>
+<li><a href="#org7ca49d0">3.2. 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</a></li>
+</ul>
 </li>
-<li>
-<p>生物/医药大数据：例如药物相互作用与分子结构关系、基因调控关系数据等；</p>
-</li>
-<li>
-<p>司法/文本大数据等：例如司法文书、合同文书等文本数据；</p>
-</li>
-<li>
-<p>其他大数据：POI 签到数据（Check-in records）、商品购买数据（Purchasing records）、IoT 数据流等。</p>
-</li>
+<li><a href="#orgd0b71e7">4. 数据安全与隐私保护（Data Security and Privacy）</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-headline-2" class="outline-2">
-<h2 id="headline-2">
-近似计算与优化方法（Approximate Computation and Optimization Techniques）
-</h2>
-<div id="outline-text-headline-2" class="outline-text-2">
-<div id="outline-container-headline-3" class="outline-3">
-<h3 id="headline-3">
-大图采样测量方法（Graph Sampling）
-</h3>
-<div id="outline-text-headline-3" class="outline-text-3">
-<img src="/images/random_walk_sampling.png" alt="/images/random_walk_sampling.png" title="/images/random_walk_sampling.png" style="margin:2ex auto; width: 100%;"/>
-<p>
-　　研究者作为第三方通常不拥有网络数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业
-机密的考虑，Facebook 并不愿意共享给第三方。在这种情况下，第三方只能利用网络数据拥有者提供的 API 接口
-访问网络数据。但 API 一般会限制调用总次数或调用频率，从而使第三方无法获得完整网络数据。为了分析网络
-数据的连接特征，第三方通常只能用采样的方法采样得到一些网络的节点和边，用这些少量样本估计网络的整体特
-征参数。常用的做法是在网络上进行随机游走（Random Walk）。但如果网络不连通或连通性差（例如存在社区结
-构），随机游走容易困在一个局部网络中，导致得到的样本不具代表性（即收敛速度慢），产生较大估计误差。我
-们利用一种多层网络结构特征，设计了一种可间接跳跃的随机游走机制解决传统随机游走收敛慢的问题。相关工作
-发表在 ICDE&#39;15 及 DMKD&#39;19。</p>
-<ul>
-<li>
-<p>Sampling Online Social Networks by Random Walk with Indirect Jumps. Data Mining and Knowledge
-Discovery (DMKD), 2019. [<a href="https://arxiv.org/abs/1708.09081">arXiv</a>]</p>
-</li>
-<li>
-<p>SNOD: A Fast Sampling Method of Exploring Node Orbit Degrees for Large Graphs. Knowledge and
-Information Systems (KAIS), 2018.</p>
-</li>
-<li>
-<p>Fast Crawling Methods of Exploring Content Distributed Over Large Graphs. Knowledge and
-Information Systems (KAIS), 2018.</p>
-</li>
-<li>
-<p>Practical Characterization of Large Networks Using Neighborhood Information. Knowledge and
-Information Systems (KAIS), 2018.</p>
-</li>
-<li>
-<p>A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation Networks. In Proceedings of
-the 31st IEEE International Conference on Data Engineering (ICDE), 2015. [<a href="assets/ICDE2015.pdf">pdf</a>]</p>
-</li>
+<p>　　大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些挑战，我们开展了一系列相关研究。</p>
+
+<div id="outline-container-orge8f0ee4" class="outline-2">
+<h2 id="orge8f0ee4"><span class="section-number-2">1.</span> 大数据（Big Data）</h2>
+<div class="outline-text-2" id="text-1">
+
+<div id="orgac3b5e8" class="figure">
+<p><img src="/assets/research/big_data.png" alt="big_data.png" style="margin:2ex auto; width: 100%;" />
+</p>
+</div>
+
+<p>主要研究以下各种大数据：</p>
+<ul class="org-ul">
+<li>图/网络大数据（Big Graphs/Networks)：例如 Facebook 用户的好友网络、Twitter/微博用户的关注网络、论文引用网络、帖子转发网络、道路交通网络、计算机通信网络等；</li>
+<li>大规模高速流数据：例如 OSN 用户发送的帖子流（Message Stream）、信息流（Tweet Stream）、高速网络流（Traffic Stream）、网站点击流（Click Stream）等；</li>
+<li>生物/医药大数据：例如药物相互作用与分子结构关系、基因调控关系数据等；</li>
+<li>司法/文本大数据等：例如司法文书、合同文书等文本数据；</li>
+<li>其他大数据：POI 签到数据（Check-in records）、商品购买数据（Purchasing records）、IoT 数据流等。</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-headline-4" class="outline-3">
-<h3 id="headline-4">
-子图模式挖掘算法（Graphlets Mining）
-</h3>
-<div id="outline-text-headline-4" class="outline-text-3">
-<img src="/images/graphlets.png" alt="/images/graphlets.png" title="/images/graphlets.png" style="margin:2ex auto; width: 100%;"/>
-<p>
-　　连通子图指网络中连通的子图，例如 3 节点子图、4-节点子图等。这样的子图被认为是构成大规模复杂网络
-的最小单元，被称为图基因，graphlets，或 motif 结构。子图模式挖掘在分析复杂网络的功能方面有大量应用，
-例如一些生物大分子的功能由其基本子图单元决定。但是大规模图中由于子图数量巨大，如果穷举统计，则会效率
-低下。为了解决子图计数问题，我们设计了一系列基于采样的快速估计算法，只需要较少的样本便可准确的估计网
-络中各种子图的数量情况。相关工作发表在 ICDE、TKDD、TKDE 等国际会议和期刊上。</p>
-<ul>
-<li>
-<p>MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs. IEEE Transactions
-on Knowledge and Data Engineering (TKDE), 2018. [<a href="assets/TKDE18_poster.pdf">poster</a>]</p>
-</li>
-<li>
-<p>Inferring Higher-Order Structure Statistics of Large Networks From Sampled Edges. IEEE
-Transactions on Knowledge and Data Engineering (TKDE), 2017.</p>
-</li>
-<li>
-<p>Minfer: A Method of Inferring Motif Statistics from Sampled Edges. In Proceedings of the 32nd IEEE
-International Conference on Data Engineering (ICDE), 2016.</p>
-</li>
-<li>
-<p>Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams. In
-Proceedings of ACM Conference on Online Social Networks (COSN), 2015. [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</p>
-</li>
-<li>
-<p>Efficiently Estimating Motif Statistics of Large Networks. ACM Transactions on Knowledge Discovery
-from Data (TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>]</p>
-</li>
+
+
+
+<div id="outline-container-org77317f2" class="outline-2">
+<h2 id="org77317f2"><span class="section-number-2">2.</span> 近似计算与优化方法（Approximate Computation and Optimization Techniques）</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org70e788f" class="outline-3">
+<h3 id="org70e788f"><span class="section-number-3">2.1.</span> 大图采样测量方法（Graph Sampling）</h3>
+<div class="outline-text-3" id="text-2-1">
+
+<div id="orgd94eb3f" class="figure">
+<p><img src="/assets/research/random_walk_sampling.png" alt="random_walk_sampling.png" style="margin:2ex auto; width: 100%;" />
+</p>
+</div>
+
+<p>　　研究者作为第三方通常不拥有网络数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业机密的考虑，Facebook 并不愿意共享给第三方。在这种情况下，第三方只能利用网络数据拥有者提供的 API 接口访问网络数据。但 API 一般会限制调用总次数或调用频率，从而使第三方无法获得完整网络数据。为了分析网络数据的连接特征，第三方通常只能用采样的方法采样得到一些网络的节点和边，用这些少量样本估计网络的整体特征参数。常用的做法是在网络上进行随机游走（Random Walk）。但如果网络不连通或连通性差（例如存在社区结构），随机游走容易困在一个局部网络中，导致得到的样本不具代表性（即收敛速度慢），产生较大估计误差。我们利用一种多层网络结构特征，设计了一种可间接跳跃的随机游走机制解决传统随机游走收敛慢的问题。相关工作发表在 ICDE'15 及 DMKD'19。</p>
+
+<ul class="org-ul">
+<li>Sampling Online Social Networks by Random Walk with Indirect Jumps. Data Mining and Knowledge
+Discovery (DMKD), 2019. [<a href="https://arxiv.org/abs/1708.09081">arXiv</a>]</li>
+
+<li>SNOD: A Fast Sampling Method of Exploring Node Orbit Degrees for Large Graphs. Knowledge and
+Information Systems (KAIS), 2018.</li>
+
+<li>Fast Crawling Methods of Exploring Content Distributed Over Large Graphs. Knowledge and
+Information Systems (KAIS), 2018.</li>
+
+<li>Practical Characterization of Large Networks Using Neighborhood Information. Knowledge and
+Information Systems (KAIS), 2018.</li>
+
+<li>A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation Networks. In Proceedings of
+the 31st IEEE International Conference on Data Engineering (ICDE), 2015. [<a href="/assets/research/ICDE2015.pdf">pdf</a>]</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-headline-5" class="outline-3">
-<h3 id="headline-5">
-大图优化算法（Graph Optimization Algorithms）
-</h3>
-<div id="outline-text-headline-5" class="outline-text-3">
-<img src="/images/group.png" alt="/images/group.png" title="/images/group.png" style="margin:3ex auto; width: 100%;"/>
-<p>
-　　度量图中节点的重要性程度是网络科学研究中一个重要问题，例如利用 PageRank 来评估一个网页在网页链接
-网络中的重要性程度。中心度（Closeness Centrality）通常用来衡量网络中一个节点到其他节点的平均距离远近
-程度。中心度可以用来计算网络中 Top-<em>K</em> 最重要节点，但是实际中我们通常需要度量一组节点作为一个整体在
-网络中的重要性程度，这时中心度就不能解决这样的问题。例如要在一个城市的交通网络中寻找 <em>K</em> 个最重要的
-节点建设充电站，我们应该整体考虑这 <em>K</em> 个节点的重要性程度，而不是独立考虑各自的重要性程度。为了解决
-这样的一类问题，我们定义了一种节点组中心度（Group Closeness Centrality），并且设计了一种 I/O 有效的
-高效计算方法。相关工作发表在 WWW、Information Science 等会议和期刊上。</p>
-<ul>
-<li>
-<p>Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations.
-Information Sciences (INS), 2019. [<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</p>
-</li>
-<li>
-<p>I/O-Efficient Calculation of Group Closeness Centrality over Disk-Resident Graphs. Information
-Sciences (INS), 2017.</p>
-</li>
-<li>
-<p>Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs. In WWW SIMPLEX
-workshop, 2014. [<a href="assets/SIMPLEX2014.pdf">pdf</a>][<a href="assets/NodeGroup_TR.pdf">TR</a>]</p>
-</li>
+
+
+
+<div id="outline-container-org1e13d38" class="outline-3">
+<h3 id="org1e13d38"><span class="section-number-3">2.2.</span> 子图模式挖掘算法（Graphlets Mining）</h3>
+<div class="outline-text-3" id="text-2-2">
+
+<div id="org1ef2d7c" class="figure">
+<p><img src="/assets/research/graphlets.png" alt="graphlets.png" style="margin:2ex auto; width: 100%;" />
+</p>
+</div>
+
+<p>　　连通子图指网络中连通的子图，例如 3 节点子图、4-节点子图等。这样的子图被认为是构成大规模复杂网络的最小单元，被称为图基因，graphlets，或 motif 结构。子图模式挖掘在分析复杂网络的功能方面有大量应用，例如一些生物大分子的功能由其基本子图单元决定。但是大规模图中由于子图数量巨大，如果穷举统计，则会效率低下。为了解决子图计数问题，我们设计了一系列基于采样的快速估计算法，只需要较少的样本便可准确的估计网络中各种子图的数量情况。相关工作发表在 ICDE、TKDD、TKDE 等国际会议和期刊上。</p>
+
+<ul class="org-ul">
+<li>MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs. IEEE Transactions
+on Knowledge and Data Engineering (TKDE), 2018. [<a href="/assets/research/TKDE18_poster.pdf">poster</a>]</li>
+
+<li>Inferring Higher-Order Structure Statistics of Large Networks From Sampled Edges. IEEE
+Transactions on Knowledge and Data Engineering (TKDE), 2017.</li>
+
+<li>Minfer: A Method of Inferring Motif Statistics from Sampled Edges. In Proceedings of the 32nd IEEE
+International Conference on Data Engineering (ICDE), 2016.</li>
+
+<li>Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams. In
+Proceedings of ACM Conference on Online Social Networks (COSN), 2015. [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</li>
+
+<li>Efficiently Estimating Motif Statistics of Large Networks. ACM Transactions on Knowledge Discovery
+from Data (TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>]</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-headline-6" class="outline-3">
-<h3 id="headline-6">
-流数据在线优化算法（Online Optimization Algorithms）
-</h3>
-<div id="outline-text-headline-6" class="outline-text-3">
-<img src="/images/SSO1.png" alt="/images/SSO1.png" title="/images/SSO1.png" style="margin:2ex auto; width:52%; float: left;"/>
-<img src="/images/influence.png" alt="/images/influence.png" title="/images/influence.png" style="margin:2ex auto; width:48%;"/>
-<p>
-　　识别图中最有影响力的节点在很多实际问题中都有应用，例如在线广告投放、病毒营销等。目前的工作大都假
-设网络结构固定不变，但实际中网络结构可能在不断发生变化，导致昨天识别的一组最有影响力节点在今天不一定
-仍然有影响力。我们设计了一种动态图数据流上的最优节点识别算法，可以实时的跟踪图数据流中 <em>K</em> 个最有影
-响力的节点。相关工作发表在 ICDE、AAAI 等国际会议上。</p>
-<ul>
-<li>
-<p>Continuously Tracking Core Items in Data Streams with Probabilistic Decays. In Proceedings of the
-36th IEEE International Conference on Data Engineering (ICDE), 2020. [<a href="assets/ICDE2020_full_version.pdf">full paper</a>][<a href="assets/ICDE2020_slides.pdf">slides</a>][<a href="assets/ICDE2020_poster.pdf">poster</a>]</p>
-</li>
-<li>
-<p>Submodular Optimization over Streams with Inhomogeneous Decays. In Proceedings of the 33rd AAAI
-Conference on Artificial Intelligence (AAAI), 2019. [<a href="https://arxiv.org/abs/1811.05652">arXiv</a>]</p>
-</li>
-<li>
-<p>Tracking Influential Nodes in Time-Decaying Dynamic Interaction Networks. In Proceedings of the
-35th IEEE International Conference on Data Engineering (ICDE), 2019. [<a href="https://arxiv.org/abs/1810.07917">arXiv</a>][<a href="assets/ICDE19_poster.pdf">poster</a>]</p>
-</li>
+
+
+
+<div id="outline-container-orgd4fdc36" class="outline-3">
+<h3 id="orgd4fdc36"><span class="section-number-3">2.3.</span> 大图优化算法（Graph Optimization Algorithms）</h3>
+<div class="outline-text-3" id="text-2-3">
+
+<div id="org7146a7b" class="figure">
+<p><img src="/assets/research/group.png" alt="group.png" style="margin:3ex auto; width: 100%;" />
+</p>
+</div>
+
+<p>　　度量图中节点的重要性程度是网络科学研究中一个重要问题，例如利用 PageRank 来评估一个网页在网页链接网络中的重要性程度。中心度（Closeness Centrality）通常用来衡量网络中一个节点到其他节点的平均距离远近程度。中心度可以用来计算网络中 Top-<i>K</i>最重要节点，但是实际中我们通常需要度量一组节点作为一个整体在网络中的重要性程度，这时中心度就不能解决这样的问题。例如要在一个城市的交通网络中寻找<i>K</i>个最重要的节点建设充电站，我们应该整体考虑这<i>K</i>个节点的重要性程度，而不是独立考虑各自的重要性程度。为了解决这样的一类问题，我们定义了一种节点组中心度（Group Closeness Centrality），并且设计了一种 I/O 有效的高效计算方法。相关工作发表在 WWW、Information Science 等会议和期刊上。</p>
+
+<ul class="org-ul">
+<li>Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations.
+Information Sciences (INS), 2019. [<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
+
+<li>I/O-Efficient Calculation of Group Closeness Centrality over Disk-Resident Graphs. Information
+Sciences (INS), 2017.</li>
+
+<li>Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs. In WWW SIMPLEX
+workshop, 2014. [<a href="/assets/research/SIMPLEX2014.pdf">pdf</a>][<a href="/assets/research/NodeGroup_TR.pdf">TR</a>]</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org09a4601" class="outline-3">
+<h3 id="org09a4601"><span class="section-number-3">2.4.</span> 流数据在线优化算法（Online Optimization Algorithms）</h3>
+<div class="outline-text-3" id="text-2-4">
+
+<div id="orgad358ca" class="figure">
+<p><img src="/assets/research/SSO_inf.png" alt="SSO_inf.png" style="margin:2ex auto; width:100%;" />
+</p>
+</div>
+
+
+<p>　　识别图中最有影响力的节点在很多实际问题中都有应用，例如在线广告投放、病毒营销等。目前的工作大都假设网络结构固定不变，但实际中网络结构可能在不断发生变化，导致昨天识别的一组最有影响力节点在今天不一定仍然有影响力。我们设计了一种动态图数据流上的最优节点识别算法，可以实时的跟踪图数据流中<i>K</i>个最有影响力的节点。相关工作发表在 ICDE、AAAI 等国际会议上。</p>
+
+<ul class="org-ul">
+<li>Continuously Tracking Core Items in Data Streams with Probabilistic Decays. In Proceedings of the
+36th IEEE International Conference on Data Engineering (ICDE), 2020. [<a href="/assets/research/ICDE2020_full_version.pdf">full paper</a>][<a href="/assets/research/ICDE2020_slides.pdf">slides</a>][<a href="/assets/research/ICDE2020_poster.pdf">poster</a>]</li>
+
+<li>Submodular Optimization over Streams with Inhomogeneous Decays. In Proceedings of the 33rd AAAI
+Conference on Artificial Intelligence (AAAI), 2019. [<a href="https://arxiv.org/abs/1811.05652">arXiv</a>]</li>
+
+<li>Tracking Influential Nodes in Time-Decaying Dynamic Interaction Networks. In Proceedings of the
+35th IEEE International Conference on Data Engineering (ICDE), 2019. [<a href="https://arxiv.org/abs/1810.07917">arXiv</a>][<a href="/assets/research/ICDE19_poster.pdf">poster</a>]</li>
 </ul>
 </div>
 </div>
 </div>
+
+
+<div id="outline-container-org20cfe9f" class="outline-2">
+<h2 id="org20cfe9f"><span class="section-number-2">3.</span> 学习理论与人工智能（Learning Theory and AI）</h2>
+<div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-headline-7" class="outline-2">
-<h2 id="headline-7">
-学习理论与人工智能（Learning Theory and AI）
-</h2>
-<div id="outline-text-headline-7" class="outline-text-2">
-<div id="outline-container-headline-8" class="outline-3">
-<h3 id="headline-8">
-图数据表示学习（Graph Data Representation Learning）
-</h3>
-<div id="outline-text-headline-8" class="outline-text-3">
-<p>　　图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节
-点的表示。我们同时利用图的结构信息和部分节点/边的属性信息设计了一种新的节点表示学习算法框架。此外，
-药物相互作用预测也是一个重要的问题，我们将药物分子模型抽象为图结构，设计了图与图之间相似度的评估方法，
-可以用来预测两种药物是否会产生副作用，可用于指导用药。相关工作发表在 IJCAI 和 Information Science 等
-国际会议和期刊上。</p>
-<img src="/images/embedding_and_ddi.png" alt="/images/embedding_and_ddi.png" title="/images/embedding_and_ddi.png" style="margin:2ex auto; width: 100%;"/>
+<div id="outline-container-org459d385" class="outline-3">
+<h3 id="org459d385"><span class="section-number-3">3.1.</span> 图数据表示学习（Graph Data Representation Learning）</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>　　图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节点的表示。我们同时利用图的结构信息和部分节点/边的属性信息设计了一种新的节点表示学习算法框架。此外，药物相互作用预测也是一个重要的问题，我们将药物分子模型抽象为图结构，设计了图与图之间相似度的评估方法，可以用来预测两种药物是否会产生副作用，可用于指导用药。相关工作发表在 IJCAI 和 Information Science 等国际会议和期刊上。</p>
+
+
+<div id="org596604a" class="figure">
+<p><img src="/assets/research/embedding_and_ddi.png" alt="embedding_and_ddi.png" style="margin:2ex auto; width: 100%;" />
+</p>
 </div>
 </div>
-<div id="outline-container-headline-9" class="outline-3">
-<h3 id="headline-9">
-人工智能自然语言处理技术（NLP using Advanced AI Techniques）
-</h3>
-<div id="outline-text-headline-9" class="outline-text-3">
-<p>　　随着我国法制化进程的逐步深化，司法大数据形成另外一种重要的大数据。利用司法大数据，有利于智慧法院
-建设，有助于实现审判执行的自动化和精准化。在众多司法活动领域如类案推送、量刑辅助、偏离预警、裁判文书
-自动生成、虚假诉讼识别、判决结果预测、诉讼风险评估等都有应用前景，给审判执行工作现代化带来新机遇。</p>
-<p>
-　　此外，合同文书也是企业经常遇到的一种法律文书，然而管理、填写大量合同文本时，往往会因为粗心大意导
-致合同内容前后不一致等填写错误，进而影响合同的法律效益。企业需要雇佣大量司法人员人工审核合同文本，耗
-时费力。课题组利用近期取得突破的 Transformer、BERT、孪生网络等方法实现自动化合同文本一致性检查。</p>
-<img src="/images/ACL2020-LJP.png" alt="/images/ACL2020-LJP.png" title="/images/ACL2020-LJP.png" style="margin:2ex auto; width:46%; float:left;"/>
-<img src="/images/AAAI2021-CIC.png" alt="/images/AAAI2021-CIC.png" title="/images/AAAI2021-CIC.png" style="margin:2ex auto; width:54%;"/>
-<ul>
-<li>
-<p>Learning to Check Contract Inconsistencies. In Proceedings of the 35th AAAI Conference on
-Artificial Intelligence (AAAI), 2021.</p>
-</li>
-<li>
-<p>Distinguish Confusing Law Articles for Legal Judgment Prediction. In Proceedings of the 58th
-Annual Meeting of the Association for Computational Linguistics (ACL), 2020. [<a href="https://arxiv.org/abs/2004.02557">arXiv</a>]</p>
-</li>
-<li>
-<p>Improving Network Embedding with Partially Available Vertex and Edge Content. Information
-Sciences, 2020.</p>
-</li>
-<li>
-<p>MR-GNN: Multi-resolution and dual graph neural network for predicting structured entity
+</div>
+
+
+<div id="outline-container-org7ca49d0" class="outline-3">
+<h3 id="org7ca49d0"><span class="section-number-3">3.2.</span> 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>　　随着我国法制化进程的逐步深化，司法大数据形成另外一种重要的大数据。利用司法大数据，有利于智慧法院建设，有助于实现审判执行的自动化和精准化。在众多司法活动领域如类案推送、量刑辅助、偏离预警、裁判文书自动生成、虚假诉讼识别、判决结果预测、诉讼风险评估等都有应用前景，给审判执行工作现代化带来新机遇。</p>
+
+<p>　　此外，合同文书也是企业经常遇到的一种法律文书，然而管理、填写大量合同文本时，往往会因为粗心大意导致合同内容前后不一致等填写错误，进而影响合同的法律效益。企业需要雇佣大量司法人员人工审核合同文本，耗时费力。课题组利用近期取得突破的 Transformer、BERT、孪生网络等方法实现自动化合同文本一致性检查。</p>
+
+
+<div id="org1f53127" class="figure">
+<p><img src="/assets/research/ACL_AAAI.png" alt="ACL_AAAI.png" style="margin:2ex auto; width:100%;" />
+</p>
+</div>
+
+
+<ul class="org-ul">
+<li>Learning to Check Contract Inconsistencies. In Proceedings of the 35th AAAI Conference on
+Artificial Intelligence (AAAI), 2021.</li>
+
+<li>Distinguish Confusing Law Articles for Legal Judgment Prediction. In Proceedings of the 58th
+Annual Meeting of the Association for Computational Linguistics (ACL), 2020. [<a href="https://arxiv.org/abs/2004.02557">arXiv</a>]</li>
+
+<li>Improving Network Embedding with Partially Available Vertex and Edge Content. Information
+Sciences, 2020.</li>
+
+<li>MR-GNN: Multi-resolution and dual graph neural network for predicting structured entity
 interaction. In Proceedings of the 28th International Joint Conference on Artificial Intelligence
-(IJCAI), 2019. [<a href="https://arxiv.org/abs/1905.09558">arXiv</a>]</p>
-</li>
+(IJCAI), 2019. [<a href="https://arxiv.org/abs/1905.09558">arXiv</a>]</li>
 </ul>
 </div>
 </div>
 </div>
+
+<div id="outline-container-orgd0b71e7" class="outline-2">
+<h2 id="orgd0b71e7"><span class="section-number-2">4.</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
+<div class="outline-text-2" id="text-4">
+
+<div id="org7186c8f" class="figure">
+<p><img src="/assets/research/monitoring.png" alt="monitoring.png" style="margin:2ex auto; width:100%;" />
+</p>
 </div>
-<div id="outline-container-headline-10" class="outline-2">
-<h2 id="headline-10">
-数据安全与隐私保护（Data Security and Privacy）
-</h2>
-<div id="outline-text-headline-10" class="outline-text-2">
-<img src="/images/monitoring1.png" alt="/images/monitoring1.png" title="/images/monitoring1.png" style="margin:2ex auto; width:46%; float:left;"/>
-<img src="/images/monitoring2.png" alt="/images/monitoring2.png" title="/images/monitoring2.png" style="margin:2ex auto; width:54%;"/>
-<p>
-　　如何及时发现大规模网络中的攻击行为，例如通信网络中的 DDoS 攻击以及 OSN 中的 Social Bot 攻击。针对
-这些攻击，我们设计了高效的攻击检测方法。此外，如何选择网络中的一组最优观测节点（或者称为 Social
-Sensor）用来及时发现网络中的传播事件，也是网络监控需要解决的问题。我们设计了针对大规模网络的监控节点
-最优选择算法。相关工作发表在 COSN、Computer Networks 等国际会议和期刊上。</p>
-<ul>
-<li>
-<p>Tracking Triadic Cardinality Distributions for Burst Detection in High-Speed Graph Streams.
-Knowledge and Information Systems (KAIS), 2021. [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</p>
-</li>
-<li>
-<p>Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams. In
-Proceedings of ACM Conference on Online Social Networks (COSN), 2015. [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</p>
-</li>
-<li>
-<p>WTF: Efficient Followee Selection for Cascading Outbreak Detection on Online Social Networks.
-Computer Networks, Special Issue on Online Social Networks, 2014. [<a href="assets/COMNET2014.pdf">pdf</a>]</p>
-</li>
-<li>
-<p>A New Sketch Method for Measuring Host Connection Degree Distribution. IEEE Transactions on
-Information Forensics and Security (TIFS), 2014.</p>
-</li>
+
+
+<p>　　如何及时发现大规模网络中的攻击行为，例如通信网络中的 DDoS 攻击以及 OSN 中的 Social Bot 攻击。针对这些攻击，我们设计了高效的攻击检测方法。此外，如何选择网络中的一组最优观测节点（或者称为 Social
+Sensor）用来及时发现网络中的传播事件，也是网络监控需要解决的问题。我们设计了针对大规模网络的监控节点最优选择算法。相关工作发表在 COSN、Computer Networks 等国际会议和期刊上。</p>
+
+<ul class="org-ul">
+<li>Tracking Triadic Cardinality Distributions for Burst Detection in High-Speed Graph Streams.
+Knowledge and Information Systems (KAIS), 2021. [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
+
+<li>Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams. In
+Proceedings of ACM Conference on Online Social Networks (COSN), 2015. [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</li>
+
+<li>WTF: Efficient Followee Selection for Cascading Outbreak Detection on Online Social Networks.
+Computer Networks, Special Issue on Online Social Networks, 2014. [<a href="/assets/research/COMNET2014.pdf">pdf</a>]</li>
+
+<li>A New Sketch Method for Measuring Host Connection Degree Distribution. IEEE Transactions on
+Information Forensics and Security (TIFS), 2014.</li>
 </ul>
 </div>
 </div>
 
-</div>
+</section>
 
-        </div><div id="footer" class="mb-5">
+        <footer id="footer" class="mb-5">
     <hr>
     <div class="container text-center">
-        
-            <a href="/contact" class="fa fa-wechat fa-1x" title="Wechat"></a>
-        
-            <a href="/contact" class="fa fa-envelope fa-1x" title="E-mail"></a>
-        
-            <a href="/contact" class="fa fa-location-arrow fa-1x" title="Location"></a>
-        
-            <a href="https://github.com/zzjjzzgggg" class="fa fa-github fa-1x" title="GitHub"></a>
-        
+        <a href="/contact" class="fa fa-wechat fa-1x" title="Wechat"></a>
+        <a href="/contact" class="fa fa-envelope fa-1x" title="E-mail"></a>
+        <a href="/contact" class="fa fa-location-arrow fa-1x" title="Location"></a>
+        <a href="https://github.com/zzjjzzgggg" class="fa fa-github fa-1x" title="GitHub"></a>
     </div>
-    
-        <div class="container text-center">
-            <a href="https://junzhouzhao.github.io" title="© J. Zhao"><small>© J. Zhao</small></a>
-        </div>
-    
-</div>
 
+    <div class="container text-center">
+        Copyright &copy; 2015 - <span id="footerYear"></span> by J. Zhao.
 
+        <script type="text/javascript">
+            document.getElementById("footerYear").innerHTML = (new Date()).getFullYear();
+        </script>
+    </div>
 
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?70d282bac75aff81babeeb598206f823";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</footer>
 
-
-<script>
- var _hmt = _hmt || [];
- (function() {
-     var hm = document.createElement("script");
-     hm.src = "https://hm.baidu.com/hm.js?70d282bac75aff81babeeb598206f823";
-     var s = document.getElementsByTagName("script")[0];
-     s.parentNode.insertBefore(hm, s);
- })();
-</script>
-
+    </div>
 </body>
 </html>
