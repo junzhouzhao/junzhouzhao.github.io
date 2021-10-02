@@ -4,54 +4,123 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Fri, 01 Oct 2021 17:17:48 CST</pubDate>
-    <lastBuildDate>Fri, 01 Oct 2021 17:17:48 CST</lastBuildDate>
+    <pubDate>Sat, 02 Oct 2021 11:10:39 CST</pubDate>
+    <lastBuildDate>Sat, 02 Oct 2021 11:10:39 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
-      <title>Lab Intro</title>
-      <link>https://junzhouzhao.github.io/article/lab_intro</link>
+      <title>Resources</title>
+      <link>https://junzhouzhao.github.io/resources/</link>
       <description><![CDATA[<section id="content">
-    
-
-<div id="outline-container-org780c599" class="outline-2">
-<h2 id="org780c599">实验室简介</h2>
-<div class="outline-text-2" id="text-org780c599">
-<p>　　课题组主要位于西安交通大学智能网络与网络安全教育部重点实验室（简称智网实验室）。智网实验室正式成立于 2008 年，并在 2017 年教育部重点实验室评估中获得“优”。实验室具有世界一流的科研环境，并与国际知名团队保持紧密合作，包括香港中文大学、马萨诸塞大学、明尼苏达州立大学、阿卜杜拉国王科技大学、新加坡国立大学等。</p>
-
-
-<div id="orgf049ed1" class="figure">
-<p><img src="/assets/article/lab_intro/lab.png" alt="lab.png" />
-</p>
+    <div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org99daa24">1. Top Conferences</a>
+<ul>
+<li><a href="#orgf626bbb">1.1. Machine Learning, Data Mining, and AI</a></li>
+<li><a href="#orgf14c588">1.2. Security</a></li>
+</ul>
+</li>
+<li><a href="#orgbd5b396">2. 国际期刊黑名单（计算机）</a></li>
+<li><a href="#org26e4bef">3. Tips</a></li>
+</ul>
 </div>
-
-
-<p>　　实验室网络以百 G 带宽直接接入西安交大校园网、CERNET 西北网和中国电信。实验室为每位同学配置高性能工作站，实验室机房配有多种高性能服务器，包括高性能 Linux 和
-Windows 工作站、海量数据存储阵列、高性能 GPU 服务器集群等。</p>
-
-
-<div id="orgaac3527" class="figure">
-<p><img src="/assets/article/lab_intro/equipment.png" alt="equipment.png" />
-</p>
 </div>
 
 
 
-<p>　　实验室向同学提供优良、宽松的学习环境，包括会议室、讨论室、设备间、硬件工作室及学生工作室。实验室不打卡、不签到，师生关系融洽，科研气氛浓厚。实验室每周会组织学术交流会、技术交流会以及其他活动，定期举办总结交流大会，奖励成果突出的同学，同时激励其他同学努力。</p>
+<div id="outline-container-org99daa24" class="outline-2">
+<h2 id="org99daa24"><span class="section-number-2">1.</span> Top Conferences</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgf626bbb" class="outline-3">
+<h3 id="orgf626bbb"><span class="section-number-3">1.1.</span> Machine Learning, Data Mining, and AI</h3>
+<div class="outline-text-3" id="text-1-1">
 
-
-<div id="orge356865" class="figure">
-<p><img src="/assets/article/lab_intro/workspace.png" alt="workspace.png" />
+<div id="orgc7ee6ba" class="figure">
+<p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
 </p>
 </div>
 
+<p>
+Source: <a href="https://www.kamishima.net/archive/MLDMAImap.pdf">https://www.kamishima.net/archive/MLDMAImap.pdf</a>
+</p>
+</div>
+</div>
 
-<p>　　欢迎有志从事<font color="red">大数据、机器学习、人工智能、数据安全、隐私计算、移动安全</font>等领域研究的同学加入！</p>
+<div id="outline-container-orgf14c588" class="outline-3">
+<h3 id="orgf14c588"><span class="section-number-3">1.2.</span> Security</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Tier 1:
+</p>
+<ul class="org-ul">
+<li><b>S&amp;P</b>: IEEE Symposium on Security and Privacy</li>
+<li><b>CCS</b>: ACM Conference on Computer and Communications Security</li>
+<li><b>Security</b>: USENIX Security Symposium</li>
+<li><b>NDSS</b>: ISOC Network and Distributed System Security Symposium</li>
+<li><b>Crypto</b>: International Cryptology Conference</li>
+<li><b>Eurocrypt</b>: European Cryptology Conference</li>
+</ul>
+
+<p>
+Tier 2:
+</p>
+<ul class="org-ul">
+<li><b>ESORICS</b>: European Symposium on Research in Computer Security</li>
+<li><b>RAID</b>: International Symposium on Recent Advances in Intrusion Detection</li>
+<li><b>ACSAC</b>: Annual Computer Security Applications Conference</li>
+<li><b>DSN</b>: The International Conference on Dependable Systems and Networks</li>
+<li><b>IMC</b>: Internet Measurement Conference</li>
+<li><b>ASIACCS</b>: ACM Symposium on Information, Computer and Communications Security</li>
+<li><b>PETS</b>: Privacy Enhancing Technologies Symposium</li>
+<li><b>EuroS&amp;P</b>: IEEE European Symposium on Security and Privacy</li>
+<li><b>CSF</b>: IEEE Computer Security Foundations Symposium</li>
+<li><b>Asiacrypt</b>: International Conference on the Theory and Application of Cryptology and Information Security</li>
+<li><b>TCC</b>: Theory of Cryptography Conference</li>
+<li><b>CHES</b>: Conference on Cryptographic Hardware and Embedded Systems</li>
+</ul>
+
+<p>
+Source: <a href="https://people.engr.tamu.edu/guofei/sec_conf_stat.htm">https://people.engr.tamu.edu/guofei/sec_conf_stat.htm</a>
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgbd5b396" class="outline-2">
+<h2 id="orgbd5b396"><span class="section-number-2">2.</span> 国际期刊黑名单（计算机）</h2>
+<div class="outline-text-2" id="text-2">
+<ul class="org-ul">
+<li>IEEE Access</li>
+</ul>
+
+<p>
+Source: <a href="https://mp.weixin.qq.com/s?__biz=MzI1MzA2MzM1NA==&amp;mid=2659567089&amp;idx=1&amp;sn=f4cad93ba3a425524eb19d25ffb25960&amp;chksm=f2ab5c24c5dcd53275aa36b9167d9788577a6a919e2bc80b1144088ea78b32bae8350535b344&amp;mpshare=1&amp;scene=1&amp;srcid=0929fMzO4gh0c4l9vLodlKpO&amp;sharer_sharetime=1632924577713&amp;sharer_shareid=c09e2fcd62c7e0a6299c4fa0f2ee6236#rd">中科院文献情报中心分区表</a>
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org26e4bef" class="outline-2">
+<h2 id="org26e4bef"><span class="section-number-2">3.</span> Tips</h2>
+<div class="outline-text-2" id="text-3">
+<ul class="org-ul">
+<li>How to write a great research paper? by Prof. Simon Peyton-Jones [<a href="https://www.bilibili.com/video/BV1vb411G7WD">Video</a>][<a href="/assets/resources/Writing_a_paper_slides.pdf">Slides</a>]</li>
+</ul>
 </div>
 </div>
 
 </section>
 ]]></description>
+      <pubDate>2021-10-02</pubDate>
+      <guid>https://junzhouzhao.github.io/resources/</guid>
+    </item>
+    <item>
+      <title>Lab Intro</title>
+      <link>https://junzhouzhao.github.io/article/lab_intro</link>
+      <description><![CDATA[]]></description>
       <pubDate>2021-10-01</pubDate>
       <guid>https://junzhouzhao.github.io/article/lab_intro</guid>
     </item>
@@ -68,13 +137,6 @@ Windows 工作站、海量数据存储阵列、高性能 GPU 服务器集群等�
       <description><![CDATA[]]></description>
       <pubDate>2021-10-01</pubDate>
       <guid>https://junzhouzhao.github.io/research/</guid>
-    </item>
-    <item>
-      <title>Resources</title>
-      <link>https://junzhouzhao.github.io/resources/</link>
-      <description><![CDATA[]]></description>
-      <pubDate>2021-10-01</pubDate>
-      <guid>https://junzhouzhao.github.io/resources/</guid>
     </item>
   </channel>
 </rss>
