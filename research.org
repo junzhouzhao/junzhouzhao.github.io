@@ -18,7 +18,7 @@
  - 司法/文本大数据等：例如司法文书、合同文书等文本数据；
  - 其他大数据：POI 签到数据（Check-in records）、商品购买数据（Purchasing records）、IoT 数据流等。
 
-
+#+ATTR_HTML: :style margin-bottom:2em;
 [[file:images/big_data.png]]
 
 
@@ -51,6 +51,7 @@
   the 31st IEEE International Conference on Data Engineering (ICDE), 2015. [[[file:assets/ICDE2015.pdf][pdf]]]
 
 
+#+ATTR_HTML: :style margin-bottom:2em;
 [[file:images/random_walk_sampling.png]]
 
 
@@ -78,7 +79,11 @@
   from Data (TKDD), 2014. [[[http://arxiv.org/abs/1306.5288][arXiv]]]
 
 
+#+ATTR_HTML: :style margin-bottom:2em;
 [[file:images/graphlets.png]]
+
+
+
 
 ** 大图优化算法（Graph Optimization Algorithms）
 
@@ -99,6 +104,7 @@
 - Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs. In WWW SIMPLEX
   workshop, 2014. [[[file:assets/SIMPLEX2014.pdf][pdf]]][[[file:assets/NodeGroup_TR.pdf][TR]]]
 
+#+ATTR_HTML: :style margin-bottom:2em;
 [[file:images/group.png]]
 
 
@@ -119,6 +125,7 @@
 - Tracking Influential Nodes in Time-Decaying Dynamic Interaction Networks. In Proceedings of the
   35th IEEE International Conference on Data Engineering (ICDE), 2019. [[[https://arxiv.org/abs/1810.07917][arXiv]]][[[file:assets/ICDE19_poster.pdf][poster]]]
 
+#+ATTR_HTML: :style margin-bottom:2em;
 [[file:images/SSO_inf.png]]
 
 
@@ -132,6 +139,7 @@
 可以用来预测两种药物是否会产生副作用，可用于指导用药。相关工作发表在 IJCAI 和 Information Science 等
 国际会议和期刊上。
 
+#+ATTR_HTML: :style margin-bottom:2em;
 [[file:images/embedding_and_ddi.png]]
 
 
@@ -158,6 +166,7 @@
   (IJCAI), 2019. [[[https://arxiv.org/abs/1905.09558][arXiv]]]
 
 
+#+ATTR_HTML: :style margin-bottom:2em;
 [[file:images/ACL_AAAI.png]]
 
 
@@ -180,4 +189,5 @@ Sensor）用来及时发现网络中的传播事件，也是网络监控需要�
 - A New Sketch Method for Measuring Host Connection Degree Distribution. IEEE Transactions on
   Information Forensics and Security (TIFS), 2014.
 
+#+ATTR_HTML: :style margin-bottom:2em;
 [[file:images/monitoring.png]]
