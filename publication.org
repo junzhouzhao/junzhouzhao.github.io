@@ -9,7 +9,7 @@
   Streams". /ACM SIGKDD/ 2021. ~CCF-A~
 
 + *[KDD'21]* _Junzhou Zhao_, Pinghui Wang, Chao Deng, and Jing Tao. "Temporal
-  Biased Streaming Submodular Optimization". /ACM SIGKDD/ 2021. ~CCF-A~ [[[file:assets/KDD21_SSO_slides.pdf][slides]]]
+  Biased Streaming Submodular Optimization". /ACM SIGKDD/ 2021. [[[file:assets/KDD21_SSO_slides.pdf][slides]]] ~CCF-A~
 
 + *[TMC'21]* Feiyang Sun, Pinghui Wang, _Junzhou Zhao_, Nuo Xu, Juxiang Zeng, Jing
   Tao, Kaikai Song, Chao Deng, John C.S. Lui, and Xiaohong Guan. "Mobile Data
