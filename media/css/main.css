@@ -78,6 +78,6 @@ footer a {
 	color: gray;
 }
 
-.org-ul li {
-	margin-bottom: .5rem;
+.underline {
+  text-decoration: underline;
 }
