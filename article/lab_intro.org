@@ -34,5 +34,5 @@ Windows 工作站、海量数据存储阵列、高性能 GPU 服务器集群等�
 [[file:../images/workspace.png]]
 
 
-　　欢迎有志从事@@html:<font color="red">@@大数据、机器学习、人工智能、数据安全、
-隐私计算、移动安全@@html:</font>@@等领域研究的同学加入！
+　　欢迎对@@html:<font color="red">@@网络大数据、数据库系统、学习理论、人工智能、
+数据安全@@html:</font>@@等研究领域感兴趣的同学加入！
