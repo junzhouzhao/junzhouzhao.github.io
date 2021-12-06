@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Tue, 30 Nov 2021 15:52:36 CST</pubDate>
-    <lastBuildDate>Tue, 30 Nov 2021 15:52:36 CST</lastBuildDate>
+    <pubDate>Mon, 06 Dec 2021 11:50:06 CST</pubDate>
+    <lastBuildDate>Mon, 06 Dec 2021 11:50:06 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,13 +14,13 @@
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-orgc54af67" class="outline-2">
-<h2 id="orgc54af67">实验室简介</h2>
-<div class="outline-text-2" id="text-orgc54af67">
+<div id="outline-container-orga9bb1f5" class="outline-2">
+<h2 id="orga9bb1f5">实验室简介</h2>
+<div class="outline-text-2" id="text-orga9bb1f5">
 <p>　　课题组主要位于西安交通大学智能网络与网络安全教育部重点实验室（简称智网实验室）。智网实验室正式成立于 2008 年，并在 2017 年教育部重点实验室评估中获得“优”。实验室具有世界一流的科研环境，并与国际知名团队保持紧密合作，包括香港中文大学、马萨诸塞大学、明尼苏达州立大学、阿卜杜拉国王科技大学、新加坡国立大学等。</p>
 
 
-<div id="org9b1e368" class="figure">
+<div id="org56b6178" class="figure">
 <p><img src="/assets/article/lab_intro/lab.png" alt="lab.png" style="margin-bottom:2em;" />
 </p>
 </div>
@@ -30,7 +30,7 @@
 Windows 工作站、海量数据存储阵列、高性能 GPU 服务器集群等。</p>
 
 
-<div id="org7582fec" class="figure">
+<div id="org6a5bb6f" class="figure">
 <p><img src="/assets/article/lab_intro/equipment.png" alt="equipment.png" style="margin-bottom:2em;" />
 </p>
 </div>
@@ -40,19 +40,19 @@ Windows 工作站、海量数据存储阵列、高性能 GPU 服务器集群等�
 <p>　　实验室向同学提供优良、宽松的学习环境，包括会议室、讨论室、设备间、硬件工作室及学生工作室。实验室不打卡、不签到，师生关系融洽，科研气氛浓厚。实验室每周会组织学术交流会、技术交流会以及其他活动，定期举办总结交流大会，奖励成果突出的同学，同时激励其他同学努力。</p>
 
 
-<div id="org3a271e1" class="figure">
+<div id="orga02bb32" class="figure">
 <p><img src="/assets/article/lab_intro/workspace.png" alt="workspace.png" style="margin-bottom:2em;" />
 </p>
 </div>
 
 
-<p>　　欢迎对<font color="red">网络大数据、数据库系统、学习理论、人工智能、数据安全</font>等研究领域感兴趣的同学加入！</p>
+<p>　　欢迎对<font color="red">网图大数据、数据库系统、学习理论、人工智能、数据安全</font>等研究领域感兴趣的同学加入！</p>
 </div>
 </div>
 
 </section>
 ]]></description>
-      <pubDate>2021-11-30</pubDate>
+      <pubDate>2021-12-06</pubDate>
       <guid>https://junzhouzhao.github.io/article/lab_intro</guid>
     </item>
     <item>
