@@ -4,54 +4,287 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Mon, 06 Dec 2021 11:50:06 CST</pubDate>
-    <lastBuildDate>Mon, 06 Dec 2021 11:50:06 CST</lastBuildDate>
+    <pubDate>Mon, 13 Dec 2021 12:01:45 CST</pubDate>
+    <lastBuildDate>Mon, 13 Dec 2021 12:01:45 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
-      <title>Lab Intro</title>
-      <link>https://junzhouzhao.github.io/article/lab_intro</link>
+      <title>Research</title>
+      <link>https://junzhouzhao.github.io/research/</link>
       <description><![CDATA[<section id="content">
-    
+    <div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#orgbe57104">1. 大数据（Big Data）</a></li>
+<li><a href="#orgc83f913">2. 图数据近似计算与优化（Approximate Computation and Optimization For Big Graph Data）</a>
+<ul>
+<li><a href="#org0bbac05">2.1. 大图采样测量方法（Graph Sampling）</a></li>
+<li><a href="#orgcc09172">2.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
+<li><a href="#orgfffebc5">2.3. 大图优化算法（Graph Optimization Algorithms）</a></li>
+</ul>
+</li>
+<li><a href="#org92e8ab5">3. 流式数据挖掘与处理（Streaming Data Mining and Processing）</a>
+<ul>
+<li><a href="#orgb587719">3.1. 流式数据在线优化方法（Streaming Data Online Optimization）</a></li>
+<li><a href="#orgb491f3d">3.2. 流式数据实时处理方法（Streaming Data Online Processing）</a></li>
+</ul>
+</li>
+<li><a href="#orgae93070">4. 学习理论与人工智能（Learning Theory and AI）</a>
+<ul>
+<li><a href="#orga9047ac">4.1. 图数据表示学习（Graph Data Representation Learning）</a></li>
+<li><a href="#orgffb263d">4.2. 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</a></li>
+</ul>
+</li>
+<li><a href="#org0e270b7">5. 数据安全与隐私保护（Data Security and Privacy）</a></li>
+</ul>
+</div>
+</div>
+<p>　　大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些挑战，我们开展了一系列相关研究。</p>
 
-<div id="outline-container-orga9bb1f5" class="outline-2">
-<h2 id="orga9bb1f5">实验室简介</h2>
-<div class="outline-text-2" id="text-orga9bb1f5">
-<p>　　课题组主要位于西安交通大学智能网络与网络安全教育部重点实验室（简称智网实验室）。智网实验室正式成立于 2008 年，并在 2017 年教育部重点实验室评估中获得“优”。实验室具有世界一流的科研环境，并与国际知名团队保持紧密合作，包括香港中文大学、马萨诸塞大学、明尼苏达州立大学、阿卜杜拉国王科技大学、新加坡国立大学等。</p>
+<div id="outline-container-orgbe57104" class="outline-2">
+<h2 id="orgbe57104"><span class="section-number-2">1.</span> 大数据（Big Data）</h2>
+<div class="outline-text-2" id="text-1">
+<p>主要研究以下各种大数据：</p>
+<ul class="org-ul">
+<li>图/网络大数据（Big Graphs/Networks)：例如 Facebook 用户的好友网络、Twitter/微博用户的关注网络、论文引用网络、帖子转发网络、道路交通网络、计算机通信网络、知识图谱等；</li>
+<li>大规模高速流数据：例如 OSN 用户发送的帖子流（Message Stream）、信息流（Tweet Stream）、高速网络流（Traffic Stream）、网站点击流（Click Stream）等；</li>
+<li>生物/医药大数据：例如药物相互作用与分子结构关系、基因调控关系数据等；</li>
+<li>司法/文本大数据等：例如司法文书、合同文书等文本数据；</li>
+<li>其他大数据：POI 签到数据（Check-in records）、商品购买数据（Purchasing records）、IoT 数据流等。</li>
+</ul>
 
 
-<div id="org56b6178" class="figure">
-<p><img src="/assets/article/lab_intro/lab.png" alt="lab.png" style="margin-bottom:2em;" />
+<div id="org092f9e4" class="figure">
+<p><img src="/assets/research/big_data.png" alt="big_data.png" style="margin-bottom:2em;" />
 </p>
+</div>
+</div>
 </div>
 
 
-<p>　　实验室网络以百 G 带宽直接接入西安交大校园网、CERNET 西北网和中国电信。实验室为每位同学配置高性能工作站，实验室机房配有多种高性能服务器，包括高性能 Linux 和
-Windows 工作站、海量数据存储阵列、高性能 GPU 服务器集群等。</p>
+<div id="outline-container-orgc83f913" class="outline-2">
+<h2 id="orgc83f913"><span class="section-number-2">2.</span> 图数据近似计算与优化（Approximate Computation and Optimization For Big Graph Data）</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org0bbac05" class="outline-3">
+<h3 id="org0bbac05"><span class="section-number-3">2.1.</span> 大图采样测量方法（Graph Sampling）</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>　　研究者作为第三方通常不拥有网络数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业机密的考虑，Facebook 并不愿意共享给第三方。在这种情况下，第三方只能利用网络数据拥有者提供的 API 接口访问网络数据。但 API 一般会限制调用总次数或调用频率，从而使第三方无法获得完整网络数据。为了分析网络数据的连接特征，第三方通常只能用采样的方法采样得到一些网络的节点和边，用这些少量样本估计网络的整体特征参数。常用的做法是在网络上进行随机游走（Random Walk）。但如果网络不连通或连通性差（例如存在社区结构），随机游走容易困在一个局部网络中，导致得到的样本不具代表性（即收敛速度慢），产生较大估计误差。我们利用一种多层网络结构特征，设计了一种可间接跳跃的随机游走机制解决传统随机游走收敛慢的问题。相关工作发表在 ICDE'15 及 DMKD'19。</p>
+
+<ul class="org-ul">
+<li>Sampling Online Social Networks by Random Walk with Indirect Jumps. Data Mining and Knowledge
+Discovery (DMKD), 2019. [<a href="https://arxiv.org/abs/1708.09081">arXiv</a>]</li>
+
+<li>SNOD: A Fast Sampling Method of Exploring Node Orbit Degrees for Large Graphs. Knowledge and
+Information Systems (KAIS), 2018.</li>
+
+<li>Fast Crawling Methods of Exploring Content Distributed Over Large Graphs. Knowledge and
+Information Systems (KAIS), 2018.</li>
+
+<li>Practical Characterization of Large Networks Using Neighborhood Information. Knowledge and
+Information Systems (KAIS), 2018.</li>
+
+<li>A Tale of Three Graphs: Sampling Design on Hybrid Social-Affiliation Networks. In Proceedings of
+the 31st IEEE International Conference on Data Engineering (ICDE), 2015. [<a href="/assets/research/ICDE2015.pdf">pdf</a>]</li>
+</ul>
 
 
-<div id="org6a5bb6f" class="figure">
-<p><img src="/assets/article/lab_intro/equipment.png" alt="equipment.png" style="margin-bottom:2em;" />
+
+<div id="org0345adc" class="figure">
+<p><img src="/assets/research/random_walk_sampling.png" alt="random_walk_sampling.png" style="margin-bottom:2em;" />
 </p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orgcc09172" class="outline-3">
+<h3 id="orgcc09172"><span class="section-number-3">2.2.</span> 子图模式挖掘算法（Graphlets Mining）</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>　　连通子图指网络中连通的子图，例如 3 节点子图、4-节点子图等。这样的子图被认为是构成大规模复杂网络的最小单元，被称为图基因，graphlets，或 motif 结构。子图模式挖掘在分析复杂网络的功能方面有大量应用，例如一些生物大分子的功能由其基本子图单元决定。但是大规模图中由于子图数量巨大，如果穷举统计，则会效率低下。为了解决子图计数问题，我们设计了一系列基于采样的快速估计算法，只需要较少的样本便可准确的估计网络中各种子图的数量情况。相关工作发表在 ICDE、TKDD、TKDE 等国际会议和期刊上。</p>
+
+<ul class="org-ul">
+<li>MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs. IEEE Transactions
+on Knowledge and Data Engineering (TKDE), 2018. [<a href="/assets/research/TKDE18_poster.pdf">poster</a>]</li>
+
+<li>Inferring Higher-Order Structure Statistics of Large Networks From Sampled Edges. IEEE
+Transactions on Knowledge and Data Engineering (TKDE), 2017.</li>
+
+<li>Minfer: A Method of Inferring Motif Statistics from Sampled Edges. In Proceedings of the 32nd IEEE
+International Conference on Data Engineering (ICDE), 2016.</li>
+
+<li>Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams. In
+Proceedings of ACM Conference on Online Social Networks (COSN), 2015. [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</li>
+
+<li>Efficiently Estimating Motif Statistics of Large Networks. ACM Transactions on Knowledge Discovery
+from Data (TKDD), 2014. [<a href="http://arxiv.org/abs/1306.5288">arXiv</a>]</li>
+</ul>
+
+
+
+<div id="orgb169dc5" class="figure">
+<p><img src="/assets/research/graphlets.png" alt="graphlets.png" style="margin-bottom:2em;" />
+</p>
+</div>
+</div>
 </div>
 
 
 
-<p>　　实验室向同学提供优良、宽松的学习环境，包括会议室、讨论室、设备间、硬件工作室及学生工作室。实验室不打卡、不签到，师生关系融洽，科研气氛浓厚。实验室每周会组织学术交流会、技术交流会以及其他活动，定期举办总结交流大会，奖励成果突出的同学，同时激励其他同学努力。</p>
+<div id="outline-container-orgfffebc5" class="outline-3">
+<h3 id="orgfffebc5"><span class="section-number-3">2.3.</span> 大图优化算法（Graph Optimization Algorithms）</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>　　度量图中节点的重要性程度是网络科学研究中一个重要问题，例如利用 PageRank 来评估一个网页在网页链接网络中的重要性程度。中心度（Closeness Centrality）通常用来衡量网络中一个节点到其他节点的平均距离远近程度。中心度可以用来计算网络中 Top-<i>K</i>最重要节点，但是实际中我们通常需要度量一组节点作为一个整体在网络中的重要性程度，这时中心度就不能解决这样的问题。例如要在一个城市的交通网络中寻找<i>K</i>个最重要的节点建设充电站，我们应该整体考虑这<i>K</i>个节点的重要性程度，而不是独立考虑各自的重要性程度。为了解决这样的一类问题，我们定义了一种节点组中心度（Group Closeness Centrality），并且设计了一种 I/O 有效的高效计算方法。相关工作发表在 WWW、Information Science 等会议和期刊上。</p>
+
+<ul class="org-ul">
+<li>Optimizing Node Discovery on Networks: Problem Definitions, Fast Algorithms, and Observations.
+Information Sciences (INS), 2019. [<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
+
+<li>I/O-Efficient Calculation of Group Closeness Centrality over Disk-Resident Graphs. Information
+Sciences (INS), 2017.</li>
+
+<li>Measuring and Maximizing Group Closeness Centrality over Disk-Resident Graphs. In WWW SIMPLEX
+workshop, 2014. [<a href="/assets/research/SIMPLEX2014.pdf">pdf</a>][<a href="/assets/research/NodeGroup_TR.pdf">TR</a>]</li>
+</ul>
 
 
-<div id="orga02bb32" class="figure">
-<p><img src="/assets/article/lab_intro/workspace.png" alt="workspace.png" style="margin-bottom:2em;" />
+<div id="org4726afa" class="figure">
+<p><img src="/assets/research/group.png" alt="group.png" style="margin-bottom:2em;" />
 </p>
+</div>
+</div>
+</div>
 </div>
 
 
-<p>　　欢迎对<font color="red">网图大数据、数据库系统、学习理论、人工智能、数据安全</font>等研究领域感兴趣的同学加入！</p>
+
+<div id="outline-container-org92e8ab5" class="outline-2">
+<h2 id="org92e8ab5"><span class="section-number-2">3.</span> 流式数据挖掘与处理（Streaming Data Mining and Processing）</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-orgb587719" class="outline-3">
+<h3 id="orgb587719"><span class="section-number-3">3.1.</span> 流式数据在线优化方法（Streaming Data Online Optimization）</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>　　识别图中最有影响力的节点在很多实际问题中都有应用，例如在线广告投放、病毒营销等。目前的工作大都假设网络结构固定不变，但实际中网络结构可能在不断发生变化，导致昨天识别的一组最有影响力节点在今天不一定仍然有影响力。我们设计了一种动态图数据流上的最优节点识别算法，可以实时的跟踪图数据流中<i>K</i>个最有影响力的节点。该方法可以推广到一般数据流中的在线优化问题求解，相关工作发表在 KDD、ICDE、AAAI 等国际会议上。</p>
+
+<ul class="org-ul">
+<li>Temporal Biased Streaming Submodular Optimization. ACM SIGKDD, 2021. [<a href="/assets/research/KDD21_SSO_slides.pdf">slides</a>]</li>
+<li>Continuously Tracking Core Items in Data Streams with Probabilistic Decays. In Proceedings of the
+36th IEEE International Conference on Data Engineering (ICDE), 2020. [<a href="/assets/research/ICDE2020_full_version.pdf">full paper</a>][<a href="/assets/research/ICDE2020_slides.pdf">slides</a>][<a href="/assets/research/ICDE2020_poster.pdf">poster</a>]</li>
+
+<li>Submodular Optimization over Streams with Inhomogeneous Decays. In Proceedings of the 33rd AAAI
+Conference on Artificial Intelligence (AAAI), 2019. [<a href="https://arxiv.org/abs/1811.05652">arXiv</a>]</li>
+
+<li>Tracking Influential Nodes in Time-Decaying Dynamic Interaction Networks. In Proceedings of the
+35th IEEE International Conference on Data Engineering (ICDE), 2019. [<a href="https://arxiv.org/abs/1810.07917">arXiv</a>][<a href="/assets/research/ICDE19_poster.pdf">poster</a>]</li>
+</ul>
+
+
+<div id="orgd6de42c" class="figure">
+<p><img src="/assets/research/SSO_inf.png" alt="SSO_inf.png" style="margin-bottom:2em;" />
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orgb491f3d" class="outline-3">
+<h3 id="orgb491f3d"><span class="section-number-3">3.2.</span> 流式数据实时处理方法（Streaming Data Online Processing）</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>　　实时检测流式数据中的 Heavy Hitter、大象流、持续流等。</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgae93070" class="outline-2">
+<h2 id="orgae93070"><span class="section-number-2">4.</span> 学习理论与人工智能（Learning Theory and AI）</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-orga9047ac" class="outline-3">
+<h3 id="orga9047ac"><span class="section-number-3">4.1.</span> 图数据表示学习（Graph Data Representation Learning）</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>　　图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节点的表示。我们同时利用图的结构信息和部分节点/边的属性信息设计了一种新的节点表示学习算法框架。此外，药物相互作用预测也是一个重要的问题，我们将药物分子模型抽象为图结构，设计了图与图之间相似度的评估方法，可以用来预测两种药物是否会产生副作用，可用于指导用药。相关工作发表在 IJCAI 和 Information Science 等国际会议和期刊上。</p>
+
+
+<div id="org3978b7f" class="figure">
+<p><img src="/assets/research/embedding_and_ddi.png" alt="embedding_and_ddi.png" style="margin-bottom:2em;" />
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orgffb263d" class="outline-3">
+<h3 id="orgffb263d"><span class="section-number-3">4.2.</span> 人工智能自然语言处理技术（NLP using Advanced AI Techniques）</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>　　随着我国法制化进程的逐步深化，司法大数据形成另外一种重要的大数据。利用司法大数据，有利于智慧法院建设，有助于实现审判执行的自动化和精准化。在众多司法活动领域如类案推送、量刑辅助、偏离预警、裁判文书自动生成、虚假诉讼识别、判决结果预测、诉讼风险评估等都有应用前景，给审判执行工作现代化带来新机遇。</p>
+
+<p>　　此外，合同文书也是企业经常遇到的一种法律文书，然而管理、填写大量合同文本时，往往会因为粗心大意导致合同内容前后不一致等填写错误，进而影响合同的法律效益。企业需要雇佣大量司法人员人工审核合同文本，耗时费力。课题组利用近期取得突破的 Transformer、BERT、孪生网络等方法实现自动化合同文本一致性检查。</p>
+
+<ul class="org-ul">
+<li>Learning to Check Contract Inconsistencies. In Proceedings of the 35th AAAI Conference on
+Artificial Intelligence (AAAI), 2021.</li>
+
+<li>Distinguish Confusing Law Articles for Legal Judgment Prediction. In Proceedings of the 58th
+Annual Meeting of the Association for Computational Linguistics (ACL), 2020. [<a href="https://arxiv.org/abs/2004.02557">arXiv</a>]</li>
+
+<li>Improving Network Embedding with Partially Available Vertex and Edge Content. Information
+Sciences, 2020.</li>
+
+<li>MR-GNN: Multi-resolution and dual graph neural network for predicting structured entity
+interaction. In Proceedings of the 28th International Joint Conference on Artificial Intelligence
+(IJCAI), 2019. [<a href="https://arxiv.org/abs/1905.09558">arXiv</a>]</li>
+</ul>
+
+
+
+<div id="org88eac4f" class="figure">
+<p><img src="/assets/research/ACL_AAAI.png" alt="ACL_AAAI.png" style="margin-bottom:2em;" />
+</p>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org0e270b7" class="outline-2">
+<h2 id="org0e270b7"><span class="section-number-2">5.</span> 数据安全与隐私保护（Data Security and Privacy）</h2>
+<div class="outline-text-2" id="text-5">
+<p>　　如何及时发现大规模网络中的攻击行为，例如通信网络中的 DDoS 攻击以及 OSN 中的 Social Bot 攻击。针对这些攻击，我们设计了高效的攻击检测方法。此外，如何选择网络中的一组最优观测节点（或者称为 Social
+Sensor）用来及时发现网络中的传播事件，也是网络监控需要解决的问题。我们设计了针对大规模网络的监控节点最优选择算法。相关工作发表在 COSN、Computer Networks 等国际会议和期刊上。</p>
+
+<ul class="org-ul">
+<li>Tracking Triadic Cardinality Distributions for Burst Detection in High-Speed Graph Streams.
+Knowledge and Information Systems (KAIS), 2021. [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
+
+<li>Tracking Triadic Cardinality Distributions for Burst Detection in Social Activity Streams. In
+Proceedings of ACM Conference on Online Social Networks (COSN), 2015. [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</li>
+
+<li>WTF: Efficient Followee Selection for Cascading Outbreak Detection on Online Social Networks.
+Computer Networks, Special Issue on Online Social Networks, 2014. [<a href="/assets/research/COMNET2014.pdf">pdf</a>]</li>
+
+<li>A New Sketch Method for Measuring Host Connection Degree Distribution. IEEE Transactions on
+Information Forensics and Security (TIFS), 2014.</li>
+</ul>
+
+
+<div id="org0735030" class="figure">
+<p><img src="/assets/research/monitoring.png" alt="monitoring.png" style="margin-bottom:2em;" />
+</p>
+</div>
 </div>
 </div>
 
 </section>
 ]]></description>
+      <pubDate>2021-12-13</pubDate>
+      <guid>https://junzhouzhao.github.io/research/</guid>
+    </item>
+    <item>
+      <title>Lab Intro</title>
+      <link>https://junzhouzhao.github.io/article/lab_intro</link>
+      <description><![CDATA[]]></description>
       <pubDate>2021-12-06</pubDate>
       <guid>https://junzhouzhao.github.io/article/lab_intro</guid>
     </item>
@@ -61,13 +294,6 @@ Windows 工作站、海量数据存储阵列、高性能 GPU 服务器集群等�
       <description><![CDATA[]]></description>
       <pubDate>2021-11-01</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>https://junzhouzhao.github.io/research/</link>
-      <description><![CDATA[]]></description>
-      <pubDate>2021-10-13</pubDate>
-      <guid>https://junzhouzhao.github.io/research/</guid>
     </item>
     <item>
       <title>Resources</title>
