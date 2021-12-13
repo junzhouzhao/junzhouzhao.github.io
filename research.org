@@ -22,7 +22,7 @@
 [[file:images/big_data.png]]
 
 
-* 近似计算与优化方法（Approximate Computation and Optimization Techniques）
+* 图数据近似计算与优化（Approximate Computation and Optimization For Big Graph Data）
 
 ** 大图采样测量方法（Graph Sampling）
 
@@ -84,7 +84,6 @@
 
 
 
-
 ** 大图优化算法（Graph Optimization Algorithms）
 
 　　度量图中节点的重要性程度是网络科学研究中一个重要问题，例如利用 PageRank 来评估一个网页在网页链接
@@ -109,13 +108,17 @@
 
 
 
-** 流数据在线优化算法（Online Optimization Algorithms）
+* 流式数据挖掘与处理（Streaming Data Mining and Processing）
+
+** 流式数据在线优化方法（Streaming Data Online Optimization）
 
 　　识别图中最有影响力的节点在很多实际问题中都有应用，例如在线广告投放、病毒营销等。目前的工作大都假
 设网络结构固定不变，但实际中网络结构可能在不断发生变化，导致昨天识别的一组最有影响力节点在今天不一定
 仍然有影响力。我们设计了一种动态图数据流上的最优节点识别算法，可以实时的跟踪图数据流中 /K/ 个最有影
-响力的节点。相关工作发表在 ICDE、AAAI 等国际会议上。
+响力的节点。该方法可以推广到一般数据流中的在线优化问题求解，相关工作发表在 KDD、ICDE、AAAI 等国际会
+议上。
 
+- Temporal Biased Streaming Submodular Optimization. ACM SIGKDD, 2021. [[[file:assets/KDD21_SSO_slides.pdf][slides]]]
 - Continuously Tracking Core Items in Data Streams with Probabilistic Decays. In Proceedings of the
   36th IEEE International Conference on Data Engineering (ICDE), 2020. [[[file:assets/ICDE2020_full_version.pdf][full paper]]][[[file:assets/ICDE2020_slides.pdf][slides]]][[[file:assets/ICDE2020_poster.pdf][poster]]]
 
@@ -129,6 +132,9 @@
 [[file:images/SSO_inf.png]]
 
 
+** 流式数据实时处理方法（Streaming Data Online Processing）
+
+　　实时检测流式数据中的 Heavy Hitter、大象流、持续流等。
 
 * 学习理论与人工智能（Learning Theory and AI）
 
