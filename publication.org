@@ -3,7 +3,7 @@
 #+URI: /publication/
 #+OPTIONS: toc:nil num:nil
 
-+ *[ICDE'22]* Juxiang Zeng, Pinghui Wang, Lin Lan, Junzhou Zhao, Feiyang Sun, Jing Tao, Junlan Feng, Min Hu, and
++ *[ICDE'22]* Juxiang Zeng, Pinghui Wang, Lin Lan, _Junzhou Zhao_, Feiyang Sun, Jing Tao, Junlan Feng, Min Hu, and
   Xiaohong Guan. "Accurate and Scalable Graph Neural Networks for Billion-Scale Graphs". /IEEE ICDE/ 2022. ~CCF-A~ ~图神
   经网络~
 
