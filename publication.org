@@ -3,6 +3,9 @@
 #+URI: /publication/
 #+OPTIONS: toc:nil num:nil
 
++ *[ICDE'22]* Juxiang Zeng, Pinghui Wang, Lin Lan, Junzhou Zhao, Feiyang Sun, Jing Tao, Junlan Feng, Min Hu, and
+  Xiaohong Guan. "Accurate and Scalable Graph Neural Networks for Billion-Scale Graphs". /IEEE ICDE/ 2022. ~CCF-A~ ~图神
+  经网络~
 
 + *[KDD'21]* Runze Lei, Pinghui Wang, Rundong Li, Peng Jia, _Junzhou Zhao_, Xiaohong Guan, and Chao Deng. "Fast Rotation
   Kernel Density Estimation over Data Streams". /ACM SIGKDD/ 2021. ~CCF-A~ ~数据流~ ~联邦学习~
