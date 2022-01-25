@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Tue, 25 Jan 2022 16:50:34 CST</pubDate>
-    <lastBuildDate>Tue, 25 Jan 2022 16:50:34 CST</lastBuildDate>
+    <pubDate>Tue, 25 Jan 2022 16:51:18 CST</pubDate>
+    <lastBuildDate>Tue, 25 Jan 2022 16:51:18 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -13,7 +13,7 @@
       <link>https://junzhouzhao.github.io/publication/</link>
       <description><![CDATA[<section id="content">
     <ul class="org-ul">
-<li><b>[ICDE'22]</b> Juxiang Zeng, Pinghui Wang, Lin Lan, Junzhou Zhao, Feiyang Sun, Jing Tao, Junlan Feng, Min Hu, and
+<li><b>[ICDE'22]</b> Juxiang Zeng, Pinghui Wang, Lin Lan, <span class="underline">Junzhou Zhao</span>, Feiyang Sun, Jing Tao, Junlan Feng, Min Hu, and
 Xiaohong Guan. "Accurate and Scalable Graph Neural Networks for Billion-Scale Graphs". <i>IEEE ICDE</i> 2022. <code>CCF-A</code> <code>图神经网络</code></li>
 
 <li><b>[KDD'21]</b> Runze Lei, Pinghui Wang, Rundong Li, Peng Jia, <span class="underline">Junzhou Zhao</span>, Xiaohong Guan, and Chao Deng. "Fast Rotation
