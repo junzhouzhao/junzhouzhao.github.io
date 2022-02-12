@@ -15,9 +15,8 @@ Computer, Electrical and Mathematical Science and Engineering (CEMSE), [[https:/
 Science and Technology (KAUST)]], working with [[https://www.kaust.edu.sa/en/study/faculty/xiangliang-zhang][Prof. Xiangliang Zhang]]. He was also a postdoctoral
 researcher at the Department of Computer Science & Engineering, [[http://www.cse.cuhk.edu.hk/en/][The Chinese University of Hong Kong
 (CUHK)]], working with [[http://www.cse.cuhk.edu.hk/~cslui/][Prof. John C.S. Lui]]. He holds a Ph.D. degree in Control Science and
-Engineering, and a B.S. degree in Automation Science and Technology, both from [[http://www.xjtu.edu.cn/][XJTU]], under the
-supervision of [[http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=502][Prof. Xiaohong Guan]]. His research interests focus on network/graph data analysis,
-learning theory, algorithms, and data security.
+Engineering, and a B.S. degree in Automation Science and Technology, both from [[http://www.xjtu.edu.cn/][XJTU]]. His research
+interests focus on network/graph data analysis, learning theory, algorithms, and data security.
 
 赵俊舟，西安交通大学特聘研究员，副教授，博士生导师。2019 年加入西安交通大学网络空间安全学院。2017 年
 至 2019 年任职沙特王国阿卜杜拉国王科技大学（KAUST）计算机、电子与数学科学与工程系（CEMSE）博士后研究
