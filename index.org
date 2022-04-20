@@ -30,7 +30,6 @@ learning theory, algorithms, and data security.
 招收博士生、硕士生以及本科实习生。要求态度踏实认真、能积极主动思考、有钻研探索以及追求卓越的精神。
 [[[https://junzhouzhao.github.io/article/lab_intro/][learn more]]]
 
-
 * Research
   - network/graph data analysis, knowledge graph reasoning and mining \\
     网图大数据分析，知识图谱推理与挖掘
@@ -46,8 +45,6 @@ learning theory, algorithms, and data security.
 
   - big data security and private computation\\
     大数据安全与隐私计算
-
-    [[[https://junzhouzhao.github.io/research/][learn more]]]
 
 * Activities
   Program Committee Member of
