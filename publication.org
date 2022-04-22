@@ -3,8 +3,10 @@
 #+URI: /publication/
 #+OPTIONS: toc:nil num:nil
 
-[[[file:assets/MLDMAImap.pdf][机器学习、数据挖掘以及人工智能领域的主流国际会议参考]]（[[https://www.kamishima.net/archive/MLDMAImap.pdf][来源]]）]
+[[[file:assets/MLDMAImap.pdf][机器学习、数据挖掘以及人工智能研究领域的主流国际会议参考]]（[[https://www.kamishima.net/archive/MLDMAImap.pdf][来源]]）]
 
+- *[IJCAI'22]* Shuo Zhang, _Junzhou Zhao_, Pinghui Wang, Yu Li, Yi Huang, Junlan Feng. "Think Before You Speak:
+  Improving Multi-action Dialog Policy by Planning Single-Action Dialogs". /IJCAI/ 2022. ~NLP~ ~对话系统~
 
 + *[ICDE'22]* Juxiang Zeng, Pinghui Wang, Lin Lan, _Junzhou Zhao_, Feiyang Sun, Jing Tao, Junlan Feng, Min Hu, and
   Xiaohong Guan. "Accurate and Scalable Graph Neural Networks for Billion-Scale Graphs". /IEEE ICDE/ 2022. ~图神经网络~
