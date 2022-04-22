@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Wed, 20 Apr 2022 20:37:26 CST</pubDate>
-    <lastBuildDate>Wed, 20 Apr 2022 20:37:26 CST</lastBuildDate>
+    <pubDate>Fri, 22 Apr 2022 17:39:36 CST</pubDate>
+    <lastBuildDate>Fri, 22 Apr 2022 17:39:36 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -13,11 +13,13 @@
       <link>https://junzhouzhao.github.io/publication/</link>
       <description><![CDATA[<section id="content">
     <p>
-[<a href="/assets/publication/MLDMAImap.pdf">机器学习、数据挖掘以及人工智能领域的主流国际会议参考</a>（<a href="https://www.kamishima.net/archive/MLDMAImap.pdf">来源</a>）]
+[<a href="/assets/publication/MLDMAImap.pdf">机器学习、数据挖掘以及人工智能研究领域的主流国际会议参考</a>（<a href="https://www.kamishima.net/archive/MLDMAImap.pdf">来源</a>）]
 </p>
 
-
 <ul class="org-ul">
+<li><b>[IJCAI'22]</b> Shuo Zhang, <span class="underline">Junzhou Zhao</span>, Pinghui Wang, Yu Li, Yi Huang, Junlan Feng. "Think Before You Speak:
+Improving Multi-action Dialog Policy by Planning Single-Action Dialogs". <i>IJCAI</i> 2022. <code>NLP</code> <code>对话系统</code></li>
+
 <li><b>[ICDE'22]</b> Juxiang Zeng, Pinghui Wang, Lin Lan, <span class="underline">Junzhou Zhao</span>, Feiyang Sun, Jing Tao, Junlan Feng, Min Hu, and
 Xiaohong Guan. "Accurate and Scalable Graph Neural Networks for Billion-Scale Graphs". <i>IEEE ICDE</i> 2022. <code>图神经网络</code></li>
 
@@ -173,7 +175,7 @@ Web in China". In <i>Proceedings of the Web Science Conference (WebSci)</i>, 201
 
 </section>
 ]]></description>
-      <pubDate>2022-04-20</pubDate>
+      <pubDate>2022-04-22</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
     </item>
     <item>
