@@ -5,19 +5,19 @@
 
 
 * Top Conferences
-** Machine Learning, Data Mining, and AI
+** 机器学习、数据挖掘、人工智能等
 
 [[file:images/MLDMAImap.png]]
 
 Source: https://www.kamishima.net/archive/MLDMAImap.pdf
 
-** Security
+** 网络安全
 
 Tier 1:
    - *S&P*: IEEE Symposium on Security and Privacy
    - *CCS*: ACM Conference on Computer and Communications Security
-   - *Security*: USENIX Security Symposium
-   - *NDSS*: ISOC Network and Distributed System Security Symposium
+   - *USENIX Security*: USENIX Security Symposium
+   - *NDSS*: Network and Distributed System Security Symposium
    - *Crypto*: International Cryptology Conference
    - *Eurocrypt*: European Cryptology Conference
 
@@ -26,7 +26,6 @@ Tier 2:
    - *RAID*: International Symposium on Recent Advances in Intrusion Detection
    - *ACSAC*: Annual Computer Security Applications Conference
    - *DSN*: The International Conference on Dependable Systems and Networks
-   - *IMC*: Internet Measurement Conference
    - *ASIACCS*: ACM Symposium on Information, Computer and Communications Security
    - *PETS*: Privacy Enhancing Technologies Symposium
    - *EuroS&P*: IEEE European Symposium on Security and Privacy
@@ -41,8 +40,3 @@ Source: https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
    - IEEE Access
 
 Source: [[https://mp.weixin.qq.com/s?__biz=MzI1MzA2MzM1NA==&mid=2659567089&idx=1&sn=f4cad93ba3a425524eb19d25ffb25960&chksm=f2ab5c24c5dcd53275aa36b9167d9788577a6a919e2bc80b1144088ea78b32bae8350535b344&mpshare=1&scene=1&srcid=0929fMzO4gh0c4l9vLodlKpO&sharer_sharetime=1632924577713&sharer_shareid=c09e2fcd62c7e0a6299c4fa0f2ee6236#rd][中科院文献情报中心分区表]]
-
-
-* Tips
-
-  - How to write a great research paper? by Prof. Simon Peyton-Jones [[[https://www.bilibili.com/video/BV1vb411G7WD][Video]]][[[file:assets/Writing_a_paper_slides.pdf][Slides]]]
