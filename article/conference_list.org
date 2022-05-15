@@ -10,10 +10,10 @@
 #+DESCRIPTION: <TODO: insert your description here>
 
 
-* Top Conferences
+* 主要国际会议
 ** 机器学习、数据挖掘、人工智能等
 
-[[file:images/MLDMAImap.png]]
+[[file:../images/MLDMAImap.png]]
 
 Source: https://www.kamishima.net/archive/MLDMAImap.pdf
 
