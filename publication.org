@@ -3,7 +3,7 @@
 #+URI: /publication/
 #+OPTIONS: toc:nil num:nil
 
-[[[https://junzhouzhao.github.io/resources/][机器学习、数据挖掘以及人工智能等领域的主流国际会议]]]
+[[[https://junzhouzhao.github.io/article/conference-list/][机器学习、数据挖掘以及人工智能等领域的主流国际会议]]]
 
 - *[IJCAI'22]* Shuo Zhang, _Junzhou Zhao_, Pinghui Wang, Yu Li, Yi Huang, and Junlan Feng. "Think Before You Speak:
   Improving Multi-action Dialog Policy by Planning Single-Action Dialogs". /IJCAI/ 2022. ~CCF-A~ ~NLP~ ~对话系统~
