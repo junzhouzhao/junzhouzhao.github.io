@@ -10,7 +10,7 @@
 
 [[file:../images/MLDMAImap.png]]
 
-Source: https://www.kamishima.net/archive/MLDMAImap.pdf
+[[https://www.kamishima.net/archive/MLDMAImap.pdf][Source]]
 
 ** 网络安全
 
@@ -35,9 +35,10 @@ Tier 2:
    - *TCC*: Theory of Cryptography Conference
    - *CHES*: Conference on Cryptographic Hardware and Embedded Systems
 
-Source: https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
+[[https://people.engr.tamu.edu/guofei/sec_conf_stat.htm][Source]]
 
 * 国际期刊黑名单（计算机）
    - IEEE Access
    - Scientific Reports 和 PLOS ONE 也不建议投稿
-Source: [[https://mp.weixin.qq.com/s?__biz=MzI1MzA2MzM1NA==&mid=2659567089&idx=1&sn=f4cad93ba3a425524eb19d25ffb25960&chksm=f2ab5c24c5dcd53275aa36b9167d9788577a6a919e2bc80b1144088ea78b32bae8350535b344&mpshare=1&scene=1&srcid=0929fMzO4gh0c4l9vLodlKpO&sharer_sharetime=1632924577713&sharer_shareid=c09e2fcd62c7e0a6299c4fa0f2ee6236#rd][中科院文献情报中心分区表]]
+
+[[https://mp.weixin.qq.com/s?__biz=MzI1MzA2MzM1NA==&mid=2659567089&idx=1&sn=f4cad93ba3a425524eb19d25ffb25960&chksm=f2ab5c24c5dcd53275aa36b9167d9788577a6a919e2bc80b1144088ea78b32bae8350535b344&mpshare=1&scene=1&srcid=0929fMzO4gh0c4l9vLodlKpO&sharer_sharetime=1632924577713&sharer_shareid=c09e2fcd62c7e0a6299c4fa0f2ee6236#rd][Source]]
