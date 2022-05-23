@@ -1,13 +1,8 @@
 #+TITLE:       Conference List
-#+AUTHOR:
-#+EMAIL:       jzzhao@zh-desktop
 #+DATE:        2022-05-15 Sun
 #+URI:         /article/conference-list
-#+KEYWORDS:    <TODO: insert your keywords here>
-#+TAGS:        <TODO: insert your tags here>
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: <TODO: insert your description here>
 
 
 * 主要国际会议
