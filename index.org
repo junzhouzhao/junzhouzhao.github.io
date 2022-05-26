@@ -6,7 +6,7 @@
 
 * Biography
 
-#+ATTR_HTML: :style float:right; margin: 8px; border-radius: 10%; :width 160px
+#+ATTR_HTML: :style float:right; margin: 10px; border-radius: 10%; :width 160px
 [[file:images/avatar.png]]
 
 Junzhou Zhao is an associate professor at the School of Cyber Science and Engineering, [[http://www.xjtu.edu.cn/][Xi'an
