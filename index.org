@@ -32,9 +32,6 @@ learning theory, algorithms, and data security.
 
 * Research
 
-#+ATTR_HTML: :style float:right; margin-top: 15px; :width 350px
-[[file:images/wordcloud.svg]]
-
   - network/graph data analysis, knowledge graph reasoning and mining \\
     网图大数据分析，知识图谱推理与挖掘
 
