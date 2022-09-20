@@ -6,8 +6,8 @@
 [[[https://junzhouzhao.github.io/article/conference-list/][机器学习、数据挖掘以及人工智能等领域的主流国际会议]]]
 
 - *[IJCAI'22]* Shuo Zhang, _Junzhou Zhao_, Pinghui Wang, Yu Li, Yi Huang, and Junlan Feng. "Think Before You Speak:
-  Improving Multi-action Dialog Policy by Planning Single-Action Dialogs". /IJCAI/ 2022. [[[https://arxiv.org/abs/2204.11481][arXiv]]][[[file:assets/IJCAI22_MADP_slides.pdf][slides]]] ~CCF-A~ ~NLP~
-  ~对话系统~
+  Improving Multi-action Dialog Policy by Planning Single-Action Dialogs". In /Proceedings of the 31st International
+  Joint Conference on Artificial Intelligence (IJCAI)/, 2022. [[[https://arxiv.org/abs/2204.11481][arXiv]]][[[file:assets/IJCAI22_MADP_slides.pdf][slides]]] ~CCF-A~ ~NLP~ ~对话系统~
 
 - *[ICDE'22]* Juxiang Zeng, Pinghui Wang, Lin Lan, _Junzhou Zhao_, Feiyang Sun, Jing Tao, Junlan Feng, Min Hu, and
   Xiaohong Guan. "Accurate and Scalable Graph Neural Networks for Billion-Scale Graphs". /IEEE ICDE/ 2022. ~CCF-A~
@@ -17,7 +17,8 @@
   Kernel Density Estimation over Data Streams". /ACM SIGKDD/ 2021. ~CCF-A~ ~数据流~ ~联邦学习~
 
 - *[KDD'21]* _Junzhou Zhao_, Pinghui Wang, Chao Deng, and Jing Tao. "Temporal Biased Streaming Submodular Optimization".
-  /ACM SIGKDD/ 2021. ~CCF-A~ ~数据流~ ~在线优化~ ~近似算法~ [[[file:assets/KDD21_SSO_slides.pdf][slides]]]
+  In /Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)/, 2021. ~CCF-A~
+  ~数据流~ ~在线优化~ ~近似算法~ [[[file:assets/KDD21_SSO_slides.pdf][slides]]]
 
 - *[TMC'21]* Feiyang Sun, Pinghui Wang, _Junzhou Zhao_, Nuo Xu, Juxiang Zeng, Jing Tao, Kaikai Song, Chao Deng, John
   C.S. Lui, and Xiaohong Guan. "Mobile Data Traffic Prediction by Exploiting Time-Evolving User Mobility Patterns".
@@ -47,7 +48,7 @@
 
 - *[KAIS'21]* _Junzhou Zhao_, Pinghui Wang, Zhouguo Chen, Jianwei Ding, John C.S. Lui, Don Towsley, and Xiaohong Guan.
   "Tracking Triadic Cardinality Distributions for Burst Detection in High-Speed Graph Streams". /Knowledge and
-  Information Systems (KAIS)/, 2021. ~异常检测~ ~图数据流~ [[[https://arxiv.org/abs/1708.09089][arXiv]]]
+  Information Systems (KAIS)/, 63:939-969, 2021. ~异常检测~ ~图数据流~ [[[https://arxiv.org/abs/1708.09089][arXiv]]]
 
 - *[ACL'20]* Nuo Xu, Pinghui Wang, Long Chen, Li Pan, Xiaoyan Wang and _Junzhou Zhao_. "Distinguish Confusing Law
   Articles for Legal Judgment Prediction". In /Proceedings of the 58th Annual Meeting of the Association for
@@ -58,7 +59,7 @@
 
 - *[ICDE'20]* _Junzhou Zhao_, Pinghui Wang, Jing Tao, Shuo Zhang, and John C.S. Lui. "Continuously Tracking Core Items
   in Data Streams with Probabilistic Decays". In /Proceedings of the 36th IEEE International Conference on Data
-  Engineering (ICDE)/, 2020. ~CCF-A~ ~数据流~ ~在线优化~ ~近似算法~ [[[file:assets/ICDE2020_full_version.pdf][full paper]]][[[file:assets/ICDE2020_slides.pdf][slides]]][[[file:assets/ICDE2020_poster.pdf][poster]]]
+  Engineering (IEEE ICDE)/, 2020. ~CCF-A~ ~数据流~ ~在线优化~ ~近似算法~ [[[file:assets/ICDE2020_full_version.pdf][full paper]]][[[file:assets/ICDE2020_slides.pdf][slides]]][[[file:assets/ICDE2020_poster.pdf][poster]]]
 
 - *[INS'20]* Lin Lan, Pinghui Wang, _Junzhou Zhao_, Jing Tao, John C.S. Lui, and Xiaohong Guan. "Improving Network
   Embedding with Partially Available Vertex and Edge Content". /Information Sciences/, 2020. ~图表示学习~
@@ -77,14 +78,14 @@
 
 - *[ICDE'19]* _Junzhou Zhao_, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Tracking Influential Nodes
   in Time-Decaying Dynamic Interaction Networks". In /Proceedings of the 35th IEEE International Conference on Data
-  Engineering (ICDE)/, 2019. ~CCF-A~ ~社交网络~ ~影响力最大化~ ~近似算法~ [[[https://arxiv.org/abs/1810.07917][arXiv]]][[[file:assets/ICDE19_poster.pdf][poster]]]
+  Engineering (IEEE ICDE)/, 2019. ~CCF-A~ ~社交网络~ ~影响力最大化~ ~近似算法~ [[[https://arxiv.org/abs/1810.07917][arXiv]]][[[file:assets/ICDE19_poster.pdf][poster]]]
 
 - *[INS'19]* _Junzhou Zhao_, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem
   Definitions, Fast Algorithms, and Observations". /Information Sciences (INS)/, 2019. ~优化算法~ ~近似算法~ [[[https://arxiv.org/abs/1703.04307][arXiv]]]
 
 - *[DMKD'19]* _Junzhou Zhao_, Pinghui Wang, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Online Social
-  Networks by Random Walk with Indirect Jumps". /Data Mining and Knowledge Discovery (DMKD)/, 2019. ~图采样~ ~近似算法~
-  [[[https://arxiv.org/abs/1708.09081][arXiv]]]
+  Networks by Random Walk with Indirect Jumps". /Data Mining and Knowledge Discovery (DMKD)/, 33:24-57, 2019. ~图采样~
+  ~近似算法~ [[[https://arxiv.org/abs/1708.09081][arXiv]]]
 
 - *[TKDE'18]* Pinghui Wang, _Junzhou Zhao_, Xiangliang Zhang, Zhenhua Li, Jiefeng Cheng, John C.S. Lui, Don Towsley,
   Jing Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs".
