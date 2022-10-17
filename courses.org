@@ -1,4 +1,5 @@
 #+TITLE: Courses
+#+URI: /courses/
 #+OPTIONS: toc:nil num:nil
 
 * 研究生课程
