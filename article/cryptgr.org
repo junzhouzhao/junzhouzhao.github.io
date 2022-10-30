@@ -6,6 +6,8 @@
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 
 
+《密码学理论与实践》 (Theory and Practice of Cryptography)， 课程编号： AUTO712705，秋下，32 学时
+
 #+ATTR_HTML: :style margin-left:auto; margin-right:auto; :rules all
 | No. | 课程内容                     | 资料 |
 |-----+------------------------------+------|
