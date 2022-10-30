@@ -19,4 +19,7 @@ P.O. Box 1088#, Xi'an Jiaotong University, No.28, Xianning West Road, Xi'an
 - 物理信息融合重点实验室
 
 Office: 网络中心三楼 \\
-E-mail: [[file:images/email.png]]
+E-mail: [[file:images/email.png]] \\
+Wechat: \\
+#+ATTR_HTML: :style margin-left:1ex; margin-right:auto; width:220px
+[[file:images/wechat-qr.jpg]]
