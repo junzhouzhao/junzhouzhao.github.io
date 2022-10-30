@@ -27,8 +27,8 @@ learning theory, algorithm analysis, and data security.
 
 #+ATTR_HTML: :style margin-right:1ex;
 [[file:images/news.gif]]
-招收博士生、硕士生以及本科实习生。要求态度踏实认真、能积极主动思考、有钻研探索以及追求卓越的精神。
->> [[https://junzhouzhao.github.io/article/lab_intro/][learn more]] <<
+招收博士生、硕士生以及本科实习生。要求态度踏实认真、能积极主动思考、有钻研探索以及追求卓越的精神
+（[[https://junzhouzhao.github.io/article/lab_intro/][实验室介绍]]）
 
 * Research
 
@@ -47,6 +47,7 @@ learning theory, algorithm analysis, and data security.
   - big data security and private computation\\
     大数据安全与隐私计算
 
+（[[https://junzhouzhao.github.io/research/][了解更多]]）
 * Activities
   Program Committee Member of
     - AAAI 2020 2021 2022
