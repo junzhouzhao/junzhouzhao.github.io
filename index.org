@@ -28,6 +28,8 @@ learning theory, algorithm analysis, and data security.
 #+ATTR_HTML: :style margin-right:1ex;
 [[file:images/news.gif]]
 招收博士生、硕士生以及本科实习生。要求态度踏实认真、能积极主动思考、有钻研探索以及追求卓越的精神
+
+#+ATTR_HTML: :style float:right; margin: 10px;
 （[[https://junzhouzhao.github.io/article/lab_intro/][实验室介绍]]）
 
 * Research
@@ -47,7 +49,13 @@ learning theory, algorithm analysis, and data security.
   - big data security and private computation\\
     大数据安全与隐私计算
 
+#+ATTR_HTML: :style float:right; margin: 10px;
 （[[https://junzhouzhao.github.io/research/][了解更多]]）
+
+* Courses
+  - 研究生课程 AUTO712705：[[https://junzhouzhao.github.io/courses/cryptgr/][《密码学理论与实践》]](Theory and Practice of Cryptography)，秋下
+  - 本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic Process)，春
+
 * Activities
   Program Committee Member of
     - AAAI 2020 2021 2022
@@ -57,9 +65,6 @@ learning theory, algorithm analysis, and data security.
     - IEEE Data Engineering 2018 2019
 
   Reviewer of
-    - ACM MobiHoc
-    - ACM SIGKDD
-    - ECML/PKDD
     - IEEE Transactions on Data Science (TDS)
     - IEEE Transactions on Mobile Computation (TMC)
     - IEEE Transactions on Network Science and Engineering (TNSE)
@@ -70,7 +75,6 @@ learning theory, algorithm analysis, and data security.
     - Knowledge and Information Systems (KAIS)
     - Wiley Journal on Expert Systems
     - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-    - Data & Knowledge Engineering
 
 * Awards
   - [[file:images/RecSys17_BestPaper_small.jpg][Best Paper Award]], ACM RecSys, 2017.
