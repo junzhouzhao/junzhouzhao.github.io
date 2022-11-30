@@ -5,6 +5,14 @@
 
 [[[https://junzhouzhao.github.io/article/conference-list/][机器学习、数据挖掘以及人工智能等领域的主流国际会议]]]
 
+- *[AAAI'23]* Shuo Zhang, _Junzhou Zhao_, Pinghui Wang, Tianxiang Wang, Zi Liang, Jing Tao, Yi Huang, and Junlan Feng.
+  "Multi-Action Dialog Policy Learning from Logged User Feedback". In /Proceedings of the 37th AAAI Conference on
+  Artificial Intelligence (AAAI)/, 2023.
+
+- *[SIGMOD'23]* Pinghui Wang, Chengjin Yang, Dongdong Xie, _Junzhou Zhao_, Hui Li, Jing Tao, and Xiaohong Guan. "An
+  Effective and Differentially Private Protocol for Secure Distributed Cardinality Estimation". In /Proceedings of the
+  ACM SIGMOD/PODS International Conference on Data Management (SIGMOD)/, 2023. ~隐私计算~
+
 - *[IJCAI'22]* Shuo Zhang, _Junzhou Zhao_, Pinghui Wang, Yu Li, Yi Huang, and Junlan Feng. "Think Before You Speak:
   Improving Multi-action Dialog Policy by Planning Single-Action Dialogs". In /Proceedings of the 31st International
   Joint Conference on Artificial Intelligence (IJCAI)/, 2022. [[[https://arxiv.org/abs/2204.11481][arXiv]]][[[file:assets/IJCAI22_MADP_slides.pdf][slides]]] ~CCF-A~ ~NLP~ ~对话系统~
