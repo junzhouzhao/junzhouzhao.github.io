@@ -5,9 +5,17 @@
 
 [[[https://junzhouzhao.github.io/article/conference-list/][机器学习、数据挖掘以及人工智能等领域的主流国际会议]]]
 
+- *[TPDS'23]* Runze Lei, Pinghui Wang, _Junzhou Zhao_, Lin Lan, Jing Tao, Chao Deng, Junlan Feng, Xidian Wang, and
+  Xiaohong Guan. "Federated Learning over Coupled Graphs". IEEE Transactions on Parallel and Distributed Systems, 2023.
+  ~CCF-A~ ~联邦学习~ ~图计算~
+
+- *[TKDE'23]* Yuanming Zhang, Pinghui Wang, Yiyan Qi, Kuankuan Cheng, _Junzhou Zhao_, Guangjian Tian, and Xiaohong Guan.
+  "Fast Gumbel-Max Sketch and its Applications". IEEE Transactions on Knowledge and Data Engineering, 2023. ~CCF-A~
+  ~大数据~ ~Sketch设计~
+
 - *[AAAI'23]* Shuo Zhang, _Junzhou Zhao_, Pinghui Wang, Tianxiang Wang, Zi Liang, Jing Tao, Yi Huang, and Junlan Feng.
   "Multi-Action Dialog Policy Learning from Logged User Feedback". In /Proceedings of the 37th AAAI Conference on
-  Artificial Intelligence (AAAI)/, 2023. ~对话系统~
+  Artificial Intelligence (AAAI)/, 2023. ~CCF-A~ ~对话系统~
 
 - *[SIGMOD'23]* Pinghui Wang, Chengjin Yang, Dongdong Xie, _Junzhou Zhao_, Hui Li, Jing Tao, and Xiaohong Guan. "An
   Effective and Differentially Private Protocol for Secure Distributed Cardinality Estimation". In /Proceedings of the
