@@ -33,8 +33,8 @@
   Kernel Density Estimation over Data Streams". /ACM SIGKDD/ 2021. ~CCF-A~ ~数据流~ ~联邦学习~
 
 - *[KDD'21]* _Junzhou Zhao_, Pinghui Wang, Chao Deng, and Jing Tao. "Temporal Biased Streaming Submodular Optimization".
-  In /Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)/, 2021. ~CCF-A~
-  ~数据流~ ~在线优化~ ~近似算法~ [[[file:assets/KDD21_SSO_slides.pdf][slides]]]
+  In /Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)/, 2021. [[[file:assets/KDD21_SSO_slides.pdf][slides]]]
+  ~CCF-A~ ~数据流~ ~在线优化~ ~近似算法~
 
 - *[TMC'21]* Feiyang Sun, Pinghui Wang, _Junzhou Zhao_, Nuo Xu, Juxiang Zeng, Jing Tao, Kaikai Song, Chao Deng, John
   C.S. Lui, and Xiaohong Guan. "Mobile Data Traffic Prediction by Exploiting Time-Evolving User Mobility Patterns".
@@ -45,7 +45,7 @@
   Engineering (TKDE)/, 2021. ~CCF-A~ ~子图模式挖掘~
 
 - *[SIGMOD'21]* Peng Jia, Pinghui Wang, _Junzhou Zhao_, Shuo Zhang, Yiyan Qi, Min Hu, Chao Deng, and Xiaohong Guan.
-  "Bidirectionally Densifying LSH Sketches with Empty Bins". /ACM SIGMOD/ 2021. ~CCF-A~ ~局部敏感哈希算法~ ~快速查询算法~
+  "Bidirectionally Densifying LSH Sketches with Empty Bins". /ACM SIGMOD/ 2021. ~CCF-A~ ~LSH~ ~快速查询算法~
 
 - *[SIGMOD'21]* Rundong Li, Pinghui Wang, Jiongli Zhu, _Junzhou Zhao_, Jia Di, Xiaofei Yang, and Kai Ye. "Building Fast
   and Compact Sketches for Approximately Multi-Set Multi-Membership Querying". /ACM SIGMOD/ 2021. ~CCF-A~ ~快速查询算法~
@@ -60,7 +60,7 @@
 
 - *[AAAI'21]* Shuo Zhang, _Junzhou Zhao_, Pinghui Wang, Nuo Xu, Yang Yang, Yiting Liu, Yi Huang, and Junlan Feng.
   "Learning to Check Contract Inconsistencies". In /Proceedings of the 35th AAAI Conference on Artificial Intelligence
-  (AAAI)/, 2021. ~CCF-A~ ~NLP~ [[[https://arxiv.org/abs/2012.08150][arXiv]]][[[file:assets/AAAI2021-contract_poster.pdf][poster]]]
+  (AAAI)/, 2021. [[[https://arxiv.org/abs/2012.08150][arXiv]]][[[file:assets/AAAI2021-contract_poster.pdf][poster]]] ~CCF-A~ ~NLP~ ~合同文本~
 
 - *[KAIS'21]* _Junzhou Zhao_, Pinghui Wang, Zhouguo Chen, Jianwei Ding, John C.S. Lui, Don Towsley, and Xiaohong Guan.
   "Tracking Triadic Cardinality Distributions for Burst Detection in High-Speed Graph Streams". /Knowledge and
@@ -68,14 +68,14 @@
 
 - *[ACL'20]* Nuo Xu, Pinghui Wang, Long Chen, Li Pan, Xiaoyan Wang and _Junzhou Zhao_. "Distinguish Confusing Law
   Articles for Legal Judgment Prediction". In /Proceedings of the 58th Annual Meeting of the Association for
-  Computational Linguistics (ACL)/, 2020. ~CCF-A~ ~NLP~ [[[https://arxiv.org/abs/2004.02557][arXiv]]]
+  Computational Linguistics (ACL)/, 2020. [[[https://arxiv.org/abs/2004.02557][arXiv]]] ~CCF-A~ ~NLP~ ~法律文书~
 
 - *[WWW'20]* Yiyan Qi, Pinghui Wang, Yuanming Zhang, _Junzhou Zhao_, Guangjian Tian, and Xiaohong Guan. "Fast Generating
-  A Large Number of Gumbel-Max Variables". /The Web Conference (WWW)/, 2020. ~CCF-A~ ~局部敏感哈希算法~ [[[https://arxiv.org/abs/2002.00413][arXiv]]]
+  A Large Number of Gumbel-Max Variables". /The Web Conference (WWW)/, 2020. [[[https://arxiv.org/abs/2002.00413][arXiv]]] ~CCF-A~ ~LSH~
 
 - *[ICDE'20]* _Junzhou Zhao_, Pinghui Wang, Jing Tao, Shuo Zhang, and John C.S. Lui. "Continuously Tracking Core Items
   in Data Streams with Probabilistic Decays". In /Proceedings of the 36th IEEE International Conference on Data
-  Engineering (IEEE ICDE)/, 2020. ~CCF-A~ ~数据流~ ~在线优化~ ~近似算法~ [[[file:assets/ICDE2020_full_version.pdf][full paper]]][[[file:assets/ICDE2020_slides.pdf][slides]]][[[file:assets/ICDE2020_poster.pdf][poster]]]
+  Engineering (IEEE ICDE)/, 2020. [[[file:assets/ICDE2020_full_version.pdf][full paper]]][[[file:assets/ICDE2020_slides.pdf][slides]]][[[file:assets/ICDE2020_poster.pdf][poster]]] ~CCF-A~ ~数据流~ ~在线优化~ ~近似算法~
 
 - *[INS'20]* Lin Lan, Pinghui Wang, _Junzhou Zhao_, Jing Tao, John C.S. Lui, and Xiaohong Guan. "Improving Network
   Embedding with Partially Available Vertex and Edge Content". /Information Sciences/, 2020. ~图表示学习~
@@ -86,30 +86,30 @@
 
 - *[IJCAI'19]* Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, and Junzhou Zhao. "MR-GNN: Multi-Resolution and Dual Graph
   Neural Network for Predicting Structured Entity Interaction". In /Proceedings of the 28th International Joint
-  Conference on Artificial Intelligence (IJCAI)/, 2019. ~CCF-A~ ~图表示学习~ [[[https://arxiv.org/abs/1905.09558][arXiv]]]
+  Conference on Artificial Intelligence (IJCAI)/, 2019. [[[https://arxiv.org/abs/1905.09558][arXiv]]] ~CCF-A~ ~图表示学习~
 
 - *[AAAI'19]* _Junzhou Zhao_, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Submodular Optimization over
   Streams with Inhomogeneous Decays". In /Proceedings of the 33rd AAAI Conference on Artificial Intelligence
-  (AAAI)/, 2019. ~CCF-A~ ~数据流~ ~在线优化~ ~近似算法~ [[[https://arxiv.org/abs/1811.05652][arXiv]]]
+  (AAAI)/, 2019. [[[https://arxiv.org/abs/1811.05652][arXiv]]] ~CCF-A~ ~数据流~ ~在线优化~ ~近似算法~
 
 - *[ICDE'19]* _Junzhou Zhao_, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Tracking Influential Nodes
   in Time-Decaying Dynamic Interaction Networks". In /Proceedings of the 35th IEEE International Conference on Data
-  Engineering (IEEE ICDE)/, 2019. ~CCF-A~ ~社交网络~ ~影响力最大化~ ~近似算法~ [[[https://arxiv.org/abs/1810.07917][arXiv]]][[[file:assets/ICDE19_poster.pdf][poster]]]
+  Engineering (IEEE ICDE)/, 2019. [[[https://arxiv.org/abs/1810.07917][arXiv]]][[[file:assets/ICDE19_poster.pdf][poster]]] ~CCF-A~ ~社交网络~ ~影响力最大化~ ~近似算法~
 
 - *[INS'19]* _Junzhou Zhao_, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem
-  Definitions, Fast Algorithms, and Observations". /Information Sciences (INS)/, 2019. ~优化算法~ ~近似算法~ [[[https://arxiv.org/abs/1703.04307][arXiv]]]
+  Definitions, Fast Algorithms, and Observations". /Information Sciences (INS)/, 2019. [[[https://arxiv.org/abs/1703.04307][arXiv]]] ~优化算法~ ~近似算法~
 
 - *[DMKD'19]* _Junzhou Zhao_, Pinghui Wang, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Online Social
-  Networks by Random Walk with Indirect Jumps". /Data Mining and Knowledge Discovery (DMKD)/, 33:24-57, 2019. ~图采样~
-  ~近似算法~ [[[https://arxiv.org/abs/1708.09081][arXiv]]]
+  Networks by Random Walk with Indirect Jumps". /Data Mining and Knowledge Discovery (DMKD)/, 33:24-57, 2019. [[[https://arxiv.org/abs/1708.09081][arXiv]]]
+  ~图采样~ ~近似算法~
 
 - *[TKDE'18]* Pinghui Wang, _Junzhou Zhao_, Xiangliang Zhang, Zhenhua Li, Jiefeng Cheng, John C.S. Lui, Don Towsley,
   Jing Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs".
-  /IEEE Transactions on Knowledge and Data Engineering (TKDE)/, 2018. ~CCF-A~ ~子图模式挖掘~ [[[file:assets/TKDE18_poster.pdf][poster]]]
+  /IEEE Transactions on Knowledge and Data Engineering (TKDE)/, 2018. [[[file:assets/TKDE18_poster.pdf][poster]]] ~CCF-A~ ~子图模式挖掘~
 
 - *[KAIS'18]* Pinghui Wang, _Junzhou Zhao_, Xiangliang Zhang, Jing Tao, and Xiaohong Guan. "SNOD: A Fast Sampling Method
-  of Exploring Node Orbit Degrees for Large Graphs". /Knowledge and Information Systems (KAIS)/, 2018. ~图采样~ ~网图数
-  据~
+  of Exploring Node Orbit Degrees for Large Graphs". /Knowledge and Information Systems (KAIS)/, 2018.
+  ~图采样~ ~网图数据~
 
 - *[KAIS'18]* Pinghui Wang, _Junzhou Zhao_, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Fast Crawling Methods of
   Exploring Content Distributed Over Large Graphs". /Knowledge and Information Systems (KAIS)/, 2018. ~图采样~ ~近似算法~
@@ -134,49 +134,45 @@
   Statistics from Sampled Edges". In /Proceedings of the 32nd IEEE International Conference on Data Engineering
   (ICDE)/, 2016. ~CCF-A~ ~子图模式挖掘~ ~图采样~ ~近似算法~
 
-- *[PhD Thesis]* _Junzhou Zhao_. "Measuring and Monitoring Large-Scale Online Social Networks". /Ph.D. thesis, Xi'an
-  Jiaotong University/, 2015.
-
 - *[COSN'15]* _Junzhou Zhao_, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "Tracking Triadic Cardinality
   Distributions for Burst Detection in Social Activity Streams". In /Proceedings of ACM Conference on Online Social
-  Networks (COSN)/, 2015. ~异常检测~ ~图数据流~ ~近似算法~ [[[http://arxiv.org/abs/1411.3808][arXiv]]]
+  Networks (COSN)/, 2015. [[[http://arxiv.org/abs/1411.3808][arXiv]]] ~异常检测~ ~图数据流~ ~近似算法~
 
 - *[ICDE'15]* _Junzhou Zhao_, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "A Tale of Three Graphs:
   Sampling Design on Hybrid Social-Affiliation Networks". In /Proceedings of the 31st IEEE International Conference on
-  Data Engineering (ICDE)/, 2015. ~CCF-A~ ~图采样~ ~近似算法~ [[[file:assets/ICDE2015.pdf][pdf]]]
+  Data Engineering (ICDE)/, 2015. [[[file:assets/ICDE2015.pdf][pdf]]] ~CCF-A~ ~图采样~ ~近似算法~
 
 - *[TIFS'14]* Pinghui Wang, Xiaohong Guang, _Junzhou Zhao_, Jing Tao, and Tao Qin. "A New Sketch Method for Measuring
   Host Connection Degree Distribution". /IEEE Transactions on Information Forensics and Security (TIFS)/, 2014. ~CCF-A~
   ~异常检测~ ~Sketch算法~
 
 - *[SIMPLEX'14]* _Junzhou Zhao_, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group
-  Closeness Centrality over Disk-Resident Graphs". In /WWW SIMPLEX workshop/, 2014. ~Awarded Best Paper~ ~优化算法~ ~网
-  图数据~ [[[file:assets/SIMPLEX2014.pdf][pdf]]][[[file:assets/NodeGroup_TR.pdf][TR]]]
+  Closeness Centrality over Disk-Resident Graphs". In /WWW SIMPLEX workshop/, 2014. [[[file:assets/SIMPLEX2014.pdf][pdf]]][[[file:assets/NodeGroup_TR.pdf][TR]]]
+  ~Awarded Best Paper~ ~优化算法~ ~网图数据~
 
 - *[COMNET'14]* _Junzhou Zhao_, John C.S. Lui, Don Towsley, and Xiaohong Guan. "WTF: Efficient Followee Selection for
   Cascading Outbreak Detection on Online Social Networks". /Computer Networks, Special Issue on Online Social
-  Networks/, 2014. ~异常检测~ ~网图数据~ [[[file:assets/COMNET2014.pdf][pdf]]]
+  Networks/, 2014. [[[file:assets/COMNET2014.pdf][pdf]]] ~异常检测~ ~网图数据~
 
 - *[TKDD'14]* Pinghui Wang, _Junzhou Zhao_, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Unbiased Characterization of
-  Node Pairs over Large Graphs". /ACM Transactions on Knowledge Discovery from Data (TKDD)/, 2014. ~图采样~ ~近似算法~ [[[file:assets/TKDD2014_node_pair.pdf][pdf]]]
+  Node Pairs over Large Graphs". /ACM Transactions on Knowledge Discovery from Data (TKDD)/, 2014. [[[file:assets/TKDD2014_node_pair.pdf][pdf]]] ~图采样~ ~近似算法~
 
 - *[Magazine'14]* Pinghui Wang, Wenbo He, and _Junzhou Zhao_. "A Tale of Three Social Networks: User Activity
-  Comparations across Facebook, Twitter, and Foursquare". /IEEE Internet Computing/, 2014. ~Featured Article~ ~社交网络~
-  [[[file:assets/IC2014.pdf][pdf]]]
+  Comparations across Facebook, Twitter, and Foursquare". /IEEE Internet Computing/, 2014. [[[file:assets/IC2014.pdf][pdf]]] ~Featured Article~ ~社交网络~
 
 - *[TKDD'14]* Pinghui Wang, John C.S. Lui, Bruno Ribeiro, Don Towsley, _Junzhou Zhao_, and Xiaohong Guan. "Efficiently
-  Estimating Motif Statistics of Large Networks". /ACM Transactions on Knowledge Discovery from Data (TKDD)/, 2014. ~子
-  图模式挖掘~ ~图采样算法~ ~近似算法~ [[[http://arxiv.org/abs/1306.5288][arXiv]]]
+  Estimating Motif Statistics of Large Networks". /ACM Transactions on Knowledge Discovery from Data (TKDD)/, 2014.
+  [[[http://arxiv.org/abs/1306.5288][arXiv]]] ~子图模式挖掘~ ~图采样算法~ ~近似算法~
 
 - *[CrowdRec'13]* _Junzhou Zhao_, Xiaohong Guan, and Jing Tao. "On Analyzing Estimation Errors due to Constrained
-  Connections in Online Review Systems". /RecSys CrowdRec workshop/, 2013. ~推荐系统~ [[[http://arxiv.org/abs/1307.3687][arXiv]]]
+  Connections in Online Review Systems". /RecSys CrowdRec workshop/, 2013. [[[http://arxiv.org/abs/1307.3687][arXiv]]] ~推荐系统~
 
 - *[ICDE'13]* Pinghui Wang, _Junzhou Zhao_, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Node Pairs Over
-  Large Graphs". In /Proceedings of the 29th IEEE International Conference on Data Engineering (ICDE)/, 2013. ~CCF-A~
-  ~图采样~ ~近似算法~ [[[file:assets/ICDE2013.pdf][pdf]]]
+  Large Graphs". In /Proceedings of the 29th IEEE International Conference on Data Engineering (ICDE)/, 2013. [[[file:assets/ICDE2013.pdf][pdf]]]
+   ~CCF-A~ ~图采样~ ~近似算法~
 
 - *[NetSciCom'11]* _Junzhou Zhao_, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Empirical Analysis of the Evolution
-  of Follower Network: A Case Study on Douban". /IEEE INFOCOM NetSciCom workshop/, 2011. ~社交网络~ [[[file:assets/NetSciCom2011.pdf][pdf]]]
+  of Follower Network: A Case Study on Douban". /IEEE INFOCOM NetSciCom workshop/, 2011. [[[file:assets/NetSciCom2011.pdf][pdf]]] ~社交网络~
 
 - *[WebSci'10]* Zhaohui Wu, Lu Jiang, Zhenhua Tian, Jun Liu, Qinghua Zheng, and _Junzhou Zhao_. "A Peep at Pornography
-  Web in China". In /Proceedings of the Web Science Conference (WebSci)/, 2010. ~Web~ [[[file:assets/WebSci2010.pdf][pdf]]][[[http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs][Media]]]
+  Web in China". In /Proceedings of the Web Science Conference (WebSci)/, 2010. [[[file:assets/WebSci2010.pdf][pdf]]][[[http://www.danwei.com/peoples-pornography-an-interview-with-katrien-jacobs][Media]]] ~Web~
