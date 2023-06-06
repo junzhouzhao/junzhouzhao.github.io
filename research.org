@@ -119,3 +119,6 @@ Sensor）用来及时发现网络中的传播事件，也是网络监控需要�
 
 #+ATTR_HTML: :style margin-bottom:2em;
 [[file:images/monitoring.png]]
+
+#+ATTR_HTML: :style margin-bottom:2em; :width 700px
+[[file:images/MPC.png]]
