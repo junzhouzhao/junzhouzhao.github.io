@@ -19,10 +19,9 @@ Engineering, and a B.S. degree in Automation Science and Technology, both from [
 supervision of [[http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=502][Prof. Xiaohong Guan]]. His research interests focus on network/graph data analysis,
 learning theory, algorithm analysis, and data security.
 
-赵俊舟，西安交通大学特聘研究员，博士生导师。2019 年加入西安交通大学网络空间安全学院。2017 年至 2019
-年任职沙特王国阿卜杜拉国王科技大学（KAUST）计算机、电子与数学科学与工程系（CEMSE）博士后研究员。2015
-年至 2017 年任职香港中文大学（CUHK）计算机科学与工程系（CSE）博士后研究员。主要从事网图大数据分析、
-近似计算方法、在线优化方法、学习理论、大数据安全以及隐私计算等研究。
+赵俊舟，西安交通大学网络空间安全学院特聘研究员，博士生导师。曾分别任职沙特王国阿卜杜拉国王科技大学
+（KAUST）计算机、电子与数学科学与工程系（CEMSE）博士后研究员，以及香港中文大学（CUHK）计算机科学与工
+程系（CSE）博士后研究员。主要从事大数据分析与安全、近似计算与优化方法、学习理论以及隐私计算等研究。
 
 
 #+ATTR_HTML: :style margin-right:1ex;
