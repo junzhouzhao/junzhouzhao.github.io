@@ -21,7 +21,7 @@ learning theory, algorithm analysis, and data security.
 
 赵俊舟，西安交通大学网络空间安全学院特聘研究员，博士生导师。曾分别任职沙特王国阿卜杜拉国王科技大学
 （KAUST）计算机、电子与数学科学与工程系（CEMSE）博士后研究员，以及香港中文大学（CUHK）计算机科学与工
-程系（CSE）博士后研究员。主要从事大数据分析与安全、近似计算与优化、学习理论以及隐私计算等研究。
+程系（CSE）博士后研究员。主要从事大数据近似计算与优化、数据挖掘与学习理论、数据安全与隐私计算等研究。
 
 
 #+ATTR_HTML: :style margin-right:1ex;
@@ -31,46 +31,15 @@ learning theory, algorithm analysis, and data security.
 
 * Research
 
-  - network/graph data analysis, knowledge graph reasoning and mining \\
-    网图大数据分析，知识图谱推理与挖掘
+  - big data management and optimization\\
+    大数据管理与优化
 
-  - data stream management and computation, streaming algorithms\\
-    流数据管理与计算、数据流算法
+  - data mining and learning theory\\
+    数据挖掘与学习理论
 
-  - optimization theory, approximation algorithms\\
-    优化理论、近似计算方法
-
-  - learning theory and decision making\\
-    学习理论与决策过程
-
-  - big data security and private computation\\
-    大数据安全与隐私计算
+  - data security and private computation\\
+    数据安全与隐私计算
 
 * Courses
   - 研究生课程 AUTO712705：[[https://junzhouzhao.github.io/courses/crypt/][《密码学理论与实践》]](Theory and Practice of Cryptography)，秋下
   - 本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic Process)，春
-
-* Activities
-  Program Committee Member of
-    - AAAI 2020 2021 2022
-    - IJCAI 2018 2019 2020
-    - IEEE CyberSciTech 2020 2021
-    - IEEE BigCyberSecurity 2019
-    - IEEE Data Engineering 2018 2019
-
-  Reviewer of
-    - IEEE Transactions on Data Science (TDS)
-    - IEEE Transactions on Mobile Computation (TMC)
-    - IEEE Transactions on Network Science and Engineering (TNSE)
-    - ACM/IEEE Transactions on Networking (ToN)
-    - IEEE Transactions on Knowledge and Data Engineering (TKDE)
-    - IEEE Transactions on Information Forensics and Security (TIFS)
-    - Elsevier Journal on Computer Networks (COMNET)
-    - Knowledge and Information Systems (KAIS)
-    - Wiley Journal on Expert Systems
-    - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-
-* Awards
-  - [[file:images/RecSys17_BestPaper_small.jpg][Best Paper Award]], ACM RecSys, 2017.
-  - [[file:images/SIMPLEX14_BestPaper_small.jpg][Best Paper Award]], WWW SIMPLEX workshop, 2014.
-  - Featured Article, IEEE Internet Computing, 2014.
