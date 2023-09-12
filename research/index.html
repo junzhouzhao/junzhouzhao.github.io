@@ -35,28 +35,28 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org0eb85e3">1. 图数据近似计算与优化</a>
+<li><a href="#orged5b2ba">1. 图数据近似计算与优化</a>
 <ul>
-<li><a href="#orgf1d8157">1.1. 大图采样测量方法（Graph Sampling）</a></li>
-<li><a href="#org9e0e89c">1.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
+<li><a href="#org5953392">1.1. 大图采样测量方法（Graph Sampling）</a></li>
+<li><a href="#orgcb4c787">1.2. 子图模式挖掘算法（Graphlets Mining）</a></li>
 </ul>
 </li>
-<li><a href="#org8658c55">2. 流式数据挖掘与处理</a>
+<li><a href="#orge66cd94">2. 流式数据挖掘与处理</a>
 <ul>
-<li><a href="#orgb6d3663">2.1. 流式数据在线优化方法（Streaming Data Optimization）</a></li>
-<li><a href="#org3f9767c">2.2. 流式数据实时处理方法（Streaming Data Processing）</a></li>
+<li><a href="#org23b9f8d">2.1. 流式数据在线优化方法（Streaming Data Optimization）</a></li>
+<li><a href="#org5fb9f1d">2.2. 流式数据实时处理方法（Streaming Data Processing）</a></li>
 </ul>
 </li>
-<li><a href="#org419ba52">3. 学习理论与人工智能</a>
+<li><a href="#org233ac97">3. 学习理论与人工智能</a>
 <ul>
-<li><a href="#org2fd6559">3.1. 图数据表示学习（Graph Representation Learning）</a></li>
-<li><a href="#org139d641">3.2. 自然语言处理（NLP）</a></li>
+<li><a href="#org09cb51e">3.1. 图数据表示学习（Graph Representation Learning）</a></li>
+<li><a href="#org541691f">3.2. 自然语言处理（NLP）</a></li>
 </ul>
 </li>
-<li><a href="#orga1adaf4">4. 数据安全与隐私计算</a>
+<li><a href="#orgbe74ac3">4. 数据安全与隐私计算</a>
 <ul>
-<li><a href="#org028a441">4.1. 网络监控（Network Monitoring）</a></li>
-<li><a href="#org02226bf">4.2. 隐私计算（Secure Computation）</a></li>
+<li><a href="#orgb12cebf">4.1. 网络监控（Network Monitoring）</a></li>
+<li><a href="#org9f98753">4.2. 隐私计算（Secure Computation）</a></li>
 </ul>
 </li>
 </ul>
@@ -65,26 +65,26 @@
 <p>大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些挑战，我们开展了一系列相关研究。</p>
 
 
-<div id="orgbf09ae9" class="figure">
+<div id="orge5a21e2" class="figure">
 <p><img src="/assets/research/big_data.png" alt="big_data.png" />
 </p>
 <p><span class="figure-number">Figure 1: </span>各种类型大数据</p>
 </div>
 
 
-<div id="outline-container-org0eb85e3" class="outline-2">
-<h2 id="org0eb85e3"><span class="section-number-2">1.</span> 图数据近似计算与优化</h2>
+<div id="outline-container-orged5b2ba" class="outline-2">
+<h2 id="orged5b2ba"><span class="section-number-2">1.</span> 图数据近似计算与优化</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-orgf1d8157" class="outline-3">
-<h3 id="orgf1d8157"><span class="section-number-3">1.1.</span> 大图采样测量方法（Graph Sampling）</h3>
+<div id="outline-container-org5953392" class="outline-3">
+<h3 id="org5953392"><span class="section-number-3">1.1.</span> 大图采样测量方法（Graph Sampling）</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>研究者作为第三方通常不拥有图数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业机密的考虑，Facebook 等数据拥有方并不愿意共享数据给第三方。在这种情况下，第三方只能利用图数据拥有者提供的
 API 接口访问图数据，但是 API 往往会通过限制调用总次数或调用频率等手段使第三方无法获得完整图数据。为了分析图数据的结构特征，第三方通常只能用采样的方法采样得到一些节点和边作为样本，利用这些少量样本估计图的整体结构特征，例如通常使用的节点采样或随机游走等策略。</p>
 
 
 
-<div id="org50070bc" class="figure">
+<div id="orgdbbd071" class="figure">
 <p><img src="/assets/research/random_walk_sampling.png" alt="random_walk_sampling.png" width="700px" />
 </p>
 <p><span class="figure-number">Figure 2: </span>基于随机游走的大图采样方法</p>
@@ -93,14 +93,14 @@ API 接口访问图数据，但是 API 往往会通过限制调用总次数或�
 </div>
 
 
-<div id="outline-container-org9e0e89c" class="outline-3">
-<h3 id="org9e0e89c"><span class="section-number-3">1.2.</span> 子图模式挖掘算法（Graphlets Mining）</h3>
+<div id="outline-container-orgcb4c787" class="outline-3">
+<h3 id="orgcb4c787"><span class="section-number-3">1.2.</span> 子图模式挖掘算法（Graphlets Mining）</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例如 3-节点子图、4-节点子图、5-节点子图等。这样的子图被认为是构成大规模复杂网络的最小单元，被称为图的基因。子图模式挖掘在分析复杂网络的功能方面有大量应用，例如一些生物大分子的功能由其基本子图单元决定。大规模图中由于组合爆炸会导致子图数量异常巨大，如果用穷举的方式统计，则会导致计算效率低下，因此需要探索高效的子图模式挖掘算法。</p>
 
 
-<div id="orga08a79c" class="figure">
+<div id="org0afe29d" class="figure">
 <p><img src="/assets/research/graphlets.png" alt="graphlets.png" />
 </p>
 <p><span class="figure-number">Figure 3: </span>一种 5 节点子图数量快速估计方法</p>
@@ -110,18 +110,18 @@ Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例�
 </div>
 
 
-<div id="outline-container-org8658c55" class="outline-2">
-<h2 id="org8658c55"><span class="section-number-2">2.</span> 流式数据挖掘与处理</h2>
+<div id="outline-container-orge66cd94" class="outline-2">
+<h2 id="orge66cd94"><span class="section-number-2">2.</span> 流式数据挖掘与处理</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-orgb6d3663" class="outline-3">
-<h3 id="orgb6d3663"><span class="section-number-3">2.1.</span> 流式数据在线优化方法（Streaming Data Optimization）</h3>
+<div id="outline-container-org23b9f8d" class="outline-3">
+<h3 id="org23b9f8d"><span class="section-number-3">2.1.</span> 流式数据在线优化方法（Streaming Data Optimization）</h3>
 <div class="outline-text-3" id="text-2-1">
 <p>识别图中最有影响力的节点在很多实际问题中都有应用，例如在线广告投放、病毒营销等。目前的工作大都假设网络结构固定不变，但实际中网络结构可能在不断发生变化，导致昨天识别的一组最有影响力节点在今天不一定仍然有影响力。我们设计了一种动态图数据流上的最优节点识别算法，可以实时的跟踪图数据流中<i>K</i>个最有影响力的节点。该方法可以推广到一般数据流中的在线优化问题求解。</p>
 
 
 
-<div id="org1982d5d" class="figure">
+<div id="orgd649516" class="figure">
 <p><img src="/assets/research/SSO_inf.png" alt="SSO_inf.png" />
 </p>
 <p><span class="figure-number">Figure 4: </span>一种动态图流中最有影响力节点发现与跟踪方法</p>
@@ -130,8 +130,8 @@ Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例�
 </div>
 
 
-<div id="outline-container-org3f9767c" class="outline-3">
-<h3 id="org3f9767c"><span class="section-number-3">2.2.</span> 流式数据实时处理方法（Streaming Data Processing）</h3>
+<div id="outline-container-org5fb9f1d" class="outline-3">
+<h3 id="org5fb9f1d"><span class="section-number-3">2.2.</span> 流式数据实时处理方法（Streaming Data Processing）</h3>
 <div class="outline-text-3" id="text-2-2">
 <p>网络流量等流式数据中普遍存在 Heavy Hitter、大象流、持续流等现象，与网络扫描行为、DDoS 攻击行为、APT
 攻击行为等息息相关，所以实时发现高速流式数据中的 Heavy Hitter、大象流、持续流是流式数据处理中的重要研究内容。由于这些处理算法往往需要部署在交换机、路由器、IoT 设备、边缘设备等资源受限设备中，因此对算法的计算复杂度、内存占用等提出特别高的要求，需要设计了一系列轻量级、高效率的面向高速数据流的快速筛选方法。</p>
@@ -140,17 +140,17 @@ Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例�
 </div>
 
 
-<div id="outline-container-org419ba52" class="outline-2">
-<h2 id="org419ba52"><span class="section-number-2">3.</span> 学习理论与人工智能</h2>
+<div id="outline-container-org233ac97" class="outline-2">
+<h2 id="org233ac97"><span class="section-number-2">3.</span> 学习理论与人工智能</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org2fd6559" class="outline-3">
-<h3 id="org2fd6559"><span class="section-number-3">3.1.</span> 图数据表示学习（Graph Representation Learning）</h3>
+<div id="outline-container-org09cb51e" class="outline-3">
+<h3 id="org09cb51e"><span class="section-number-3">3.1.</span> 图数据表示学习（Graph Representation Learning）</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>图表示学习通过将节点映射为向量，通过机器学习的方法解决节点标签预测、链接预测、图分类等任务。图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节点的表示。</p>
 
 
-<div id="org776ad5f" class="figure">
+<div id="org2b0d3b8" class="figure">
 <p><img src="/assets/research/graph_learning.png" alt="graph_learning.png" />
 </p>
 <p><span class="figure-number">Figure 5: </span>图表示学习</p>
@@ -159,8 +159,8 @@ Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例�
 </div>
 
 
-<div id="outline-container-org139d641" class="outline-3">
-<h3 id="org139d641"><span class="section-number-3">3.2.</span> 自然语言处理（NLP）</h3>
+<div id="outline-container-org541691f" class="outline-3">
+<h3 id="org541691f"><span class="section-number-3">3.2.</span> 自然语言处理（NLP）</h3>
 <div class="outline-text-3" id="text-3-2">
 <p>主要研究司法大数据分析、对话系统、大语言模型等理论及其应用。</p>
 </div>
@@ -168,17 +168,17 @@ Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例�
 </div>
 
 
-<div id="outline-container-orga1adaf4" class="outline-2">
-<h2 id="orga1adaf4"><span class="section-number-2">4.</span> 数据安全与隐私计算</h2>
+<div id="outline-container-orgbe74ac3" class="outline-2">
+<h2 id="orgbe74ac3"><span class="section-number-2">4.</span> 数据安全与隐私计算</h2>
 <div class="outline-text-2" id="text-4">
 </div>
-<div id="outline-container-org028a441" class="outline-3">
-<h3 id="org028a441"><span class="section-number-3">4.1.</span> 网络监控（Network Monitoring）</h3>
+<div id="outline-container-orgb12cebf" class="outline-3">
+<h3 id="orgb12cebf"><span class="section-number-3">4.1.</span> 网络监控（Network Monitoring）</h3>
 <div class="outline-text-3" id="text-4-1">
 <p>如何及时发现大规模网络中的攻击行为，例如通信网络中的 DDoS 攻击以及 OSN 中的 Social Bot 攻击。此外，如何选择网络中的一组最优观测节点（或者称为 Social Sensor）用来及时发现网络中的传播事件，也是网络监控需要解决的问题。</p>
 
 
-<div id="org6e50df0" class="figure">
+<div id="org8f6ea84" class="figure">
 <p><img src="/assets/research/monitoring.png" alt="monitoring.png" width="700px" />
 </p>
 <p><span class="figure-number">Figure 6: </span>利用线上社交网络数据实现对线下自然社会的事件监控</p>
@@ -186,13 +186,13 @@ Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例�
 </div>
 </div>
 
-<div id="outline-container-org02226bf" class="outline-3">
-<h3 id="org02226bf"><span class="section-number-3">4.2.</span> 隐私计算（Secure Computation）</h3>
+<div id="outline-container-org9f98753" class="outline-3">
+<h3 id="org9f98753"><span class="section-number-3">4.2.</span> 隐私计算（Secure Computation）</h3>
 <div class="outline-text-3" id="text-4-2">
 <p>保障用户隐私与数据安全日益收到重视。数据拥有方的数据由于涉及机密、隐私等原因，往往不愿意公开分享与流通，例如银行账户转账数据。但是不同数据方又存在合作的意愿，例如不同银行希望合作以更好的评估个人或企业的信贷风险。如何在不泄漏数据方隐私数据的情况下实现不同数据方的合作，是隐私计算的重要研究课题。我们基于差分隐私技术和安全多方计算技术设计了一些不同数据方能够在不泄漏数据的情况下合作计算的方法。</p>
 
 
-<div id="org0d4b965" class="figure">
+<div id="org732e81d" class="figure">
 <p><img src="/assets/research/MPC.png" alt="MPC.png" width="700px" />
 </p>
 <p><span class="figure-number">Figure 7: </span>安全多方计算示意</p>
