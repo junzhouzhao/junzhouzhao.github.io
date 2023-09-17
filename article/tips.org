@@ -1,0 +1,20 @@
+#+TITLE:       关于读研究生/做研究的一些建议
+#+DATE:        2023-09-17 Sun
+#+URI:         /article/tips
+#+LANGUAGE:    zh_cn
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+
+
+* 做研究的心态
+
+- 中科院计算所，包云冈教授
+
+
+[[file:../images/bao-1.jpg]]
+[[file:../images/bao-2.jpg]]
+[[file:../images/bao-3.jpg]]
+
+* 如何写作
+
+- How to Write a Great Research Paper, by Simon L. Peyton Jones, John Hughes, and
+  John Launchbury, University of Glasgow, Scotland [[[https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html][YouKu]]]
