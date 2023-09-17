@@ -1,6 +1,7 @@
 # -*- fill-column: 100; -*-
 #+TITLE: Research
 #+URI: /research/
+#+LANGUAGE: zh_cn
 #+OPTIONS: toc:t
 
 大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的

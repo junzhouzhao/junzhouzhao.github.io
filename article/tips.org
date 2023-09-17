@@ -1,20 +1,29 @@
 #+TITLE:       关于读研究生/做研究的一些建议
 #+DATE:        2023-09-17 Sun
 #+URI:         /article/tips
-#+LANGUAGE:    zh_cn
-#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+LANGUAGE:    zh_CN
+#+OPTIONS:     H:3 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 
+* 有用的经验
 
-* 做研究的心态
+- 来源：中科院计算所，包云冈教授
 
-- 中科院计算所，包云冈教授
-
-
+#+ATTR_HTML: :width 700px
 [[file:../images/bao-1.jpg]]
+#+ATTR_HTML: :width 700px
 [[file:../images/bao-2.jpg]]
+#+ATTR_HTML: :width 700px
 [[file:../images/bao-3.jpg]]
 
-* 如何写作
+* 如何做报告
 
-- How to Write a Great Research Paper, by Simon L. Peyton Jones, John Hughes, and
-  John Launchbury, University of Glasgow, Scotland [[[https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html][YouKu]]]
+- Anupam’s Suggestions for Speaking Skills Talks (and talks in general), by Prof.
+  Anupam Gupta, Dept. of Computer Science, CMU. [[[http://www.cs.cmu.edu/~anupamg/speaking.html][Link]]]
+- How to Give a Technical Presentation (How to Give a Scientific Talk), by Prof.
+  Michael Ernst, Dept. of CSE, University of Washington. [[[https://homes.cs.washington.edu/~mernst/advice/giving-talk.html][Link]]]
+- How to Give a Great Research Talk, by Simon Peyton Jones [[[https://www.bilibili.com/video/BV1Nx411s7ak][Bilibili]]]
+
+* 如何写论文
+
+- How to Write a Great Research Paper, by Simon Peyton Jones, John Hughes, and
+  John Launchbury, University of Glasgow, Scotland [[[https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html][YouKu]]] [[[file:assets/Write_a_paper_slides.pdf][Slides]]]
