@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil num:nil
 
 
-* Biography
+* 个人简介
 
 #+ATTR_HTML: :style float:right; margin: 10px; border-radius: 10%; :width 160px
 [[file:images/avatar.png]]
@@ -30,7 +30,7 @@ learning theory, algorithm analysis, and data security.
 - 实验室基本[[https://junzhouzhao.github.io/article/lab_intro/][情况介绍]]
 - 给研究生的[[https://junzhouzhao.github.io/article/tips/][一些建议]]
 
-* Research
+* 研究方向
 
   - big data management and optimization\\
     大数据管理与优化
@@ -41,6 +41,6 @@ learning theory, algorithm analysis, and data security.
   - data security and private computation\\
     数据安全与隐私计算
 
-* Courses
+* 授课
   - 研究生课程 AUTO712705：[[https://junzhouzhao.github.io/courses/crypt/][《密码学理论与实践》]](Theory and Practice of Cryptography)，秋下
   - 本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic Process)，春
