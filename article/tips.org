@@ -13,10 +13,10 @@
 
 * 如何写论文
 
-- How to Write a Great Research Paper, by Simon Peyton Jones, John Hughes, and
-  John Launchbury, University of Glasgow, Scotland [[[https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html][YouKu]]] [[[file:assets/Write_a_paper_slides.pdf][Slides]]]
+- *[强烈推荐]* How to Write a Great Research Paper, by Simon Peyton Jones, John
+  Hughes, and John Launchbury, University of Glasgow, Scotland [[[https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html][YouKu]]] [[[file:assets/Write_a_paper_slides.pdf][Slides]]]
 
-* 一些有用经验
+* 其他建议
 
 - 来源：中科院计算所，包云冈教授
 
