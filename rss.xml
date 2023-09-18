@@ -4,75 +4,14 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Mon, 18 Sep 2023 10:02:46 CST</pubDate>
-    <lastBuildDate>Mon, 18 Sep 2023 10:02:46 CST</lastBuildDate>
+    <pubDate>Mon, 18 Sep 2023 10:11:33 CST</pubDate>
+    <lastBuildDate>Mon, 18 Sep 2023 10:11:33 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>关于读研究生/做研究的一些建议</title>
       <link>https://junzhouzhao.github.io/article/tips</link>
-      <description><![CDATA[<section id="content">
-    <div id="table-of-contents" role="doc-toc">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents" role="doc-toc">
-<ul>
-<li><a href="#org02d61f0">如何做报告</a></li>
-<li><a href="#orgaaf60a0">如何写论文</a></li>
-<li><a href="#orgda750c7">其他建议</a></li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-org02d61f0" class="outline-2">
-<h2 id="org02d61f0">如何做报告</h2>
-<div class="outline-text-2" id="text-org02d61f0">
-<ul class="org-ul">
-<li>Anupam’s Suggestions for Speaking Skills Talks (and talks in general), by Prof.
-Anupam Gupta, Dept. of Computer Science, CMU. [<a href="http://www.cs.cmu.edu/~anupamg/speaking.html">Link</a>]</li>
-<li>How to Give a Technical Presentation (How to Give a Scientific Talk), by Prof.
-Michael Ernst, Dept. of CSE, University of Washington. [<a href="https://homes.cs.washington.edu/~mernst/advice/giving-talk.html">Link</a>]</li>
-<li>How to Give a Great Research Talk, by Simon Peyton Jones [<a href="https://www.bilibili.com/video/BV1Nx411s7ak">Bilibili</a>]</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-orgaaf60a0" class="outline-2">
-<h2 id="orgaaf60a0">如何写论文</h2>
-<div class="outline-text-2" id="text-orgaaf60a0">
-<ul class="org-ul">
-<li><b>[强烈推荐]</b> How to Write a Great Research Paper, by Simon Peyton Jones, John
-Hughes, and John Launchbury, University of Glasgow, Scotland [<a href="https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html">YouKu</a>] [<a href="assets/Write_a_paper_slides.pdf">Slides</a>]</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-orgda750c7" class="outline-2">
-<h2 id="orgda750c7">其他建议</h2>
-<div class="outline-text-2" id="text-orgda750c7">
-<ul class="org-ul">
-<li>来源：中科院计算所，包云冈教授</li>
-</ul>
-
-
-<div id="orge471e12" class="figure">
-<p><img src="/assets/article/tips/bao-1.jpg" alt="bao-1.jpg" width="700px" />
-</p>
-</div>
-
-<div id="orgea353d0" class="figure">
-<p><img src="/assets/article/tips/bao-2.jpg" alt="bao-2.jpg" width="700px" />
-</p>
-</div>
-
-<div id="org6962e7b" class="figure">
-<p><img src="/assets/article/tips/bao-3.jpg" alt="bao-3.jpg" width="700px" />
-</p>
-</div>
-</div>
-</div>
-
-</section>
-]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2023-09-18</pubDate>
       <guid>https://junzhouzhao.github.io/article/tips</guid>
     </item>
