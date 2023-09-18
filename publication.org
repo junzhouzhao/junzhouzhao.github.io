@@ -5,12 +5,16 @@
 
 [[[https://junzhouzhao.github.io/article/conference-list/][机器学习、数据挖掘以及人工智能等领域的主流国际会议]]]
 
+- *[TNET'23]* _Junzhou Zhao_, Pinghui Wang, Wei Zhang, Zhaosong Zhang, Maoli Liu, Jing Tao, and John C.S. Lui. Tracking
+  Influencers in Decaying Social Activity Streams with Theoretical Guarantees. /IEEE/ACM Transactions on Networking
+  (TNET)/, accepted, 2023. ~CCF-A~ ~数据流~ ~图数据~ ~在线优化~
+
 - *[TPDS'23]* Runze Lei, Pinghui Wang, _Junzhou Zhao_, Lin Lan, Jing Tao, Chao Deng, Junlan Feng, Xidian Wang, and
-  Xiaohong Guan. "Federated Learning over Coupled Graphs". IEEE Transactions on Parallel and Distributed Systems
-  (TPDS), 2023. ~CCF-A~ ~联邦学习~ ~图计算~
+  Xiaohong Guan. "Federated Learning over Coupled Graphs". /IEEE Transactions on Parallel and Distributed Systems
+  (TPDS)/, 2023. ~CCF-A~ ~联邦学习~ ~图计算~
 
 - *[TKDE'23]* Yuanming Zhang, Pinghui Wang, Yiyan Qi, Kuankuan Cheng, _Junzhou Zhao_, Guangjian Tian, and Xiaohong Guan.
-  "Fast Gumbel-Max Sketch and its Applications". IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.
+  "Fast Gumbel-Max Sketch and its Applications". /IEEE Transactions on Knowledge and Data Engineering (TKDE)/, 2023.
   ~CCF-A~ ~大数据~ ~Sketch设计~
 
 - *[AAAI'23]* Shuo Zhang, _Junzhou Zhao_, Pinghui Wang, Tianxiang Wang, Zi Liang, Jing Tao, Yi Huang, and Junlan Feng.
