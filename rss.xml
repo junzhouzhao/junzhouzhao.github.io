@@ -4,10 +4,55 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Tue, 19 Sep 2023 14:52:19 CST</pubDate>
-    <lastBuildDate>Tue, 19 Sep 2023 14:52:19 CST</lastBuildDate>
+    <pubDate>Wed, 20 Sep 2023 08:53:38 CST</pubDate>
+    <lastBuildDate>Wed, 20 Sep 2023 08:53:38 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Lab Intro</title>
+      <link>https://junzhouzhao.github.io/article/lab_intro</link>
+      <description><![CDATA[<section id="content">
+    
+
+<div id="outline-container-org976950e" class="outline-2">
+<h2 id="org976950e">实验室简介</h2>
+<div class="outline-text-2" id="text-org976950e">
+<p>课题组隶属于西安交通大学智能网络与网络安全教育部重点实验室，主要位于西安交通大学兴庆校区。实验室正式成立于 2008 年，并在 2017 年教育部重点实验室评估中获得“优”。实验室具有世界一流的科研环境，依托计算机科学与技术、控制科学与工程、信息与通信工程、网络空间安全、数学五个一级学科，以智能网络与网络化系统为对象，研究网络化系统的大数据分析、优化运行和系统安全等重大共性问题。实验室与国际知名团队保持紧密交流合作，包括香港中文大学、马萨诸塞大学、明尼苏达州立大学、阿卜杜拉国王科技大学、新加坡国立大学等。</p>
+
+
+<div id="org4e3ec5b" class="figure">
+<p><img src="/assets/article/lab_intro/lab.png" alt="lab.png" style="margin-bottom:2em;" />
+</p>
+</div>
+
+
+<p>实验室网络以百 G 带宽直接接入西安交大校园网、CERNET 西北网和中国电信，是交大校园网速最快的地方。实验室为每位同学配置高性能工作站，实验室机房配有多种高性能服务器，包括海量数据存储阵列、高性能 CPU/GPU 服务器集群等。</p>
+
+
+<div id="orge71bc84" class="figure">
+<p><img src="/assets/article/lab_intro/equipment.png" alt="equipment.png" style="margin-bottom:2em;" />
+</p>
+</div>
+
+
+<p>实验室向同学提供优良、宽松的学习与生活环境。配有会议室、讨论室、设备间，及微波炉、洗衣机、冰箱等生活电器。实验室科研氛围浓厚，定期举行学术交流会、技术交流会以及其他活动。</p>
+
+
+<div id="orgb6eabc8" class="figure">
+<p><img src="/assets/article/lab_intro/workspace.png" alt="workspace.png" style="margin-bottom:2em;" />
+</p>
+</div>
+
+
+<p>欢迎对<font color="red">大数据分析、数据库系统、机器学习、人工智能、隐私保护、网络安全</font>等研究领域感兴趣的同学加入！</p>
+</div>
+</div>
+
+</section>
+]]></description>
+      <pubDate>2023-09-20</pubDate>
+      <guid>https://junzhouzhao.github.io/article/lab_intro</guid>
+    </item>
     <item>
       <title>关于读研究生/做研究的一些建议</title>
       <link>https://junzhouzhao.github.io/article/tips</link>
@@ -21,13 +66,6 @@
       <description><![CDATA[]]></description>
       <pubDate>2023-09-18</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
-    </item>
-    <item>
-      <title>Lab Intro</title>
-      <link>https://junzhouzhao.github.io/article/lab_intro</link>
-      <description><![CDATA[]]></description>
-      <pubDate>2023-09-17</pubDate>
-      <guid>https://junzhouzhao.github.io/article/lab_intro</guid>
     </item>
     <item>
       <title>Research</title>
