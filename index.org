@@ -25,8 +25,8 @@ learning theory, algorithm analysis, and data security.
 
 
 #+ATTR_HTML: :style margin-right:1ex;
-[[file:images/news.gif]]招收博士生、硕士生以及本科实习生。要求态度踏实认真、能积极主动思考、钻研探索、有
-追求卓越及团队协作精神。[[[https://junzhouzhao.github.io/article/lab_intro/][实验室简介]]]
+[[file:images/news.gif]]招收博士生、硕士生以及本科实习生。要求态度踏实认真、能积极主动思考、勇于钻研探索、
+有追求卓越以及团队协作精神。[[[https://junzhouzhao.github.io/article/lab_intro/][实验室简介]]]
 
 * Research
 
