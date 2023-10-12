@@ -3,7 +3,7 @@
 #+URI: /publication/
 #+OPTIONS: toc:nil num:nil
 
-[[[https://junzhouzhao.github.io/article/conference-list/][机器学习、数据挖掘以及人工智能等领域的主流国际会议]]]
+[[[file:../article/conference_list.org][机器学习、数据挖掘以及人工智能等领域的主流国际会议]]]
 
 - *[TNET'23]* _Junzhou Zhao_, Pinghui Wang, Wei Zhang, Zhaosong Zhang, Maoli Liu, Jing Tao, and John C.S. Lui. Tracking
   Influencers in Decaying Social Activity Streams with Theoretical Guarantees. /IEEE/ACM Transactions on Networking

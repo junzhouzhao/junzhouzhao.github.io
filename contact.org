@@ -1,4 +1,5 @@
 #+TITLE: Contact
+#+URI: /contact/
 #+OPTIONS: toc:nil num:nil
 
 * Contact

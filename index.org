@@ -26,7 +26,7 @@ learning theory, algorithm analysis, and data security.
 
 #+ATTR_HTML: :style margin-right:1ex;
 [[file:images/news.gif]]招收博士生、硕士生以及本科实习生。要求态度踏实认真、能积极主动思考、勇于钻研探索、
-有团队协作以及追求卓越的精神。[[[https://junzhouzhao.github.io/article/lab_intro/][实验室简介]]]
+有团队协作以及追求卓越的精神。[[[file:article/lab_intro.org][实验室简介]]]
 
 * Research
 
@@ -41,5 +41,5 @@ learning theory, algorithm analysis, and data security.
 
 * Courses
 
-  - 研究生课程 AUTO712705：[[https://junzhouzhao.github.io/courses/crypt/][《密码学理论与实践》]](Theory and Practice of Cryptography)，秋下
+  - 研究生课程 AUTO712705：[[file:courses/crypt.org][《密码学理论与实践》]](Theory and Practice of Cryptography)，秋下
   - 本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic Process)，春
