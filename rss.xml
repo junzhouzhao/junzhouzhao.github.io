@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Thu, 12 Oct 2023 16:43:22 CST</pubDate>
-    <lastBuildDate>Thu, 12 Oct 2023 16:43:22 CST</lastBuildDate>
+    <pubDate>Thu, 12 Oct 2023 16:43:31 CST</pubDate>
+    <lastBuildDate>Thu, 12 Oct 2023 16:43:31 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -16,27 +16,27 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org5c32f1b">主要国际会议</a>
+<li><a href="#org1fbfbc0">主要国际会议</a>
 <ul>
-<li><a href="#org9c45b73">机器学习、数据挖掘、人工智能等</a></li>
-<li><a href="#org9132067">网络安全</a></li>
+<li><a href="#orgc79b133">机器学习、数据挖掘、人工智能等</a></li>
+<li><a href="#org975af7d">网络安全</a></li>
 </ul>
 </li>
-<li><a href="#org6211800">国际期刊黑名单（计算机）</a></li>
+<li><a href="#org9d5a87a">国际期刊黑名单（计算机）</a></li>
 </ul>
 </div>
 </div>
 
 
-<div id="outline-container-org5c32f1b" class="outline-2">
-<h2 id="org5c32f1b">主要国际会议</h2>
-<div class="outline-text-2" id="text-org5c32f1b">
+<div id="outline-container-org1fbfbc0" class="outline-2">
+<h2 id="org1fbfbc0">主要国际会议</h2>
+<div class="outline-text-2" id="text-org1fbfbc0">
 </div>
-<div id="outline-container-org9c45b73" class="outline-3">
-<h3 id="org9c45b73">机器学习、数据挖掘、人工智能等</h3>
-<div class="outline-text-3" id="text-org9c45b73">
+<div id="outline-container-orgc79b133" class="outline-3">
+<h3 id="orgc79b133">机器学习、数据挖掘、人工智能等</h3>
+<div class="outline-text-3" id="text-orgc79b133">
 
-<div id="org379fbcb" class="figure">
+<div id="orgf1f00e9" class="figure">
 <p><img src="/assets/article/conference_list/MLDMAImap.png" alt="MLDMAImap.png" />
 </p>
 </div>
@@ -47,9 +47,9 @@
 </div>
 </div>
 
-<div id="outline-container-org9132067" class="outline-3">
-<h3 id="org9132067">网络安全</h3>
-<div class="outline-text-3" id="text-org9132067">
+<div id="outline-container-org975af7d" class="outline-3">
+<h3 id="org975af7d">网络安全</h3>
+<div class="outline-text-3" id="text-org975af7d">
 <p>
 Tier 1:
 </p>
@@ -86,9 +86,9 @@ Tier 2:
 </div>
 </div>
 
-<div id="outline-container-org6211800" class="outline-2">
-<h2 id="org6211800">国际期刊黑名单（计算机）</h2>
-<div class="outline-text-2" id="text-org6211800">
+<div id="outline-container-org9d5a87a" class="outline-2">
+<h2 id="org9d5a87a">国际期刊黑名单（计算机）</h2>
+<div class="outline-text-2" id="text-org9d5a87a">
 <ul class="org-ul">
 <li>IEEE Access</li>
 <li>Scientific Reports 和 PLOS ONE 也不建议投稿</li>
@@ -111,13 +111,13 @@ Tier 2:
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-org3980a88" class="outline-2">
-<h2 id="org3980a88">实验室简介</h2>
-<div class="outline-text-2" id="text-org3980a88">
+<div id="outline-container-org829632c" class="outline-2">
+<h2 id="org829632c">实验室简介</h2>
+<div class="outline-text-2" id="text-org829632c">
 <p>课题组隶属于西安交通大学智能网络与网络安全教育部重点实验室，主体位于西安交通大学兴庆校区。实验室具有世界一流的科研环境，依托计算机科学与技术、控制科学与工程、信息与通信工程、网络空间安全、数学五个一级学科，以智能网络与网络化系统为对象，研究网络化系统的大数据分析、优化运行和系统安全等重大共性问题。实验室与国际知名团队保持紧密合作，包括香港中文大学、香港理工大学、马萨诸塞大学、明尼苏达州立大学、阿卜杜拉国王科技大学、新加坡国立大学等。</p>
 
 
-<div id="org9bf3281" class="figure">
+<div id="org62f44db" class="figure">
 <p><img src="/assets/article/lab_intro/lab.png" alt="lab.png" style="margin-bottom:2em;" />
 </p>
 </div>
@@ -126,7 +126,7 @@ Tier 2:
 <p>实验室网络以百 G 带宽直接接入西安交大校园网、CERNET 西北网和中国电信，是交大校园网速最快的地方。实验室为每位同学配置高性能工作站，实验室机房配有多种高性能服务器，包括海量数据存储阵列、高性能 CPU/GPU 服务器集群等。</p>
 
 
-<div id="orgace6983" class="figure">
+<div id="org225d3d9" class="figure">
 <p><img src="/assets/article/lab_intro/equipment.png" alt="equipment.png" style="margin-bottom:2em;" />
 </p>
 </div>
@@ -135,7 +135,7 @@ Tier 2:
 <p>实验室向同学提供优良、宽松的学习与生活环境。配有会议室、讨论室、设备间，及微波炉、洗衣机、冰箱等生活电器。实验室科研氛围浓厚，定期举行学术交流会、技术交流会以及其他活动。</p>
 
 
-<div id="org8e6087c" class="figure">
+<div id="org96aba09" class="figure">
 <p><img src="/assets/article/lab_intro/workspace.png" alt="workspace.png" style="margin-bottom:2em;" />
 </p>
 </div>
@@ -162,9 +162,9 @@ Tier 2:
       <link>https://junzhouzhao.github.io/courses/crypt</link>
       <description><![CDATA[<section id="content">
     
-<div id="outline-container-org63c859f" class="outline-2">
-<h2 id="org63c859f">研究生《密码学理论与实践》</h2>
-<div class="outline-text-2" id="text-org63c859f">
+<div id="outline-container-orgdd37ccb" class="outline-2">
+<h2 id="orgdd37ccb">研究生《密码学理论与实践》</h2>
+<div class="outline-text-2" id="text-orgdd37ccb">
 <ul class="org-ul">
 <li>研究生课程 AUTO712705：《密码学理论与实践》 (Theory and Practice of Cryptography)，秋下，32 学时</li>
 </ul>
