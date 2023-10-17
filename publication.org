@@ -7,7 +7,7 @@
 
 - *[TNET'23]* _Junzhou Zhao_, Pinghui Wang, Wei Zhang, Zhaosong Zhang, Maoli Liu, Jing Tao, and John C.S. Lui. Tracking
   Influencers in Decaying Social Activity Streams with Theoretical Guarantees. /IEEE/ACM Transactions on Networking
-  (TNET)/, accepted, 2023. ~CCF-A~ ~数据流~ ~图数据~ ~在线优化~ ~近似算法~
+  (TNET)/, 2023. ~CCF-A~ ~数据流~ ~图数据~ ~在线优化~ ~近似算法~
 
 - *[TPDS'23]* Runze Lei, Pinghui Wang, _Junzhou Zhao_, Lin Lan, Jing Tao, Chao Deng, Junlan Feng, Xidian Wang, and
   Xiaohong Guan. "Federated Learning over Coupled Graphs". /IEEE Transactions on Parallel and Distributed Systems
