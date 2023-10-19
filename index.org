@@ -37,7 +37,7 @@ learning theory, algorithm analysis, and data security.
     数据挖掘与学习理论：包括图表示学习、知识图谱挖掘、自然语言理解等
 
   - data security and private computation\\
-    数据安全与隐私计算：包括网络安全、隐私计算、差分隐私等
+    数据安全与隐私计算：包括网络安全、隐私计算等
 
 * Courses
 
