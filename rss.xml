@@ -4,10 +4,49 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Thu, 19 Oct 2023 08:53:14 CST</pubDate>
-    <lastBuildDate>Thu, 19 Oct 2023 08:53:14 CST</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2023 19:43:02 CST</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2023 19:43:02 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Contact</title>
+      <link>https://junzhouzhao.github.io/contact/</link>
+      <description><![CDATA[<section id="content">
+    
+<div id="outline-container-orgdd1c0bb" class="outline-2">
+<h2 id="orgdd1c0bb">Contact</h2>
+<div class="outline-text-2" id="text-orgdd1c0bb">
+<p>
+P.O. Box 1088#, Xi'an Jiaotong University, No.28, Xianning West Road, Xi'an
+710049, Shaanxi Prov., P. R. China
+</p>
+
+<p>陕西省西安市碑林区咸宁西路 28 号，西安交通大学智网实验室 1088 信箱</p>
+
+
+<ul class="org-ul">
+<li>Ministry of Education Key Lab for Intelligent Networks and Network Security
+(MOE KLINNS Lab) <br />
+<a href="https://nskeylab.xjtu.edu.cn">智能网络与网络安全教育部重点实验室</a></li>
+
+<li>School of Cyber Science and Engineering <br />
+<a href="http://cybersec.xjtu.edu.cn">网络空间安全学院</a></li>
+
+<li>物理信息融合重点实验室</li>
+</ul>
+
+<p>
+Office: 网络中心三楼<br />
+E-mail: junzhou.zhao@xjtu DOT edu DOT cn
+</p>
+</div>
+</div>
+
+</section>
+]]></description>
+      <pubDate>2023-11-02</pubDate>
+      <guid>https://junzhouzhao.github.io/contact/</guid>
+    </item>
     <item>
       <title>Publication</title>
       <link>https://junzhouzhao.github.io/publication/</link>
@@ -28,13 +67,6 @@
       <description><![CDATA[]]></description>
       <pubDate>2023-10-12</pubDate>
       <guid>https://junzhouzhao.github.io/article/lab_intro</guid>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://junzhouzhao.github.io/contact/</link>
-      <description><![CDATA[]]></description>
-      <pubDate>2023-10-12</pubDate>
-      <guid>https://junzhouzhao.github.io/contact/</guid>
     </item>
     <item>
       <title>密码学理论与实践</title>
