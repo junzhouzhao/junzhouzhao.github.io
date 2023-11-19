@@ -29,6 +29,6 @@ learning theory, algorithm analysis, and data security.
 有团队协作以及追求卓越的精神。[[[file:article/lab_intro.org][实验室简介]]]
 
 * Research
-  - 大数据近似计算与优化技术：包括图数据近似计算与优化、流数据在线处理与优化等；
+  - 大数据近似计算与优化：包括图数据近似计算与优化、流数据在线处理与优化等；
   - 数据挖掘与机器学习：包括图表示学习、知识图谱挖掘、自然语言理解等；
   - 数据安全与隐私计算：包括网络安全、隐私计算等。[[[file:research.org][了解更多]]]
