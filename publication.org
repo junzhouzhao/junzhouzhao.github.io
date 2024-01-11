@@ -5,12 +5,13 @@
 
 [[[file:../article/conference_list.org][机器学习、数据挖掘以及人工智能等领域的主流国际会议]]]
 
-- *[ICDE'24]* Tao Duan, _Junzhou Zhao_, Shuo Zhang, Jing Tao, and Pinghui Wang. Representation Learning of Tangled
-  Key-Value Sequence Data for Early Classification. /IEEE ICDE/ 2024. ~CCF-A~ ~数据流~ ~表示学习~
+- *[ICDE'24]* Tao Duan, _Junzhou Zhao_, Shuo Zhang, Jing Tao, and Pinghui Wang. "Representation Learning of Tangled
+  Key-Value Sequence Data for Early Classification". In /Proceedings of the 41th IEEE International Conference on Data
+  Engineering (ICDE)/, 2024. ~CCF-A~ ~数据流~ ~表示学习~
 
 - *[TNET'23]* _Junzhou Zhao_, Pinghui Wang, Wei Zhang, Zhaosong Zhang, Maoli Liu, Jing Tao, and John C.S. Lui. Tracking
   Influencers in Decaying Social Activity Streams with Theoretical Guarantees. /IEEE/ACM Transactions on Networking
-  (TNET)/, 2023. ~CCF-A~ ~数据流~ ~图数据~ ~在线优化~ ~近似算法~
+  (TNET)/, pp. 1-16, 2023. ~CCF-A~ ~数据流~ ~图数据~ ~在线优化~ ~近似算法~
 
 - *[TPDS'23]* Runze Lei, Pinghui Wang, _Junzhou Zhao_, Lin Lan, Jing Tao, Chao Deng, Junlan Feng, Xidian Wang, and
   Xiaohong Guan. "Federated Learning over Coupled Graphs". /IEEE Transactions on Parallel and Distributed Systems
@@ -18,7 +19,7 @@
 
 - *[TKDE'23]* Yuanming Zhang, Pinghui Wang, Yiyan Qi, Kuankuan Cheng, _Junzhou Zhao_, Guangjian Tian, and Xiaohong Guan.
   "Fast Gumbel-Max Sketch and its Applications". /IEEE Transactions on Knowledge and Data Engineering (TKDE)/, 2023.
-  ~CCF-A~ ~大数据~ ~Sketch设计~
+  ~CCF-A~ ~大数据~ ~Sketch数据结构~
 
 - *[AAAI'23]* Shuo Zhang, _Junzhou Zhao_, Pinghui Wang, Tianxiang Wang, Zi Liang, Jing Tao, Yi Huang, and Junlan Feng.
   "Multi-Action Dialog Policy Learning from Logged User Feedback". In /Proceedings of the 37th AAAI Conference on
@@ -33,8 +34,8 @@
   Joint Conference on Artificial Intelligence (IJCAI)/, 2022. [[[https://arxiv.org/abs/2204.11481][arXiv]]][[[file:assets/IJCAI22_MADP_slides.pdf][slides]]] ~CCF-A~ ~NLP~ ~对话系统~
 
 - *[ICDE'22]* Juxiang Zeng, Pinghui Wang, Lin Lan, _Junzhou Zhao_, Feiyang Sun, Jing Tao, Junlan Feng, Min Hu, and
-  Xiaohong Guan. "Accurate and Scalable Graph Neural Networks for Billion-Scale Graphs". /IEEE ICDE/ 2022. ~CCF-A~
-  ~图数据~ ~图神经网络~
+  Xiaohong Guan. "Accurate and Scalable Graph Neural Networks for Billion-Scale Graphs". In /Proceedings of the 39th
+  IEEE International Conference on Data Engineering (ICDE)/, 2022. ~CCF-A~ ~图数据~ ~图神经网络~
 
 - *[KDD'21]* Runze Lei, Pinghui Wang, Rundong Li, Peng Jia, _Junzhou Zhao_, Xiaohong Guan, and Chao Deng. "Fast Rotation
   Kernel Density Estimation over Data Streams". /ACM SIGKDD/ 2021. ~CCF-A~ ~数据流~ ~联邦学习~
@@ -45,14 +46,15 @@
 
 - *[TMC'21]* Feiyang Sun, Pinghui Wang, _Junzhou Zhao_, Nuo Xu, Juxiang Zeng, Jing Tao, Kaikai Song, Chao Deng, John
   C.S. Lui, and Xiaohong Guan. "Mobile Data Traffic Prediction by Exploiting Time-Evolving User Mobility Patterns".
-  /IEEE Transactions on Mobile Computing/, 2021. ~CCF-A~ ~时空数据挖掘~
+  /IEEE Transactions on Mobile Computing/, 2021. ~CCF-A~ ~时空数据~
 
 - *[TKDE'21]* Rundong Li, Pinghui Wang, Peng Jia, Xiangliang Zhang, _Junzhou Zhao_, Jing Tao, Ye Yuan, and Xiaohong
   Guan. "Approximately Counting Butterflies in Large Bipartite Graph Streams". /IEEE Transactions on Knowledge and Data
-  Engineering (TKDE)/, 2021. ~CCF-A~ ~图数据~ ~子图模式挖掘~
+  Engineering (TKDE)/, 2021. ~CCF-A~ ~图数据~ ~子图模式~
 
 - *[SIGMOD'21]* Peng Jia, Pinghui Wang, _Junzhou Zhao_, Shuo Zhang, Yiyan Qi, Min Hu, Chao Deng, and Xiaohong Guan.
-  "Bidirectionally Densifying LSH Sketches with Empty Bins". /ACM SIGMOD/ 2021. ~CCF-A~ ~LSH~ ~快速查询算法~
+  "Bidirectionally Densifying LSH Sketches with Empty Bins". /ACM SIGMOD/ 2021. ~CCF-A~ ~LSH~ ~快速查询算法~ ~Sketch数据
+  结构~
 
 - *[SIGMOD'21]* Rundong Li, Pinghui Wang, Jiongli Zhu, _Junzhou Zhao_, Jia Di, Xiaofei Yang, and Kai Ye. "Building Fast
   and Compact Sketches for Approximately Multi-Set Multi-Membership Querying". /ACM SIGMOD/ 2021. ~CCF-A~ ~快速查询算法~
@@ -67,7 +69,7 @@
 
 - *[AAAI'21]* Shuo Zhang, _Junzhou Zhao_, Pinghui Wang, Nuo Xu, Yang Yang, Yiting Liu, Yi Huang, and Junlan Feng.
   "Learning to Check Contract Inconsistencies". In /Proceedings of the 35th AAAI Conference on Artificial Intelligence
-  (AAAI)/, 2021. [[[https://arxiv.org/abs/2012.08150][arXiv]]][[[file:assets/AAAI2021-contract_poster.pdf][poster]]] ~CCF-A~ ~NLP~ ~孪生网络~
+  (AAAI)/, 2021. [[[https://arxiv.org/abs/2012.08150][arXiv]]][[[file:assets/AAAI2021-contract_poster.pdf][poster]]] ~CCF-A~ ~NLP~
 
 - *[KAIS'21]* _Junzhou Zhao_, Pinghui Wang, Zhouguo Chen, Jianwei Ding, John C.S. Lui, Don Towsley, and Xiaohong Guan.
   "Tracking Triadic Cardinality Distributions for Burst Detection in High-Speed Graph Streams". /Knowledge and
@@ -112,7 +114,7 @@
 
 - *[TKDE'18]* Pinghui Wang, _Junzhou Zhao_, Xiangliang Zhang, Zhenhua Li, Jiefeng Cheng, John C.S. Lui, Don Towsley,
   Jing Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs".
-  /IEEE Transactions on Knowledge and Data Engineering (TKDE)/, 2018. [[[file:assets/TKDE18_poster.pdf][poster]]] ~CCF-A~ ~图数据~ ~子图模式挖掘~
+  /IEEE Transactions on Knowledge and Data Engineering (TKDE)/, 2018. [[[file:assets/TKDE18_poster.pdf][poster]]] ~CCF-A~ ~图数据~ ~子图模式~
 
 - *[KAIS'18]* Pinghui Wang, _Junzhou Zhao_, Xiangliang Zhang, Jing Tao, and Xiaohong Guan. "SNOD: A Fast Sampling Method
   of Exploring Node Orbit Degrees for Large Graphs". /Knowledge and Information Systems (KAIS)/, 2018. ~图采样~ ~图数据~
@@ -138,7 +140,7 @@
 
 - *[ICDE'16]* Pinghui Wang, John C.S. Lui, Don Towsley, and Junzhou Zhao. "Minfer: A Method of Inferring Motif
   Statistics from Sampled Edges". In /Proceedings of the 32nd IEEE International Conference on Data Engineering
-  (ICDE)/, 2016. ~CCF-A~ ~图数据~ ~子图模式挖掘~ ~图采样~ ~近似算法~
+  (ICDE)/, 2016. ~CCF-A~ ~图数据~ ~子图模式~ ~图采样~ ~近似算法~
 
 - *[COSN'15]* _Junzhou Zhao_, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "Tracking Triadic Cardinality
   Distributions for Burst Detection in Social Activity Streams". In /Proceedings of ACM Conference on Online Social
@@ -150,7 +152,7 @@
 
 - *[TIFS'14]* Pinghui Wang, Xiaohong Guang, _Junzhou Zhao_, Jing Tao, and Tao Qin. "A New Sketch Method for Measuring
   Host Connection Degree Distribution". /IEEE Transactions on Information Forensics and Security (TIFS)/, 2014. ~CCF-A~
-  ~异常检测~ ~Sketch算法~
+  ~异常检测~ ~Sketch数据结构~
 
 - *[SIMPLEX'14]* _Junzhou Zhao_, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group
   Closeness Centrality over Disk-Resident Graphs". In /WWW SIMPLEX workshop/, 2014. [[[file:assets/SIMPLEX2014.pdf][pdf]]][[[file:assets/NodeGroup_TR.pdf][TR]]]
@@ -168,7 +170,7 @@
 
 - *[TKDD'14]* Pinghui Wang, John C.S. Lui, Bruno Ribeiro, Don Towsley, _Junzhou Zhao_, and Xiaohong Guan. "Efficiently
   Estimating Motif Statistics of Large Networks". /ACM Transactions on Knowledge Discovery from Data (TKDD)/, 2014.
-  [[[http://arxiv.org/abs/1306.5288][arXiv]]] ~图数据~ ~子图模式挖掘~ ~图采样~ ~近似算法~
+  [[[http://arxiv.org/abs/1306.5288][arXiv]]] ~图数据~ ~子图模式~ ~图采样~ ~近似算法~
 
 - *[CrowdRec'13]* _Junzhou Zhao_, Xiaohong Guan, and Jing Tao. "On Analyzing Estimation Errors due to Constrained
   Connections in Online Review Systems". /RecSys CrowdRec workshop/, 2013. [[[http://arxiv.org/abs/1307.3687][arXiv]]] ~推荐系统~
