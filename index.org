@@ -6,9 +6,6 @@
 
 * Biography
 
-#+ATTR_HTML: :style float:right; margin: 10px; border-radius: 10%; :width 160px
-[[file:images/avatar.png]]
-
 Junzhou Zhao is an associate professor at the School of Cyber Science and Engineering, [[http://www.xjtu.edu.cn/][Xi'an
 Jiaotong University (XJTU)]]. Prior to joining XJTU, he was a postdoctoral researcher at the School of
 Computer, Electrical and Mathematical Science and Engineering (CEMSE), [[https://www.kaust.edu.sa/][King Abdullah University of
