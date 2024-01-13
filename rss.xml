@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Thu, 11 Jan 2024 14:59:28 CST</pubDate>
-    <lastBuildDate>Thu, 11 Jan 2024 14:59:28 CST</lastBuildDate>
+    <pubDate>Sat, 13 Jan 2024 10:54:11 CST</pubDate>
+    <lastBuildDate>Sat, 13 Jan 2024 10:54:11 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -31,7 +31,7 @@ Xiaohong Guan. "Federated Learning over Coupled Graphs". <i>IEEE Transactions on
 
 <li><b>[TKDE'23]</b> Yuanming Zhang, Pinghui Wang, Yiyan Qi, Kuankuan Cheng, <span class="underline">Junzhou Zhao</span>, Guangjian Tian, and Xiaohong Guan.
 "Fast Gumbel-Max Sketch and its Applications". <i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, 2023.
-<code>CCF-A</code> <code>大数据</code> <code>Sketch数据结构</code></li>
+<code>CCF-A</code> <code>大数据</code> <code>Sketch</code></li>
 
 <li><b>[AAAI'23]</b> Shuo Zhang, <span class="underline">Junzhou Zhao</span>, Pinghui Wang, Tianxiang Wang, Zi Liang, Jing Tao, Yi Huang, and Junlan Feng.
 "Multi-Action Dialog Policy Learning from Logged User Feedback". In <i>Proceedings of the 37th AAAI Conference on
@@ -65,10 +65,10 @@ Guan. "Approximately Counting Butterflies in Large Bipartite Graph Streams". <i>
 Engineering (TKDE)</i>, 2021. <code>CCF-A</code> <code>图数据</code> <code>子图模式</code></li>
 
 <li><b>[SIGMOD'21]</b> Peng Jia, Pinghui Wang, <span class="underline">Junzhou Zhao</span>, Shuo Zhang, Yiyan Qi, Min Hu, Chao Deng, and Xiaohong Guan.
-"Bidirectionally Densifying LSH Sketches with Empty Bins". <i>ACM SIGMOD</i> 2021. <code>CCF-A</code> <code>LSH</code> <code>快速查询算法</code> <code>Sketch数据结构</code></li>
+"Bidirectionally Densifying LSH Sketches with Empty Bins". <i>ACM SIGMOD</i> 2021. <code>CCF-A</code> <code>LSH</code> <code>查询算法</code> <code>Sketch</code></li>
 
 <li><b>[SIGMOD'21]</b> Rundong Li, Pinghui Wang, Jiongli Zhu, <span class="underline">Junzhou Zhao</span>, Jia Di, Xiaofei Yang, and Kai Ye. "Building Fast
-and Compact Sketches for Approximately Multi-Set Multi-Membership Querying". <i>ACM SIGMOD</i> 2021. <code>CCF-A</code> <code>快速查询算法</code></li>
+and Compact Sketches for Approximately Multi-Set Multi-Membership Querying". <i>ACM SIGMOD</i> 2021. <code>CCF-A</code> <code>查询算法</code></li>
 
 <li><b>[TKDE'21]</b> Peng Jia, Pinghui Wang, <span class="underline">Junzhou Zhao</span>, Jing Tao, Ye Yuan, and Xiaohong Guan. "Erasable Virtual
 HyperLogLog for Approximating Cumulative Distribution over Data Streams". <i>IEEE Transactions on Knowledge and Data
@@ -163,7 +163,7 @@ Data Engineering (ICDE)</i>, 2015. [<a href="/assets/publication/ICDE2015.pdf">p
 
 <li><b>[TIFS'14]</b> Pinghui Wang, Xiaohong Guang, <span class="underline">Junzhou Zhao</span>, Jing Tao, and Tao Qin. "A New Sketch Method for Measuring
 Host Connection Degree Distribution". <i>IEEE Transactions on Information Forensics and Security (TIFS)</i>, 2014. <code>CCF-A</code>
-<code>异常检测</code> <code>Sketch数据结构</code></li>
+<code>异常检测</code> <code>Sketch</code></li>
 
 <li><b>[SIMPLEX'14]</b> <span class="underline">Junzhou Zhao</span>, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group
 Closeness Centrality over Disk-Resident Graphs". In <i>WWW SIMPLEX workshop</i>, 2014. [<a href="/assets/publication/SIMPLEX2014.pdf">pdf</a>][<a href="/assets/publication/NodeGroup_TR.pdf">TR</a>]
@@ -199,7 +199,7 @@ Web in China". In <i>Proceedings of the Web Science Conference (WebSci)</i>, 201
 
 </section>
 ]]></description>
-      <pubDate>2024-01-11</pubDate>
+      <pubDate>2024-01-13</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
     </item>
     <item>
