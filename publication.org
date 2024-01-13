@@ -19,7 +19,7 @@
 
 - *[TKDE'23]* Yuanming Zhang, Pinghui Wang, Yiyan Qi, Kuankuan Cheng, _Junzhou Zhao_, Guangjian Tian, and Xiaohong Guan.
   "Fast Gumbel-Max Sketch and its Applications". /IEEE Transactions on Knowledge and Data Engineering (TKDE)/, 2023.
-  ~CCF-A~ ~大数据~ ~Sketch数据结构~
+  ~CCF-A~ ~大数据~ ~Sketch~
 
 - *[AAAI'23]* Shuo Zhang, _Junzhou Zhao_, Pinghui Wang, Tianxiang Wang, Zi Liang, Jing Tao, Yi Huang, and Junlan Feng.
   "Multi-Action Dialog Policy Learning from Logged User Feedback". In /Proceedings of the 37th AAAI Conference on
@@ -53,11 +53,10 @@
   Engineering (TKDE)/, 2021. ~CCF-A~ ~图数据~ ~子图模式~
 
 - *[SIGMOD'21]* Peng Jia, Pinghui Wang, _Junzhou Zhao_, Shuo Zhang, Yiyan Qi, Min Hu, Chao Deng, and Xiaohong Guan.
-  "Bidirectionally Densifying LSH Sketches with Empty Bins". /ACM SIGMOD/ 2021. ~CCF-A~ ~LSH~ ~快速查询算法~ ~Sketch数据
-  结构~
+  "Bidirectionally Densifying LSH Sketches with Empty Bins". /ACM SIGMOD/ 2021. ~CCF-A~ ~LSH~ ~查询算法~ ~Sketch~
 
 - *[SIGMOD'21]* Rundong Li, Pinghui Wang, Jiongli Zhu, _Junzhou Zhao_, Jia Di, Xiaofei Yang, and Kai Ye. "Building Fast
-  and Compact Sketches for Approximately Multi-Set Multi-Membership Querying". /ACM SIGMOD/ 2021. ~CCF-A~ ~快速查询算法~
+  and Compact Sketches for Approximately Multi-Set Multi-Membership Querying". /ACM SIGMOD/ 2021. ~CCF-A~ ~查询算法~
 
 - *[TKDE'21]* Peng Jia, Pinghui Wang, _Junzhou Zhao_, Jing Tao, Ye Yuan, and Xiaohong Guan. "Erasable Virtual
   HyperLogLog for Approximating Cumulative Distribution over Data Streams". /IEEE Transactions on Knowledge and Data
@@ -152,7 +151,7 @@
 
 - *[TIFS'14]* Pinghui Wang, Xiaohong Guang, _Junzhou Zhao_, Jing Tao, and Tao Qin. "A New Sketch Method for Measuring
   Host Connection Degree Distribution". /IEEE Transactions on Information Forensics and Security (TIFS)/, 2014. ~CCF-A~
-  ~异常检测~ ~Sketch数据结构~
+  ~异常检测~ ~Sketch~
 
 - *[SIMPLEX'14]* _Junzhou Zhao_, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group
   Closeness Centrality over Disk-Resident Graphs". In /WWW SIMPLEX workshop/, 2014. [[[file:assets/SIMPLEX2014.pdf][pdf]]][[[file:assets/NodeGroup_TR.pdf][TR]]]
