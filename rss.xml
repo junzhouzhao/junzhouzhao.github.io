@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Thu, 25 Jan 2024 17:26:43 CST</pubDate>
-    <lastBuildDate>Thu, 25 Jan 2024 17:26:43 CST</lastBuildDate>
+    <pubDate>Thu, 25 Jan 2024 17:28:27 CST</pubDate>
+    <lastBuildDate>Thu, 25 Jan 2024 17:28:27 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -210,35 +210,35 @@ Web in China". In <i>Proceedings of the Web Science Conference (WebSci)</i>, 201
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orgb7b6f0b">1. 大数据近似计算与优化</a></li>
-<li><a href="#orga3cf0e0">2. 数据挖掘与机器学习</a></li>
-<li><a href="#org0b17c2d">3. 数据安全与隐私计算</a></li>
+<li><a href="#orgd40cd49">1. 大数据近似计算与优化</a></li>
+<li><a href="#org4dd4fa3">2. 数据挖掘与机器学习</a></li>
+<li><a href="#orgbfba4a9">3. 数据安全与隐私计算</a></li>
 </ul>
 </div>
 </div>
 <p>大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些问题与挑战，我们开展了一系列相关研究。</p>
 
 
-<div id="org3072414" class="figure">
+<div id="orgef44663" class="figure">
 <p><img src="/assets/research/big_data.png" alt="big_data.png" />
 </p>
 <p><span class="figure-number">Figure 1: </span>各种类型大数据</p>
 </div>
 
 
-<div id="outline-container-orgb7b6f0b" class="outline-2">
-<h2 id="orgb7b6f0b"><span class="section-number-2">1.</span> 大数据近似计算与优化</h2>
+<div id="outline-container-orgd40cd49" class="outline-2">
+<h2 id="orgd40cd49"><span class="section-number-2">1.</span> 大数据近似计算与优化</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-orgdabc334" class="outline-3">
-<h3 id="orgdabc334"><span class="section-number-3">1.1.</span> 大规模图数据采样测量方法</h3>
+<div id="outline-container-org0c7caee" class="outline-3">
+<h3 id="org0c7caee"><span class="section-number-3">1.1.</span> 大规模图数据采样测量方法</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>研究者作为第三方通常不拥有图数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业机密的考虑，Facebook 等数据拥有方并不愿意共享数据给第三方。在这种情况下，第三方只能利用图数据拥有者提供的
 API 接口访问图数据，但是 API 往往会通过限制调用总次数或调用频率等手段使第三方无法获得完整图数据。为了分析图数据的结构特征，第三方通常只能用采样的方法采样得到一些节点和边作为样本，利用这些少量样本估计图的整体结构特征，例如通常使用的节点采样或随机游走等策略。</p>
 
 
 
-<div id="org1513433" class="figure">
+<div id="org1a8b5ce" class="figure">
 <p><img src="/assets/research/random_walk_sampling.png" alt="random_walk_sampling.png" width="700px" />
 </p>
 <p><span class="figure-number">Figure 2: </span>基于随机游走的大图采样方法</p>
@@ -247,14 +247,14 @@ API 接口访问图数据，但是 API 往往会通过限制调用总次数或�
 </div>
 
 
-<div id="outline-container-orgf518d93" class="outline-3">
-<h3 id="orgf518d93"><span class="section-number-3">1.2.</span> 大规模图数据子图模式挖掘算法</h3>
+<div id="outline-container-orgc717b74" class="outline-3">
+<h3 id="orgc717b74"><span class="section-number-3">1.2.</span> 大规模图数据子图模式挖掘算法</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例如 3-节点子图、4-节点子图、5-节点子图等。这样的子图被认为是构成大规模复杂网络的最小单元，被称为图的基因。子图模式挖掘在分析复杂网络的功能方面有大量应用，例如一些生物大分子的功能由其基本子图单元决定。大规模图中由于组合爆炸会导致子图数量异常巨大，如果用穷举的方式统计，则会导致计算效率低下，因此需要探索高效的子图模式挖掘算法。</p>
 
 
-<div id="org6bf31e6" class="figure">
+<div id="org48d9c82" class="figure">
 <p><img src="/assets/research/graphlets.png" alt="graphlets.png" />
 </p>
 <p><span class="figure-number">Figure 3: </span>一种 5 节点子图数量快速估计方法</p>
@@ -263,8 +263,8 @@ Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例�
 </div>
 
 
-<div id="outline-container-org0731ea5" class="outline-3">
-<h3 id="org0731ea5"><span class="section-number-3">1.3.</span> 流式数据实时处理与在线优化</h3>
+<div id="outline-container-orgac06c75" class="outline-3">
+<h3 id="orgac06c75"><span class="section-number-3">1.3.</span> 流式数据实时处理与在线优化</h3>
 <div class="outline-text-3" id="text-1-3">
 <p>网络流量等流式数据中普遍存在 Heavy Hitter、大象流、持续流等现象，与网络扫描行为、DDoS 攻击行为、APT
 攻击行为等息息相关，所以实时发现高速流式数据中的 Heavy Hitter、大象流、持续流是流式数据处理中的重要研究内容。由于这些处理算法往往需要部署在交换机、路由器、IoT 设备、边缘设备等资源受限设备中，因此对算法的计算复杂度、内存占用等提出特别高的要求，需要设计了一系列轻量级、高效率的面向高速数据流的快速筛选方法。</p>
@@ -273,7 +273,7 @@ Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例�
 
 
 
-<div id="org5907663" class="figure">
+<div id="orgd76d657" class="figure">
 <p><img src="/assets/research/SSO_inf.png" alt="SSO_inf.png" />
 </p>
 <p><span class="figure-number">Figure 4: </span>一种动态图流中最有影响力节点发现与跟踪方法</p>
@@ -285,17 +285,17 @@ Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例�
 
 
 
-<div id="outline-container-orga3cf0e0" class="outline-2">
-<h2 id="orga3cf0e0"><span class="section-number-2">2.</span> 数据挖掘与机器学习</h2>
+<div id="outline-container-org4dd4fa3" class="outline-2">
+<h2 id="org4dd4fa3"><span class="section-number-2">2.</span> 数据挖掘与机器学习</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-org4517a9a" class="outline-3">
-<h3 id="org4517a9a"><span class="section-number-3">2.1.</span> 图数据表示学习</h3>
+<div id="outline-container-org392bef3" class="outline-3">
+<h3 id="org392bef3"><span class="section-number-3">2.1.</span> 图数据表示学习</h3>
 <div class="outline-text-3" id="text-2-1">
 <p>图表示学习通过将节点映射为向量，通过机器学习的方法解决节点标签预测、链接预测、图分类等任务。图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节点的表示。</p>
 
 
-<div id="orgf3fdda4" class="figure">
+<div id="org8dacc46" class="figure">
 <p><img src="/assets/research/graph_learning.png" alt="graph_learning.png" />
 </p>
 <p><span class="figure-number">Figure 5: </span>图表示学习</p>
@@ -304,8 +304,8 @@ Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例�
 </div>
 
 
-<div id="outline-container-org08a6922" class="outline-3">
-<h3 id="org08a6922"><span class="section-number-3">2.2.</span> 自然语言处理</h3>
+<div id="outline-container-org62141b4" class="outline-3">
+<h3 id="org62141b4"><span class="section-number-3">2.2.</span> 自然语言处理</h3>
 <div class="outline-text-3" id="text-2-2">
 <p>开展了包括合同一致性检查、案件适用法条推荐与审判结果预测、问答系统对话策略优化、知识图谱推理、大语言模型等研究。</p>
 </div>
@@ -313,17 +313,17 @@ Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例�
 </div>
 
 
-<div id="outline-container-org0b17c2d" class="outline-2">
-<h2 id="org0b17c2d"><span class="section-number-2">3.</span> 数据安全与隐私计算</h2>
+<div id="outline-container-orgbfba4a9" class="outline-2">
+<h2 id="orgbfba4a9"><span class="section-number-2">3.</span> 数据安全与隐私计算</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-orgb361beb" class="outline-3">
-<h3 id="orgb361beb"><span class="section-number-3">3.1.</span> 网络监控</h3>
+<div id="outline-container-org999dd9a" class="outline-3">
+<h3 id="org999dd9a"><span class="section-number-3">3.1.</span> 网络监控</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>如何及时发现大规模网络中的攻击行为，例如通信网络中的 DDoS 攻击以及 OSN 中的 Social Bot 攻击。此外，如何选择网络中的一组最优观测节点（或者称为 Social Sensor）用来及时发现网络中的传播事件，也是网络监控需要解决的问题。</p>
 
 
-<div id="org62e9b33" class="figure">
+<div id="org933e363" class="figure">
 <p><img src="/assets/research/monitoring.png" alt="monitoring.png" width="700px" />
 </p>
 <p><span class="figure-number">Figure 6: </span>利用线上社交网络数据实现对线下自然社会的事件监控</p>
@@ -331,13 +331,13 @@ Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例�
 </div>
 </div>
 
-<div id="outline-container-org507ba1d" class="outline-3">
-<h3 id="org507ba1d"><span class="section-number-3">3.2.</span> 隐私计算</h3>
+<div id="outline-container-orge4b4a3b" class="outline-3">
+<h3 id="orge4b4a3b"><span class="section-number-3">3.2.</span> 隐私计算</h3>
 <div class="outline-text-3" id="text-3-2">
 <p>保障用户隐私与数据安全日益收到重视。数据拥有方的数据由于涉及机密、隐私等原因，往往不愿意公开分享与流通，例如银行账户转账数据。但是不同数据方又存在合作的意愿，例如不同银行希望合作以更好的评估个人或企业的信贷风险。如何在不泄漏数据方隐私数据的情况下实现不同数据方的合作，是隐私计算的重要研究课题。我们基于差分隐私技术和安全多方计算技术设计了一些不同数据方能够在不泄漏数据的情况下合作计算的方法。</p>
 
 
-<div id="org55d0270" class="figure">
+<div id="orgdcf284a" class="figure">
 <p><img src="/assets/research/MPC.png" alt="MPC.png" width="700px" />
 </p>
 <p><span class="figure-number">Figure 7: </span>安全多方计算示意</p>
@@ -356,9 +356,9 @@ Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例�
       <link>https://junzhouzhao.github.io/contact/</link>
       <description><![CDATA[<section id="content">
     
-<div id="outline-container-orgeb89240" class="outline-2">
-<h2 id="orgeb89240">Contact</h2>
-<div class="outline-text-2" id="text-orgeb89240">
+<div id="outline-container-org6b92f7d" class="outline-2">
+<h2 id="org6b92f7d">Contact</h2>
+<div class="outline-text-2" id="text-org6b92f7d">
 <p>
 P.O. Box 1088#, Xi'an Jiaotong University, No.28, Xianning West Road, Xi'an
 710049, Shaanxi Prov., P. R. China
@@ -398,27 +398,27 @@ E-mail: junzhou.zhao AT xjtu DOT edu DOT cn
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orge2a2677">主要国际会议</a>
+<li><a href="#org26b21ca">主要国际会议</a>
 <ul>
-<li><a href="#orgcb896a6">机器学习、数据挖掘、人工智能等</a></li>
-<li><a href="#orgffbb58c">网络安全</a></li>
+<li><a href="#orgdfd33f0">机器学习、数据挖掘、人工智能等</a></li>
+<li><a href="#orga0d3188">网络安全</a></li>
 </ul>
 </li>
-<li><a href="#orgf1a4ad3">国际期刊黑名单（计算机）</a></li>
+<li><a href="#orgac0c225">国际期刊黑名单（计算机）</a></li>
 </ul>
 </div>
 </div>
 
 
-<div id="outline-container-orge2a2677" class="outline-2">
-<h2 id="orge2a2677">主要国际会议</h2>
-<div class="outline-text-2" id="text-orge2a2677">
+<div id="outline-container-org26b21ca" class="outline-2">
+<h2 id="org26b21ca">主要国际会议</h2>
+<div class="outline-text-2" id="text-org26b21ca">
 </div>
-<div id="outline-container-orgcb896a6" class="outline-3">
-<h3 id="orgcb896a6">机器学习、数据挖掘、人工智能等</h3>
-<div class="outline-text-3" id="text-orgcb896a6">
+<div id="outline-container-orgdfd33f0" class="outline-3">
+<h3 id="orgdfd33f0">机器学习、数据挖掘、人工智能等</h3>
+<div class="outline-text-3" id="text-orgdfd33f0">
 
-<div id="org9a27a20" class="figure">
+<div id="orgaee6da0" class="figure">
 <p><img src="/assets/article/conference_list/MLDMAImap.png" alt="MLDMAImap.png" />
 </p>
 </div>
@@ -429,9 +429,9 @@ E-mail: junzhou.zhao AT xjtu DOT edu DOT cn
 </div>
 </div>
 
-<div id="outline-container-orgffbb58c" class="outline-3">
-<h3 id="orgffbb58c">网络安全</h3>
-<div class="outline-text-3" id="text-orgffbb58c">
+<div id="outline-container-orga0d3188" class="outline-3">
+<h3 id="orga0d3188">网络安全</h3>
+<div class="outline-text-3" id="text-orga0d3188">
 <p>
 Tier 1:
 </p>
@@ -468,9 +468,9 @@ Tier 2:
 </div>
 </div>
 
-<div id="outline-container-orgf1a4ad3" class="outline-2">
-<h2 id="orgf1a4ad3">国际期刊黑名单（计算机）</h2>
-<div class="outline-text-2" id="text-orgf1a4ad3">
+<div id="outline-container-orgac0c225" class="outline-2">
+<h2 id="orgac0c225">国际期刊黑名单（计算机）</h2>
+<div class="outline-text-2" id="text-orgac0c225">
 <ul class="org-ul">
 <li>IEEE Access</li>
 <li>Scientific Reports 和 PLOS ONE 也不建议投稿</li>
@@ -493,13 +493,13 @@ Tier 2:
       <description><![CDATA[<section id="content">
     
 
-<div id="outline-container-orgca2e0c0" class="outline-2">
-<h2 id="orgca2e0c0">实验室简介</h2>
-<div class="outline-text-2" id="text-orgca2e0c0">
+<div id="outline-container-org2539097" class="outline-2">
+<h2 id="org2539097">实验室简介</h2>
+<div class="outline-text-2" id="text-org2539097">
 <p>课题组隶属于西安交通大学智能网络与网络安全教育部重点实验室，主体位于西安交通大学兴庆校区。实验室具有世界一流的科研环境，依托计算机科学与技术、控制科学与工程、信息与通信工程、网络空间安全、数学五个一级学科，以智能网络与网络化系统为对象，研究网络化系统的大数据分析、优化运行和系统安全等重大共性问题。实验室与国际知名团队保持紧密合作，包括香港中文大学、香港理工大学、马萨诸塞大学、明尼苏达州立大学、阿卜杜拉国王科技大学、新加坡国立大学等。</p>
 
 
-<div id="org9889564" class="figure">
+<div id="orgdaccc9d" class="figure">
 <p><img src="/assets/article/lab_intro/lab.png" alt="lab.png" style="margin-bottom:2em;" />
 </p>
 </div>
@@ -508,7 +508,7 @@ Tier 2:
 <p>实验室网络以百 G 带宽直接接入西安交大校园网、CERNET 西北网和中国电信，是交大校园网速最快的地方。实验室为每位同学配置高性能工作站，实验室机房配有多种高性能服务器，包括海量数据存储阵列、高性能 CPU/GPU 服务器集群等。</p>
 
 
-<div id="org4531906" class="figure">
+<div id="org53e0b6f" class="figure">
 <p><img src="/assets/article/lab_intro/equipment.png" alt="equipment.png" style="margin-bottom:2em;" />
 </p>
 </div>
@@ -517,7 +517,7 @@ Tier 2:
 <p>实验室向同学提供优良、宽松的学习与生活环境。配有会议室、讨论室、设备间，及微波炉、洗衣机、冰箱等生活电器。实验室科研氛围浓厚，定期举行学术交流会、技术交流会以及其他活动。</p>
 
 
-<div id="org7c5ed32" class="figure">
+<div id="org6c3f20e" class="figure">
 <p><img src="/assets/article/lab_intro/workspace.png" alt="workspace.png" style="margin-bottom:2em;" />
 </p>
 </div>
@@ -537,9 +537,9 @@ Tier 2:
       <link>https://junzhouzhao.github.io/courses/crypt</link>
       <description><![CDATA[<section id="content">
     
-<div id="outline-container-orgc728f53" class="outline-2">
-<h2 id="orgc728f53">研究生《密码学理论与实践》</h2>
-<div class="outline-text-2" id="text-orgc728f53">
+<div id="outline-container-org9a2feb8" class="outline-2">
+<h2 id="org9a2feb8">研究生《密码学理论与实践》</h2>
+<div class="outline-text-2" id="text-org9a2feb8">
 <ul class="org-ul">
 <li>研究生课程 AUTO712705：《密码学理论与实践》 (Theory and Practice of Cryptography)，秋下，32 学时</li>
 </ul>
@@ -663,16 +663,16 @@ Tier 2:
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org49f6d99">如何做报告</a></li>
-<li><a href="#orgeeaa94a">如何写论文</a></li>
-<li><a href="#org5b1da13">其他建议</a></li>
+<li><a href="#orge843668">如何做报告</a></li>
+<li><a href="#org1fbae0d">如何写论文</a></li>
+<li><a href="#org077e623">其他建议</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org49f6d99" class="outline-2">
-<h2 id="org49f6d99">如何做报告</h2>
-<div class="outline-text-2" id="text-org49f6d99">
+<div id="outline-container-orge843668" class="outline-2">
+<h2 id="orge843668">如何做报告</h2>
+<div class="outline-text-2" id="text-orge843668">
 <ul class="org-ul">
 <li>Anupam’s Suggestions for Speaking Skills Talks (and talks in general), by Prof.
 Anupam Gupta, Dept. of Computer Science, CMU. [<a href="http://www.cs.cmu.edu/~anupamg/speaking.html">Link</a>]</li>
@@ -683,9 +683,9 @@ Michael Ernst, Dept. of CSE, University of Washington. [<a href="https://homes.c
 </div>
 </div>
 
-<div id="outline-container-orgeeaa94a" class="outline-2">
-<h2 id="orgeeaa94a">如何写论文</h2>
-<div class="outline-text-2" id="text-orgeeaa94a">
+<div id="outline-container-org1fbae0d" class="outline-2">
+<h2 id="org1fbae0d">如何写论文</h2>
+<div class="outline-text-2" id="text-org1fbae0d">
 <ul class="org-ul">
 <li><b>[强烈推荐]</b> How to Write a Great Research Paper, by Simon Peyton Jones, John
 Hughes, and John Launchbury, University of Glasgow, Scotland [<a href="https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html">YouKu</a>] [<a href="assets/Write_a_paper_slides.pdf">Slides</a>]</li>
@@ -693,25 +693,25 @@ Hughes, and John Launchbury, University of Glasgow, Scotland [<a href="https://v
 </div>
 </div>
 
-<div id="outline-container-org5b1da13" class="outline-2">
-<h2 id="org5b1da13">其他建议</h2>
-<div class="outline-text-2" id="text-org5b1da13">
+<div id="outline-container-org077e623" class="outline-2">
+<h2 id="org077e623">其他建议</h2>
+<div class="outline-text-2" id="text-org077e623">
 <ul class="org-ul">
 <li>来源：中科院计算所，包云冈教授</li>
 </ul>
 
 
-<div id="orgb0faf70" class="figure">
+<div id="org89d6e36" class="figure">
 <p><img src="/assets/article/tips/bao-1.jpg" alt="bao-1.jpg" width="700px" />
 </p>
 </div>
 
-<div id="orgf672900" class="figure">
+<div id="org054462b" class="figure">
 <p><img src="/assets/article/tips/bao-2.jpg" alt="bao-2.jpg" width="700px" />
 </p>
 </div>
 
-<div id="orgda54406" class="figure">
+<div id="org9308b04" class="figure">
 <p><img src="/assets/article/tips/bao-3.jpg" alt="bao-3.jpg" width="700px" />
 </p>
 </div>
@@ -731,28 +731,28 @@ Hughes, and John Launchbury, University of Glasgow, Scotland [<a href="https://v
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org9d75e2d">1. Top Conferences</a>
+<li><a href="#orga369177">1. Top Conferences</a>
 <ul>
-<li><a href="#org2516346">1.1. 机器学习、数据挖掘、人工智能等</a></li>
-<li><a href="#orgccef977">1.2. 网络安全</a></li>
+<li><a href="#orgc06f7c6">1.1. 机器学习、数据挖掘、人工智能等</a></li>
+<li><a href="#org636df6f">1.2. 网络安全</a></li>
 </ul>
 </li>
-<li><a href="#org0ad37b5">2. 国际期刊黑名单（计算机）</a></li>
+<li><a href="#org210335b">2. 国际期刊黑名单（计算机）</a></li>
 </ul>
 </div>
 </div>
 
 
 
-<div id="outline-container-org9d75e2d" class="outline-2">
-<h2 id="org9d75e2d"><span class="section-number-2">1.</span> Top Conferences</h2>
+<div id="outline-container-orga369177" class="outline-2">
+<h2 id="orga369177"><span class="section-number-2">1.</span> Top Conferences</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-org2516346" class="outline-3">
-<h3 id="org2516346"><span class="section-number-3">1.1.</span> 机器学习、数据挖掘、人工智能等</h3>
+<div id="outline-container-orgc06f7c6" class="outline-3">
+<h3 id="orgc06f7c6"><span class="section-number-3">1.1.</span> 机器学习、数据挖掘、人工智能等</h3>
 <div class="outline-text-3" id="text-1-1">
 
-<div id="org8f64fa8" class="figure">
+<div id="orga267cb1" class="figure">
 <p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
 </p>
 </div>
@@ -763,8 +763,8 @@ Source: <a href="https://www.kamishima.net/archive/MLDMAImap.pdf">https://www.ka
 </div>
 </div>
 
-<div id="outline-container-orgccef977" class="outline-3">
-<h3 id="orgccef977"><span class="section-number-3">1.2.</span> 网络安全</h3>
+<div id="outline-container-org636df6f" class="outline-3">
+<h3 id="org636df6f"><span class="section-number-3">1.2.</span> 网络安全</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 Tier 1:
@@ -802,8 +802,8 @@ Source: <a href="https://people.engr.tamu.edu/guofei/sec_conf_stat.htm">https://
 </div>
 </div>
 
-<div id="outline-container-org0ad37b5" class="outline-2">
-<h2 id="org0ad37b5"><span class="section-number-2">2.</span> 国际期刊黑名单（计算机）</h2>
+<div id="outline-container-org210335b" class="outline-2">
+<h2 id="org210335b"><span class="section-number-2">2.</span> 国际期刊黑名单（计算机）</h2>
 <div class="outline-text-2" id="text-2">
 <ul class="org-ul">
 <li>IEEE Access</li>
