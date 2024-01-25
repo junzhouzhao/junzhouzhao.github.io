@@ -21,14 +21,17 @@ learning theory, algorithm analysis, and data security.
 
 赵俊舟，西安交通大学网络空间安全学院特聘研究员，博士生导师。曾分别任职沙特王国阿卜杜拉国王科技大学
 （KAUST）计算机、电子与数学科学与工程系（CEMSE）博士后研究员，以及香港中文大学（CUHK）计算机科学与工
-程系（CSE）博士后研究员。主要从事大数据近似计算与优化、数据挖掘与机器学习、数据安全与隐私计算等研究。
+程系（CSE）博士后研究员。主要从事大数据近似计算与数据挖掘、数据安全与隐私计算等研究。
 
 
 #+ATTR_HTML: :style margin-right:1ex;
 [[file:images/news.gif]]招收博士生、硕士生以及本科实习生。要求态度踏实认真、能积极主动思考、勇于钻研探索、
 有团队协作以及追求卓越的精神。[[[file:article/lab_intro.org][实验室简介]]]
 
-* Research
-  - 大数据近似计算与优化：包括图数据近似计算与优化、流数据在线处理与优化等；
-  - 数据挖掘与机器学习：包括图表示学习、知识图谱挖掘、自然语言理解等；
+* 研究方向
+  - 大数据近似计算与数据挖掘：包括图数据近似计算与优化、流数据在线处理与优化、知识图谱等；
   - 数据安全与隐私计算：包括网络安全、隐私计算等。[[[file:research.org][了解更多]]]
+
+* 教学
+  - 本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic Process)，春
+  - 研究生课程 AUTO712705：[[file:courses/crypt.org][《密码学理论与实践》]](Theory and Practice of Cryptography)，秋下
