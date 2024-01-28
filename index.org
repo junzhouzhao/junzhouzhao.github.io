@@ -29,8 +29,8 @@ learning theory, algorithm analysis, and data security.
 有团队协作以及追求卓越的精神。[[[file:article/lab_intro.org][实验室简介]]]
 
 * 研究方向
-  - 大数据近似计算与数据挖掘：包括流数据与图数据近似计算与优化、知识图谱等；
-  - 数据安全与隐私计算：包括网络流量分析、隐私计算技术等。[[[file:research.org][了解更多]]]
+  - 大数据近似计算与数据挖掘：包括流数据与图数据近似计算与优化、知识图谱检索与推理等；
+  - 数据安全与隐私计算：包括网络流量分析、网络异常检测、隐私计算技术等。[[[file:research.org][了解更多]]]
 
 * 教学
   - 本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic Process)，春

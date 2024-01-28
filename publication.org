@@ -17,10 +17,6 @@
   Xiaohong Guan. "Federated Learning over Coupled Graphs". /IEEE Transactions on Parallel and Distributed Systems
   (TPDS)/, 2023. ~CCF-A~ ~联邦学习~ ~图计算~
 
-- *[TKDE'23]* Yuanming Zhang, Pinghui Wang, Yiyan Qi, Kuankuan Cheng, _Junzhou Zhao_, Guangjian Tian, and Xiaohong Guan.
-  "Fast Gumbel-Max Sketch and its Applications". /IEEE Transactions on Knowledge and Data Engineering (TKDE)/, 2023.
-  ~CCF-A~ ~大数据~ ~Sketch~
-
 - *[AAAI'23]* Shuo Zhang, _Junzhou Zhao_, Pinghui Wang, Tianxiang Wang, Zi Liang, Jing Tao, Yi Huang, and Junlan Feng.
   "Multi-Action Dialog Policy Learning from Logged User Feedback". In /Proceedings of the 37th AAAI Conference on
   Artificial Intelligence (AAAI)/, 2023. [[[https://arxiv.org/abs/2302.13505][arXiv]]] ~CCF-A~ ~对话系统~ ~NLP~
@@ -37,9 +33,6 @@
   Xiaohong Guan. "Accurate and Scalable Graph Neural Networks for Billion-Scale Graphs". In /Proceedings of the 39th
   IEEE International Conference on Data Engineering (ICDE)/, 2022. ~CCF-A~ ~图数据~ ~图神经网络~
 
-- *[KDD'21]* Runze Lei, Pinghui Wang, Rundong Li, Peng Jia, _Junzhou Zhao_, Xiaohong Guan, and Chao Deng. "Fast Rotation
-  Kernel Density Estimation over Data Streams". /ACM SIGKDD/ 2021. ~CCF-A~ ~数据流~ ~联邦学习~
-
 - *[KDD'21]* _Junzhou Zhao_, Pinghui Wang, Chao Deng, and Jing Tao. "Temporal Biased Streaming Submodular Optimization".
   In /Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)/, 2021. [[[file:assets/KDD21_SSO_slides.pdf][slides]]]
   ~CCF-A~ ~数据流~ ~在线优化~ ~近似算法~
@@ -48,15 +41,8 @@
   C.S. Lui, and Xiaohong Guan. "Mobile Data Traffic Prediction by Exploiting Time-Evolving User Mobility Patterns".
   /IEEE Transactions on Mobile Computing/, 2021. ~CCF-A~ ~时空数据~
 
-- *[TKDE'21]* Rundong Li, Pinghui Wang, Peng Jia, Xiangliang Zhang, _Junzhou Zhao_, Jing Tao, Ye Yuan, and Xiaohong
-  Guan. "Approximately Counting Butterflies in Large Bipartite Graph Streams". /IEEE Transactions on Knowledge and Data
-  Engineering (TKDE)/, 2021. ~CCF-A~ ~图数据~ ~子图模式~
-
 - *[SIGMOD'21]* Peng Jia, Pinghui Wang, _Junzhou Zhao_, Shuo Zhang, Yiyan Qi, Min Hu, Chao Deng, and Xiaohong Guan.
   "Bidirectionally Densifying LSH Sketches with Empty Bins". /ACM SIGMOD/ 2021. ~CCF-A~ ~LSH~ ~查询算法~ ~Sketch~
-
-- *[SIGMOD'21]* Rundong Li, Pinghui Wang, Jiongli Zhu, _Junzhou Zhao_, Jia Di, Xiaofei Yang, and Kai Ye. "Building Fast
-  and Compact Sketches for Approximately Multi-Set Multi-Membership Querying". /ACM SIGMOD/ 2021. ~CCF-A~ ~查询算法~
 
 - *[TKDE'21]* Peng Jia, Pinghui Wang, _Junzhou Zhao_, Jing Tao, Ye Yuan, and Xiaohong Guan. "Erasable Virtual
   HyperLogLog for Approximating Cumulative Distribution over Data Streams". /IEEE Transactions on Knowledge and Data
