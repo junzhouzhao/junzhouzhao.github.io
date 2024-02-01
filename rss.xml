@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Sun, 28 Jan 2024 19:59:19 CST</pubDate>
-    <lastBuildDate>Sun, 28 Jan 2024 19:59:19 CST</lastBuildDate>
+    <pubDate>Thu, 01 Feb 2024 17:54:04 CST</pubDate>
+    <lastBuildDate>Thu, 01 Feb 2024 17:54:04 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -18,7 +18,7 @@
 
 <ul class="org-ul">
 <li><b>[ICDE'24]</b> Tao Duan, <span class="underline">Junzhou Zhao</span>, Shuo Zhang, Jing Tao, and Pinghui Wang. "Representation Learning of Tangled
-Key-Value Sequence Data for Early Classification". In <i>Proceedings of the 41th IEEE International Conference on Data
+Key-Value Sequence Data for Early Classification". In <i>Proceedings of the 41st IEEE International Conference on Data
 Engineering (ICDE)</i>, 2024. <code>CCF-A</code> <code>数据流</code> <code>表示学习</code></li>
 
 <li><b>[TNET'23]</b> <span class="underline">Junzhou Zhao</span>, Pinghui Wang, Wei Zhang, Zhaosong Zhang, Maoli Liu, Jing Tao, and John C.S. Lui. "Tracking
@@ -185,7 +185,7 @@ Web in China". In <i>Proceedings of the Web Science Conference (WebSci)</i>, 201
 
 </section>
 ]]></description>
-      <pubDate>2024-01-28</pubDate>
+      <pubDate>2024-02-01</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
     </item>
     <item>
