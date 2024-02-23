@@ -1,0 +1,7 @@
+#+TITLE:       概率统计与随机过程
+#+AUTHOR:      Junzhou Zhao
+#+EMAIL:       junzhou.zhao@xjtu.edu.cn
+#+DATE:        2024-02-23 Fri
+#+URI:         /courses/stat
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
