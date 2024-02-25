@@ -1,7 +1,17 @@
 #+TITLE:       概率统计与随机过程
 #+AUTHOR:      Junzhou Zhao
-#+EMAIL:       junzhou.zhao@xjtu.edu.cn
 #+DATE:        2024-02-23 Fri
 #+URI:         /courses/stat
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+
+* 概率统计与随机过程
+ - 本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic Process)，春
+
+#+ATTR_HTML: :style margin-left:auto; margin-right:auto; :rules all
+|-----+----------------+--------|
+| No. | 课程内容       | PPT    |
+|-----+----------------+--------|
+|   1 | 课程介绍       | [[file:assets/stat/Ch0.pdf][slides]] |
+|   2 | 随机事件与概率 | slides |
+|-----+----------------+--------|

@@ -33,5 +33,5 @@ algorithm design, and data security.
   - 数据安全与隐私计算：包括网络流量分析、网络异常检测、隐私计算技术等。[[[file:research.org][了解更多]]]
 
 * Courses
-  - 本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic Process)，春
+  - 本科生课程 MATH200327：[[file:courses/stat.org][《概率统计与随机过程》]](Probability Theory and Stochastic Process)，春
   - 研究生课程 AUTO712705：[[file:courses/crypt.org][《密码学理论与实践》]](Theory and Practice of Cryptography)，秋下
