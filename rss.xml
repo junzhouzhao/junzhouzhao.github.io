@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Sun, 25 Feb 2024 11:10:46 CST</pubDate>
-    <lastBuildDate>Sun, 25 Feb 2024 11:10:46 CST</lastBuildDate>
+    <pubDate>Sun, 25 Feb 2024 13:56:35 CST</pubDate>
+    <lastBuildDate>Sun, 25 Feb 2024 13:56:35 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -27,9 +27,9 @@
       <link>https://junzhouzhao.github.io/courses/stat</link>
       <description><![CDATA[<section id="content">
     
-<div id="outline-container-org763dd28" class="outline-2">
-<h2 id="org763dd28">概率统计与随机过程</h2>
-<div class="outline-text-2" id="text-org763dd28">
+<div id="outline-container-org4490242" class="outline-2">
+<h2 id="org4490242">概率统计与随机过程</h2>
+<div class="outline-text-2" id="text-org4490242">
 <ul class="org-ul">
 <li>本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic Process)，春</li>
 </ul>
@@ -53,14 +53,32 @@
 </thead>
 <tbody>
 <tr>
-<td class="org-right">1</td>
+<td class="org-right">0</td>
 <td class="org-left">课程介绍</td>
 <td class="org-left"><a href="/assets/courses/stat/stat0.pdf">slides</a></td>
 </tr>
 
 <tr>
-<td class="org-right">2</td>
+<td class="org-right">1</td>
 <td class="org-left">随机事件与概率</td>
+<td class="org-left">slides</td>
+</tr>
+
+<tr>
+<td class="org-right">2</td>
+<td class="org-left">随机变量与概率分布</td>
+<td class="org-left">slides</td>
+</tr>
+
+<tr>
+<td class="org-right">3</td>
+<td class="org-left">随机变量的数字特征</td>
+<td class="org-left">slides</td>
+</tr>
+
+<tr>
+<td class="org-right">4</td>
+<td class="org-left">大数定律与中心极限定理</td>
 <td class="org-left">slides</td>
 </tr>
 </tbody>
@@ -69,9 +87,9 @@
 </div>
 
 
-<div id="outline-container-orgbc7a0af" class="outline-2">
-<h2 id="orgbc7a0af">News</h2>
-<div class="outline-text-2" id="text-orgbc7a0af">
+<div id="outline-container-orgfc754e5" class="outline-2">
+<h2 id="orgfc754e5">News</h2>
+<div class="outline-text-2" id="text-orgfc754e5">
 <ul class="org-ul">
 <li><b>数十万次测试证明抛硬币更可能落在开始抛的那一面</b>：前职业魔术师、斯坦福数学统计学教授 Persi Diaconis 指出，当人们抛一枚普通硬币时会引入一个小幅度的“进动”——整个硬币的轨迹中对旋转轴方向的一个变动。结果是硬币更可能落在开始抛出的那一面，即所谓的“同面偏差”。他的模型预测硬币落在开始抛出那一面的概率大约为 51%。欧洲研究人员收集了 350,757 次抛硬币的情况，结果强有力的支持了 Diaconis 的预测，落在同面的概率为 0.508。这一现象对不同硬币都适用。<a href="https://arxiv.org/abs/2310.04153">link</a></li>
 </ul>
