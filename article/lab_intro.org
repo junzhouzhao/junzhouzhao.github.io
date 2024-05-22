@@ -1,6 +1,6 @@
 #+TITLE:       Lab Intro
 #+DATE:        2021-09-30 Thu
-#+URI:         /article/lab_intro.html
+#+URI:         /article/lab_intro
 #+LANGUAGE:    zh_cn
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 
