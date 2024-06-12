@@ -28,6 +28,9 @@ algorithm design, and data security.
 [[file:images/news.gif]]招收博士生、硕士生以及本科实习生。要求态度踏实认真、能积极主动思考、勇于钻研探索、
 有团队协作以及追求卓越的精神。[[[file:article/lab_intro.org][实验室简介]]]
 
+[[file:images/news.gif]] 现招收网络流量分析和隐私计算方向实习生，有意请投递简历到本人邮箱（有效期至 2024
+年 10 月）。
+
 * Research
   - 大数据近似计算与数据挖掘：包括流数据与图数据近似计算与优化、知识图谱检索与推理等；
   - 数据安全与隐私计算：包括网络流量分析、网络异常检测、隐私计算技术等。[[[file:research.org][了解更多]]]
