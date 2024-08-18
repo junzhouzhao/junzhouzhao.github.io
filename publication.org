@@ -6,8 +6,8 @@
 [[[file:../article/conference_list.org][机器学习、数据挖掘以及人工智能等领域的主流国际会议]]]
 
 - *[ACL'24]* Shuo Zhang, Liangming Pan, _Junzhou Zhao_, and William Yang Wang. "The Knowledge Alignment Problem:
-  Bridging Human and External Knowledge for Large Language Models". /Findings of ACL/, 2024. [[[https://arxiv.org/abs/2305.13669][arXiv]]] ~CCF-A~ ~大模型~
-  ~模型幻想~ ~知识对齐~
+  Bridging Human and External Knowledge for Large Language Models". /Findings of ACL/, 2024. [[[https://arxiv.org/abs/2305.13669][arXiv]]][[[file:assets/MixAlign.pdf][slides]]]
+  ~CCF-A~ ~大模型~ ~模型幻想~ ~知识对齐~
 
 - *[WWW'24]* Chenxu Wang, Xichan Nie, Jinfeng Chen, Pinghui Wang, _Junzhou Zhao_, and Xiaohong Guan. "SMUG: Sand Mixing
   for Unobserved Class Detection in Graph Few-Shot Learning". In /Proceedings of the ACM on Web Conference/, 2024.
