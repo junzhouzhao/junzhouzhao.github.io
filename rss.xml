@@ -4,195 +4,10 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Sat, 15 Jun 2024 20:24:16 CST</pubDate>
-    <lastBuildDate>Sat, 15 Jun 2024 20:24:16 CST</lastBuildDate>
+    <pubDate>Sun, 18 Aug 2024 14:32:50 CST</pubDate>
+    <lastBuildDate>Sun, 18 Aug 2024 14:32:50 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
-    <item>
-      <title>Research</title>
-      <link>https://junzhouzhao.github.io/research/</link>
-      <description><![CDATA[<section id="content">
-    <div id="table-of-contents" role="doc-toc">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents" role="doc-toc">
-<ul>
-<li><a href="#org24cf650">1. 大数据近似计算与数据挖掘</a></li>
-<li><a href="#org2255ede">2. 数据安全与隐私计算</a></li>
-</ul>
-</div>
-</div>
-<p>大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些问题与挑战，我们开展了一系列相关研究。</p>
-
-
-<div id="org0f0a92f" class="figure">
-<p><img src="/assets/research/big_data.png" alt="big_data.png" />
-</p>
-<p><span class="figure-number">Figure 1: </span>各种类型大数据</p>
-</div>
-
-
-<div id="outline-container-org24cf650" class="outline-2">
-<h2 id="org24cf650"><span class="section-number-2">1.</span> 大数据近似计算与数据挖掘</h2>
-<div class="outline-text-2" id="text-1">
-</div>
-<div id="outline-container-org6a2e1c1" class="outline-3">
-<h3 id="org6a2e1c1"><span class="section-number-3">1.1.</span> 大规模图数据采样测量方法</h3>
-<div class="outline-text-3" id="text-1-1">
-<p>研究者作为第三方通常不拥有图数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业机密的考虑，Facebook 等数据拥有方并不愿意共享数据给第三方。在这种情况下，第三方只能利用图数据拥有者提供的 API 接口访问图数据，但是 API 往往会通过限制调用总次数或调用频率等手段使第三方无法获得完整图数据。为了分析图数据的结构特征，第三方通常只能用采样的方法采样得到一些节点和边作为样本，利用这些少量样本估计图的整体结构特征，例如通常使用的节点采样或随机游走等策略。</p>
-
-
-
-<div id="org297d073" class="figure">
-<p><img src="/assets/research/random_walk_sampling.png" alt="random_walk_sampling.png" width="700px" />
-</p>
-<p><span class="figure-number">Figure 2: </span>基于随机游走的大图采样方法</p>
-</div>
-</div>
-</div>
-
-
-<div id="outline-container-org2cbf367" class="outline-3">
-<h3 id="org2cbf367"><span class="section-number-3">1.2.</span> 大规模图数据子图模式挖掘算法</h3>
-<div class="outline-text-3" id="text-1-2">
-<p>
-Graphlet 或 motif 指网络中由少数节点构成的且连通的子图，例如 3-节点子图、4-节点子图、5-节点子图等。这样的子图被认为是构成大规模复杂网络的最小单元，被称为图的基因。子图模式挖掘在分析复杂网络的功能方面有大量应用，例如一些生物大分子的功能由其基本子图单元决定。大规模图中由于组合爆炸会导致子图数量异常巨大，如果用穷举的方式统计，则会导致计算效率低下，因此需要探索高效的子图模式挖掘算法。</p>
-
-
-<div id="org6295ff2" class="figure">
-<p><img src="/assets/research/graphlets.png" alt="graphlets.png" />
-</p>
-<p><span class="figure-number">Figure 3: </span>一种 5 节点子图数量快速估计方法</p>
-</div>
-</div>
-</div>
-
-
-<div id="outline-container-orge420303" class="outline-3">
-<h3 id="orge420303"><span class="section-number-3">1.3.</span> 流式数据实时处理与在线优化</h3>
-<div class="outline-text-3" id="text-1-3">
-<p>网络流量等流式数据中普遍存在 Heavy Hitter、大象流、持续流等现象，与网络扫描行为、
-DDoS 攻击行为、APT 攻击行为等息息相关，所以实时发现高速流式数据中的 Heavy Hitter、大象流、持续流是流式数据处理中的重要研究内容。由于这些处理算法往往需要部署在交换机、路由器、IoT 设备、边缘设备等资源受限设备中，因此对算法的计算复杂度、内存占用等提出特别高的要求，需要设计了一系列轻量级、高效率的面向高速数据流的快速筛选方法。</p>
-
-<p>此外，识别图中最有影响力的节点在很多实际问题中都有应用，例如在线广告投放、病毒营销等。目前的工作大都假设网络结构固定不变，但实际中网络结构可能在不断发生变化，导致昨天识别的一组最有影响力节点在今天不一定仍然有影响力。我们设计了一种动态图数据流上的最优节点识别算法，可以实时的跟踪图数据流中<i>K</i>个最有影响力的节点。该方法可以推广到一般数据流中的在线优化问题求解。</p>
-
-
-
-<div id="orgd2cef09" class="figure">
-<p><img src="/assets/research/SSO_inf.png" alt="SSO_inf.png" />
-</p>
-<p><span class="figure-number">Figure 4: </span>一种动态图流中最有影响力节点发现与跟踪方法</p>
-</div>
-</div>
-</div>
-
-
-<div id="outline-container-org0d0fb01" class="outline-3">
-<h3 id="org0d0fb01"><span class="section-number-3">1.4.</span> 图数据表示学习</h3>
-<div class="outline-text-3" id="text-1-4">
-<p>图表示学习通过将节点映射为向量，通过机器学习的方法解决节点标签预测、链接预测、图分类等任务。图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节点的表示。</p>
-
-
-<div id="org72fb232" class="figure">
-<p><img src="/assets/research/graph_learning.png" alt="graph_learning.png" />
-</p>
-<p><span class="figure-number">Figure 5: </span>图表示学习</p>
-</div>
-</div>
-</div>
-
-
-<div id="outline-container-org905d95e" class="outline-3">
-<h3 id="org905d95e"><span class="section-number-3">1.5.</span> 自然语言处理</h3>
-<div class="outline-text-3" id="text-1-5">
-<p>开展了包括合同一致性检查、案件适用法条推荐与审判结果预测、问答系统对话策略优化、知识图谱推理、大语言模型等研究。</p>
-</div>
-</div>
-</div>
-
-
-<div id="outline-container-org2255ede" class="outline-2">
-<h2 id="org2255ede"><span class="section-number-2">2.</span> 数据安全与隐私计算</h2>
-<div class="outline-text-2" id="text-2">
-</div>
-<div id="outline-container-orge82feca" class="outline-3">
-<h3 id="orge82feca"><span class="section-number-3">2.1.</span> 网络监控</h3>
-<div class="outline-text-3" id="text-2-1">
-<p>如何及时发现大规模网络中的攻击行为，例如通信网络中的 DDoS 攻击以及 OSN 中的 Social Bot 攻击。此外，如何选择网络中的一组最优观测节点（或者称为 Social Sensor）用来及时发现网络中的传播事件，也是网络监控需要解决的问题。</p>
-
-
-<div id="orgd805d7f" class="figure">
-<p><img src="/assets/research/monitoring.png" alt="monitoring.png" width="700px" />
-</p>
-<p><span class="figure-number">Figure 6: </span>利用线上社交网络数据实现对线下自然社会的事件监控</p>
-</div>
-</div>
-</div>
-
-<div id="outline-container-org474eccc" class="outline-3">
-<h3 id="org474eccc"><span class="section-number-3">2.2.</span> 隐私计算</h3>
-<div class="outline-text-3" id="text-2-2">
-<p>保障用户隐私与数据安全日益收到重视。数据拥有方的数据由于涉及机密、隐私等原因，往往不愿意公开分享与流通，例如银行账户转账数据。但是不同数据方又存在合作的意愿，例如不同银行希望合作以更好的评估个人或企业的信贷风险。如何在不泄漏数据方隐私数据的情况下实现不同数据方的合作，是隐私计算的重要研究课题。我们基于差分隐私技术和安全多方计算技术设计了一些不同数据方能够在不泄漏数据的情况下合作计算的方法。</p>
-
-
-<div id="org619bb18" class="figure">
-<p><img src="/assets/research/MPC.png" alt="MPC.png" width="700px" />
-</p>
-<p><span class="figure-number">Figure 7: </span>安全多方计算示意</p>
-</div>
-</div>
-</div>
-</div>
-
-</section>
-]]></description>
-      <pubDate>2024-06-12</pubDate>
-      <guid>https://junzhouzhao.github.io/research/</guid>
-    </item>
-    <item>
-      <title>Lab Intro</title>
-      <link>https://junzhouzhao.github.io/article/lab_intro</link>
-      <description><![CDATA[<section id="content">
-    
-
-<div id="outline-container-orgba76d29" class="outline-2">
-<h2 id="orgba76d29">实验室简介</h2>
-<div class="outline-text-2" id="text-orgba76d29">
-<p>课题组隶属于西安交通大学智能网络与网络安全教育部重点实验室，位于西安交通大学兴庆校区，实验室首席科学家是中国科学院院士管晓宏教授。实验室拥有世界一流的科研环境，依托计算机科学与技术、控制科学与工程、信息与通信工程、网络空间安全、数学五个一级学科，以智能网络与网络化系统为对象，研究网络化系统的大数据分析、优化运行和系统安全等重大共性问题。实验室与国际知名团队保持紧密合作，包括香港中文大学、香港理工大学、马萨诸塞大学、明尼苏达州立大学、阿卜杜拉国王科技大学、新加坡国立大学等。</p>
-
-
-<div id="org1524ebf" class="figure">
-<p><img src="/assets/article/lab_intro/lab.png" alt="lab.png" style="margin-bottom:2em;" />
-</p>
-</div>
-
-
-<p>实验室网络以百 G 带宽直接接入西安交大校园网、CERNET 西北网和中国电信。实验室为每位同学配置高性能工作站，实验室机房配有多种专用网络设备、高性能 CPU/GPU/TPU 服务器、海量数据存储阵列等。</p>
-
-
-<div id="org3d01e16" class="figure">
-<p><img src="/assets/article/lab_intro/equipment.png" alt="equipment.png" style="margin-bottom:2em;" />
-</p>
-</div>
-
-
-<p>实验室向同学提供优良、宽松的学习与生活环境。配有会议室、讨论室、设备间，及微波炉、洗衣机、冰箱等生活电器。实验室科研氛围浓厚，定期举行学术交流会、技术交流会以及其他活动。</p>
-
-
-<div id="org039a786" class="figure">
-<p><img src="/assets/article/lab_intro/workspace.png" alt="workspace.png" style="margin-bottom:2em;" />
-</p>
-</div>
-
-
-<p>欢迎对<font color="red">大数据分析、数据库系统、机器学习、网络安全</font>等研究领域感兴趣的同学加入！</p>
-</div>
-</div>
-
-</section>
-]]></description>
-      <pubDate>2024-05-22</pubDate>
-      <guid>https://junzhouzhao.github.io/article/lab_intro</guid>
-    </item>
     <item>
       <title>Publication</title>
       <link>https://junzhouzhao.github.io/publication/</link>
@@ -203,8 +18,8 @@ DDoS 攻击行为、APT 攻击行为等息息相关，所以实时发现高速�
 
 <ul class="org-ul">
 <li><b>[ACL'24]</b> Shuo Zhang, Liangming Pan, <span class="underline">Junzhou Zhao</span>, and William Yang Wang. "The Knowledge Alignment Problem:
-Bridging Human and External Knowledge for Large Language Models". <i>Findings of ACL</i>, 2024. [<a href="https://arxiv.org/abs/2305.13669">arXiv</a>] <code>CCF-A</code> <code>大模型</code>
-<code>模型幻想</code> <code>知识对齐</code></li>
+Bridging Human and External Knowledge for Large Language Models". <i>Findings of ACL</i>, 2024. [<a href="https://arxiv.org/abs/2305.13669">arXiv</a>][<a href="/assets/publication/MixAlign.pdf">slides</a>]
+<code>CCF-A</code> <code>大模型</code> <code>模型幻想</code> <code>知识对齐</code></li>
 
 <li><b>[WWW'24]</b> Chenxu Wang, Xichan Nie, Jinfeng Chen, Pinghui Wang, <span class="underline">Junzhou Zhao</span>, and Xiaohong Guan. "SMUG: Sand Mixing
 for Unobserved Class Detection in Graph Few-Shot Learning". In <i>Proceedings of the ACM on Web Conference</i>, 2024.
@@ -378,501 +193,62 @@ Web in China". In <i>Proceedings of the Web Science Conference (WebSci)</i>, 201
 
 </section>
 ]]></description>
-      <pubDate>2024-05-22</pubDate>
+      <pubDate>2024-08-18</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://junzhouzhao.github.io/research/</link>
+      <description><![CDATA[]]></description>
+      <pubDate>2024-06-12</pubDate>
+      <guid>https://junzhouzhao.github.io/research/</guid>
+    </item>
+    <item>
+      <title>Lab Intro</title>
+      <link>https://junzhouzhao.github.io/article/lab_intro</link>
+      <description><![CDATA[]]></description>
+      <pubDate>2024-05-22</pubDate>
+      <guid>https://junzhouzhao.github.io/article/lab_intro</guid>
     </item>
     <item>
       <title>密码学理论与实践</title>
       <link>https://junzhouzhao.github.io/courses/crypt</link>
-      <description><![CDATA[<section id="content">
-    
-<div id="outline-container-org4a13c5b" class="outline-2">
-<h2 id="org4a13c5b">密码学理论与实践</h2>
-<div class="outline-text-2" id="text-org4a13c5b">
-<ul class="org-ul">
-<li>研究生课程 AUTO712705：《密码学理论与实践》 (Theory and Practice of Cryptography)，秋下，32 学时</li>
-</ul>
-
-<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="hsides" style="margin-left:auto; margin-right:auto;">
-
-
-<colgroup>
-<col  class="org-right" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-right">No.</th>
-<th scope="col" class="org-left">课程内容</th>
-<th scope="col" class="org-left">PPT</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-right">1</td>
-<td class="org-left">课程介绍</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">2</td>
-<td class="org-left">传统加密技术</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">3</td>
-<td class="org-left">分组密码和数据加密标准</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">4</td>
-<td class="org-left">有限域</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">5</td>
-<td class="org-left">高级数据加密标准</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">6</td>
-<td class="org-left">多重加密及其安全性分析</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">7</td>
-<td class="org-left">分组密码的工作模式和流密码</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">8</td>
-<td class="org-left">数论基础</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">9</td>
-<td class="org-left">公钥密码学</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">10</td>
-<td class="org-left">密钥管理和其他公钥密码学体制</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">11</td>
-<td class="org-left">消息认证和安全哈希函数</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">12</td>
-<td class="org-left">数字签名</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">13</td>
-<td class="org-left">密钥管理和分发</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">14</td>
-<td class="org-left">用户认证</td>
-<td class="org-left">slides</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-
-</section>
-]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2024-02-25</pubDate>
       <guid>https://junzhouzhao.github.io/courses/crypt</guid>
     </item>
     <item>
       <title>概率统计与随机过程</title>
       <link>https://junzhouzhao.github.io/courses/stat</link>
-      <description><![CDATA[<section id="content">
-    
-<div id="outline-container-org127b604" class="outline-2">
-<h2 id="org127b604">概率统计与随机过程</h2>
-<div class="outline-text-2" id="text-org127b604">
-<ul class="org-ul">
-<li>本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic Process)，春</li>
-</ul>
-
-<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="hsides" style="margin-left:auto; margin-right:auto;">
-
-
-<colgroup>
-<col  class="org-right" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-right">No.</th>
-<th scope="col" class="org-left">课程内容</th>
-<th scope="col" class="org-left">PPT</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-right">0</td>
-<td class="org-left">课程介绍</td>
-<td class="org-left"><a href="/assets/courses/stat/stat0.pdf">slides</a></td>
-</tr>
-
-<tr>
-<td class="org-right">1</td>
-<td class="org-left">随机事件与概率</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">2</td>
-<td class="org-left">随机变量与概率分布</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">3</td>
-<td class="org-left">随机变量的数字特征</td>
-<td class="org-left">slides</td>
-</tr>
-
-<tr>
-<td class="org-right">4</td>
-<td class="org-left">大数定律与中心极限定理</td>
-<td class="org-left">slides</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-
-
-<div id="outline-container-orgace343e" class="outline-2">
-<h2 id="orgace343e">News</h2>
-<div class="outline-text-2" id="text-orgace343e">
-<ul class="org-ul">
-<li><b>数十万次测试证明抛硬币更可能落在开始抛的那一面</b>：前职业魔术师、斯坦福数学统计学教授 Persi Diaconis 指出，当人们抛一枚普通硬币时会引入一个小幅度的“进动”——整个硬币的轨迹中对旋转轴方向的一个变动。结果是硬币更可能落在开始抛出的那一面，即所谓的“同面偏差”。他的模型预测硬币落在开始抛出那一面的概率大约为 51%。欧洲研究人员收集了 350,757 次抛硬币的情况，结果强有力的支持了 Diaconis 的预测，落在同面的概率为 0.508。这一现象对不同硬币都适用。<a href="https://arxiv.org/abs/2310.04153">link</a></li>
-</ul>
-</div>
-</div>
-
-</section>
-]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2024-02-25</pubDate>
       <guid>https://junzhouzhao.github.io/courses/stat</guid>
     </item>
     <item>
       <title>Contact</title>
       <link>https://junzhouzhao.github.io/contact/</link>
-      <description><![CDATA[<section id="content">
-    
-<div id="outline-container-orga2473bb" class="outline-2">
-<h2 id="orga2473bb">Contact</h2>
-<div class="outline-text-2" id="text-orga2473bb">
-<p>陕西省西安市碑林区咸宁西路 28 号，西安交通大学智网实验室 1088 信箱 (P.O. Box
-1088#, Xi'an Jiaotong University, No.28, Xianning West Road, Xi'an 710049, Shaanxi
-Prov., P. R. China)
-</p>
-
-<ul class="org-ul">
-<li><a href="https://nskeylab.xjtu.edu.cn">智能网络与网络安全教育部重点实验室</a> (Ministry of Education Key Lab for
-Intelligent Networks and Network Security, aka MOE KLINNS Lab) <br /></li>
-<li><a href="http://cybersec.xjtu.edu.cn">网络空间安全学院</a> (School of Cyber Science and Engineering)</li>
-</ul>
-
-<p>
-Office: 网络中心三楼 309 <br />
-E-mail: junzhou.zhao AT xjtu DOT edu DOT cn
-</p>
-</div>
-</div>
-
-</section>
-]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2024-02-19</pubDate>
       <guid>https://junzhouzhao.github.io/contact/</guid>
     </item>
     <item>
       <title>Conference List</title>
       <link>https://junzhouzhao.github.io/article/conference_list</link>
-      <description><![CDATA[<section id="content">
-    <div id="table-of-contents" role="doc-toc">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents" role="doc-toc">
-<ul>
-<li><a href="#org72dde16">主要国际会议</a>
-<ul>
-<li><a href="#org497f4a5">机器学习、数据挖掘、人工智能等</a></li>
-<li><a href="#org0f0cc24">网络安全</a></li>
-</ul>
-</li>
-<li><a href="#org9ec13df">国际期刊黑名单（计算机）</a></li>
-</ul>
-</div>
-</div>
-
-
-<div id="outline-container-org72dde16" class="outline-2">
-<h2 id="org72dde16">主要国际会议</h2>
-<div class="outline-text-2" id="text-org72dde16">
-</div>
-<div id="outline-container-org497f4a5" class="outline-3">
-<h3 id="org497f4a5">机器学习、数据挖掘、人工智能等</h3>
-<div class="outline-text-3" id="text-org497f4a5">
-
-<div id="orga53d538" class="figure">
-<p><img src="/assets/article/conference_list/MLDMAImap.png" alt="MLDMAImap.png" />
-</p>
-</div>
-
-<p>
-<a href="https://www.kamishima.net/archive/MLDMAImap.pdf">Source</a>
-</p>
-</div>
-</div>
-
-<div id="outline-container-org0f0cc24" class="outline-3">
-<h3 id="org0f0cc24">网络安全</h3>
-<div class="outline-text-3" id="text-org0f0cc24">
-<p>
-Tier 1:
-</p>
-<ul class="org-ul">
-<li><b>S&amp;P</b>: IEEE Symposium on Security and Privacy</li>
-<li><b>CCS</b>: ACM Conference on Computer and Communications Security</li>
-<li><b>USENIX Security</b>: USENIX Security Symposium</li>
-<li><b>NDSS</b>: Network and Distributed System Security Symposium</li>
-<li><b>Crypto</b>: International Cryptology Conference</li>
-<li><b>Eurocrypt</b>: European Cryptology Conference</li>
-</ul>
-
-<p>
-Tier 2:
-</p>
-<ul class="org-ul">
-<li><b>ESORICS</b>: European Symposium on Research in Computer Security</li>
-<li><b>RAID</b>: International Symposium on Recent Advances in Intrusion Detection</li>
-<li><b>ACSAC</b>: Annual Computer Security Applications Conference</li>
-<li><b>DSN</b>: The International Conference on Dependable Systems and Networks</li>
-<li><b>ASIACCS</b>: ACM Symposium on Information, Computer and Communications Security</li>
-<li><b>PETS</b>: Privacy Enhancing Technologies Symposium</li>
-<li><b>EuroS&amp;P</b>: IEEE European Symposium on Security and Privacy</li>
-<li><b>CSF</b>: IEEE Computer Security Foundations Symposium</li>
-<li><b>Asiacrypt</b>: International Conference on the Theory and Application of Cryptology and Information Security</li>
-<li><b>TCC</b>: Theory of Cryptography Conference</li>
-<li><b>CHES</b>: Conference on Cryptographic Hardware and Embedded Systems</li>
-</ul>
-
-<p>
-<a href="https://people.engr.tamu.edu/guofei/sec_conf_stat.htm">Source</a>
-</p>
-</div>
-</div>
-</div>
-
-<div id="outline-container-org9ec13df" class="outline-2">
-<h2 id="org9ec13df">国际期刊黑名单（计算机）</h2>
-<div class="outline-text-2" id="text-org9ec13df">
-<ul class="org-ul">
-<li>IEEE Access</li>
-<li>Scientific Reports 和 PLOS ONE 也不建议投稿</li>
-</ul>
-
-<p>
-<a href="https://mp.weixin.qq.com/s?__biz=MzI1MzA2MzM1NA==&amp;mid=2659567089&amp;idx=1&amp;sn=f4cad93ba3a425524eb19d25ffb25960&amp;chksm=f2ab5c24c5dcd53275aa36b9167d9788577a6a919e2bc80b1144088ea78b32bae8350535b344&amp;mpshare=1&amp;scene=1&amp;srcid=0929fMzO4gh0c4l9vLodlKpO&amp;sharer_sharetime=1632924577713&amp;sharer_shareid=c09e2fcd62c7e0a6299c4fa0f2ee6236#rd">Source</a>
-</p>
-</div>
-</div>
-
-</section>
-]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2023-10-12</pubDate>
       <guid>https://junzhouzhao.github.io/article/conference_list</guid>
     </item>
     <item>
       <title>关于读研究生/做研究的一些建议</title>
       <link>https://junzhouzhao.github.io/article/tips</link>
-      <description><![CDATA[<section id="content">
-    <div id="table-of-contents" role="doc-toc">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents" role="doc-toc">
-<ul>
-<li><a href="#orgebd447f">如何做报告</a></li>
-<li><a href="#org8e70559">如何写论文</a></li>
-<li><a href="#org31727bb">其他建议</a></li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-orgebd447f" class="outline-2">
-<h2 id="orgebd447f">如何做报告</h2>
-<div class="outline-text-2" id="text-orgebd447f">
-<ul class="org-ul">
-<li>Anupam’s Suggestions for Speaking Skills Talks (and talks in general), by Prof.
-Anupam Gupta, Dept. of Computer Science, CMU. [<a href="http://www.cs.cmu.edu/~anupamg/speaking.html">Link</a>]</li>
-<li>How to Give a Technical Presentation (How to Give a Scientific Talk), by Prof.
-Michael Ernst, Dept. of CSE, University of Washington. [<a href="https://homes.cs.washington.edu/~mernst/advice/giving-talk.html">Link</a>]</li>
-<li>How to Give a Great Research Talk, by Simon Peyton Jones [<a href="https://www.bilibili.com/video/BV1Nx411s7ak">Bilibili</a>]</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-org8e70559" class="outline-2">
-<h2 id="org8e70559">如何写论文</h2>
-<div class="outline-text-2" id="text-org8e70559">
-<ul class="org-ul">
-<li><b>[强烈推荐]</b> How to Write a Great Research Paper, by Simon Peyton Jones, John
-Hughes, and John Launchbury, University of Glasgow, Scotland [<a href="https://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html">YouKu</a>] [<a href="assets/Write_a_paper_slides.pdf">Slides</a>]</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-org31727bb" class="outline-2">
-<h2 id="org31727bb">其他建议</h2>
-<div class="outline-text-2" id="text-org31727bb">
-<ul class="org-ul">
-<li>来源：中科院计算所，包云冈教授</li>
-</ul>
-
-
-<div id="org7c4c1ec" class="figure">
-<p><img src="/assets/article/tips/bao-1.jpg" alt="bao-1.jpg" width="700px" />
-</p>
-</div>
-
-<div id="orgb048cd2" class="figure">
-<p><img src="/assets/article/tips/bao-2.jpg" alt="bao-2.jpg" width="700px" />
-</p>
-</div>
-
-<div id="orgb6835ac" class="figure">
-<p><img src="/assets/article/tips/bao-3.jpg" alt="bao-3.jpg" width="700px" />
-</p>
-</div>
-</div>
-</div>
-
-</section>
-]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2023-09-18</pubDate>
       <guid>https://junzhouzhao.github.io/article/tips</guid>
     </item>
     <item>
       <title>Resources</title>
       <link>https://junzhouzhao.github.io/resources/</link>
-      <description><![CDATA[<section id="content">
-    <div id="table-of-contents" role="doc-toc">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents" role="doc-toc">
-<ul>
-<li><a href="#org67eac7d">1. Top Conferences</a>
-<ul>
-<li><a href="#org90cb289">1.1. 机器学习、数据挖掘、人工智能等</a></li>
-<li><a href="#org44e634a">1.2. 网络安全</a></li>
-</ul>
-</li>
-<li><a href="#org2d1f4c1">2. 国际期刊黑名单（计算机）</a></li>
-</ul>
-</div>
-</div>
-
-
-
-<div id="outline-container-org67eac7d" class="outline-2">
-<h2 id="org67eac7d"><span class="section-number-2">1.</span> Top Conferences</h2>
-<div class="outline-text-2" id="text-1">
-</div>
-<div id="outline-container-org90cb289" class="outline-3">
-<h3 id="org90cb289"><span class="section-number-3">1.1.</span> 机器学习、数据挖掘、人工智能等</h3>
-<div class="outline-text-3" id="text-1-1">
-
-<div id="org038a52d" class="figure">
-<p><img src="/assets/resources/MLDMAImap.png" alt="MLDMAImap.png" />
-</p>
-</div>
-
-<p>
-Source: <a href="https://www.kamishima.net/archive/MLDMAImap.pdf">https://www.kamishima.net/archive/MLDMAImap.pdf</a>
-</p>
-</div>
-</div>
-
-<div id="outline-container-org44e634a" class="outline-3">
-<h3 id="org44e634a"><span class="section-number-3">1.2.</span> 网络安全</h3>
-<div class="outline-text-3" id="text-1-2">
-<p>
-Tier 1:
-</p>
-<ul class="org-ul">
-<li><b>S&amp;P</b>: IEEE Symposium on Security and Privacy</li>
-<li><b>CCS</b>: ACM Conference on Computer and Communications Security</li>
-<li><b>USENIX Security</b>: USENIX Security Symposium</li>
-<li><b>NDSS</b>: Network and Distributed System Security Symposium</li>
-<li><b>Crypto</b>: International Cryptology Conference</li>
-<li><b>Eurocrypt</b>: European Cryptology Conference</li>
-</ul>
-
-<p>
-Tier 2:
-</p>
-<ul class="org-ul">
-<li><b>ESORICS</b>: European Symposium on Research in Computer Security</li>
-<li><b>RAID</b>: International Symposium on Recent Advances in Intrusion Detection</li>
-<li><b>ACSAC</b>: Annual Computer Security Applications Conference</li>
-<li><b>DSN</b>: The International Conference on Dependable Systems and Networks</li>
-<li><b>ASIACCS</b>: ACM Symposium on Information, Computer and Communications Security</li>
-<li><b>PETS</b>: Privacy Enhancing Technologies Symposium</li>
-<li><b>EuroS&amp;P</b>: IEEE European Symposium on Security and Privacy</li>
-<li><b>CSF</b>: IEEE Computer Security Foundations Symposium</li>
-<li><b>Asiacrypt</b>: International Conference on the Theory and Application of Cryptology and Information Security</li>
-<li><b>TCC</b>: Theory of Cryptography Conference</li>
-<li><b>CHES</b>: Conference on Cryptographic Hardware and Embedded Systems</li>
-</ul>
-
-<p>
-Source: <a href="https://people.engr.tamu.edu/guofei/sec_conf_stat.htm">https://people.engr.tamu.edu/guofei/sec_conf_stat.htm</a>
-</p>
-</div>
-</div>
-</div>
-
-<div id="outline-container-org2d1f4c1" class="outline-2">
-<h2 id="org2d1f4c1"><span class="section-number-2">2.</span> 国际期刊黑名单（计算机）</h2>
-<div class="outline-text-2" id="text-2">
-<ul class="org-ul">
-<li>IEEE Access</li>
-<li>Scientific Reports 和 PLOS ONE 也不建议投稿</li>
-</ul>
-<p>
-Source: <a href="https://mp.weixin.qq.com/s?__biz=MzI1MzA2MzM1NA==&amp;mid=2659567089&amp;idx=1&amp;sn=f4cad93ba3a425524eb19d25ffb25960&amp;chksm=f2ab5c24c5dcd53275aa36b9167d9788577a6a919e2bc80b1144088ea78b32bae8350535b344&amp;mpshare=1&amp;scene=1&amp;srcid=0929fMzO4gh0c4l9vLodlKpO&amp;sharer_sharetime=1632924577713&amp;sharer_shareid=c09e2fcd62c7e0a6299c4fa0f2ee6236#rd">中科院文献情报中心分区表</a>
-</p>
-</div>
-</div>
-
-</section>
-]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2022-05-15</pubDate>
       <guid>https://junzhouzhao.github.io/resources/</guid>
     </item>
