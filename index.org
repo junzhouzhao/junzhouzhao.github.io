@@ -6,31 +6,30 @@
 
 * Biography
 
-#+ATTR_HTML: :style float:right; margin: 0 0 10px 10px; border-radius: 5%; :width 150px
+#+ATTR_HTML: :style float:right; margin: 10px; border-radius: 5%; :width 150px
 [[file:images/avatar.png]]
 
 Junzhou Zhao is an associate professor at the School of Cyber Science and Engineering, [[http://www.xjtu.edu.cn/][Xi'an
-Jiaotong University (XJTU)]]. Prior to joining XJTU, he was a postdoctoral researcher at the School
-of Computer, Electrical and Mathematical Science and Engineering (CEMSE), [[https://www.kaust.edu.sa/][King Abdullah University
-of Science and Technology (KAUST)]], working with [[https://www.kaust.edu.sa/en/study/faculty/xiangliang-zhang][Prof. Xiangliang Zhang]]. He was also a postdoctoral
-researcher at the Department of Computer Science & Engineering, [[http://www.cse.cuhk.edu.hk/en/][The Chinese University of Hong Kong
-(CUHK)]], working with [[http://www.cse.cuhk.edu.hk/~cslui/][Prof. John C.S. Lui]]. He holds a Ph.D. degree in Control Science and
-Engineering, and a B.S. degree in Automation Science and Technology, both from [[http://www.xjtu.edu.cn/][XJTU]], under the
-supervision of [[http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=502][Prof. Xiaohong Guan]]. His research interests focus on network/graph data analysis,
-algorithm design, and data security.
+Jiaotong University (XJTU)]]. Prior to joining XJTU, he was a postdoctoral researcher at the School of
+Computer, Electrical and Mathematical Science and Engineering, [[https://www.kaust.edu.sa/][King Abdullah University of Science
+and Technology]]. He was also a postdoctoral researcher at the Department of Computer Science &
+Engineering, [[http://www.cse.cuhk.edu.hk/en/][The Chinese University of Hong Kong]]. He holds a Ph.D. degree in Control Science and
+Engineering, and a B.S. degree in Automation Science and Technology, both from [[http://www.xjtu.edu.cn/][XJTU]]. His research
+interests focus on network/graph data analysis, algorithm design, and data security.
 
-赵俊舟，西安交通大学网络空间安全学院特聘研究员，博士生导师。曾分别任职沙特王国阿卜杜拉国王科技大学
-（KAUST）计算机、电子与数学科学与工程系（CEMSE）博士后研究员，以及香港中文大学（CUHK）计算机科学与工
-程系（CSE）博士后研究员。主要从事大数据近似计算与数据挖掘、数据安全与隐私计算等研究。
+赵俊舟，西安交通大学网络空间安全学院特聘研究员、博士生导师。曾分别任职沙特王国阿卜杜拉国王科技大学和
+香港中文大学博士后研究员。主要研究方向包括大数据近似计算与优化、数据挖掘、数据安全与隐私计算等。
 
 
 #+ATTR_HTML: :style margin-right:1ex;
-[[file:images/news.gif]]招收博士生、硕士生以及本科实习生。要求态度踏实认真、能积极主动思考、勇于钻研探索、
-有团队协作以及追求卓越的精神。[[[file:article/lab_intro.org][实验室简介]]]
+[[file:images/news.gif]]招收博士生、硕士生及本科实习生。要求态度踏实认真、能积极主动思考、勇于钻研探索、
+有团队协作及追求卓越的精神。[[[file:article/lab_intro.org][实验室简介]]]
 
 * Research
   - 大数据近似计算与数据挖掘：包括流数据与图数据近似计算与优化、知识图谱检索与推理等；
-  - 数据安全与隐私计算：包括网络流量分析、网络异常检测、隐私计算技术等。[[[file:research.org][了解更多]]]
+  - 数据安全与隐私计算：包括网络流量分析、网络异常检测、隐私计算技术等。
+
+    [[file:research.org][更多介绍]]
 
 * Courses
   - 本科生课程 MATH200327：[[file:courses/stat.org][《概率统计与随机过程》]](Probability Theory and Stochastic Process)，春
