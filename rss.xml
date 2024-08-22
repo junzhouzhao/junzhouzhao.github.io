@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Thu, 22 Aug 2024 10:23:42 CST</pubDate>
-    <lastBuildDate>Thu, 22 Aug 2024 10:23:42 CST</lastBuildDate>
+    <pubDate>Thu, 22 Aug 2024 17:02:29 CST</pubDate>
+    <lastBuildDate>Thu, 22 Aug 2024 17:02:29 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -16,25 +16,25 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org9a0dd77">主要国际会议</a>
+<li><a href="#org528c0a3">主要国际会议</a>
 <ul>
-<li><a href="#org3cf57e9">机器学习、数据挖掘、人工智能等</a></li>
-<li><a href="#orgc04e067">网络安全</a></li>
+<li><a href="#org9a6050e">机器学习、数据挖掘、人工智能等</a></li>
+<li><a href="#orgf700942">网络安全</a></li>
 </ul>
 </li>
-<li><a href="#orgee175d8">国际期刊黑名单（计算机）</a></li>
+<li><a href="#org9f7a86a">国际期刊黑名单（计算机）</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org9a0dd77" class="outline-2">
-<h2 id="org9a0dd77">主要国际会议</h2>
-<div class="outline-text-2" id="text-org9a0dd77">
+<div id="outline-container-org528c0a3" class="outline-2">
+<h2 id="org528c0a3">主要国际会议</h2>
+<div class="outline-text-2" id="text-org528c0a3">
 </div>
-<div id="outline-container-org3cf57e9" class="outline-3">
-<h3 id="org3cf57e9">机器学习、数据挖掘、人工智能等</h3>
-<div class="outline-text-3" id="text-org3cf57e9">
+<div id="outline-container-org9a6050e" class="outline-3">
+<h3 id="org9a6050e">机器学习、数据挖掘、人工智能等</h3>
+<div class="outline-text-3" id="text-org9a6050e">
 
-<div id="org0fdcc9d" class="figure">
+<div id="orgb86f909" class="figure">
 <p><img src="/assets/article/conference_list/MLDMAImap.png" alt="MLDMAImap.png" />
 </p>
 </div>
@@ -44,9 +44,9 @@
 </p>
 </div>
 </div>
-<div id="outline-container-orgc04e067" class="outline-3">
-<h3 id="orgc04e067">网络安全</h3>
-<div class="outline-text-3" id="text-orgc04e067">
+<div id="outline-container-orgf700942" class="outline-3">
+<h3 id="orgf700942">网络安全</h3>
+<div class="outline-text-3" id="text-orgf700942">
 <p>
 Tier 1:
 </p>
@@ -82,9 +82,9 @@ Tier 2:
 </div>
 </div>
 </div>
-<div id="outline-container-orgee175d8" class="outline-2">
-<h2 id="orgee175d8">国际期刊黑名单（计算机）</h2>
-<div class="outline-text-2" id="text-orgee175d8">
+<div id="outline-container-org9f7a86a" class="outline-2">
+<h2 id="org9f7a86a">国际期刊黑名单（计算机）</h2>
+<div class="outline-text-2" id="text-org9f7a86a">
 <ul class="org-ul">
 <li>IEEE Access</li>
 <li>Scientific Reports</li>
