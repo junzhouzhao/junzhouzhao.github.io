@@ -22,8 +22,8 @@ interests focus on network/graph data analysis, algorithm design, and data secur
 
 
 #+ATTR_HTML: :style margin-right:1ex;
-[[file:images/news.gif]]招收博士生、硕士生及本科实习生。要求态度踏实认真、能积极主动思考、勇于钻研探索、
-有团队协作及追求卓越的精神。[[[file:article/lab_intro.org][实验室简介]]]
+[[file:images/news.gif]]招收博士生、硕士生及实习生。要求态度踏实认真、能积极主动思考、勇于钻研探索、有团
+队协作及追求卓越的精神。[[[file:article/lab_intro.org][实验室简介]]]
 
 * Research
   - 大数据近似计算与数据挖掘：包括流数据与图数据近似计算与优化、知识图谱检索与推理等；
