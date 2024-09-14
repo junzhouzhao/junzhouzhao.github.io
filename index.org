@@ -27,7 +27,7 @@ interests focus on network/graph data analysis, algorithm design, and data secur
 
 * Research
   - 大数据近似计算与数据挖掘：包括流数据与图数据近似计算与优化、知识图谱检索与推理等；
-  - 数据安全与隐私计算：包括网络流量分析、网络异常检测、隐私计算技术等。
+  - 数据安全与隐私计算：包括加密网络流量分析、网络攻防与异常检测、隐私计算技术等。
 
     [[file:research.org][更多介绍]]
 
