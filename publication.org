@@ -99,7 +99,8 @@
   Engineering (IEEE ICDE)/, 2019. [[[https://arxiv.org/abs/1810.07917][arXiv]]][[[file:assets/ICDE19_poster.pdf][poster]]] ~CCF-A~ ~图数据~ ~社交网络~ ~影响力最大化~ ~近似算法~
 
 - *[INS'19]* _Junzhou Zhao_, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem
-  Definitions, Fast Algorithms, and Observations". /Information Sciences (INS)/, 2019. [[[https://arxiv.org/abs/1703.04307][arXiv]]] ~优化算法~ ~近似算法~
+  Definitions, Fast Algorithms, and Observations". /Information Sciences (INS)/, 477:161-185, 2019. [[[https://arxiv.org/abs/1703.04307][arXiv]]] ~优化算法~ ~
+  近似算法~
 
 - *[DMKD'19]* _Junzhou Zhao_, Pinghui Wang, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Online Social
   Networks by Random Walk with Indirect Jumps". /Data Mining and Knowledge Discovery (DMKD)/, 33:24-57, 2019. [[[https://arxiv.org/abs/1708.09081][arXiv]]]
