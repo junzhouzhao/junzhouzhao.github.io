@@ -23,10 +23,12 @@ interests focus on network/graph data analysis, algorithm design, and data secur
 队协作及追求卓越的精神。[[[file:article/lab_intro.org][实验室简介]]]
 
 * Research
-  - 大数据近似计算与数据挖掘：包括流数据与图数据近似计算与优化、知识图谱检索与推理等；
-  - 数据安全与隐私计算：包括加密网络流量分析、网络攻防与异常检测、隐私计算、数据要素流通等。
 
-    [[file:research.org][更多介绍]]
+#+ATTR_HTML: :style float:right; margin-top: -20px; border-radius: 5%; :width 350px
+[[file:research.org][file:images/word-cloud.png]]
+
+- 大数据近似计算与优化：包括图数据、数据流等
+- 数据安全与隐私计算：包括加密网络流量分析、隐私计算等
 
 * Courses
   - 本科生课程 MATH200327：[[file:courses/stat.org][《概率统计与随机过程》]](Probability Theory and Stochastic Process)，春
