@@ -24,7 +24,7 @@ interests focus on network/graph data analysis, algorithm design, and data secur
 
 * Research
 
-#+ATTR_HTML: :style float:right; margin-top: -20px; border-radius: 5%; :width 350px
+#+ATTR_HTML: :style float:right; border-radius: 5%; :width 400px
 [[file:research.org][file:images/word-cloud.png]]
 
 - 大数据近似计算与优化：包括图数据、数据流等
