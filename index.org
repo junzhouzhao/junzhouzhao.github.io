@@ -6,12 +6,12 @@
 
 * Biography
 
-Junzhou Zhao is an associate professor at the School of Cyber Science and Engineering, [[http://www.xjtu.edu.cn/][Xi'an
-Jiaotong University (XJTU)]]. Prior to joining XJTU, he was a postdoctoral researcher at the School of
-Computer, Electrical and Mathematical Science and Engineering, [[https://www.kaust.edu.sa/][King Abdullah University of Science
-and Technology]]. He was also a postdoctoral researcher at the Department of Computer Science &
-Engineering, [[http://www.cse.cuhk.edu.hk/en/][The Chinese University of Hong Kong]]. He holds a Ph.D. degree in Control Science and
-Engineering, and a B.S. degree in Automation Science and Technology, both from [[http://www.xjtu.edu.cn/][XJTU]]. His research
+Junzhou Zhao is an associate professor at the School of Cyber Science and Engineering, Xi'an
+Jiaotong University (XJTU). Prior to joining XJTU, he was a postdoctoral researcher at the School of
+Computer, Electrical and Mathematical Science and Engineering, King Abdullah University of Science
+and Technology. He was also a postdoctoral researcher at the Department of Computer Science &
+Engineering, The Chinese University of Hong Kong. He holds a Ph.D. degree in Control Science and
+Engineering, and a B.S. degree in Automation Science and Technology, both from XJTU. His research
 interests focus on network/graph/streaming data analysis, algorithm design, and data security.
 
 E-mail: junzhou.zhao@xjtu.edu.cn
