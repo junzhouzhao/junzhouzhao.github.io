@@ -14,4 +14,28 @@ Engineering, The Chinese University of Hong Kong. He holds a Ph.D. degree in Con
 Engineering, and a B.S. degree in Automation Science and Technology, both from XJTU. His research
 interests focus on network/graph/streaming data analysis, algorithm design, and data security.
 
+赵俊舟，西安交通大学网络空间安全学院特聘研究员、博士生导师。主要研究方向包括大数据近似计算与优化算法、
+数据挖掘、数据安全与隐私计算等。
+
+#+ATTR_HTML: :style margin-right:1ex;
+[[file:images/news.gif]] 招收博士生、硕士生及实习生。要求态度踏实认真、能积极主动思考、勇于钻研探索、有
+团队协作及追求卓越的精神。[[[file:article/lab_intro.org][实验室简介]]]
+
+
+* Research
+
+- 大数据近似计算与数据挖掘：包括大规模网络/图/流数据近似计算与优化等；
+- 数据安全与隐私计算：包括网络流量分析、隐私计算等。
+
+[[file:research.org][更多介绍]]
+
+
+* Courses
+
+- 本科生课程 MATH200327：[[file:courses/stat.org][《概率统计与随机过程》]](Probability Theory and Stochastic Process)，春
+- 研究生课程 AUTO712705：[[file:courses/crypt.org][《密码学理论与实践》]](Theory and Practice of Cryptography)，秋下
+
+
+* Contact
+
 E-mail: junzhou.zhao@xjtu.edu.cn
