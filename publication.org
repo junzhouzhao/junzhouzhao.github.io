@@ -5,7 +5,7 @@
 
 * Selected Publications
 
-[[[https://scholar.google.com/citations?user=hBLT754AAAAJ][Full Publication List]]]
+[[[https://scholar.google.com/citations?user=hBLT754AAAAJ][Full List]]]
 
 - *[ACL'24]* Shuo Zhang, Liangming Pan, Junzhou Zhao*, and William Yang Wang. "The Knowledge Alignment Problem:
   Bridging Human and External Knowledge for Large Language Models". /Findings of ACL/, 2024. [[[https://arxiv.org/abs/2305.13669][arXiv]]][[[file:assets/MixAlign.pdf][slides]]] ~大模型~
@@ -18,10 +18,6 @@
 - *[TON'24]* Junzhou Zhao, Pinghui Wang, Wei Zhang, Zhaosong Zhang, Maoli Liu, Jing Tao, and John C.S. Lui. "Tracking
   Influencers in Decaying Social Activity Streams with Theoretical Guarantees". /IEEE/ACM Transactions on Networking
   (TON)/, 32(2):1461-1476, 2024. ~图数据流~ ~在线优化~ ~近似计算~
-
-- *[TPDS'23]* Runze Lei, Pinghui Wang, Junzhou Zhao, Lin Lan, Jing Tao, Chao Deng, Junlan Feng, Xidian Wang, and
-  Xiaohong Guan. "Federated Learning over Coupled Graphs". /IEEE Transactions on Parallel and Distributed Systems
-  (TPDS)/, 2023. ~联邦学习~ ~图计算~
 
 - *[AAAI'23]* Shuo Zhang, Junzhou Zhao*, Pinghui Wang, Tianxiang Wang, Zi Liang, Jing Tao, Yi Huang, and Junlan Feng.
   "Multi-Action Dialog Policy Learning from Logged User Feedback". In /Proceedings of the 37th AAAI Conference on
@@ -36,17 +32,9 @@
   Improving Multi-action Dialog Policy by Planning Single-Action Dialogs". In /Proceedings of the 31st International
   Joint Conference on Artificial Intelligence (IJCAI)/, 2022. [[[https://arxiv.org/abs/2204.11481][arXiv]]][[[file:assets/IJCAI22_MADP_slides.pdf][slides]]] ~NLP~ ~对话系统~
 
-- *[ICDE'22]* Juxiang Zeng, Pinghui Wang, Lin Lan, Junzhou Zhao, Feiyang Sun, Jing Tao, Junlan Feng, Min Hu, and
-  Xiaohong Guan. "Accurate and Scalable Graph Neural Networks for Billion-Scale Graphs". In /Proceedings of the 39th
-  IEEE International Conference on Data Engineering (ICDE)/, 2022. ~图数据~ ~图神经网络~
-
 - *[KDD'21]* Junzhou Zhao, Pinghui Wang, Chao Deng, and Jing Tao. "Temporal Biased Streaming Submodular Optimization".
   In /Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)/, 2021. [[[file:assets/KDD21_SSO_slides.pdf][slides]]]
   ~数据流~ ~在线优化~ ~近似计算~
-
-- *[TMC'21]* Feiyang Sun, Pinghui Wang, Junzhou Zhao, Nuo Xu, Juxiang Zeng, Jing Tao, Kaikai Song, Chao Deng, John
-  C.S. Lui, and Xiaohong Guan. "Mobile Data Traffic Prediction by Exploiting Time-Evolving User Mobility Patterns".
-  /IEEE Transactions on Mobile Computing/, 2021. ~时空数据~
 
 - *[AAAI'21]* Shuo Zhang, Junzhou Zhao*, Pinghui Wang, Nuo Xu, Yang Yang, Yiting Liu, Yi Huang, and Junlan Feng.
   "Learning to Check Contract Inconsistencies". In /Proceedings of the 35th AAAI Conference on Artificial Intelligence
@@ -55,13 +43,6 @@
 - *[KAIS'21]* Junzhou Zhao, Pinghui Wang, Zhouguo Chen, Jianwei Ding, John C.S. Lui, Don Towsley, and Xiaohong Guan.
   "Tracking Triadic Cardinality Distributions for Burst Detection in High-Speed Graph Streams". /Knowledge and
   Information Systems (KAIS)/, 63:939-969, 2021. [[[https://arxiv.org/abs/1708.09089][arXiv]]] ~异常检测~ ~图数据流~ ~基数估计~ ~近似计算~
-
-- *[ACL'20]* Nuo Xu, Pinghui Wang, Long Chen, Li Pan, Xiaoyan Wang and Junzhou Zhao. "Distinguish Confusing Law
-  Articles for Legal Judgment Prediction". In /Proceedings of the 58th Annual Meeting of the Association for
-  Computational Linguistics (ACL)/, 2020. [[[https://arxiv.org/abs/2004.02557][arXiv]]] ~NLP~ ~智慧法院~
-
-- *[WWW'20]* Yiyan Qi, Pinghui Wang, Yuanming Zhang, Junzhou Zhao, Guangjian Tian, and Xiaohong Guan. "Fast Generating
-  A Large Number of Gumbel-Max Variables". /The Web Conference (WWW)/, 2020. [[[https://arxiv.org/abs/2002.00413][arXiv]]] ~LSH~
 
 - *[ICDE'20]* Junzhou Zhao, Pinghui Wang, Jing Tao, Shuo Zhang, and John C.S. Lui. "Continuously Tracking Core Items
   in Data Streams with Probabilistic Decays". In /Proceedings of the 36th IEEE International Conference on Data
@@ -73,10 +54,6 @@
 - *[TOIS'20]* Xiaoying Zhang, Hong Xie, Junzhou Zhao, and John C.S. Lui. "Understanding Assimilation-Contrast Effects
   in Online Rating Systems: Modeling, Debiasing and Applications". /ACM Transactions on Information Systems
   (TOIS)/, 2020. ~推荐系统~
-
-- *[IJCAI'19]* Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, and Junzhou Zhao. "MR-GNN: Multi-Resolution and Dual Graph
-  Neural Network for Predicting Structured Entity Interaction". In /Proceedings of the 28th International Joint
-  Conference on Artificial Intelligence (IJCAI)/, 2019. [[[https://arxiv.org/abs/1905.09558][arXiv]]] ~图数据~ ~图表示学习~
 
 - *[AAAI'19]* Junzhou Zhao, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Submodular Optimization over
   Streams with Inhomogeneous Decays". In /Proceedings of the 33rd AAAI Conference on Artificial Intelligence
@@ -117,10 +94,6 @@
   Product Rating Systems: Debiasing and Recommendations". In /Proceedings of the 11th ACM Conference on Recommendation
   Systems (RecSys)/, 2017. ~Awarded Best Paper~ ~推荐系统~
 
-- *[ICDE'16]* Pinghui Wang, John C.S. Lui, Don Towsley, and Junzhou Zhao. "Minfer: A Method of Inferring Motif
-  Statistics from Sampled Edges". In /Proceedings of the 32nd IEEE International Conference on Data Engineering
-  (ICDE)/, 2016. ~图数据~ ~子图模式~ ~图采样~ ~近似计算~
-
 - *[COSN'15]* Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "Tracking Triadic Cardinality
   Distributions for Burst Detection in Social Activity Streams". In /Proceedings of ACM Conference on Online Social
   Networks (COSN)/, 2015. [[[http://arxiv.org/abs/1411.3808][arXiv]]] ~图数据流~ ~异常检测~ ~基数估计~ ~近似计算~
@@ -128,10 +101,6 @@
 - *[ICDE'15]* Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "A Tale of Three Graphs:
   Sampling Design on Hybrid Social-Affiliation Networks". In /Proceedings of the 31st IEEE International Conference on
   Data Engineering (ICDE)/, 2015. [[[file:assets/ICDE2015.pdf][pdf]]] ~图数据~ ~图采样~ ~近似计算~
-
-- *[TIFS'14]* Pinghui Wang, Xiaohong Guang, Junzhou Zhao, Jing Tao, and Tao Qin. "A New Sketch Method for Measuring
-  Host Connection Degree Distribution". /IEEE Transactions on Information Forensics and Security (TIFS)/, 2014.
-  ~异常检测~ ~Sketch~ ~近似计算~
 
 - *[SIMPLEX'14]* Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group
   Closeness Centrality over Disk-Resident Graphs". In /WWW SIMPLEX workshop/, 2014. [[[file:assets/SIMPLEX2014.pdf][pdf]]][[[file:assets/NodeGroup_TR.pdf][TR]]]
@@ -144,10 +113,6 @@
 - *[TKDD'14]* Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Unbiased Characterization of
   Node Pairs over Large Graphs". /ACM Transactions on Knowledge Discovery from Data (TKDD)/, 2014. [[[file:assets/TKDD2014_node_pair.pdf][pdf]]] ~图采样~
   ~近似计算~
-
-- *[TKDD'14]* Pinghui Wang, John C.S. Lui, Bruno Ribeiro, Don Towsley, Junzhou Zhao, and Xiaohong Guan. "Efficiently
-  Estimating Motif Statistics of Large Networks". /ACM Transactions on Knowledge Discovery from Data (TKDD)/, 2014.
-  [[[http://arxiv.org/abs/1306.5288][arXiv]]] ~图数据~ ~子图模式~ ~图采样~ ~近似计算~
 
 - *[CrowdRec'13]* Junzhou Zhao, Xiaohong Guan, and Jing Tao. "On Analyzing Estimation Errors due to Constrained
   Connections in Online Review Systems". /RecSys CrowdRec workshop/, 2013. [[[http://arxiv.org/abs/1307.3687][arXiv]]] ~推荐系统~
