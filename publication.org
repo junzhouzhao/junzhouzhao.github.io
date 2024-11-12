@@ -5,7 +5,7 @@
 
 * Publications
 
-[[[https://scholar.google.com/citations?user=hBLT754AAAAJ][Full List]]]
+[[[https://scholar.google.com/citations?user=hBLT754AAAAJ][Full List]]] [[[file:~/git_project/article/conference_list.org][Conference Map]]]
 
 - *[ACL'24]* Shuo Zhang, Liangming Pan, Junzhou Zhao*, and William Yang Wang. "The Knowledge Alignment Problem:
   Bridging Human and External Knowledge for Large Language Models". /Findings of ACL/, 2024. [[[https://arxiv.org/abs/2305.13669][arXiv]]][[[file:assets/MixAlign.pdf][slides]]]
