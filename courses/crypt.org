@@ -15,7 +15,7 @@
 |-----+------------------------------+--------|
 |   1 | 课程介绍                     | [[file:../assets/slides/crypto/Ch1.pdf][slides]] |
 |   2 | 传统加密技术                 | [[file:../assets/slides/crypto/Ch2.pdf][slides]] |
-|   3 | 分组密码和数据加密标准       | slides |
+|   3 | 分组密码和数据加密标准       | [[file:../assets/slides/crypto/Ch3.pdf][slides]] |
 |   4 | 有限域                       | slides |
 |   5 | 高级数据加密标准             | slides |
 |   6 | 多重加密及其安全性分析       | slides |
