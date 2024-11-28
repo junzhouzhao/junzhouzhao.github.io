@@ -17,9 +17,9 @@
 |   2 | 传统加密技术                 | [[file:../assets/slides/crypto/Ch2.pdf][slides]] |
 |   3 | 分组密码和数据加密标准       | [[file:../assets/slides/crypto/Ch3.pdf][slides]] |
 |   4 | 有限域                       | [[file:../assets/slides/crypto/Ch4.pdf][slides]] |
-|   5 | 高级数据加密标准             | slides |
-|   6 | 多重加密及其安全性分析       | slides |
-|   7 | 分组密码的工作模式和流密码   | slides |
+|   5 | 高级数据加密标准             | [[file:../assets/slides/crypto/Ch5.pdf][slides]] |
+|   6 | 多重加密及其安全性分析       | [[file:../assets/slides/crypto/Ch6.pdf][slides]] |
+|   7 | 分组密码的工作模式和流密码   | [[file:../assets/slides/crypto/Ch7.pdf][slides]] |
 |   8 | 数论基础                     | slides |
 |   9 | 公钥密码学                   | slides |
 |  10 | 密钥管理和其他公钥密码学体制 | slides |
