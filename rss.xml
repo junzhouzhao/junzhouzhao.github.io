@@ -4,17 +4,17 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Thu, 28 Nov 2024 19:45:04 CST</pubDate>
-    <lastBuildDate>Thu, 28 Nov 2024 19:45:04 CST</lastBuildDate>
+    <pubDate>Thu, 05 Dec 2024 19:43:43 CST</pubDate>
+    <lastBuildDate>Thu, 05 Dec 2024 19:43:43 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>密码学理论与实践</title>
       <link>https://junzhouzhao.github.io/courses/crypt</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-org4905318" class="outline-2">
-<h2 id="org4905318">密码学理论与实践</h2>
-<div class="outline-text-2" id="text-org4905318">
+    <div id="outline-container-org80568df" class="outline-2">
+<h2 id="org80568df">密码学理论与实践</h2>
+<div class="outline-text-2" id="text-org80568df">
 <ul class="org-ul">
 <li>研究生课程 AUTO712705：《密码学理论与实践》 (Theory and Practice of Cryptography)，秋下，32 学时</li>
 </ul>
@@ -82,7 +82,7 @@
 <tr>
 <td class="org-right">8</td>
 <td class="org-left">数论基础</td>
-<td class="org-left">slides</td>
+<td class="org-left"><a href="/assets/courses/crypt/Ch8.pdf">slides</a></td>
 </tr>
 
 <tr>
@@ -127,7 +127,7 @@
 
 </section>
 ]]></description>
-      <pubDate>2024-11-28</pubDate>
+      <pubDate>2024-12-05</pubDate>
       <guid>https://junzhouzhao.github.io/courses/crypt</guid>
     </item>
     <item>
