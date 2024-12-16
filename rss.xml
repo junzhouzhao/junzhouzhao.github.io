@@ -4,17 +4,17 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Fri, 13 Dec 2024 09:00:15 CST</pubDate>
-    <lastBuildDate>Fri, 13 Dec 2024 09:00:15 CST</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2024 17:00:57 CST</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2024 17:00:57 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>密码学理论与实践</title>
       <link>https://junzhouzhao.github.io/courses/crypt</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-org2a9726d" class="outline-2">
-<h2 id="org2a9726d">密码学理论与实践</h2>
-<div class="outline-text-2" id="text-org2a9726d">
+    <div id="outline-container-org21b6342" class="outline-2">
+<h2 id="org21b6342">密码学理论与实践</h2>
+<div class="outline-text-2" id="text-org21b6342">
 <ul class="org-ul">
 <li>研究生课程 AUTO712705：《密码学理论与实践》 (Theory and Practice of Cryptography)，秋下，32 学时</li>
 </ul>
@@ -123,11 +123,19 @@
 </tbody>
 </table>
 </div>
+<div id="outline-container-orgd6ac14c" class="outline-3">
+<h3 id="orgd6ac14c">作业</h3>
+<div class="outline-text-3" id="text-orgd6ac14c">
+<p>
+<a href="/assets/courses/crypt/Proj.pdf">作业及要求</a>
+</p>
+</div>
+</div>
 </div>
 
 </section>
 ]]></description>
-      <pubDate>2024-12-13</pubDate>
+      <pubDate>2024-12-16</pubDate>
       <guid>https://junzhouzhao.github.io/courses/crypt</guid>
     </item>
     <item>
