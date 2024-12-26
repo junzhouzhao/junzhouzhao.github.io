@@ -24,7 +24,7 @@
 |   9 | 公钥密码学                 | [[file:../assets/slides/crypto/Ch9.pdf][slides]] |
 |  10 | 其他公钥密码学体制         | [[file:../assets/slides/crypto/Ch10.pdf][slides]] |
 |  11 | 消息认证和安全哈希函数     | [[file:../assets/slides/crypto/Ch11.pdf][slides]] |
-|  12 | 数字签名                   | slides |
+|  12 | 数字签名                   | [[file:../assets/slides/crypto/Ch12.pdf][slides]] |
 |-----+----------------------------+--------|
 
 ** 作业
