@@ -7,7 +7,7 @@
 
 [[[https://scholar.google.com/citations?user=hBLT754AAAAJ][Full List]]] [[[file:../article/conference_list.org][Conference List]]]
 
-- *[ICSE'25]* Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao, Jiongzhou Liu , Shujie Han , Yi Liu, and Fan Xu.
+- *[ICSE'25]* Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao*, Jiongzhou Liu , Shujie Han , Yi Liu, and Fan Xu.
   "BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems". In
   /Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE)/, 2025
 
