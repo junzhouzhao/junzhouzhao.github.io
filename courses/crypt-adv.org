@@ -1,0 +1,10 @@
+#+TITLE:       密码学理论与实践
+#+AUTHOR:      Junzhou Zhao
+#+DATE:        2025-02-11 Tue
+#+URI:         /courses/crypt-adv/
+#+KEYWORDS:    courses, cryptography
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+
+* 密码学理论与实践
+
+ - 研究生课程 AUTO712705：《密码学理论与实践》 (Theory and Practice of Cryptography)，秋下，32 学时
