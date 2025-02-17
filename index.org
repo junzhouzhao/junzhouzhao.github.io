@@ -26,9 +26,9 @@ interests focus on network/graph/streaming data analysis, algorithm design, and 
 
 * Courses
 
-  - 本科生课程 MATH200327：[[file:courses/stat.org][《概率统计与随机过程》]](Probability Theory and Stochastic Process)，春
-  - 本科生课程 COMP401227：[[file:courses/crypt.org][《现代密码学》]](Modern Cryptography)，春上
-  - 研究生课程 AUTO712705：[[file:courses/crypt-adv.org][《密码学理论与实践》]](Theory and Practice of Cryptography)，秋下
+  - 本科生课程 MATH200327：[[file:courses/stat.org][概率统计与随机过程]]，春
+  - 本科生课程 COMP401227：[[file:courses/crypt.org][现代密码学]]，春上
+  - 研究生课程 AUTO712705：[[file:courses/crypt-adv.org][密码学理论与实践]]，秋下
 
 
 * Contact
