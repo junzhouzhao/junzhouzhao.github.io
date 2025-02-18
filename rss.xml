@@ -4,23 +4,60 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Mon, 17 Feb 2025 08:18:43 CST</pubDate>
-    <lastBuildDate>Mon, 17 Feb 2025 08:18:43 CST</lastBuildDate>
+    <pubDate>Tue, 18 Feb 2025 19:00:59 CST</pubDate>
+    <lastBuildDate>Tue, 18 Feb 2025 19:00:59 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>现代密码学</title>
+      <link>https://junzhouzhao.github.io/courses/crypt</link>
+      <description><![CDATA[<section id="content">
+    <div id="outline-container-org24125ac" class="outline-2">
+<h2 id="org24125ac">现代密码学</h2>
+<div class="outline-text-2" id="text-org24125ac">
+<ul class="org-ul">
+<li>本科生课程 COMP401227：《现代密码学》 (Modern Cryptography)，2025 年春上，32 学时</li>
+</ul>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="hsides" style="margin-left:auto; margin-right:auto;">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">No.</th>
+<th scope="col" class="org-left">课程内容</th>
+<th scope="col" class="org-left">PPT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">1</td>
+<td class="org-left">课程介绍</td>
+<td class="org-left">slides</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</section>
+]]></description>
+      <pubDate>2025-02-18</pubDate>
+      <guid>https://junzhouzhao.github.io/courses/crypt</guid>
+    </item>
     <item>
       <title>密码学理论与实践</title>
       <link>https://junzhouzhao.github.io/courses/crypt-adv/</link>
       <description><![CDATA[]]></description>
       <pubDate>2025-02-11</pubDate>
       <guid>https://junzhouzhao.github.io/courses/crypt-adv/</guid>
-    </item>
-    <item>
-      <title>现代密码学</title>
-      <link>https://junzhouzhao.github.io/courses/crypt</link>
-      <description><![CDATA[]]></description>
-      <pubDate>2025-02-11</pubDate>
-      <guid>https://junzhouzhao.github.io/courses/crypt</guid>
     </item>
     <item>
       <title>Publication</title>
