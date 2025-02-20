@@ -10,8 +10,8 @@
    3-3315
 
 #+ATTR_HTML: :style margin-left:auto; margin-right:auto; :rules all
-|----------+------------------------------------+------|
-| 课程内容 | PPT                                | 作业 |
-|----------+------------------------------------+------|
-| 课程介绍 | [[file:../assets/slides/crypt/Ch1-1_课程简介.pdf][slides]] [[file:../assets/slides/crypt/Ch1-2_应用举例.pdf][slides]] [[file:../assets/slides/crypt/Ch1-3_发展历史.pdf][slides]] [[file:../assets/slides/crypt/Ch1-4_基本概念.pdf][slides]] [[file:../assets/slides/crypt/Ch1-5_古典密码.pdf][slides]] |      |
-|----------+------------------------------------+------|
+|---------------------+------------------------------------+------|
+| 课程内容            | PPT                                | 作业 |
+|---------------------+------------------------------------+------|
+| 密码学简介及基本概念 | [[file:../assets/slides/crypt/Ch1-1_课程简介.pdf][slides]] [[file:../assets/slides/crypt/Ch1-2_应用举例.pdf][slides]] [[file:../assets/slides/crypt/Ch1-3_发展历史.pdf][slides]] [[file:../assets/slides/crypt/Ch1-4_基本概念.pdf][slides]] [[file:../assets/slides/crypt/Ch1-5_古典密码.pdf][slides]] |      |
+|---------------------+------------------------------------+------|
