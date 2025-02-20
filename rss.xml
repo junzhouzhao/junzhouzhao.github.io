@@ -4,121 +4,21 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Thu, 20 Feb 2025 08:24:41 CST</pubDate>
-    <lastBuildDate>Thu, 20 Feb 2025 08:24:41 CST</lastBuildDate>
+    <pubDate>Thu, 20 Feb 2025 08:29:11 CST</pubDate>
+    <lastBuildDate>Thu, 20 Feb 2025 08:29:11 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>现代密码学</title>
       <link>https://junzhouzhao.github.io/courses/crypt</link>
-      <description><![CDATA[<section id="content">
-    <div id="outline-container-orge8d96e9" class="outline-2">
-<h2 id="orge8d96e9">现代密码学</h2>
-<div class="outline-text-2" id="text-orge8d96e9">
-<ul class="org-ul">
-<li>本科生课程 COMP401227：《现代密码学》 (Modern Cryptography)，2025 年春上，中
-3-3315</li>
-</ul>
-
-<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="hsides" style="margin-left:auto; margin-right:auto;">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">课程内容</th>
-<th scope="col" class="org-left">PPT</th>
-<th scope="col" class="org-left">作业</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-left">课程介绍</td>
-<td class="org-left"><a href="/assets/courses/crypt/Ch1-1_课程简介.pdf">slides</a> <a href="/assets/courses/crypt/Ch1-2_应用举例.pdf">slides</a> <a href="/assets/courses/crypt/Ch1-3_发展历史.pdf">slides</a> <a href="/assets/courses/crypt/Ch1-4_基本概念.pdf">slides</a> <a href="/assets/courses/crypt/Ch1-5_古典密码.pdf">slides</a></td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-
-</section>
-]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2025-02-20</pubDate>
       <guid>https://junzhouzhao.github.io/courses/crypt</guid>
     </item>
     <item>
       <title>概率统计与随机过程</title>
       <link>https://junzhouzhao.github.io/courses/stat</link>
-      <description><![CDATA[<section id="content">
-    <div id="outline-container-orgde404f6" class="outline-2">
-<h2 id="orgde404f6">概率统计与随机过程</h2>
-<div class="outline-text-2" id="text-orgde404f6">
-<ul class="org-ul">
-<li>本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic
-Process)，春，中 3-3302</li>
-</ul>
-
-<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="hsides" style="margin-left:auto; margin-right:auto;">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">课程内容</th>
-<th scope="col" class="org-left">PPT</th>
-<th scope="col" class="org-left">作业</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-left">课程介绍</td>
-<td class="org-left"><a href="/assets/courses/stat/Ch0_课程简介.pdf">slides</a></td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-<tr>
-<td class="org-left">随机事件与概率</td>
-<td class="org-left"><a href="/assets/courses/stat/Ch1-1_随机事件.pdf">slides</a> <a href="/assets/courses/stat/Ch1-2_概率的定义.pdf">slides</a></td>
-<td class="org-left">P22: 1, 2, 6, 7, 8, 9, 10, 14, 16, 18, 19, 21, 23, 24, 27, 28, 29, 31, 32, 33, 35, 37, 38, 39</td>
-</tr>
-
-<tr>
-<td class="org-left">随机变量与概率分布</td>
-<td class="org-left">slides</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-<tr>
-<td class="org-left">随机变量的数字特征</td>
-<td class="org-left">slides</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-<tr>
-<td class="org-left">大数定律与中心极限定理</td>
-<td class="org-left">slides</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-
-</section>
-]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2025-02-20</pubDate>
       <guid>https://junzhouzhao.github.io/courses/stat</guid>
     </item>
@@ -144,13 +44,6 @@ Process)，春，中 3-3302</li>
       <guid>https://junzhouzhao.github.io/article/lab_intro</guid>
     </item>
     <item>
-      <title>Students</title>
-      <link>https://junzhouzhao.github.io/article/students</link>
-      <description><![CDATA[]]></description>
-      <pubDate>2024-09-18</pubDate>
-      <guid>https://junzhouzhao.github.io/article/students</guid>
-    </item>
-    <item>
       <title>Research</title>
       <link>https://junzhouzhao.github.io/research/</link>
       <description><![CDATA[]]></description>
@@ -170,13 +63,6 @@ Process)，春，中 3-3302</li>
       <description><![CDATA[]]></description>
       <pubDate>2024-02-19</pubDate>
       <guid>https://junzhouzhao.github.io/contact/</guid>
-    </item>
-    <item>
-      <title>关于读研究生/做研究的一些建议</title>
-      <link>https://junzhouzhao.github.io/article/tips</link>
-      <description><![CDATA[]]></description>
-      <pubDate>2023-09-18</pubDate>
-      <guid>https://junzhouzhao.github.io/article/tips</guid>
     </item>
   </channel>
 </rss>
