@@ -4,17 +4,17 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Thu, 20 Feb 2025 08:38:20 CST</pubDate>
-    <lastBuildDate>Thu, 20 Feb 2025 08:38:20 CST</lastBuildDate>
+    <pubDate>Tue, 25 Feb 2025 17:34:17 CST</pubDate>
+    <lastBuildDate>Tue, 25 Feb 2025 17:34:17 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>现代密码学</title>
       <link>https://junzhouzhao.github.io/courses/crypt</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-org95e6dca" class="outline-2">
-<h2 id="org95e6dca">现代密码学</h2>
-<div class="outline-text-2" id="text-org95e6dca">
+    <div id="outline-container-org323295d" class="outline-2">
+<h2 id="org323295d">现代密码学</h2>
+<div class="outline-text-2" id="text-org323295d">
 <ul class="org-ul">
 <li>本科生课程 COMP401227：《现代密码学》 (Modern Cryptography)，2025 年春上，中
 3-3315</li>
@@ -41,6 +41,18 @@
 <tr>
 <td class="org-left">密码学简介及基本概念</td>
 <td class="org-left"><a href="/assets/courses/crypt/Ch1-1_课程简介.pdf">slides</a> <a href="/assets/courses/crypt/Ch1-2_应用举例.pdf">slides</a> <a href="/assets/courses/crypt/Ch1-3_发展历史.pdf">slides</a> <a href="/assets/courses/crypt/Ch1-4_基本概念.pdf">slides</a> <a href="/assets/courses/crypt/Ch1-5_古典密码.pdf">slides</a></td>
+<td class="org-left"><a href="/assets/courses/crypt/ch1.pdf">作业</a></td>
+</tr>
+
+<tr>
+<td class="org-left">分组密码</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">流密码</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -50,7 +62,7 @@
 
 </section>
 ]]></description>
-      <pubDate>2025-02-20</pubDate>
+      <pubDate>2025-02-25</pubDate>
       <guid>https://junzhouzhao.github.io/courses/crypt</guid>
     </item>
     <item>
