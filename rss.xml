@@ -4,74 +4,17 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Wed, 05 Mar 2025 11:34:47 CST</pubDate>
-    <lastBuildDate>Wed, 05 Mar 2025 11:34:47 CST</lastBuildDate>
+    <pubDate>Fri, 07 Mar 2025 20:23:57 CST</pubDate>
+    <lastBuildDate>Fri, 07 Mar 2025 20:23:57 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
-    <item>
-      <title>现代密码学</title>
-      <link>https://junzhouzhao.github.io/courses/crypt</link>
-      <description><![CDATA[<section id="content">
-    <div id="outline-container-org9f0e8c5" class="outline-2">
-<h2 id="org9f0e8c5">现代密码学</h2>
-<div class="outline-text-2" id="text-org9f0e8c5">
-<ul class="org-ul">
-<li>本科生课程 COMP401227：《现代密码学》 (Modern Cryptography)，2025 年春上，中
-3-3315</li>
-</ul>
-
-<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="hsides" style="margin-left:auto; margin-right:auto;">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">课程内容</th>
-<th scope="col" class="org-left">PPT</th>
-<th scope="col" class="org-left">作业</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-left">密码学简介及基本概念</td>
-<td class="org-left"><a href="/assets/courses/crypt/Ch1-1.pdf">slides</a> <a href="/assets/courses/crypt/Ch1-2.pdf">slides</a> <a href="/assets/courses/crypt/Ch1-3.pdf">slides</a> <a href="/assets/courses/crypt/Ch1-4.pdf">slides</a> <a href="/assets/courses/crypt/Ch1-5.pdf">slides</a></td>
-<td class="org-left"><a href="/assets/courses/crypt/work1.pdf">作业</a></td>
-</tr>
-
-<tr>
-<td class="org-left">分组密码</td>
-<td class="org-left"><a href="/assets/courses/crypt/Ch2-1.pdf">slides</a> <a href="/assets/courses/crypt/Ch2-2.pdf">slides</a> <a href="/assets/courses/crypt/Ch2-3.pdf">slides</a> <a href="/assets/courses/crypt/Ch2-4.pdf">slides</a> <a href="/assets/courses/crypt/Ch2-5.pdf">slides</a></td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-<tr>
-<td class="org-left">流密码</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-
-</section>
-]]></description>
-      <pubDate>2025-03-05</pubDate>
-      <guid>https://junzhouzhao.github.io/courses/crypt</guid>
-    </item>
     <item>
       <title>概率统计与随机过程</title>
       <link>https://junzhouzhao.github.io/courses/stat</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-orgea3ee52" class="outline-2">
-<h2 id="orgea3ee52">概率统计与随机过程</h2>
-<div class="outline-text-2" id="text-orgea3ee52">
+    <div id="outline-container-org3c0bafc" class="outline-2">
+<h2 id="org3c0bafc">概率统计与随机过程</h2>
+<div class="outline-text-2" id="text-org3c0bafc">
 <ul class="org-ul">
 <li>本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic
 Process)，春</li>
@@ -109,8 +52,8 @@ Process)，春</li>
 
 <tr>
 <td class="org-left">随机变量与概率分布</td>
-<td class="org-left"><a href="/assets/courses/stat/Ch2-1.pdf">slides</a></td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="../assets/slides/stat/Ch2-1.pdf">slides</a></td>
+<td class="org-left">P47: 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 15,</td>
 </tr>
 
 <tr>
@@ -131,8 +74,15 @@ Process)，春</li>
 
 </section>
 ]]></description>
-      <pubDate>2025-03-05</pubDate>
+      <pubDate>2025-03-07</pubDate>
       <guid>https://junzhouzhao.github.io/courses/stat</guid>
+    </item>
+    <item>
+      <title>现代密码学</title>
+      <link>https://junzhouzhao.github.io/courses/crypt</link>
+      <description><![CDATA[]]></description>
+      <pubDate>2025-03-05</pubDate>
+      <guid>https://junzhouzhao.github.io/courses/crypt</guid>
     </item>
     <item>
       <title>Publication</title>
