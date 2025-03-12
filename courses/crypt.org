@@ -10,10 +10,10 @@
    3-3315
 
 #+ATTR_HTML: :style margin-left:auto; margin-right:auto; :rules all
-|---------------------+------------------------------------+------|
-| 课程内容            | PPT                                | 作业 |
-|---------------------+------------------------------------+------|
-| 密码学简介及基本概念 | [[file:../assets/slides/crypt/Ch1-1.pdf][slides]] [[file:../assets/slides/crypt/Ch1-2.pdf][slides]] [[file:../assets/slides/crypt/Ch1-3.pdf][slides]] [[file:../assets/slides/crypt/Ch1-4.pdf][slides]] [[file:../assets/slides/crypt/Ch1-5.pdf][slides]] | [[file:../assets/slides/crypt/work1.pdf][作业]] |
-| 分组密码            | [[file:../assets/slides/crypt/Ch2-1.pdf][slides]] [[file:../assets/slides/crypt/Ch2-2.pdf][slides]] [[file:../assets/slides/crypt/Ch2-3.pdf][slides]] [[file:../assets/slides/crypt/Ch2-4.pdf][slides]] [[file:../assets/slides/crypt/Ch2-5.pdf][slides]] | [[file:../assets/slides/crypt/work2.pdf][作业]] |
-| 流密码              |                                    |      |
-|---------------------+------------------------------------+------|
+|---------------------+----------------------------------------------------+-----------|
+| 课程内容            | PPT                                                | 作业      |
+|---------------------+----------------------------------------------------+-----------|
+| 密码学简介及基本概念 | [[file:../assets/slides/crypt/Ch1-1.pdf][slides]] [[file:../assets/slides/crypt/Ch1-2.pdf][slides]] [[file:../assets/slides/crypt/Ch1-3.pdf][slides]] [[file:../assets/slides/crypt/Ch1-4.pdf][slides]] [[file:../assets/slides/crypt/Ch1-5.pdf][slides]]                 | [[file:../assets/slides/crypt/work1.pdf][作业]]      |
+| 分组密码            | [[file:../assets/slides/crypt/Ch2-1.pdf][slides]] [[file:../assets/slides/crypt/Ch2-2.pdf][slides]] [[file:../assets/slides/crypt/Ch2-3.pdf][slides]] [[file:../assets/slides/crypt/Ch2-4.pdf][slides]]  [[file:../assets/slides/crypt/Ch2-5.pdf][slides]]  [[file:../assets/slides/crypt/Ch2-6.pdf][slides]] [[file:../assets/slides/crypt/Ch2-7.pdf][slides]] | [[file:../assets/slides/crypt/work2.pdf][作业]] [[file:../assets/slides/crypt/work3.pdf][作业]] |
+| 流密码              |                                                    |           |
+|---------------------+----------------------------------------------------+-----------|
