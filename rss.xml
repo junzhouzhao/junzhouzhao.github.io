@@ -4,17 +4,17 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Wed, 19 Mar 2025 17:37:18 CST</pubDate>
-    <lastBuildDate>Wed, 19 Mar 2025 17:37:18 CST</lastBuildDate>
+    <pubDate>Wed, 19 Mar 2025 21:44:47 CST</pubDate>
+    <lastBuildDate>Wed, 19 Mar 2025 21:44:47 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>概率统计与随机过程</title>
       <link>https://junzhouzhao.github.io/courses/stat</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-org2a72730" class="outline-2">
-<h2 id="org2a72730">概率统计与随机过程</h2>
-<div class="outline-text-2" id="text-org2a72730">
+    <div id="outline-container-orgb49613f" class="outline-2">
+<h2 id="orgb49613f">概率统计与随机过程</h2>
+<div class="outline-text-2" id="text-orgb49613f">
 <ul class="org-ul">
 <li>本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic
 Process)，春</li>
@@ -58,8 +58,8 @@ Process)，春</li>
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">P76: 2, 3, 5, 7, 8, 9, 10, 13,</td>
+<td class="org-left"><a href="/assets/courses/stat/Ch2-5.pdf">slides</a></td>
+<td class="org-left">P76: 2, 3, 5, 7, 8, 9, 10, 13, 14, 15, 16, 18(1)(4), 21</td>
 </tr>
 
 <tr>
