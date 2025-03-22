@@ -17,6 +17,9 @@ interests focus on network/graph/streaming data analysis, algorithm design, and 
 赵俊舟，西安交通大学网络空间安全学院特聘研究员、博士生导师。主要研究方向包括大数据近似计算与优化算法、
 数据挖掘、数据安全与隐私计算等。[[[file:article/lab_intro.org][实验室简介]]]
 
+#+ATTR_HTML: :style margin-right:1ex;
+[[file:images/news.gif]] 招收博士生、硕士生及实习生，要求态度踏实认真、能积极主动思考、勇于钻研探索、
+有团队协作及追求卓越的精神。[[[file:research.org][了解更多]]]
 
 * Research
 
