@@ -47,7 +47,7 @@
 
 - *[ICDE'20]* Junzhou Zhao, Pinghui Wang, Jing Tao, Shuo Zhang, and John C.S. Lui. "Continuously Tracking Core Items
   in Data Streams with Probabilistic Decays". In /Proceedings of the 36th IEEE International Conference on Data
-  Engineering (IEEE ICDE)/, 2020. [[[file:assets/ICDE2020_full_version.pdf][full paper]]][[[file:assets/ICDE2020_slides.pdf][slides]]][[[file:assets/ICDE2020_poster.pdf][poster]]]
+  Engineering (IEEE ICDE)/, 2020. [[[file:assets/ICDE2020_slides.pdf][slides]]][[[file:assets/ICDE2020_poster.pdf][poster]]]
 
 - *[INS'20]* Lin Lan, Pinghui Wang, Junzhou Zhao, Jing Tao, John C.S. Lui, and Xiaohong Guan. "Improving Network
   Embedding with Partially Available Vertex and Edge Content". /Information Sciences/, 2020.
@@ -96,24 +96,24 @@
 
 - *[ICDE'15]* Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "A Tale of Three Graphs:
   Sampling Design on Hybrid Social-Affiliation Networks". In /Proceedings of the 31st IEEE International Conference on
-  Data Engineering (ICDE)/, 2015. [[[file:assets/ICDE2015.pdf][pdf]]]
+  Data Engineering (ICDE)/, 2015.
 
 - *[SIMPLEX'14]* Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group
-  Closeness Centrality over Disk-Resident Graphs". In /WWW SIMPLEX workshop/, 2014. [[[file:assets/SIMPLEX2014.pdf][pdf]]][[[file:assets/NodeGroup_TR.pdf][TR]]]
+  Closeness Centrality over Disk-Resident Graphs". In /WWW SIMPLEX workshop/, 2014.
   ~Awarded Best Paper~
 
 - *[COMNET'14]* Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "WTF: Efficient Followee Selection for
   Cascading Outbreak Detection on Online Social Networks". /Computer Networks, Special Issue on Online Social
-  Networks/, 2014. [[[file:assets/COMNET2014.pdf][pdf]]]
+  Networks/, 2014.
 
 - *[TKDD'14]* Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Unbiased Characterization of
-  Node Pairs over Large Graphs". /ACM Transactions on Knowledge Discovery from Data (TKDD)/, 2014. [[[file:assets/TKDD2014_node_pair.pdf][pdf]]]
+  Node Pairs over Large Graphs". /ACM Transactions on Knowledge Discovery from Data (TKDD)/, 2014.
 
 - *[CrowdRec'13]* Junzhou Zhao, Xiaohong Guan, and Jing Tao. "On Analyzing Estimation Errors due to Constrained
   Connections in Online Review Systems". /RecSys CrowdRec workshop/, 2013. [[[http://arxiv.org/abs/1307.3687][arXiv]]]
 
 - *[ICDE'13]* Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Node Pairs Over
-  Large Graphs". In /Proceedings of the 29th IEEE International Conference on Data Engineering (ICDE)/, 2013. [[[file:assets/ICDE2013.pdf][pdf]]]
+  Large Graphs". In /Proceedings of the 29th IEEE International Conference on Data Engineering (ICDE)/, 2013.
 
 - *[NetSciCom'11]* Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Empirical Analysis of the Evolution
-  of Follower Network: A Case Study on Douban". /IEEE INFOCOM NetSciCom workshop/, 2011. [[[file:assets/NetSciCom2011.pdf][pdf]]]
+  of Follower Network: A Case Study on Douban". /IEEE INFOCOM NetSciCom workshop/, 2011.
