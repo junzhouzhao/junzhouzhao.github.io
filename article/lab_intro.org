@@ -38,4 +38,4 @@
 
 #+ATTR_HTML: :style margin-right:1ex;
 [[file:../images/news.gif]] 招收博士生、硕士生及实习生。要求态度踏实认真、能积极主动思
-考、勇于钻研探索、有团队协作及追求卓越的精神。
+考、勇于钻研探索、有团队协作及追求卓越的精神。[[[file:../research.org][了解更多]]]
