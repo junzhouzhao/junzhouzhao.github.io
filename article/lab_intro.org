@@ -30,4 +30,4 @@
 [[file:../images/group.png]]
 
 欢迎对@@html:<font color="red">@@大数据分析、数据库理论、机器学习、网络安全@@html:</font>@@等研究领
-域感兴趣的同学加入！[[[file:../article/research.org][了解更多]]]
+域感兴趣的同学加入！[[[file:../research.org][了解更多]]]
