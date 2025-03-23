@@ -9,7 +9,7 @@
 我们开展了一系列相关研究。
 
 #+CAPTION: 各种类型大数据
-[[file:images/big_data.png]]
+[[file:../images/big_data.png]]
 
 
 * 大数据近似计算与数据挖掘
@@ -25,7 +25,7 @@ API 接口访问图数据，但是 API 往往会通过限制调用总次数或�
 
 #+CAPTION: 基于随机游走的大图采样方法
 #+ATTR_HTML: :width 700px
-[[file:images/random_walk_sampling.png]]
+[[file:../images/random_walk_sampling.png]]
 
 
 ** 流式数据实时处理与在线优化
@@ -43,7 +43,7 @@ API 接口访问图数据，但是 API 往往会通过限制调用总次数或�
 
 
 #+CAPTION: 一种动态图流中最有影响力节点发现与跟踪方法
-[[file:images/SSO_inf.png]]
+[[file:../images/SSO_inf.png]]
 
 
 ** 图数据表示学习
@@ -51,7 +51,7 @@ API 接口访问图数据，但是 API 往往会通过限制调用总次数或�
 表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节点的表示。
 
 #+CAPTION: 图表示学习
-[[file:images/graph_learning.png]]
+[[file:../images/graph_learning.png]]
 
 
 * 数据安全与隐私计算
@@ -67,7 +67,7 @@ API 接口访问图数据，但是 API 往往会通过限制调用总次数或�
 
 #+CAPTION: 利用流式数据之间的关联性进行快速流分类。这里的流式数据可以表示用户购物流，也可以表示网络流。
 #+ATTR_HTML: :width 600px
-[[file:images/tangled_flow.png]]
+[[file:../images/tangled_flow.png]]
 
 
 ** 网络监控
@@ -77,7 +77,7 @@ API 接口访问图数据，但是 API 往往会通过限制调用总次数或�
 
 #+CAPTION: 利用线上社交网络数据实现对线下自然社会的事件监控
 #+ATTR_HTML: :width 700px
-[[file:images/monitoring.png]]
+[[file:../images/monitoring.png]]
 
 
 ** 隐私计算
@@ -88,4 +88,4 @@ API 接口访问图数据，但是 API 往往会通过限制调用总次数或�
 
 #+CAPTION: 安全多方计算示意
 #+ATTR_HTML: :width 700px
-[[file:images/MPC.png]]
+[[file:../images/MPC.png]]
