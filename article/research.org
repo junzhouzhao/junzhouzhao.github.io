@@ -1,6 +1,6 @@
 # -*- fill-column: 100; -*-
 #+TITLE: Research
-#+URI: /research/
+#+URI: /article/research/
 #+LANGUAGE: zh_cn
 #+OPTIONS: toc:2
 
