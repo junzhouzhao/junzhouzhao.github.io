@@ -25,4 +25,4 @@ interests focus on network/graph/streaming data analysis, algorithm design, and 
   - 研究生课程 AUTO712705：[[file:courses/crypt-adv.org][密码学理论与实践]]，秋下
 
 * Contact
-E-mail: junzhou.zhao@xjtu.edu.cn
+E-mail: junzhou.zhao AT xjtu DOT edu DOT cn
