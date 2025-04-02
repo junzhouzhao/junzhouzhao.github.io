@@ -4,17 +4,17 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Fri, 28 Mar 2025 19:10:37 CST</pubDate>
-    <lastBuildDate>Fri, 28 Mar 2025 19:10:37 CST</lastBuildDate>
+    <pubDate>Wed, 02 Apr 2025 21:17:26 CST</pubDate>
+    <lastBuildDate>Wed, 02 Apr 2025 21:17:26 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>现代密码学</title>
       <link>https://junzhouzhao.github.io/courses/crypt</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-org83c3b9e" class="outline-2">
-<h2 id="org83c3b9e">现代密码学</h2>
-<div class="outline-text-2" id="text-org83c3b9e">
+    <div id="outline-container-org34257b3" class="outline-2">
+<h2 id="org34257b3">现代密码学</h2>
+<div class="outline-text-2" id="text-org34257b3">
 <ul class="org-ul">
 <li>本科生课程 COMP401227：《现代密码学》 (Modern Cryptography)，2025 年春上</li>
 </ul>
@@ -60,6 +60,18 @@
 <td class="org-left"><a href="/assets/courses/crypt/Ch4.pdf">slides</a></td>
 <td class="org-left"><a href="/assets/courses/crypt/work4.pdf">作业</a></td>
 </tr>
+
+<tr>
+<td class="org-left">消息认证</td>
+<td class="org-left"><a href="/assets/courses/crypt/Ch5.pdf">slides</a></td>
+<td class="org-left"><a href="/assets/courses/crypt/work5.pdf">作业</a></td>
+</tr>
+
+<tr>
+<td class="org-left">数字签名</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -67,75 +79,13 @@
 
 </section>
 ]]></description>
-      <pubDate>2025-03-28</pubDate>
+      <pubDate>2025-04-02</pubDate>
       <guid>https://junzhouzhao.github.io/courses/crypt</guid>
     </item>
     <item>
       <title>概率统计与随机过程</title>
       <link>https://junzhouzhao.github.io/courses/stat</link>
-      <description><![CDATA[<section id="content">
-    <div id="outline-container-orgf30734a" class="outline-2">
-<h2 id="orgf30734a">概率统计与随机过程</h2>
-<div class="outline-text-2" id="text-orgf30734a">
-<ul class="org-ul">
-<li>本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic
-Process)，春</li>
-</ul>
-
-<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="hsides" style="margin-left:auto; margin-right:auto;">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">课程内容</th>
-<th scope="col" class="org-left">PPT</th>
-<th scope="col" class="org-left">&#xa0;</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-left">课程介绍</td>
-<td class="org-left"><a href="/assets/courses/stat/Ch0.pdf">slides</a></td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-<tr>
-<td class="org-left">随机事件与概率</td>
-<td class="org-left"><a href="/assets/courses/stat/Ch1.pdf">slides</a></td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-<tr>
-<td class="org-left">随机变量与概率分布</td>
-<td class="org-left"><a href="/assets/courses/stat/Ch2.pdf">slides</a></td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-<tr>
-<td class="org-left">随机变量的数字特征</td>
-<td class="org-left"><a href="/assets/courses/stat/Ch3.pdf">slides</a></td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-<tr>
-<td class="org-left">大数定律与中心极限定理</td>
-<td class="org-left">slides</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-
-</section>
-]]></description>
+      <description><![CDATA[]]></description>
       <pubDate>2025-03-28</pubDate>
       <guid>https://junzhouzhao.github.io/courses/stat</guid>
     </item>
