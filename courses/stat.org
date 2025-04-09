@@ -17,5 +17,5 @@
 | 随机事件与概率        | [[file:../assets/slides/stat/Ch1.pdf][slides]] |   |
 | 随机变量与概率分布    | [[file:../assets/slides/stat/Ch2.pdf][slides]] |   |
 | 随机变量的数字特征    | [[file:../assets/slides/stat/Ch3.pdf][slides]] |   |
-| 大数定律与中心极限定理 | slides |   |
+| 大数定律与中心极限定理 | [[file:../assets/slides/stat/Ch4.pdf][slides]] |   |
 |----------------------+--------+---|
