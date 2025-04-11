@@ -18,4 +18,5 @@
 | 公钥密码            | [[file:../assets/slides/crypt/Ch4.pdf][slides]] | [[file:../assets/slides/crypt/work4.pdf][作业]]      |
 | 消息认证            | [[file:../assets/slides/crypt/Ch5.pdf][slides]] | [[file:../assets/slides/crypt/work5.pdf][作业]]      |
 | 数字签名            | [[file:../assets/slides/crypt/Ch6.pdf][slides]] |           |
+| 隐私计算基础         | [[file:../assets/slides/crypt/Ch7.pdf][slides]] |           |
 |---------------------+--------+-----------|
