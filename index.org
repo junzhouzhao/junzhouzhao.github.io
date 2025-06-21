@@ -14,12 +14,12 @@ interests focus on network/graph/streaming data analysis, algorithm design, and 
 [[[file:article/lab_intro.org][more]]]
 
 * Research
-- 大数据近似计算与优化：大规模网络/图/流数据近似计算与优化算法等；
+- 大数据近似计算与优化：大规模网络/图/流数据近似计算与优化算法等。
 - 数据安全与隐私计算：网络流量分析、隐私计算、隐私保护机器学习等。
 
 * Courses
-  - 本科生课程 MATH200327：[[file:courses/stat.org][概率统计与随机过程]]，春
-  - 本科生课程 COMP401227：[[file:courses/crypt.org][现代密码学]]，春上
+- 本科生课程 MATH200327：[[file:courses/stat.org][概率统计与随机过程]]，春
+- 本科生课程 COMP401227：[[file:courses/crypt.org][现代密码学]]，春上
 
 * Contact
 E-mail: junzhou.zhao AT xjtu DOT edu DOT cn
