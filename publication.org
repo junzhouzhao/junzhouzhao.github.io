@@ -9,7 +9,7 @@
 
 - *[ICSE'25]* Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao*, Jiongzhou Liu , Shujie Han , Yi Liu, and Fan Xu.
   "BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems". In
-  /Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE)/, 2025. [[[https://arxiv.org/abs/2502.15728][arXiv]]]
+  /Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE)/, 2025. [[[https://arxiv.org/abs/2502.15728][arXiv]]][[[file:assets/BSODiag_ICSE25_Slides.pdf][slides]]]
 
 - *[ACL'24]* Shuo Zhang, Liangming Pan, Junzhou Zhao*, and William Yang Wang. "The Knowledge Alignment Problem:
   Bridging Human and External Knowledge for Large Language Models". /Findings of ACL/, 2024. [[[https://arxiv.org/abs/2305.13669][arXiv]]][[[file:assets/MixAlign.pdf][slides]]]

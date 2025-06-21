@@ -11,7 +11,7 @@ and Technology. He was also a postdoctoral researcher at the Department of Compu
 Engineering, The Chinese University of Hong Kong. He holds a Ph.D. degree in Control Science and
 Engineering, and a B.S. degree in Automation Science and Technology, both from XJTU. His research
 interests focus on network/graph/streaming data analysis, algorithm design, and data security.
-[[[file:article/lab_intro.org][实验室简介]]]
+[[[file:article/lab_intro.org][more]]]
 
 * Research
 - 大数据近似计算与优化：大规模网络/图/流数据近似计算与优化算法等；
