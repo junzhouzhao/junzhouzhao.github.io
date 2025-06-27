@@ -4,17 +4,17 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Fri, 27 Jun 2025 09:19:49 CST</pubDate>
-    <lastBuildDate>Fri, 27 Jun 2025 09:19:49 CST</lastBuildDate>
+    <pubDate>Fri, 27 Jun 2025 12:26:22 CST</pubDate>
+    <lastBuildDate>Fri, 27 Jun 2025 12:26:22 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>Publication</title>
       <link>https://junzhouzhao.github.io/publication/</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-orgb3e5059" class="outline-2">
-<h2 id="orgb3e5059">Drafts</h2>
-<div class="outline-text-2" id="text-orgb3e5059">
+    <div id="outline-container-orgf856f41" class="outline-2">
+<h2 id="orgf856f41">Drafts</h2>
+<div class="outline-text-2" id="text-orgf856f41">
 <ul class="org-ul">
 <li><p>基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 赵俊舟，李江龙，段涛，王平辉，陶敬. 2025-06. [<a href="/assets/publication/Draft_VoIP.pdf">draft</a>]
 </p>
@@ -27,16 +27,16 @@ VoIP 应用在开放的 Internet 中传递涉及用户隐私的语音内容，�
 险。本文通过测量分析四种 VoIP 应用的加密流量传输模式与用户属性、通话内容等方面的关联关系，发现语音频率与数据包长存在
 明显的相关性，并基于该发现设计了一种语音频谱与数据包长对齐的 VoIP 加密流量识别方法——VPrint。VPrint 较已有的加密流量
 识别方法能更准确识别 VoIP 加密流量。以微信为例，VPrint 在用户性别识别、用户身份识别、通话语种识别和短语识别任务上的
-F1 值分别为 0.77、0.99、0.88 和 0.92。本文研究结果表明微信等流行 VoIP 应用存在安全隐患，并建议相关厂商采取数据包填充
-等措施提升安全性，避免造成用户隐私泄露。
+F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信等流行 VoIP 应用存在安全隐患，并建议相关厂商采取数据包填
+充等措施提升安全性，避免造成用户隐私泄露。
 </p>
 </details></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org83f5a87" class="outline-2">
-<h2 id="org83f5a87">Publications</h2>
-<div class="outline-text-2" id="text-org83f5a87">
+<div id="outline-container-orgdf32748" class="outline-2">
+<h2 id="orgdf32748">Publications</h2>
+<div class="outline-text-2" id="text-orgdf32748">
 <p>
 [<a href="../article/conference_list">Top Conferences in Computer Science</a>]
 </p>
