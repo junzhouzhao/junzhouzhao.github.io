@@ -3,6 +3,25 @@
 #+URI: /publication/
 #+OPTIONS: toc:nil num:nil
 
+* Drafts
+
+- 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 赵俊舟，李江龙，段涛，王平辉，陶敬. 2025-06. [[[file:assets/Draft_VoIP.pdf][draft]]]
+  #+BEGIN_EXPORT html
+    <details>
+    <summary>[摘要]</summary>
+    <p>随着智能手机等移动终端的迅速普及，以微信电话为代表的互联网语音（Voice over Internet Protocol, VoIP）应用日益流行。
+    VoIP 应用在开放的 Internet 中传递涉及用户隐私的语音内容，保障用户个人数据安全至关重要。本文采集并分析了包括微信、TIM、
+    腾讯会议、钉钉在内的四款流行 VoIP 应用在使用过程中产生的语音流量，发现尽管 VoIP 应用普遍采用私有语音编码算法、加密通
+    信等手段保障安全，但是 VoIP 加密流量的传输模式仍有可能泄露用户属性、用户身份，甚至通话内容等敏感信息，存在隐私泄露风
+    险。本文通过测量分析四种 VoIP 应用的加密流量传输模式与用户属性、通话内容等方面的关联关系，发现语音频率与数据包长存在
+    明显的相关性，并基于该发现设计了一种语音频谱与数据包长对齐的 VoIP 加密流量识别方法——VPrint。VPrint 较已有的加密流量
+    识别方法能更准确识别 VoIP 加密流量。以微信为例，VPrint 在用户性别识别、用户身份识别、通话语种识别和短语识别任务上的
+    F1 值分别为 0.77、0.99、0.88 和 0.92。本文研究结果表明微信等流行 VoIP 应用存在安全隐患，并建议相关厂商采取数据包填充
+    等措施提升安全性，避免造成用户隐私泄露。
+    </p>
+    </details>
+  #+END_EXPORT
+
 * Publications
 
 [[[file:../article/conference_list.org][Top Conferences in Computer Science]]]

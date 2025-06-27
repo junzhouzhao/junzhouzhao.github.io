@@ -33,40 +33,35 @@ ul {
 li {
     margin-bottom: .5rem;
 }
-
+li > p {
+  display: inline;
+}
 .container h1 {
   font-size: 160%;
 }
-
 .container h2 {
   font-size: 140%;
 }
-
 .container h3 {
     font-size: 120%;
 }
-
 code {
   color: gray;
   border: 1px solid #cccccc;
   border-radius: 10%;
   padding: 0px 4px;
 }
-
 .container b, strong {
   color: blue;
   font-weight: normal;
 }
-
 .figure {
   display: block;
   text-align: center;
 }
-
 img {
   max-width: 100%;
 }
-
 footer {
   clear: both;
   display: block;
@@ -74,11 +69,19 @@ footer {
   color: gray;
   padding: 2em 0 2em 0;
 }
-
 footer a {
 	color: gray;
 }
-
 .underline {
   text-decoration: underline;
+}
+details {
+  display: inline;
+}
+details > summary {
+  list-style: none;
+  color: blue;
+}
+details > p {
+  color: purple;
 }
