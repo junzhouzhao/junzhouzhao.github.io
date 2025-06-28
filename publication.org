@@ -19,6 +19,9 @@
   F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信等流行 VoIP 应用存在安全隐患，并建议相关厂商采取数据包填
   充等措施提升安全性，避免造成用户隐私泄露。
   </p>
+  #+END_EXPORT
+  [[file:images/voip_framework.png]]
+  #+BEGIN_EXPORT html
   </details>
   #+END_EXPORT
 
