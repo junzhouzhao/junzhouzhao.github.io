@@ -4,17 +4,17 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Fri, 27 Jun 2025 15:29:32 CST</pubDate>
-    <lastBuildDate>Fri, 27 Jun 2025 15:29:32 CST</lastBuildDate>
+    <pubDate>Sat, 28 Jun 2025 16:30:36 CST</pubDate>
+    <lastBuildDate>Sat, 28 Jun 2025 16:30:36 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>Publication</title>
       <link>https://junzhouzhao.github.io/publication/</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-org9c553b8" class="outline-2">
-<h2 id="org9c553b8">Drafts</h2>
-<div class="outline-text-2" id="text-org9c553b8">
+    <div id="outline-container-org0b6088d" class="outline-2">
+<h2 id="org0b6088d">Drafts</h2>
+<div class="outline-text-2" id="text-org0b6088d">
 <ul class="org-ul">
 <li><p>赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 2025-06. [<a href="/assets/publication/Draft_VoIP.pdf">draft</a>]
 </p>
@@ -30,13 +30,18 @@ VoIP 应用在开放的 Internet 中传递涉及用户隐私的语音内容，�
 F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信等流行 VoIP 应用存在安全隐患，并建议相关厂商采取数据包填
 充等措施提升安全性，避免造成用户隐私泄露。
 </p>
+
+<div id="orgabe7ce9" class="figure">
+<p><img src="/assets/publication/voip_framework.png" alt="voip_framework.png" />
+</p>
+</div>
 </details></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orge977212" class="outline-2">
-<h2 id="orge977212">Publications</h2>
-<div class="outline-text-2" id="text-orge977212">
+<div id="outline-container-orgb605ddc" class="outline-2">
+<h2 id="orgb605ddc">Publications</h2>
+<div class="outline-text-2" id="text-orgb605ddc">
 <p>
 [<a href="../article/conference_list">Top Conferences in Computer Science</a>]
 </p>
@@ -158,7 +163,7 @@ of Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop
 
 </section>
 ]]></description>
-      <pubDate>2025-06-27</pubDate>
+      <pubDate>2025-06-28</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
     </item>
     <item>
