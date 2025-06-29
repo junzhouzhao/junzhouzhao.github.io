@@ -4,17 +4,17 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Sun, 29 Jun 2025 09:53:55 CST</pubDate>
-    <lastBuildDate>Sun, 29 Jun 2025 09:53:55 CST</lastBuildDate>
+    <pubDate>Sun, 29 Jun 2025 10:06:49 CST</pubDate>
+    <lastBuildDate>Sun, 29 Jun 2025 10:06:49 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>Publication</title>
       <link>https://junzhouzhao.github.io/publication/</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-org6a5c9c1" class="outline-2">
-<h2 id="org6a5c9c1">Drafts</h2>
-<div class="outline-text-2" id="text-org6a5c9c1">
+    <div id="outline-container-orgdd211b3" class="outline-2">
+<h2 id="orgdd211b3">Drafts</h2>
+<div class="outline-text-2" id="text-orgdd211b3">
 <ul class="org-ul">
 <li><p>赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 2025-06. [<a href="/assets/publication/Draft_VoIP.pdf">draft</a>]
 </p>
@@ -31,7 +31,7 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 充等措施提升安全性，避免造成用户隐私泄露。
 </p>
 
-<div id="org56525b2" class="figure">
+<div id="org1ddf2f8" class="figure">
 <p><img src="/assets/publication/voip.png" alt="voip.png" />
 </p>
 </div>
@@ -39,9 +39,9 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 </ul>
 </div>
 </div>
-<div id="outline-container-org959754f" class="outline-2">
-<h2 id="org959754f">Publications</h2>
-<div class="outline-text-2" id="text-org959754f">
+<div id="outline-container-org802b034" class="outline-2">
+<h2 id="org802b034">Publications</h2>
+<div class="outline-text-2" id="text-org802b034">
 <p>
 [<a href="../article/conference_list">Top Conferences in Computer Science</a>]
 </p>
@@ -62,7 +62,7 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 上进行的实验表明，BSODiag 在 PR@3 上达到了 87.5%，在 PCR 上达到了 46.3%，分别比基线方法高出 10.2% 和 3.7%。
 </p>
 
-<div id="org86c6dca" class="figure">
+<div id="org3a9a813" class="figure">
 <p><img src="/assets/publication/BSODiag.png" alt="BSODiag.png" />
 </p>
 </div>
@@ -74,14 +74,14 @@ Bridging Human and External Knowledge for Large Language Models". <i>Findings of
 </p>
 <details>
 <summary>[介绍]</summary>
-<p>大语言模型通常需要基于外部知识来生成真实可靠的答案。然而，即便外部知识库有正确的依据，大模型也可能忽略这些依据，转
-而依赖错误的知识或自身偏见来胡编乱造，进而产生模型幻觉。由于用户大多不了解知识库的具体内容，当用户的问题与检索到的依据
-没有直接关联时，就会产生模型幻觉。本研究提出了知识对齐问题并给出了 MixAlign 框架，该框架能与用户和知识库进行交互，获取
-并整合有关用户问题与存储信息之间关系的澄清信息。MixAlign 利用语言模型实现自动知识对齐，并在必要时通过用户澄清进一步增
-强这种对齐。实验结果表明，知识对齐在提升模型性能和减少模型幻觉方面起着关键作用，分别提高了 22.2% 和 27.1%。
+<p>大模型通常需要基于外部知识来生成真实可靠的答案。然而，即便外部知识库有正确的依据，大模型也可能忽略这些依据，转而依
+赖错误的知识或自身偏见来胡编乱造，进而产生模型幻觉。由于用户大多不了解知识库的具体内容，当用户的问题与检索到的依据没有
+直接关联时，就会产生模型幻觉。本研究提出了知识对齐问题并给出了 MixAlign 框架，该框架能与用户和知识库进行交互，获取并整
+合有关用户问题与存储信息之间关系的澄清信息。MixAlign 利用语言模型实现自动知识对齐，并在必要时通过用户澄清进一步增强这
+种对齐。实验结果表明，知识对齐在提升模型性能和减少模型幻觉方面起着关键作用，分别提高了 22.2% 和 27.1%。
 </p>
 
-<div id="org10c60b2" class="figure">
+<div id="org9e4e13f" class="figure">
 <p><img src="/assets/publication/MixAlign.png" alt="MixAlign.png" />
 </p>
 </div>
@@ -104,7 +104,7 @@ Engineering (ICDE)</i>, 2024. [<a href="https://arxiv.org/abs/2404.07454">arXiv<
 17.5%，并将准确率和提前率的调和平均值提高了 3.7% 至 14.0%。
 </p>
 
-<div id="orgca80d9a" class="figure">
+<div id="org51cfe98" class="figure">
 <p><img src="/assets/publication/KVEC.png" alt="KVEC.png" />
 </p>
 </div>
@@ -117,15 +117,15 @@ Influencers in Decaying Social Activity Streams with Theoretical Guarantees". <i
 </p>
 <details>
 <summary>[介绍]</summary>
-<p>影响力最大化是很多实际应用背后要求解的优化问题，例如病毒式营销，政治竞选和网络监控。这个问题已经被广泛研究，但大多
-数研究都假设影响力是静态的，而实际中用户的影响力会随时间变化。为了解决这个挑战，本文提出了一个新的影响力跟踪问题。为了
-使最优解保持最新状态并能平滑地忘记过时数据，本文提出了一种概率衰减数据流（PDSAS）模型，使流中的每一个数据点存在的概率
-随时间衰减。基于PDSAS模型，本文提出了一种流式在线优化算法解决影响力跟踪问题。该流式优化算法可以在线得到近似解并保证求
-解质量存在（1/2−ϵ）下界；为进一步提高求解效率，本文对该方法进行改进，并提出一种求解质量下界为（1/4−ϵ）的在线优化算法。
-实验表明，本文方法可以找到高质量的解且计算成本比基线低得多。
+<p>社交网络中的影响力最大化问题是很多实际应用背后要解决的优化问题，例如病毒营销，政治竞选造势和网络监控。这个问题已经
+被广泛研究，但大多数研究都假设影响力是静态的，而实际中用户的影响力会随时间变化，需要实时发现当前网络中最有影响力的 K
+个节点，为此需要解决社交网络节点影响力实时跟踪问题。为了使最优解保持最新状态并能平滑地忘记过时数据，本文提出了一种概率
+衰减数据流（PDSAS）模型，使流中的每一个数据点存在的概率随时间衰减。基于PDSAS模型，本文提出了一种流式子模函数在线优化求
+解算法。该算法可以在线得到近似解并保证求解质量存在下界（1/2−ϵ）；为进一步提高求解效率，本文对该方法进行改进，并提出一
+种求解质量下界为（1/4−ϵ）的高效在线优化算法。实验表明，本文方法可以找到高质量的解且计算成本比基线低得多。
 </p>
 
-<div id="org6c3d85f" class="figure">
+<div id="orgd7ee361" class="figure">
 <p><img src="/assets/publication/influence.png" alt="influence.png" />
 </p>
 </div>

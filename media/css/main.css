@@ -79,7 +79,6 @@ details {
   display: inline;
 }
 details > summary {
-  list-style: none;
   color: blue;
 }
 details > p {
