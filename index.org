@@ -14,7 +14,7 @@ interests focus on network/graph/streaming data analysis, algorithm design, and 
 
 #+ATTR_HTML: :style margin-right:1ex;
 [[file:images/news.gif]] 招收博士生、硕士生及实习生。要求态度踏实认真、能积极主动思考、勇于钻研探索、有
-团队协作及追求卓越的精神。[[[file:article/lab_intro.org][more]]]
+团队协作及追求卓越的精神。[[[file:article/lab_intro.org][实验室介绍]]]
 
 * Research
 - 大数据近似计算与优化：大规模网络/图/流数据近似计算与优化算法等。
