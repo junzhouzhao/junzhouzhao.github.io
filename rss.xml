@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Sun, 31 Aug 2025 11:47:42 CST</pubDate>
-    <lastBuildDate>Sun, 31 Aug 2025 11:47:42 CST</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 11:48:12 CST</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2025 11:48:12 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -15,9 +15,9 @@
     <p>
 [<a href="../article/conference_list">Top Conferences in Computer Science</a>]
 </p>
-<div id="outline-container-org14efe6f" class="outline-2">
-<h2 id="org14efe6f">Drafts</h2>
-<div class="outline-text-2" id="text-org14efe6f">
+<div id="outline-container-org7a14416" class="outline-2">
+<h2 id="org7a14416">Drafts</h2>
+<div class="outline-text-2" id="text-org7a14416">
 <ul class="org-ul">
 <li><p>赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 2025-06. [<a href="/assets/publication/Draft_VoIP.pdf">draft</a>]
 </p>
@@ -34,7 +34,7 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 充等措施提升安全性，避免造成用户隐私泄露。
 </p>
 
-<div id="org893f7ab" class="figure">
+<div id="org7d2f4b2" class="figure">
 <p><img src="/assets/publication/voip.png" alt="voip.png" />
 </p>
 </div>
@@ -42,9 +42,9 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 </ul>
 </div>
 </div>
-<div id="outline-container-org572286c" class="outline-2">
-<h2 id="org572286c">Publications</h2>
-<div class="outline-text-2" id="text-org572286c">
+<div id="outline-container-org5b34f46" class="outline-2">
+<h2 id="org5b34f46">Publications</h2>
+<div class="outline-text-2" id="text-org5b34f46">
 <ul class="org-ul">
 <li><p>
 <b>[KDD'25]</b> Chenxu Wang, Jinfeng Chen, Junzhou Zhao, and Pinghui Wang. Task Negative Sampling Enhanced Graph Few-shot
@@ -65,7 +65,7 @@ Learning. In <i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Disco
 4.6%，F1 分数提高了 4.9%。
 </p>
 
-<div id="org89f8cc2" class="figure">
+<div id="org73cdc06" class="figure">
 <p><img src="/assets/publication/graph_few_shot.png" alt="graph_few_shot.png" />
 </p>
 </div>
@@ -86,7 +86,7 @@ Learning. In <i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Disco
 上进行的实验表明，BSODiag 在 PR@3 上达到了 87.5%，在 PCR 上达到了 46.3%，分别比基线方法高出 10.2% 和 3.7%。
 </p>
 
-<div id="orgf44339e" class="figure">
+<div id="org8fce96d" class="figure">
 <p><img src="/assets/publication/BSODiag.png" alt="BSODiag.png" />
 </p>
 </div>
@@ -105,7 +105,7 @@ Bridging Human and External Knowledge for Large Language Models". <i>Findings of
 种对齐。实验结果表明，知识对齐在提升模型性能和减少模型幻觉方面起着关键作用，分别提高了 22.2% 和 27.1%。
 </p>
 
-<div id="org0797e0b" class="figure">
+<div id="orge87f2c2" class="figure">
 <p><img src="/assets/publication/MixAlign.png" alt="MixAlign.png" />
 </p>
 </div>
@@ -128,7 +128,7 @@ Engineering (ICDE)</i>, 2024. [<a href="https://arxiv.org/abs/2404.07454">arXiv<
 17.5%，并将准确率和提前率的调和平均值提高了 3.7% 至 14.0%。
 </p>
 
-<div id="org1581326" class="figure">
+<div id="org1fb83ab" class="figure">
 <p><img src="/assets/publication/KVEC.png" alt="KVEC.png" />
 </p>
 </div>
@@ -149,7 +149,7 @@ Influencers in Decaying Social Activity Streams with Theoretical Guarantees". <i
 种求解质量下界为（1/4−ϵ）的高效在线优化算法。实验表明，本文方法可以找到高质量的解且计算成本比基线低得多。
 </p>
 
-<div id="org4c73fef" class="figure">
+<div id="orgccd0bf6" class="figure">
 <p><img src="/assets/publication/influence.png" alt="influence.png" />
 </p>
 </div>
