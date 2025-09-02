@@ -5,7 +5,6 @@
 
 [[[file:../article/conference_list.org][Top Conferences in Computer Science]]]
 
-
 * Drafts
 
 - 赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 2025-06. [[[file:assets/Draft_VoIP.pdf][draft]]]
@@ -29,10 +28,11 @@
   #+END_EXPORT
 
 * Publications
-[[[https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=hBLT754AAAAJ&sortby=pubdate][full list]]]
+[[[https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=hBLT754AAAAJ&sortby=pubdate][Full List]]]
 
-- *[KDD'25]* Chenxu Wang, Jinfeng Chen, Junzhou Zhao, and Pinghui Wang. Task Negative Sampling Enhanced Graph Few-shot
-  Learning. In /Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining/, 2025.
+- *[KDD'25]* Chenxu Wang, Jinfeng Chen, Junzhou Zhao, and Pinghui Wang. "Task Negative Sampling Enhanced Graph Few-shot
+  Learning". In /Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM
+  SIGKDD)/, 2025.
    #+BEGIN_EXPORT html
   <details>
   <summary>[介绍]</summary>
