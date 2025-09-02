@@ -4,10 +4,56 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Sun, 31 Aug 2025 11:50:20 CST</pubDate>
-    <lastBuildDate>Sun, 31 Aug 2025 11:50:20 CST</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 15:08:25 CST</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 15:08:25 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Lab Intro</title>
+      <link>https://junzhouzhao.github.io/article/lab_intro</link>
+      <description><![CDATA[<section id="content">
+    <div id="outline-container-org1213d6a" class="outline-2">
+<h2 id="org1213d6a">实验室简介</h2>
+<div class="outline-text-2" id="text-org1213d6a">
+<p>课题组隶属于西安交通大学智能网络与网络安全教育部重点实验室，主体位于西安交通大学兴庆校区<a href="https://mp.weixin.qq.com/s?__biz=MzUzMzEwMDk3Mg==&amp;mid=2247483906&amp;idx=1&amp;sn=7853e7efb9372ca8a74c500714b6817b&amp;poc_token=HJSTtmijXbN6akO1-ierCVbb8kCL0xJtMiX2ZAlV">网络中心三楼</a>。实验室师生来自计算机科学与技术、控制科学与工程、信息与通信工程、网络空间安全、数学五个一级学科，以智能网络与网络化系统为对象，研究<font color="red">网络化系统的大数据分析、优化运行和系统安全</font>等重大共性问题。</p>
+
+
+<div id="orgb918920" class="figure">
+<p><img src="/assets/article/lab_intro/lab.png" alt="lab.png" style="margin-bottom:1em;" />
+</p>
+</div>
+
+<p>实验室拥有世界一流的科研环境。实验室网络以百 G 带宽直接接入西安交大校园网、CERNET 西北网和中国电信。实验室为每位同学配置高性能工作站，实验室机房配有多种专用网络设备、高性能服务器、海量数据存储阵列等。</p>
+
+
+<div id="orge42021f" class="figure">
+<p><img src="/assets/article/lab_intro/equipment.png" alt="equipment.png" style="margin-bottom:1em;" />
+</p>
+</div>
+
+<p>实验室向同学提供优良、宽松的学习与生活环境，配有会议室、讨论室、设备间，以及微波炉、洗衣机、冰箱等生活电器。实验室学习条件良好、科研氛围浓厚，学生毕业去向包括入选华为“天才少年”、腾讯研究院、字节、阿里等互联网头部企业，以及国家安全相关部门。</p>
+
+
+<div id="org2bec3bf" class="figure">
+<p><img src="/assets/article/lab_intro/workspace.png" alt="workspace.png" />
+</p>
+</div>
+
+
+<div id="org1e25fbf" class="figure">
+<p><img src="/assets/article/lab_intro/group.png" alt="group.png" style="margin-bottom:1em;" />
+</p>
+</div>
+
+<p>欢迎对<font color="red">大数据分析（优化与近似算法）、机器学习（LLM 与图挖掘）、网络安全（网络流量分析与异常检测）、隐私保护技术（差分隐私及 PPML）、数据安全（应用密码学）</font>等研究领域感兴趣的同学加入！</p>
+</div>
+</div>
+
+</section>
+]]></description>
+      <pubDate>2025-09-02</pubDate>
+      <guid>https://junzhouzhao.github.io/article/lab_intro</guid>
+    </item>
     <item>
       <title>Publication</title>
       <link>https://junzhouzhao.github.io/publication/</link>
@@ -15,9 +61,9 @@
     <p>
 [<a href="../article/conference_list">Top Conferences in Computer Science</a>]
 </p>
-<div id="outline-container-org954af93" class="outline-2">
-<h2 id="org954af93">Drafts</h2>
-<div class="outline-text-2" id="text-org954af93">
+<div id="outline-container-org4eafa39" class="outline-2">
+<h2 id="org4eafa39">Drafts</h2>
+<div class="outline-text-2" id="text-org4eafa39">
 <ul class="org-ul">
 <li><p>赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 2025-06. [<a href="/assets/publication/Draft_VoIP.pdf">draft</a>]
 </p>
@@ -34,7 +80,7 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 充等措施提升安全性，避免造成用户隐私泄露。
 </p>
 
-<div id="org3dc7a8a" class="figure">
+<div id="orge80a271" class="figure">
 <p><img src="/assets/publication/voip.png" alt="voip.png" />
 </p>
 </div>
@@ -42,17 +88,18 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 </ul>
 </div>
 </div>
-<div id="outline-container-org2b31291" class="outline-2">
-<h2 id="org2b31291">Publications</h2>
-<div class="outline-text-2" id="text-org2b31291">
+<div id="outline-container-orgbc3b1b7" class="outline-2">
+<h2 id="orgbc3b1b7">Publications</h2>
+<div class="outline-text-2" id="text-orgbc3b1b7">
 <p>
-[<a href="https://scholar.google.com/citations?view_op=list_works&amp;hl=zh-CN&amp;hl=zh-CN&amp;user=hBLT754AAAAJ&amp;sortby=pubdate">full list</a>]
+[<a href="https://scholar.google.com/citations?view_op=list_works&amp;hl=zh-CN&amp;hl=zh-CN&amp;user=hBLT754AAAAJ&amp;sortby=pubdate">Full List</a>]
 </p>
 
 <ul class="org-ul">
 <li><p>
-<b>[KDD'25]</b> Chenxu Wang, Jinfeng Chen, Junzhou Zhao, and Pinghui Wang. Task Negative Sampling Enhanced Graph Few-shot
-Learning. In <i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, 2025.
+<b>[KDD'25]</b> Chenxu Wang, Jinfeng Chen, Junzhou Zhao, and Pinghui Wang. "Task Negative Sampling Enhanced Graph Few-shot
+Learning". In <i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM
+SIGKDD)</i>, 2025.
 </p>
 <details>
 <summary>[介绍]</summary>
@@ -69,7 +116,7 @@ Learning. In <i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Disco
 4.6%，F1 分数提高了 4.9%。
 </p>
 
-<div id="orgc650ff0" class="figure">
+<div id="orgc3337cc" class="figure">
 <p><img src="/assets/publication/graph_few_shot.png" alt="graph_few_shot.png" />
 </p>
 </div>
@@ -90,7 +137,7 @@ Learning. In <i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Disco
 上进行的实验表明，BSODiag 在 PR@3 上达到了 87.5%，在 PCR 上达到了 46.3%，分别比基线方法高出 10.2% 和 3.7%。
 </p>
 
-<div id="org4c23603" class="figure">
+<div id="orgbedee01" class="figure">
 <p><img src="/assets/publication/BSODiag.png" alt="BSODiag.png" />
 </p>
 </div>
@@ -109,7 +156,7 @@ Bridging Human and External Knowledge for Large Language Models". <i>Findings of
 种对齐。实验结果表明，知识对齐在提升模型性能和减少模型幻觉方面起着关键作用，分别提高了 22.2% 和 27.1%。
 </p>
 
-<div id="org0b17838" class="figure">
+<div id="orgcaf2498" class="figure">
 <p><img src="/assets/publication/MixAlign.png" alt="MixAlign.png" />
 </p>
 </div>
@@ -132,7 +179,7 @@ Engineering (ICDE)</i>, 2024. [<a href="https://arxiv.org/abs/2404.07454">arXiv<
 17.5%，并将准确率和提前率的调和平均值提高了 3.7% 至 14.0%。
 </p>
 
-<div id="orgc1e7c54" class="figure">
+<div id="org811fc47" class="figure">
 <p><img src="/assets/publication/KVEC.png" alt="KVEC.png" />
 </p>
 </div>
@@ -153,7 +200,7 @@ Influencers in Decaying Social Activity Streams with Theoretical Guarantees". <i
 种求解质量下界为（1/4−ϵ）的高效在线优化算法。实验表明，本文方法可以找到高质量的解且计算成本比基线低得多。
 </p>
 
-<div id="org0bf3da2" class="figure">
+<div id="org766d6cc" class="figure">
 <p><img src="/assets/publication/influence.png" alt="influence.png" />
 </p>
 </div>
@@ -260,15 +307,8 @@ of Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop
 
 </section>
 ]]></description>
-      <pubDate>2025-08-31</pubDate>
+      <pubDate>2025-09-02</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
-    </item>
-    <item>
-      <title>Lab Intro</title>
-      <link>https://junzhouzhao.github.io/article/lab_intro</link>
-      <description><![CDATA[]]></description>
-      <pubDate>2025-06-28</pubDate>
-      <guid>https://junzhouzhao.github.io/article/lab_intro</guid>
     </item>
     <item>
       <title>现代密码学</title>
