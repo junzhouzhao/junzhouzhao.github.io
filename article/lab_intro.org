@@ -27,9 +27,9 @@
 
 [[file:../images/workspace.png]]
 
+欢迎对@@html:<font color="red">@@大数据分析与机器学习（优化与近似算法、LLM、图挖掘）、数据安全与隐私
+计算（网络流量分析、差分隐私技术、应用密码学、隐私保护机器学习）@@html:</font>@@等研究领域感兴趣的同
+学加入！
+
 #+ATTR_HTML: :style margin-bottom:1em;
 [[file:../images/group.png]]
-
-欢迎对@@html:<font color="red">@@大数据分析（优化与近似算法）、机器学习（LLM 与图挖掘）、网络安全（网
-络流量分析与异常检测）、隐私保护技术（差分隐私及 PPML）、数据安全（应用密码学）@@html:</font>@@等研究
-领域感兴趣的同学加入！
