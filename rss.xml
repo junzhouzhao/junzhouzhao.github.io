@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Mon, 08 Sep 2025 08:50:51 CST</pubDate>
-    <lastBuildDate>Mon, 08 Sep 2025 08:50:51 CST</lastBuildDate>
+    <pubDate>Tue, 09 Sep 2025 10:39:36 CST</pubDate>
+    <lastBuildDate>Tue, 09 Sep 2025 10:39:36 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -15,11 +15,11 @@
     <p>
 [<a href="../article/conference_list">Top Conferences in Computer Science</a>]
 </p>
-<div id="outline-container-org24ffef2" class="outline-2">
-<h2 id="org24ffef2">Drafts</h2>
-<div class="outline-text-2" id="text-org24ffef2">
+<div id="outline-container-orgfb27be9" class="outline-2">
+<h2 id="orgfb27be9">Drafts</h2>
+<div class="outline-text-2" id="text-orgfb27be9">
 <ul class="org-ul">
-<li><p>赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 2025-06. [<a href="/assets/publication/Draft_VoIP.pdf">draft</a>]
+<li><p>赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 2025-06. <code>网络流量</code> [<a href="/assets/publication/Draft_VoIP.pdf">draft</a>]
 </p>
 <details>
 <summary>[介绍]</summary>
@@ -34,7 +34,7 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 充等措施提升安全性，避免造成用户隐私泄露。
 </p>
 
-<div id="org7d72f05" class="figure">
+<div id="org309bcc1" class="figure">
 <p><img src="/assets/publication/voip.png" alt="voip.png" />
 </p>
 </div>
@@ -42,9 +42,9 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 </ul>
 </div>
 </div>
-<div id="outline-container-org01eb7bc" class="outline-2">
-<h2 id="org01eb7bc">Publications</h2>
-<div class="outline-text-2" id="text-org01eb7bc">
+<div id="outline-container-orge392de9" class="outline-2">
+<h2 id="orge392de9">Publications</h2>
+<div class="outline-text-2" id="text-orge392de9">
 <p>
 [<a href="https://scholar.google.com/citations?view_op=list_works&amp;hl=zh-CN&amp;hl=zh-CN&amp;user=hBLT754AAAAJ&amp;sortby=pubdate">Full List</a>]
 </p>
@@ -53,7 +53,7 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 <li><p>
 <b>[KDD'25]</b> Chenxu Wang, Jinfeng Chen, Junzhou Zhao, and Pinghui Wang. "Task Negative Sampling Enhanced Graph Few-shot
 Learning". In <i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM
-SIGKDD)</i>, 2025.
+SIGKDD)</i>, 2025. <code>图学习</code>
 </p>
 <details>
 <summary>[介绍]</summary>
@@ -69,7 +69,7 @@ SIGKDD)</i>, 2025.
 性。在四个基准数据集上进行的大量实验表明，TaskNS 有效，与最先进的方法相比，平均准确率提高了4.6%，F1 分数提高了 4.9%。
 </p>
 
-<div id="org3f13e4b" class="figure">
+<div id="org1a2da73" class="figure">
 <p><img src="/assets/publication/graph_few_shot.png" alt="graph_few_shot.png" />
 </p>
 </div>
@@ -78,7 +78,8 @@ SIGKDD)</i>, 2025.
 <li><p>
 <b>[ICSE'25]</b> Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao*, Jiongzhou Liu , Shujie Han , Yi Liu, and Fan Xu.
 "BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems". In
-<i>Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE)</i>, 2025. [<a href="https://arxiv.org/abs/2502.15728">arXiv</a>][<a href="/assets/publication/BSODiag_ICSE25_Slides.pdf">slides</a>]
+<i>Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE)</i>, 2025. <code>智能运维</code>
+[<a href="https://arxiv.org/abs/2502.15728">arXiv</a>][<a href="/assets/publication/BSODiag_ICSE25_Slides.pdf">slides</a>]
 </p>
 <details>
 <summary>[介绍]</summary>
@@ -90,15 +91,15 @@ SIGKDD)</i>, 2025.
 上进行的实验表明，BSODiag 在 PR@3 上达到了 87.5%，在 PCR 上达到了 46.3%，分别比基线方法高出 10.2% 和 3.7%。
 </p>
 
-<div id="org044ada9" class="figure">
+<div id="org0990259" class="figure">
 <p><img src="/assets/publication/BSODiag.png" alt="BSODiag.png" />
 </p>
 </div>
 </details></li>
 
 <li><p>
-<b>[ACL'24]</b> Shuo Zhang, Liangming Pan, Junzhou Zhao*, and William Yang Wang. "The Knowledge Alignment Problem:
-Bridging Human and External Knowledge for Large Language Models". <i>Findings of ACL</i>, 2024. [<a href="https://arxiv.org/abs/2305.13669">arXiv</a>][<a href="/assets/publication/MixAlign.pdf">slides</a>]
+<b>[ACL'24]</b> Shuo Zhang, Liangming Pan, Junzhou Zhao*, and William Yang Wang. "The Knowledge Alignment Problem: Bridging
+Human and External Knowledge for Large Language Models". <i>Findings of ACL</i>, 2024. <code>大模型</code> <code>模型幻觉</code> [<a href="https://arxiv.org/abs/2305.13669">arXiv</a>][<a href="/assets/publication/MixAlign.pdf">slides</a>]
 </p>
 <details>
 <summary>[介绍]</summary>
@@ -109,7 +110,7 @@ Bridging Human and External Knowledge for Large Language Models". <i>Findings of
 种对齐。实验结果表明，知识对齐在提升模型性能和减少模型幻觉方面起着关键作用，分别提高了 22.2% 和 27.1%。
 </p>
 
-<div id="org8a532c2" class="figure">
+<div id="org2e33dd0" class="figure">
 <p><img src="/assets/publication/MixAlign.png" alt="MixAlign.png" />
 </p>
 </div>
@@ -118,7 +119,7 @@ Bridging Human and External Knowledge for Large Language Models". <i>Findings of
 <li><p>
 <b>[ICDE'24]</b> Tao Duan, Junzhou Zhao*, Shuo Zhang, Jing Tao, and Pinghui Wang. "Representation Learning of Tangled
 Key-Value Sequence Data for Early Classification". In <i>Proceedings of the 41st IEEE International Conference on Data
-Engineering (ICDE)</i>, 2024. [<a href="https://arxiv.org/abs/2404.07454">arXiv</a>][<a href="/assets/publication/ICDE2024_slides.pdf">slides</a>][<a href="/assets/publication/ICDE2024_poster.pdf">poster</a>]
+Engineering (ICDE)</i>, 2024. <code>序列数据</code> <code>网络流量</code> [<a href="https://arxiv.org/abs/2404.07454">arXiv</a>][<a href="/assets/publication/ICDE2024_slides.pdf">slides</a>][<a href="/assets/publication/ICDE2024_poster.pdf">poster</a>]
 </p>
 <details>
 <summary>[介绍]</summary>
@@ -132,7 +133,7 @@ Engineering (ICDE)</i>, 2024. [<a href="https://arxiv.org/abs/2404.07454">arXiv<
 17.5%，并将准确率和提前率的调和平均值提高了 3.7% 至 14.0%。
 </p>
 
-<div id="orge52813e" class="figure">
+<div id="orgcc5081b" class="figure">
 <p><img src="/assets/publication/KVEC.png" alt="KVEC.png" />
 </p>
 </div>
@@ -141,7 +142,7 @@ Engineering (ICDE)</i>, 2024. [<a href="https://arxiv.org/abs/2404.07454">arXiv<
 <li><p>
 <b>[TON'24]</b> Junzhou Zhao, Pinghui Wang, Wei Zhang, Zhaosong Zhang, Maoli Liu, Jing Tao, and John C.S. Lui. "Tracking
 Influencers in Decaying Social Activity Streams with Theoretical Guarantees". <i>IEEE/ACM Transactions on Networking
-(TON)</i>, 32(2):1461-1476, 2024.
+(TON)</i>, 32(2):1461-1476, 2024. <code>社交网络</code> <code>网络舆情</code>
 </p>
 <details>
 <summary>[介绍]</summary>
@@ -153,7 +154,7 @@ Influencers in Decaying Social Activity Streams with Theoretical Guarantees". <i
 种求解质量下界为（1/4−ϵ）的高效在线优化算法。实验表明，本文方法可以找到高质量的解且计算成本比基线低得多。
 </p>
 
-<div id="org32000ef" class="figure">
+<div id="org7789cfb" class="figure">
 <p><img src="/assets/publication/influence.png" alt="influence.png" />
 </p>
 </div>
@@ -161,106 +162,108 @@ Influencers in Decaying Social Activity Streams with Theoretical Guarantees". <i
 
 <li><b>[AAAI'23]</b> Shuo Zhang, Junzhou Zhao*, Pinghui Wang, Tianxiang Wang, Zi Liang, Jing Tao, Yi Huang, and Junlan Feng.
 "Multi-Action Dialog Policy Learning from Logged User Feedback". In <i>Proceedings of the 37th AAAI Conference on
-Artificial Intelligence (AAAI)</i>, 2023. [<a href="https://arxiv.org/abs/2302.13505">arXiv</a>]</li>
+Artificial Intelligence (AAAI)</i>, 2023. <code>对话系统</code> <code>NLP</code> [<a href="https://arxiv.org/abs/2302.13505">arXiv</a>]</li>
 
 <li><b>[SIGMOD'23]</b> Pinghui Wang, Chengjin Yang, Dongdong Xie, Junzhou Zhao, Hui Li, Jing Tao, and Xiaohong Guan. "An
 Effective and Differentially Private Protocol for Secure Distributed Cardinality Estimation". In <i>Proceedings of the
-ACM SIGMOD/PODS International Conference on Data Management (SIGMOD)</i>, 2023. [<a href="/assets/publication/SIGMOD23_MPC_slides.pdf">slides</a>]</li>
+ACM SIGMOD/PODS International Conference on Data Management (SIGMOD)</i>, 2023. <code>隐私计算</code> <code>MPC</code> <code>sketch</code> [<a href="/assets/publication/SIGMOD23_MPC_slides.pdf">slides</a>]</li>
 
 <li><b>[IJCAI'22]</b> Shuo Zhang, Junzhou Zhao*, Pinghui Wang, Yu Li, Yi Huang, and Junlan Feng. "Think Before You Speak:
 Improving Multi-action Dialog Policy by Planning Single-Action Dialogs". In <i>Proceedings of the 31st International
-Joint Conference on Artificial Intelligence (IJCAI)</i>, 2022. [<a href="https://arxiv.org/abs/2204.11481">arXiv</a>][<a href="/assets/publication/IJCAI22_MADP_slides.pdf">slides</a>]</li>
+Joint Conference on Artificial Intelligence (IJCAI)</i>, 2022. <code>NLP</code> <code>对话系统</code> [<a href="https://arxiv.org/abs/2204.11481">arXiv</a>][<a href="/assets/publication/IJCAI22_MADP_slides.pdf">slides</a>]</li>
 
 <li><b>[KDD'21]</b> Junzhou Zhao, Pinghui Wang, Chao Deng, and Jing Tao. "Temporal Biased Streaming Submodular Optimization".
-In <i>Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)</i>, 2021. [<a href="/assets/publication/KDD21_SSO_slides.pdf">slides</a>]</li>
+In <i>Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)</i>, 2021. <code>数据流</code>
+<code>在线优化</code> [<a href="/assets/publication/KDD21_SSO_slides.pdf">slides</a>]</li>
 
 <li><b>[AAAI'21]</b> Shuo Zhang, Junzhou Zhao*, Pinghui Wang, Nuo Xu, Yang Yang, Yiting Liu, Yi Huang, and Junlan Feng.
 "Learning to Check Contract Inconsistencies". In <i>Proceedings of the 35th AAAI Conference on Artificial Intelligence
-(AAAI)</i>, 2021. [<a href="https://arxiv.org/abs/2012.08150">arXiv</a>][<a href="/assets/publication/AAAI2021-contract_poster.pdf">poster</a>]</li>
+(AAAI)</i>, 2021. <code>NLP</code> [<a href="https://arxiv.org/abs/2012.08150">arXiv</a>][<a href="/assets/publication/AAAI2021-contract_poster.pdf">poster</a>]</li>
 
 <li><b>[KAIS'21]</b> Junzhou Zhao, Pinghui Wang, Zhouguo Chen, Jianwei Ding, John C.S. Lui, Don Towsley, and Xiaohong Guan.
 "Tracking Triadic Cardinality Distributions for Burst Detection in High-Speed Graph Streams". <i>Knowledge and
-Information Systems (KAIS)</i>, 63:939-969, 2021. [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
+Information Systems (KAIS)</i>, 63:939-969, 2021. <code>图数据流</code> <code>采样估计</code> [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
 
 <li><b>[ICDE'20]</b> Junzhou Zhao, Pinghui Wang, Jing Tao, Shuo Zhang, and John C.S. Lui. "Continuously Tracking Core Items
 in Data Streams with Probabilistic Decays". In <i>Proceedings of the 36th IEEE International Conference on Data
-Engineering (IEEE ICDE)</i>, 2020. [<a href="/assets/publication/ICDE2020_slides.pdf">slides</a>][<a href="/assets/publication/ICDE2020_poster.pdf">poster</a>]</li>
+Engineering (IEEE ICDE)</i>, 2020. <code>数据流</code> <code>在线优化</code> [<a href="/assets/publication/ICDE2020_slides.pdf">slides</a>][<a href="/assets/publication/ICDE2020_poster.pdf">poster</a>]</li>
 
 <li><b>[INS'20]</b> Lin Lan, Pinghui Wang, Junzhou Zhao, Jing Tao, John C.S. Lui, and Xiaohong Guan. "Improving Network
-Embedding with Partially Available Vertex and Edge Content". <i>Information Sciences</i>, 2020.</li>
+Embedding with Partially Available Vertex and Edge Content". <i>Information Sciences</i>, 2020. <code>图学习</code></li>
 
-<li><b>[TOIS'20]</b> Xiaoying Zhang, Hong Xie, Junzhou Zhao, and John C.S. Lui. "Understanding Assimilation-Contrast Effects
-in Online Rating Systems: Modeling, Debiasing and Applications". <i>ACM Transactions on Information Systems
-(TOIS)</i>, 2020.</li>
+<li><b>[TOIS'20]</b> Xiaoying Zhang, Hong Xie, Junzhou Zhao, and John C.S. Lui. "Understanding Assimilation-Contrast Effects in
+Online Rating Systems: Modeling, Debiasing and Applications". <i>ACM Transactions on Information Systems (TOIS)</i>, 2020.
+<code>推荐系统</code></li>
 
 <li><b>[AAAI'19]</b> Junzhou Zhao, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Submodular Optimization over
 Streams with Inhomogeneous Decays". In <i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence
-(AAAI)</i>, 2019. [<a href="https://arxiv.org/abs/1811.05652">arXiv</a>]</li>
+(AAAI)</i>, 2019. <code>数据流</code> <code>在线优化</code> [<a href="https://arxiv.org/abs/1811.05652">arXiv</a>]</li>
 
-<li><b>[ICDE'19]</b> Junzhou Zhao, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Tracking Influential Nodes
-in Time-Decaying Dynamic Interaction Networks". In <i>Proceedings of the 35th IEEE International Conference on Data
-Engineering (IEEE ICDE)</i>, 2019. [<a href="https://arxiv.org/abs/1810.07917">arXiv</a>][<a href="/assets/publication/ICDE19_poster.pdf">poster</a>]</li>
+<li><b>[ICDE'19]</b> Junzhou Zhao, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Tracking Influential Nodes in
+Time-Decaying Dynamic Interaction Networks". In <i>Proceedings of the 35th IEEE International Conference on Data
+Engineering (IEEE ICDE)</i>, 2019. <code>图数据流</code> <code>网络舆情</code> [<a href="https://arxiv.org/abs/1810.07917">arXiv</a>][<a href="/assets/publication/ICDE19_poster.pdf">poster</a>]</li>
 
-<li><b>[INS'19]</b> Junzhou Zhao, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem
-Definitions, Fast Algorithms, and Observations". <i>Information Sciences (INS)</i>, 477:161-185, 2019. [<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
+<li><b>[INS'19]</b> Junzhou Zhao, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem Definitions,
+Fast Algorithms, and Observations". <i>Information Sciences (INS)</i>, 477:161-185, 2019. <code>图数据</code> <code>网络舆情</code> [<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
 
 <li><b>[DMKD'19]</b> Junzhou Zhao, Pinghui Wang, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Online Social
-Networks by Random Walk with Indirect Jumps". <i>Data Mining and Knowledge Discovery (DMKD)</i>, 33:24-57, 2019.</li>
+Networks by Random Walk with Indirect Jumps". <i>Data Mining and Knowledge Discovery (DMKD)</i>, 33:24-57, 2019. <code>图数据</code>
+<code>采样估计</code></li>
 
 <li><b>[TKDE'18]</b> Pinghui Wang, Junzhou Zhao, Xiangliang Zhang, Zhenhua Li, Jiefeng Cheng, John C.S. Lui, Don Towsley,
 Jing Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs".
-<i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, 2018. [<a href="/assets/publication/TKDE18_poster.pdf">poster</a>]</li>
+<i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, 2018. <code>图数据</code> <code>采样估计</code> [<a href="/assets/publication/TKDE18_poster.pdf">poster</a>]</li>
 
-<li><b>[KAIS'18]</b> Pinghui Wang, Junzhou Zhao, Xiangliang Zhang, Jing Tao, and Xiaohong Guan. "SNOD: A Fast Sampling
-Method of Exploring Node Orbit Degrees for Large Graphs". <i>Knowledge and Information Systems (KAIS)</i>, 2018.</li>
+<li><b>[KAIS'18]</b> Pinghui Wang, Junzhou Zhao, Xiangliang Zhang, Jing Tao, and Xiaohong Guan. "SNOD: A Fast Sampling Method
+of Exploring Node Orbit Degrees for Large Graphs". <i>Knowledge and Information Systems (KAIS)</i>, 2018. <code>图数据</code> <code>采样估计</code></li>
 
 <li><b>[KAIS'18]</b> Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Fast Crawling Methods of
-Exploring Content Distributed Over Large Graphs". <i>Knowledge and Information Systems (KAIS)</i>, 2018.</li>
+Exploring Content Distributed Over Large Graphs". <i>Knowledge and Information Systems (KAIS)</i>, 2018. <code>图数据</code> <code>采样估计</code></li>
 
 <li><b>[KAIS'18]</b> Pinghui Wang, Junzhou Zhao, Bruno Ribeiro, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Practical
-Characterization of Large Networks Using Neighborhood Information". <i>Knowledge and Information Systems (KAIS)</i>, 2018.</li>
+Characterization of Large Networks Using Neighborhood Information". <i>Knowledge and Information Systems (KAIS)</i>, 2018.
+<code>图数据</code> <code>采样估计</code></li>
 
 <li><b>[INS'17]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "I/O-Efficient Calculation of
-Group Closeness Centrality over Disk-Resident Graphs". <i>Information Sciences (INS)</i>, 2017.</li>
+Group Closeness Centrality over Disk-Resident Graphs". <i>Information Sciences (INS)</i>, 2017. <code>图数据</code> <code>优化方法</code></li>
 
 <li><b>[RecSys'17]</b> Xiaoying Zhang, Junzhou Zhao, and John C.S. Lui. "Modeling the Assimilation-Contrast Effects in Online
 Product Rating Systems: Debiasing and Recommendations". In <i>Proceedings of the 11th ACM Conference on Recommendation
-Systems (RecSys)</i>, 2017. <code>Awarded Best Paper</code></li>
+Systems (RecSys)</i>, 2017. <code>推荐系统</code> <code>Awarded Best Paper</code></li>
 
 <li><b>[COSN'15]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "Tracking Triadic Cardinality
 Distributions for Burst Detection in Social Activity Streams". In <i>Proceedings of ACM Conference on Online Social
-Networks (COSN)</i>, 2015. [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</li>
+Networks (COSN)</i>, 2015. <code>图数据</code> <code>异常检测</code> <code>采样估计</code> [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</li>
 
 <li><b>[ICDE'15]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "A Tale of Three Graphs:
 Sampling Design on Hybrid Social-Affiliation Networks". In <i>Proceedings of the 31st IEEE International Conference on
-Data Engineering (ICDE)</i>, 2015.</li>
+Data Engineering (ICDE)</i>, 2015. <code>图数据</code> <code>采样估计</code></li>
 
-<li><b>[SIMPLEX'14]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group
-Closeness Centrality over Disk-Resident Graphs". In <i>WWW SIMPLEX workshop</i>, 2014.
-<code>Awarded Best Paper</code></li>
+<li><b>[SIMPLEX'14]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group Closeness
+Centrality over Disk-Resident Graphs". In <i>WWW SIMPLEX workshop</i>, 2014. <code>图数据</code> <code>优化方法</code> <code>Awarded Best Paper</code></li>
 
 <li><b>[COMNET'14]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "WTF: Efficient Followee Selection for
 Cascading Outbreak Detection on Online Social Networks". <i>Computer Networks, Special Issue on Online Social
-Networks</i>, 2014.</li>
+Networks</i>, 2014. <code>图数据</code> <code>异常检测</code></li>
 
 <li><b>[TKDD'14]</b> Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Unbiased Characterization of
-Node Pairs over Large Graphs". <i>ACM Transactions on Knowledge Discovery from Data (TKDD)</i>, 2014.</li>
+Node Pairs over Large Graphs". <i>ACM Transactions on Knowledge Discovery from Data (TKDD)</i>, 2014. <code>图数据</code> <code>采样估计</code></li>
 
 <li><b>[CrowdRec'13]</b> Junzhou Zhao, Xiaohong Guan, and Jing Tao. "On Analyzing Estimation Errors due to Constrained
-Connections in Online Review Systems". <i>RecSys CrowdRec workshop</i>, 2013. [<a href="http://arxiv.org/abs/1307.3687">arXiv</a>]</li>
+Connections in Online Review Systems". <i>RecSys CrowdRec workshop</i>, 2013. <code>推荐系统</code> <code>估计方法</code> [<a href="http://arxiv.org/abs/1307.3687">arXiv</a>]</li>
 
-<li><b>[ICDE'13]</b> Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Node Pairs Over
-Large Graphs". In <i>Proceedings of the 29th IEEE International Conference on Data Engineering (ICDE)</i>, 2013.</li>
+<li><b>[ICDE'13]</b> Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Node Pairs Over Large
+Graphs". In <i>Proceedings of the 29th IEEE International Conference on Data Engineering (ICDE)</i>, 2013. <code>图数据</code> <code>采样估计</code></li>
 
-<li><b>[NetSciCom'11]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Empirical Analysis of the Evolution
-of Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop</i>, 2011.</li>
+<li><b>[NetSciCom'11]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Empirical Analysis of the Evolution of
+Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop</i>, 2011. <code>社交网络</code> <code>网络测量</code></li>
 </ul>
 </div>
 </div>
 
 </section>
 ]]></description>
-      <pubDate>2025-09-08</pubDate>
+      <pubDate>2025-09-09</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
     </item>
     <item>
