@@ -75,11 +75,10 @@ footer a {
 .underline {
   text-decoration: underline;
 }
-details {
-  display: inline;
-}
 details > summary {
   color: blue;
+  display: inline;
+  list-style: none;
 }
 details > p {
   color: purple;
