@@ -11,7 +11,7 @@
   [[[file:assets/Draft_VoIP.pdf][draft]]]
   #+BEGIN_EXPORT html
   <details>
-  <summary>[介绍]</summary>
+  <summary>[abstract]</summary>
   <p>随着智能手机等移动终端的迅速普及，以微信电话为代表的互联网语音（Voice over Internet Protocol, VoIP）应用日益流行。
   VoIP 应用在开放的 Internet 中传递涉及用户隐私的语音内容，保障用户个人数据安全至关重要。本文采集并分析了包括微信、TIM、
   腾讯会议、钉钉在内的四款流行 VoIP 应用在使用过程中产生的语音流量，发现尽管 VoIP 应用普遍采用私有语音编码算法、加密通
@@ -36,7 +36,7 @@
   SIGKDD)/, 2025. ~图学习~
    #+BEGIN_EXPORT html
   <details>
-  <summary>[介绍]</summary>
+  <summary>[abstract]</summary>
   <p>
   图少样本节点分类（GFSNC）已成为解决图结构网络中有限标注数据学习挑战的一种有前景的方法。尽管图神经网络在节点分类任务中
   取得了成功，但其性能严重依赖于大量标注数据的可用性，这在实际场景中往往难以实现。为了解决这一问题，GFSNC 采用了元学习的
@@ -60,7 +60,7 @@
   [[[https://arxiv.org/abs/2502.15728][arXiv]]][[[file:assets/BSODiag_ICSE25_Slides.pdf][slides]]]
   #+BEGIN_EXPORT html
   <details>
-  <summary>[介绍]</summary>
+  <summary>[abstract]</summary>
   <p>云基础设施中的故障会严重影响云服务的稳定性和可用性，批量服务器宕机故障会导致所有上游服务完全不可用。批量服务器宕机
   故障诊断问题旨在准确、及时地分析故障的根因，辅助故障排除。这是一个具有挑战性的任务：首先，云基础设施中收集的单模态粗粒
   度故障监测数据不足以全面描述故障情况；其次，由于设备之间复杂的依赖关系，故障往往是多个故障累积的结果，故障之间的关联难
@@ -78,7 +78,7 @@
   Human and External Knowledge for Large Language Models". /Findings of ACL/, 2024. ~大模型~ ~模型幻觉~ [[[https://arxiv.org/abs/2305.13669][arXiv]]][[[file:assets/MixAlign.pdf][slides]]]
   #+BEGIN_EXPORT html
   <details>
-  <summary>[介绍]</summary>
+  <summary>[abstract]</summary>
   <p>大模型通常需要基于外部知识来生成真实可靠的答案。然而，即便外部知识库有正确的依据，大模型也可能忽略这些依据，转而依
   赖错误的知识或自身偏见来胡编乱造，进而产生模型幻觉。由于用户大多不了解知识库的具体内容，当用户的问题与检索到的依据没有
   直接关联时，就会产生模型幻觉。本研究提出了知识对齐问题并给出了 MixAlign 框架，该框架能与用户和知识库进行交互，获取并整
@@ -96,7 +96,7 @@
   Engineering (ICDE)/, 2024. ~序列数据~ ~网络流量~ [[[https://arxiv.org/abs/2404.07454][arXiv]]][[[file:assets/ICDE2024_slides.pdf][slides]]][[[file:assets/ICDE2024_poster.pdf][poster]]]
   #+BEGIN_EXPORT html
   <details>
-  <summary>[介绍]</summary>
+  <summary>[abstract]</summary>
   <p>键值序列数据出现在各种现实应用中，从电子商务中的用户购物记录序列，到网络流量中的数据包序列。对这些键值序列进行分类
   在许多场景中都很重要，例如用户画像和恶意流量识别。在许多时间敏感场景中，除了准确分类键值序列的要求外，还希望尽早对键值
   序列进行分类，以便快速响应。然而，这两个目标本质上是相互冲突的。本研究提出一个新的纠缠键值序列快速分类问题，其中纠缠键
@@ -117,7 +117,7 @@
   (TON)/, 32(2):1461-1476, 2024. ~社交网络~ ~网络舆情~
   #+BEGIN_EXPORT html
   <details>
-  <summary>[介绍]</summary>
+  <summary>[abstract]</summary>
   <p>社交网络中的影响力最大化问题是很多实际应用背后要解决的优化问题，例如病毒营销，政治竞选造势和网络监控。这个问题已经
   被广泛研究，但大多数研究都假设影响力是静态的，而实际中用户的影响力会随时间变化，需要实时发现当前网络中最有影响力的 K
   个节点，为此需要解决社交网络节点影响力实时跟踪问题。为了使最优解保持最新状态并能平滑地忘记过时数据，本文提出了一种概率
