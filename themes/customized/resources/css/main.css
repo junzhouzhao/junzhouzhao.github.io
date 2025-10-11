@@ -75,7 +75,7 @@ footer a {
 .underline {
   text-decoration: underline;
 }
-details > summary {
+summary {
   color: blue;
   display: inline;
   list-style: none;
