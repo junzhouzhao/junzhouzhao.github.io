@@ -30,7 +30,7 @@
 
 * Publications
 
-- *[AAAI'26]* Junji Hou, Junzhou Zhao, Shuo Zhang, and Pinghui Wang. "A Theoretical Analysis of Detecting Large
+- *[AAAI'26]* Junji Hou, Junzhou Zhao*, Shuo Zhang, and Pinghui Wang. "A Theoretical Analysis of Detecting Large
   Model-Generated Time Series". /AAAI/, 2026. ~大模型~ ~时间序列~ ~生成检测~ [[[https://arxiv.org/abs/2511.07104][arXiv]]]
    #+BEGIN_EXPORT html
   <details>
