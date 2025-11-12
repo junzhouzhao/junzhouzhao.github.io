@@ -30,6 +30,27 @@
 
 * Publications
 
+- *[AAAI'26]* Junji Hou, Junzhou Zhao, Shuo Zhang, and Pinghui Wang. "A Theoretical Analysis of Detecting Large
+  Model-Generated Time Series". /AAAI/, 2026. ~大模型~ ~时间序列~ ~生成检测~ [[[https://arxiv.org/abs/2511.07104][arXiv]]]
+   #+BEGIN_EXPORT html
+  <details>
+  <summary>[abstract]</summary>
+  <p>
+  鉴于数据滥用和伪造的风险日益增加，本文探讨了识别由时间序列大型模型（TSLM）生成的合成时间序列的问题。尽管在检测模型生成
+  的文本方面已有大量研究，但由于模态的根本差异，这些现有方法并不适用于时间序列数据，因为时间序列通常具有比文本数据更低的
+  信息密度和更平滑的概率分布，这限制了基于标记的检测器的判别能力。为了解决这个问题，我们研究了真实时间序列和模型生成的时
+  间序列之间的细微分布差异，并提出了收缩假设，即与真实时间序列不同，模型生成的时间序列在递归预测下不确定性逐渐降低。我们
+  在对模型行为和时间序列结构的理论假设下正式证明了这一假设。模型生成的时间序列在递归预测下表现出逐渐集中的分布，从而导致
+  不确定性收缩。我们在各种数据集上对这一假设进行了实证验证。基于这一见解，我们引入了不确定性收缩估计器（UCE），这是一种
+  白盒检测器，它通过聚合连续前缀的不确定性指标来识别由 TSLM 生成的时间序列。在 32 个数据集上进行的大量实验表明，UCE 一直
+  优于最先进的基线，为检测模型生成的时间序列提供了一种可靠且通用的解决方案。
+  </p>
+  #+END_EXPORT
+  [[file:images/AAAI26_time_series.png]]
+  #+BEGIN_EXPORT html
+  </details>
+  #+END_EXPORT
+
 - *[KDD'25]* Chenxu Wang, Jinfeng Chen, Junzhou Zhao, and Pinghui Wang. "Task Negative Sampling Enhanced Graph Few-shot
   Learning". In /Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM
   SIGKDD)/, 2025. ~图学习~
