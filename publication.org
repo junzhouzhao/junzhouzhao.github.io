@@ -30,6 +30,27 @@
 
 * Publications
 
+- *[SIGMOD'26]* Chang Liu and Junzhou Zhao*. "MTSP-LDP: A Framework for Multi-Task Streaming Data Publication under
+  Local Differential Privacy". /ACM SIGMOD/, 2026. ~数据流~ ~差分隐私~
+   #+BEGIN_EXPORT html
+  <details>
+  <summary>[abstract]</summary>
+  <p>
+  手机、IoT设备等产出大量涉及用户隐私的流数据，直接对流数据分析并发布计算结果可能引发严重的隐私泄露问题。尽管现有基于
+  w-event LDP机制的方法在不依赖可信第三方的情况下可以提供隐私保护，但其实际应用受到两个关键限制：首先，这些方法主要用于
+  在每个时间戳发布简单的统计数据，这使得它们不支持复杂的查询；其次，它们在每个时间戳独立处理数据，忽略了数据在不同时间上
+  的相关性，从而降低了整体效用。为了解决这些问题，本文提出 MTSP-LDP，是一种能够在 w-event LDP 机制下进行多任务流数据发布
+  的新型框架。MTSP-LDP 提出了一种“最优隐私预算分配”算法，通过分析每个窗口内的时间相关性来动态分配隐私预算；然后，构建了
+  一个数据自适应的私有二叉树结构以支持复杂查询，该结构通过跨时间戳分组和平滑操作进一步优化，以提高估计精度；此外，引入了
+  一种统一的无预算多任务处理机制，以支持各种流查询，而无需消耗额外的隐私预算。在真实世界数据集上的大量实验表明，MTSP-LDP
+  在各种流任务中始终能实现高实用性，显著优于现有方法。
+  </p>
+  #+END_EXPORT
+  [[file:images/SIGMOD26_MSTP.png]]
+  #+BEGIN_EXPORT html
+  </details>
+  #+END_EXPORT
+
 - *[AAAI'26]* Junji Hou, Junzhou Zhao*, Shuo Zhang, and Pinghui Wang. "A Theoretical Analysis of Detecting Large
   Model-Generated Time Series". /AAAI/, 2026. ~大模型~ ~时间序列~ ~生成检测~ [[[https://arxiv.org/abs/2511.07104][arXiv]]]
    #+BEGIN_EXPORT html
