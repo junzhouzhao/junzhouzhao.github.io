@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Wed, 12 Nov 2025 10:49:21 CST</pubDate>
-    <lastBuildDate>Wed, 12 Nov 2025 10:49:21 CST</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2025 22:00:48 CST</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 22:00:48 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -15,9 +15,9 @@
     <p>
 [<a href="../article/conference_list">Top Conferences in Computer Science</a>]
 </p>
-<div id="outline-container-org0247e29" class="outline-2">
-<h2 id="org0247e29">Drafts</h2>
-<div class="outline-text-2" id="text-org0247e29">
+<div id="outline-container-orgf160416" class="outline-2">
+<h2 id="orgf160416">Drafts</h2>
+<div class="outline-text-2" id="text-orgf160416">
 <ul class="org-ul">
 <li><p>赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 2025-06. <code>网络流量</code> <code>反诈治理</code>
 [<a href="/assets/publication/Draft_VoIP.pdf">draft</a>]
@@ -35,7 +35,7 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 充等措施提升安全性，避免造成用户隐私泄露。
 </p>
 
-<div id="org2d9cc7c" class="figure">
+<div id="orgdb9b5b6" class="figure">
 <p><img src="/assets/publication/voip.png" alt="voip.png" />
 </p>
 </div>
@@ -43,10 +43,33 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 </ul>
 </div>
 </div>
-<div id="outline-container-org9ccf076" class="outline-2">
-<h2 id="org9ccf076">Publications</h2>
-<div class="outline-text-2" id="text-org9ccf076">
+<div id="outline-container-org13ba676" class="outline-2">
+<h2 id="org13ba676">Publications</h2>
+<div class="outline-text-2" id="text-org13ba676">
 <ul class="org-ul">
+<li><p>
+<b>[SIGMOD'26]</b> Chang Liu and Junzhou Zhao*. "MTSP-LDP: A Framework for Multi-Task Streaming Data Publication under
+Local Differential Privacy". <i>ACM SIGMOD</i>, 2026. <code>数据流</code> <code>差分隐私</code>
+</p>
+<details>
+<summary>[abstract]</summary>
+<p>
+手机、IoT设备等产出大量涉及用户隐私的流数据，直接对流数据分析并发布计算结果可能引发严重的隐私泄露问题。尽管现有基于
+w-event LDP机制的方法在不依赖可信第三方的情况下可以提供隐私保护，但其实际应用受到两个关键限制：首先，这些方法主要用于
+在每个时间戳发布简单的统计数据，这使得它们不支持复杂的查询；其次，它们在每个时间戳独立处理数据，忽略了数据在不同时间上
+的相关性，从而降低了整体效用。为了解决这些问题，本文提出 MTSP-LDP，是一种能够在 w-event LDP 机制下进行多任务流数据发布
+的新型框架。MTSP-LDP 提出了一种“最优隐私预算分配”算法，通过分析每个窗口内的时间相关性来动态分配隐私预算；然后，构建了
+一个数据自适应的私有二叉树结构以支持复杂查询，该结构通过跨时间戳分组和平滑操作进一步优化，以提高估计精度；此外，引入了
+一种统一的无预算多任务处理机制，以支持各种流查询，而无需消耗额外的隐私预算。在真实世界数据集上的大量实验表明，MTSP-LDP
+在各种流任务中始终能实现高实用性，显著优于现有方法。
+</p>
+
+<div id="orgab121c9" class="figure">
+<p><img src="/assets/publication/SIGMOD26_MSTP.png" alt="SIGMOD26_MSTP.png" />
+</p>
+</div>
+</details></li>
+
 <li><p>
 <b>[AAAI'26]</b> Junji Hou, Junzhou Zhao*, Shuo Zhang, and Pinghui Wang. "A Theoretical Analysis of Detecting Large
 Model-Generated Time Series". <i>AAAI</i>, 2026. <code>大模型</code> <code>时间序列</code> <code>生成检测</code> [<a href="https://arxiv.org/abs/2511.07104">arXiv</a>]
@@ -64,7 +87,7 @@ Model-Generated Time Series". <i>AAAI</i>, 2026. <code>大模型</code> <code>�
 优于最先进的基线，为检测模型生成的时间序列提供了一种可靠且通用的解决方案。
 </p>
 
-<div id="org38febcc" class="figure">
+<div id="orgcc4dd55" class="figure">
 <p><img src="/assets/publication/AAAI26_time_series.png" alt="AAAI26_time_series.png" />
 </p>
 </div>
@@ -89,7 +112,7 @@ SIGKDD)</i>, 2025. <code>图学习</code>
 性。在四个基准数据集上进行的大量实验表明，TaskNS 有效，与最先进的方法相比，平均准确率提高了4.6%，F1 分数提高了 4.9%。
 </p>
 
-<div id="org988c43f" class="figure">
+<div id="orge985523" class="figure">
 <p><img src="/assets/publication/graph_few_shot.png" alt="graph_few_shot.png" />
 </p>
 </div>
@@ -111,7 +134,7 @@ SIGKDD)</i>, 2025. <code>图学习</code>
 上进行的实验表明，BSODiag 在 PR@3 上达到了 87.5%，在 PCR 上达到了 46.3%，分别比基线方法高出 10.2% 和 3.7%。
 </p>
 
-<div id="org59138ce" class="figure">
+<div id="orgfc962f8" class="figure">
 <p><img src="/assets/publication/BSODiag.png" alt="BSODiag.png" />
 </p>
 </div>
@@ -130,7 +153,7 @@ Human and External Knowledge for Large Language Models". <i>Findings of ACL</i>,
 种对齐。实验结果表明，知识对齐在提升模型性能和减少模型幻觉方面起着关键作用，分别提高了 22.2% 和 27.1%。
 </p>
 
-<div id="org1ed8982" class="figure">
+<div id="org806031c" class="figure">
 <p><img src="/assets/publication/MixAlign.png" alt="MixAlign.png" />
 </p>
 </div>
@@ -153,7 +176,7 @@ Engineering (ICDE)</i>, 2024. <code>序列数据</code> <code>网络流量</code
 17.5%，并将准确率和提前率的调和平均值提高了 3.7% 至 14.0%。
 </p>
 
-<div id="org74b9b28" class="figure">
+<div id="org1376a18" class="figure">
 <p><img src="/assets/publication/KVEC.png" alt="KVEC.png" />
 </p>
 </div>
@@ -174,7 +197,7 @@ Influencers in Decaying Social Activity Streams with Theoretical Guarantees". <i
 种求解质量下界为（1/4−ϵ）的高效在线优化算法。实验表明，本文方法可以找到高质量的解且计算成本比基线低得多。
 </p>
 
-<div id="org2eb7da5" class="figure">
+<div id="orgd5ebb67" class="figure">
 <p><img src="/assets/publication/influence.png" alt="influence.png" />
 </p>
 </div>
@@ -283,7 +306,7 @@ Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop</i
 
 </section>
 ]]></description>
-      <pubDate>2025-11-12</pubDate>
+      <pubDate>2025-11-28</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
     </item>
     <item>
