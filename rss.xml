@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Fri, 28 Nov 2025 23:01:36 CST</pubDate>
-    <lastBuildDate>Fri, 28 Nov 2025 23:01:36 CST</lastBuildDate>
+    <pubDate>Sat, 29 Nov 2025 16:45:48 CST</pubDate>
+    <lastBuildDate>Sat, 29 Nov 2025 16:45:48 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -15,9 +15,9 @@
     <p>
 [<a href="../article/conference_list">Top Conferences in Computer Science</a>]
 </p>
-<div id="outline-container-orgdc06d0d" class="outline-2">
-<h2 id="orgdc06d0d">Drafts</h2>
-<div class="outline-text-2" id="text-orgdc06d0d">
+<div id="outline-container-org5404fd8" class="outline-2">
+<h2 id="org5404fd8">Drafts</h2>
+<div class="outline-text-2" id="text-org5404fd8">
 <ul class="org-ul">
 <li><p>赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 2025-06. <code>网络流量</code> <code>反诈治理</code>
 [<a href="/assets/publication/Draft_VoIP.pdf">draft</a>]
@@ -35,7 +35,7 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 充等措施提升安全性，避免造成用户隐私泄露。
 </p>
 
-<div id="org91690bf" class="figure">
+<div id="org5b388c9" class="figure">
 <p><img src="/assets/publication/voip.png" alt="voip.png" />
 </p>
 </div>
@@ -43,9 +43,9 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 </ul>
 </div>
 </div>
-<div id="outline-container-orgff4d0ae" class="outline-2">
-<h2 id="orgff4d0ae">Publications</h2>
-<div class="outline-text-2" id="text-orgff4d0ae">
+<div id="outline-container-org1022f01" class="outline-2">
+<h2 id="org1022f01">Publications</h2>
+<div class="outline-text-2" id="text-org1022f01">
 <ul class="org-ul">
 <li><p>
 <b>[SIGMOD'26]</b> Chang Liu and Junzhou Zhao*. "MTSP-LDP: A Framework for Multi-Task Streaming Data Publication under
@@ -64,7 +64,7 @@ w-event LDP机制的方法在不依赖可信第三方的情况下可以提供隐
 在各种流任务中始终能实现高实用性，显著优于现有方法。
 </p>
 
-<div id="org9d07925" class="figure">
+<div id="org1cadd60" class="figure">
 <p><img src="/assets/publication/SIGMOD26_MSTP.png" alt="SIGMOD26_MSTP.png" />
 </p>
 </div>
@@ -87,7 +87,7 @@ Model-Generated Time Series". <i>AAAI</i>, 2026. <code>大模型</code> <code>�
 优于最先进的基线，为检测模型生成的时间序列提供了一种可靠且通用的解决方案。
 </p>
 
-<div id="orgdef8fd1" class="figure">
+<div id="orgd4d73bd" class="figure">
 <p><img src="/assets/publication/AAAI26_time_series.png" alt="AAAI26_time_series.png" />
 </p>
 </div>
@@ -112,7 +112,7 @@ SIGKDD)</i>, 2025. <code>图学习</code>
 性。在四个基准数据集上进行的大量实验表明，TaskNS 有效，与最先进的方法相比，平均准确率提高了4.6%，F1 分数提高了 4.9%。
 </p>
 
-<div id="org78570e6" class="figure">
+<div id="orgcff8f25" class="figure">
 <p><img src="/assets/publication/graph_few_shot.png" alt="graph_few_shot.png" />
 </p>
 </div>
@@ -134,7 +134,7 @@ SIGKDD)</i>, 2025. <code>图学习</code>
 上进行的实验表明，BSODiag 在 PR@3 上达到了 87.5%，在 PCR 上达到了 46.3%，分别比基线方法高出 10.2% 和 3.7%。
 </p>
 
-<div id="orgdf8f7ee" class="figure">
+<div id="org38ebdaa" class="figure">
 <p><img src="/assets/publication/BSODiag.png" alt="BSODiag.png" />
 </p>
 </div>
@@ -153,7 +153,7 @@ Human and External Knowledge for Large Language Models". <i>Findings of ACL</i>,
 种对齐。实验结果表明，知识对齐在提升模型性能和减少模型幻觉方面起着关键作用，分别提高了 22.2% 和 27.1%。
 </p>
 
-<div id="org905ddcd" class="figure">
+<div id="org189ba1f" class="figure">
 <p><img src="/assets/publication/MixAlign.png" alt="MixAlign.png" />
 </p>
 </div>
@@ -176,7 +176,7 @@ Engineering (ICDE)</i>, 2024. <code>序列数据</code> <code>网络流量</code
 17.5%，并将准确率和提前率的调和平均值提高了 3.7% 至 14.0%。
 </p>
 
-<div id="orgc7e3ce0" class="figure">
+<div id="org7eff7db" class="figure">
 <p><img src="/assets/publication/KVEC.png" alt="KVEC.png" />
 </p>
 </div>
@@ -197,7 +197,7 @@ Influencers in Decaying Social Activity Streams with Theoretical Guarantees". <i
 种求解质量下界为（1/4−ϵ）的高效在线优化算法。实验表明，本文方法可以找到高质量的解且计算成本比基线低得多。
 </p>
 
-<div id="org4fc5e5b" class="figure">
+<div id="org7598ace" class="figure">
 <p><img src="/assets/publication/influence.png" alt="influence.png" />
 </p>
 </div>
@@ -313,13 +313,13 @@ Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop</i
       <title>Lab Intro</title>
       <link>https://junzhouzhao.github.io/article/lab_intro</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-org476b6b5" class="outline-2">
-<h2 id="org476b6b5">实验室简介</h2>
-<div class="outline-text-2" id="text-org476b6b5">
+    <div id="outline-container-org879dd35" class="outline-2">
+<h2 id="org879dd35">实验室简介</h2>
+<div class="outline-text-2" id="text-org879dd35">
 <p>课题组隶属于西安交通大学智能网络与网络安全教育部重点实验室，主体位于西安交通大学兴庆校区<a href="https://mp.weixin.qq.com/s?__biz=MzUzMzEwMDk3Mg==&amp;mid=2247483906&amp;idx=1&amp;sn=7853e7efb9372ca8a74c500714b6817b&amp;poc_token=HJSTtmijXbN6akO1-ierCVbb8kCL0xJtMiX2ZAlV">网络中心三楼</a>。实验室师生来自计算机科学与技术、控制科学与工程、信息与通信工程、网络空间安全、数学五个一级学科，以智能网络与网络化系统为对象，研究<font color="red">网络化系统的大数据分析、优化运行和系统安全</font>等重大共性问题。</p>
 
 
-<div id="org3167b77" class="figure">
+<div id="org5ffc447" class="figure">
 <p><img src="/assets/article/lab_intro/lab.png" alt="lab.png" style="margin-bottom:1em;" />
 </p>
 </div>
@@ -327,7 +327,7 @@ Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop</i
 <p>实验室拥有世界一流的科研环境。实验室网络以百 G 带宽直接接入西安交大校园网、CERNET 西北网和中国电信。实验室为每位同学配置高性能工作站，实验室机房配有多种专用网络设备、高性能服务器、海量数据存储阵列等。</p>
 
 
-<div id="org3bcfd08" class="figure">
+<div id="orgeb84f4d" class="figure">
 <p><img src="/assets/article/lab_intro/equipment.png" alt="equipment.png" style="margin-bottom:1em;" />
 </p>
 </div>
@@ -335,7 +335,7 @@ Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop</i
 <p>实验室向同学提供优良、宽松的学习与生活环境，配有会议室、讨论室、设备间，以及微波炉、洗衣机、冰箱等生活电器。实验室学习条件良好、科研氛围浓厚，学生毕业去向包括入选<a href="https://bjb.xjtu.edu.cn/info/1010/2873.htm">华为“天才少年”</a>、腾讯研究院、字节、阿里等互联网头部企业，以及国家网络安全相关部门。</p>
 
 
-<div id="org9de7e95" class="figure">
+<div id="org140394c" class="figure">
 <p><img src="/assets/article/lab_intro/workspace.png" alt="workspace.png" />
 </p>
 </div>
@@ -343,7 +343,7 @@ Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop</i
 <p>欢迎对<font color="red">大数据分析与机器学习</font>（优化与近似算法、LLM、图挖掘）、<font color="red">数据安全与隐私计算</font>（网络流量分析、差分隐私技术、应用密码学、隐私保护机器学习）等研究领域感兴趣的同学加入！</p>
 
 
-<div id="org5fb24b7" class="figure">
+<div id="org89d1466" class="figure">
 <p><img src="/assets/article/lab_intro/group.png" alt="group.png" style="margin-bottom:1em;" />
 </p>
 </div>
@@ -359,9 +359,9 @@ Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop</i
       <title>现代密码学</title>
       <link>https://junzhouzhao.github.io/courses/crypt</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-org4791028" class="outline-2">
-<h2 id="org4791028">现代密码学</h2>
-<div class="outline-text-2" id="text-org4791028">
+    <div id="outline-container-org399cf5e" class="outline-2">
+<h2 id="org399cf5e">现代密码学</h2>
+<div class="outline-text-2" id="text-org399cf5e">
 <ul class="org-ul">
 <li>本科生课程 COMP401227：《现代密码学》 (Modern Cryptography)，2025 年春上</li>
 </ul>
@@ -439,9 +439,9 @@ Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop</i
       <title>概率统计与随机过程</title>
       <link>https://junzhouzhao.github.io/courses/stat</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-org1dcb5cc" class="outline-2">
-<h2 id="org1dcb5cc">概率统计与随机过程</h2>
-<div class="outline-text-2" id="text-org1dcb5cc">
+    <div id="outline-container-orge09c7fa" class="outline-2">
+<h2 id="orge09c7fa">概率统计与随机过程</h2>
+<div class="outline-text-2" id="text-orge09c7fa">
 <ul class="org-ul">
 <li>本科生课程 MATH200327：《概率统计与随机过程》(Probability Theory and Stochastic
 Process)，春</li>
@@ -512,18 +512,18 @@ Process)，春</li>
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org912e627">1. 大数据近似计算与数据挖掘</a>
+<li><a href="#org25940c2">1. 大数据近似计算与数据挖掘</a>
 <ul>
-<li><a href="#org0324132">1.1. 大规模图数据采样测量方法</a></li>
-<li><a href="#orge878352">1.2. 流式数据实时处理与在线优化</a></li>
-<li><a href="#org378a231">1.3. 图数据表示学习</a></li>
+<li><a href="#org59df6c3">1.1. 大规模图数据采样测量方法</a></li>
+<li><a href="#orgde0fcee">1.2. 流式数据实时处理与在线优化</a></li>
+<li><a href="#org669c9ab">1.3. 图数据表示学习</a></li>
 </ul>
 </li>
-<li><a href="#org72800be">2. 数据安全与隐私计算</a>
+<li><a href="#org143f053">2. 数据安全与隐私计算</a>
 <ul>
-<li><a href="#orga960572">2.1. 加密网络流量分析</a></li>
-<li><a href="#org048d23b">2.2. 网络监控</a></li>
-<li><a href="#orgc11ad7c">2.3. 隐私计算</a></li>
+<li><a href="#org7a67fb9">2.1. 加密网络流量分析</a></li>
+<li><a href="#org9bbb50a">2.2. 网络监控</a></li>
+<li><a href="#orge010130">2.3. 隐私计算</a></li>
 </ul>
 </li>
 </ul>
@@ -532,32 +532,32 @@ Process)，春</li>
 <p>大数据（Big Data）是信息时代重要的资源，被称为数字经济时代的“新石油”。大数据在给各行各业带来机遇的同时，也带来很多关于计算效率、优化方法、学习算法、数据安全、隐私保护等方面的挑战。针对这些问题与挑战，我们开展了一系列相关研究。</p>
 
 
-<div id="orge73f539" class="figure">
+<div id="orgb2fdf16" class="figure">
 <p><img src="/assets/article/research/big_data.png" alt="big_data.png" />
 </p>
 <p><span class="figure-number">Figure 1: </span>各种类型大数据</p>
 </div>
-<div id="outline-container-org912e627" class="outline-2">
-<h2 id="org912e627"><span class="section-number-2">1.</span> 大数据近似计算与数据挖掘</h2>
+<div id="outline-container-org25940c2" class="outline-2">
+<h2 id="org25940c2"><span class="section-number-2">1.</span> 大数据近似计算与数据挖掘</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-org0324132" class="outline-3">
-<h3 id="org0324132"><span class="section-number-3">1.1.</span> 大规模图数据采样测量方法</h3>
+<div id="outline-container-org59df6c3" class="outline-3">
+<h3 id="org59df6c3"><span class="section-number-3">1.1.</span> 大规模图数据采样测量方法</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>研究者作为第三方通常不拥有图数据，例如 Facebook 的好友网络被 Facebook 拥有，基于用户隐私和商业机密的考虑，Facebook 等数据拥有方并不愿意共享数据给第三方。在这种情况下，第三方只能利用图数据拥有者提供的
 API 接口访问图数据，但是 API 往往会通过限制调用总次数或调用频率等手段使第三方无法获得完整图数据。为了分析图数据的结构特征，第三方通常只能用采样的方法采样得到一些节点和边作为样本，利用这些少量样本估计图的整体结构特征，例如通常使用的节点采样或随机游走等策略。</p>
 
 
 
-<div id="orgac1bb65" class="figure">
+<div id="org2034729" class="figure">
 <p><img src="/assets/article/research/random_walk_sampling.png" alt="random_walk_sampling.png" width="700px" />
 </p>
 <p><span class="figure-number">Figure 2: </span>基于随机游走的大图采样方法</p>
 </div>
 </div>
 </div>
-<div id="outline-container-orge878352" class="outline-3">
-<h3 id="orge878352"><span class="section-number-3">1.2.</span> 流式数据实时处理与在线优化</h3>
+<div id="outline-container-orgde0fcee" class="outline-3">
+<h3 id="orgde0fcee"><span class="section-number-3">1.2.</span> 流式数据实时处理与在线优化</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>网络流量等流式数据中普遍存在 Heavy Hitter、大象流、持续流等现象，与网络扫描行为、DDoS 攻击行为、APT
 攻击行为等息息相关，所以实时发现高速流式数据中的 Heavy Hitter、大象流、持续流是流式数据处理中的重要研究内容。由于这些处理算法往往需要部署在交换机、路由器、IoT 设备、边缘设备等资源受限设备中，因此对算法的计算复杂度、内存占用等提出特别高的要求，需要设计了一系列轻量级、高效率的面向高速数据流的快速筛选方法。</p>
@@ -566,20 +566,20 @@ API 接口访问图数据，但是 API 往往会通过限制调用总次数或�
 
 
 
-<div id="org532a1b5" class="figure">
+<div id="orgf0ef0b9" class="figure">
 <p><img src="/assets/article/research/SSO_inf.png" alt="SSO_inf.png" />
 </p>
 <p><span class="figure-number">Figure 3: </span>一种动态图流中最有影响力节点发现与跟踪方法</p>
 </div>
 </div>
 </div>
-<div id="outline-container-org378a231" class="outline-3">
-<h3 id="org378a231"><span class="section-number-3">1.3.</span> 图数据表示学习</h3>
+<div id="outline-container-org669c9ab" class="outline-3">
+<h3 id="org669c9ab"><span class="section-number-3">1.3.</span> 图数据表示学习</h3>
 <div class="outline-text-3" id="text-1-3">
 <p>图表示学习通过将节点映射为向量，通过机器学习的方法解决节点标签预测、链接预测、图分类等任务。图节点的表示学习通常只利用图的结构信息，然而实际中图的节点/边往往有额外信息可以用来更好的学习节点的表示。</p>
 
 
-<div id="org107b7a7" class="figure">
+<div id="orgc23d8c1" class="figure">
 <p><img src="/assets/article/research/graph_learning.png" alt="graph_learning.png" />
 </p>
 <p><span class="figure-number">Figure 4: </span>图表示学习</p>
@@ -587,44 +587,44 @@ API 接口访问图数据，但是 API 往往会通过限制调用总次数或�
 </div>
 </div>
 </div>
-<div id="outline-container-org72800be" class="outline-2">
-<h2 id="org72800be"><span class="section-number-2">2.</span> 数据安全与隐私计算</h2>
+<div id="outline-container-org143f053" class="outline-2">
+<h2 id="org143f053"><span class="section-number-2">2.</span> 数据安全与隐私计算</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-orga960572" class="outline-3">
-<h3 id="orga960572"><span class="section-number-3">2.1.</span> 加密网络流量分析</h3>
+<div id="outline-container-org7a67fb9" class="outline-3">
+<h3 id="org7a67fb9"><span class="section-number-3">2.1.</span> 加密网络流量分析</h3>
 <div class="outline-text-3" id="text-2-1">
 <p>通过分析网络流量的模式特征，及时识别其对应的网络应用类型或者发现网络中的恶意攻击行为是保障网络服务质量和确保网络安全的重要手段之一。但是随着 HTTPS 等加密协议的普及（据估计截止 2021 年，互联网上
 80%~90% 的网络流量为加密网络流量），识别加密网络流量日益困难。传统的网络流量识别方法将每条网络流作为一个单独对象，网络流之间彼此独立，分别抽取特征，忽略了网络流之间的潜在关联性。我们提出一种利用网络流之间关联性进行网络流量准确、快速识别的新方法，能够在保障识别准确率的同时，极大的减少进行准确识别所需要观测的数据包数量，从而缩短识别时间延时。</p>
 
 
-<div id="orga25bcdb" class="figure">
+<div id="orgf1b4833" class="figure">
 <p><img src="/assets/article/research/tangled_flow.png" alt="tangled_flow.png" width="600px" />
 </p>
 <p><span class="figure-number">Figure 5: </span>利用流式数据之间的关联性进行快速流分类。这里的流式数据可以表示用户购物流，也可以表示网络流。</p>
 </div>
 </div>
 </div>
-<div id="outline-container-org048d23b" class="outline-3">
-<h3 id="org048d23b"><span class="section-number-3">2.2.</span> 网络监控</h3>
+<div id="outline-container-org9bbb50a" class="outline-3">
+<h3 id="org9bbb50a"><span class="section-number-3">2.2.</span> 网络监控</h3>
 <div class="outline-text-3" id="text-2-2">
 <p>网络中隐藏着攻击行为，例如通信网络中的 DDoS 攻击以及社交网络中的网络水军等。此外，如何选择网络中的一组最优观测节点用来及时发现网络中的传播事件，也是网络监控需要解决的问题。</p>
 
 
-<div id="org897c93b" class="figure">
+<div id="org743e2cf" class="figure">
 <p><img src="/assets/article/research/monitoring.png" alt="monitoring.png" width="700px" />
 </p>
 <p><span class="figure-number">Figure 6: </span>利用线上社交网络数据实现对线下自然社会的事件监控</p>
 </div>
 </div>
 </div>
-<div id="outline-container-orgc11ad7c" class="outline-3">
-<h3 id="orgc11ad7c"><span class="section-number-3">2.3.</span> 隐私计算</h3>
+<div id="outline-container-orge010130" class="outline-3">
+<h3 id="orge010130"><span class="section-number-3">2.3.</span> 隐私计算</h3>
 <div class="outline-text-3" id="text-2-3">
 <p>保障用户隐私与数据安全日益受到重视。数据拥有方的数据往往涉及机密、隐私等，不愿意公开分享与流通（例如，银行账户间的转账记录等），但是不同数据拥有方又存在相互合作的意愿（例如，不同银行希望合作以更好的评估个人或企业的信贷风险），如何在不泄漏数据拥有方数据隐私的情况下实现不同数据方的协同计算，是隐私计算的重要研究内容。</p>
 
 
-<div id="org2452e02" class="figure">
+<div id="org7a10a3f" class="figure">
 <p><img src="/assets/article/research/MPC.png" alt="MPC.png" width="700px" />
 </p>
 <p><span class="figure-number">Figure 7: </span>安全多方计算</p>
@@ -642,9 +642,9 @@ API 接口访问图数据，但是 API 往往会通过限制调用总次数或�
       <title>密码学理论与实践</title>
       <link>https://junzhouzhao.github.io/courses/crypt-adv/</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-org79b34d4" class="outline-2">
-<h2 id="org79b34d4">密码学理论与实践</h2>
-<div class="outline-text-2" id="text-org79b34d4">
+    <div id="outline-container-orgae8e282" class="outline-2">
+<h2 id="orgae8e282">密码学理论与实践</h2>
+<div class="outline-text-2" id="text-orgae8e282">
 <ul class="org-ul">
 <li>研究生课程 AUTO712705：《密码学理论与实践》 (Theory and Practice of Cryptography)，秋下，32 学时</li>
 </ul>
@@ -664,25 +664,25 @@ API 接口访问图数据，但是 API 往往会通过限制调用总次数或�
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org94d5a9b">主要国际会议</a>
+<li><a href="#orga227950">主要国际会议</a>
 <ul>
-<li><a href="#org7b87b52">机器学习、数据挖掘、人工智能等</a></li>
-<li><a href="#org4e988e6">网络安全</a></li>
+<li><a href="#orgeec183b">机器学习、数据挖掘、人工智能等</a></li>
+<li><a href="#org87a5067">网络安全</a></li>
 </ul>
 </li>
-<li><a href="#org284bf55">国际期刊黑名单（计算机）</a></li>
+<li><a href="#org163c436">国际期刊黑名单（计算机）</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org94d5a9b" class="outline-2">
-<h2 id="org94d5a9b">主要国际会议</h2>
-<div class="outline-text-2" id="text-org94d5a9b">
+<div id="outline-container-orga227950" class="outline-2">
+<h2 id="orga227950">主要国际会议</h2>
+<div class="outline-text-2" id="text-orga227950">
 </div>
-<div id="outline-container-org7b87b52" class="outline-3">
-<h3 id="org7b87b52">机器学习、数据挖掘、人工智能等</h3>
-<div class="outline-text-3" id="text-org7b87b52">
+<div id="outline-container-orgeec183b" class="outline-3">
+<h3 id="orgeec183b">机器学习、数据挖掘、人工智能等</h3>
+<div class="outline-text-3" id="text-orgeec183b">
 
-<div id="org0f6d8f6" class="figure">
+<div id="org26c7bb8" class="figure">
 <p><img src="/assets/article/conference_list/MLDMAImap.png" alt="MLDMAImap.png" />
 </p>
 </div>
@@ -692,9 +692,9 @@ API 接口访问图数据，但是 API 往往会通过限制调用总次数或�
 </p>
 </div>
 </div>
-<div id="outline-container-org4e988e6" class="outline-3">
-<h3 id="org4e988e6">网络安全</h3>
-<div class="outline-text-3" id="text-org4e988e6">
+<div id="outline-container-org87a5067" class="outline-3">
+<h3 id="org87a5067">网络安全</h3>
+<div class="outline-text-3" id="text-org87a5067">
 <p>
 Tier 1:
 </p>
@@ -730,9 +730,9 @@ Tier 2:
 </div>
 </div>
 </div>
-<div id="outline-container-org284bf55" class="outline-2">
-<h2 id="org284bf55">国际期刊黑名单（计算机）</h2>
-<div class="outline-text-2" id="text-org284bf55">
+<div id="outline-container-org163c436" class="outline-2">
+<h2 id="org163c436">国际期刊黑名单（计算机）</h2>
+<div class="outline-text-2" id="text-org163c436">
 <ul class="org-ul">
 <li>IEEE Access</li>
 <li>Scientific Reports</li>
@@ -755,9 +755,9 @@ Tier 2:
       <title>Contact</title>
       <link>https://junzhouzhao.github.io/contact/</link>
       <description><![CDATA[<section id="content">
-    <div id="outline-container-orgb9ed0bc" class="outline-2">
-<h2 id="orgb9ed0bc">Contact</h2>
-<div class="outline-text-2" id="text-orgb9ed0bc">
+    <div id="outline-container-org72d24a5" class="outline-2">
+<h2 id="org72d24a5">Contact</h2>
+<div class="outline-text-2" id="text-org72d24a5">
 <p>陕西省西安市碑林区咸宁西路 28 号，西安交通大学智网实验室 1088 信箱 (P.O. Box
 1088#, Xi'an Jiaotong University, No.28, Xianning West Road, Xi'an 710049, Shaanxi
 Prov., P. R. China)
