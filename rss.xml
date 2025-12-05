@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Sun, 30 Nov 2025 10:22:59 CST</pubDate>
-    <lastBuildDate>Sun, 30 Nov 2025 10:22:59 CST</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 08:46:45 CST</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 08:46:45 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -15,16 +15,17 @@
     <p>
 [<a href="../article/conference_list">Top Conferences in Computer Science</a>]
 </p>
-<div id="outline-container-org5b533eb" class="outline-2">
-<h2 id="org5b533eb">Drafts</h2>
-<div class="outline-text-2" id="text-org5b533eb">
+<div id="outline-container-orge5b2c67" class="outline-2">
+<h2 id="orge5b2c67">Drafts</h2>
+<div class="outline-text-2" id="text-orge5b2c67">
 <ul class="org-ul">
 <li><p>赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 2025-06. <code>网络流量</code> <code>反诈治理</code>
 [<a href="/assets/publication/Draft_VoIP.pdf">draft</a>]
 </p>
 <details>
 <summary>[abstract]</summary>
-<p>随着智能手机等移动终端的迅速普及，以微信电话为代表的互联网语音（Voice over Internet Protocol, VoIP）应用日益流行。
+<p>
+随着智能手机等移动终端的迅速普及，以微信电话为代表的互联网语音（Voice over Internet Protocol, VoIP）应用日益流行。
 VoIP 应用在开放的 Internet 中传递涉及用户隐私的语音内容，保障用户个人数据安全至关重要。本文采集并分析了包括微信、TIM、
 腾讯会议、钉钉在内的四款流行 VoIP 应用在使用过程中产生的语音流量，发现尽管 VoIP 应用普遍采用私有语音编码算法、加密通
 信等手段保障安全，但是 VoIP 加密流量的传输模式仍有可能泄露用户属性、用户身份，甚至通话内容等敏感信息，存在隐私泄露风
@@ -35,7 +36,7 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 充等措施提升安全性，避免造成用户隐私泄露。
 </p>
 
-<div id="org220e3d6" class="figure">
+<div id="org0e1ba56" class="figure">
 <p><img src="/assets/publication/voip.png" alt="voip.png" />
 </p>
 </div>
@@ -43,9 +44,9 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 </ul>
 </div>
 </div>
-<div id="outline-container-org638d900" class="outline-2">
-<h2 id="org638d900">Publications</h2>
-<div class="outline-text-2" id="text-org638d900">
+<div id="outline-container-org66cb899" class="outline-2">
+<h2 id="org66cb899">Publications</h2>
+<div class="outline-text-2" id="text-org66cb899">
 <ul class="org-ul">
 <li><p>
 <b>[SIGMOD'26]</b> Chang Liu and Junzhou Zhao*. "MTSP-LDP: A Framework for Multi-Task Streaming Data Publication under
@@ -64,7 +65,7 @@ MTSP-LDP 提出了一种“最优隐私预算分配”算法，通过分析每�
 务中始终能实现高实用性，显著优于现有方法。
 </p>
 
-<div id="org06d317f" class="figure">
+<div id="org91184ae" class="figure">
 <p><img src="/assets/publication/SIGMOD26_MSTP.png" alt="SIGMOD26_MSTP.png" />
 </p>
 </div>
@@ -87,7 +88,7 @@ Model-Generated Time Series". <i>AAAI</i>, 2026. <code>大模型</code> <code>�
 优于最先进的基线，为检测模型生成的时间序列提供了一种可靠且通用的解决方案。
 </p>
 
-<div id="org9fb846a" class="figure">
+<div id="org799c6fb" class="figure">
 <p><img src="/assets/publication/AAAI26_time_series.png" alt="AAAI26_time_series.png" />
 </p>
 </div>
@@ -112,14 +113,14 @@ SIGKDD)</i>, 2025. <code>图学习</code>
 性。在四个基准数据集上进行的大量实验表明，TaskNS 有效，与最先进的方法相比，平均准确率提高了4.6%，F1 分数提高了 4.9%。
 </p>
 
-<div id="org4383007" class="figure">
+<div id="org2fff85e" class="figure">
 <p><img src="/assets/publication/graph_few_shot.png" alt="graph_few_shot.png" />
 </p>
 </div>
 </details></li>
 
 <li><p>
-<b>[ICSE'25]</b> Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao*, Jiongzhou Liu , Shujie Han , Yi Liu, and Fan Xu.
+<b>[ICSE'25]</b> Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao*, Jiongzhou Liu, Shujie Han, Yi Liu, and Fan Xu.
 "BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems". In
 <i>Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE)</i>, 2025. <code>智能运维</code>
 [<a href="https://arxiv.org/abs/2502.15728">arXiv</a>][<a href="/assets/publication/BSODiag_ICSE25_Slides.pdf">slides</a>]
@@ -134,7 +135,7 @@ SIGKDD)</i>, 2025. <code>图学习</code>
 上进行的实验表明，BSODiag 在 PR@3 上达到了 87.5%，在 PCR 上达到了 46.3%，分别比基线方法高出 10.2% 和 3.7%。
 </p>
 
-<div id="org195d67d" class="figure">
+<div id="org6b91d5b" class="figure">
 <p><img src="/assets/publication/BSODiag.png" alt="BSODiag.png" />
 </p>
 </div>
@@ -153,7 +154,7 @@ Human and External Knowledge for Large Language Models". <i>Findings of ACL</i>,
 种对齐。实验结果表明，知识对齐在提升模型性能和减少模型幻觉方面起着关键作用，分别提高了 22.2% 和 27.1%。
 </p>
 
-<div id="org2e12538" class="figure">
+<div id="org37d5281" class="figure">
 <p><img src="/assets/publication/MixAlign.png" alt="MixAlign.png" />
 </p>
 </div>
@@ -176,7 +177,7 @@ Engineering (ICDE)</i>, 2024. <code>序列数据</code> <code>网络流量</code
 17.5%，并将准确率和提前率的调和平均值提高了 3.7% 至 14.0%。
 </p>
 
-<div id="org40ce438" class="figure">
+<div id="org8e23df1" class="figure">
 <p><img src="/assets/publication/KVEC.png" alt="KVEC.png" />
 </p>
 </div>
@@ -197,7 +198,7 @@ Influencers in Decaying Social Activity Streams with Theoretical Guarantees". <i
 种求解质量下界为（1/4−ϵ）的高效在线优化算法。实验表明，本文方法可以找到高质量的解且计算成本比基线低得多。
 </p>
 
-<div id="org034cb35" class="figure">
+<div id="orgf9e1dd1" class="figure">
 <p><img src="/assets/publication/influence.png" alt="influence.png" />
 </p>
 </div>
@@ -306,7 +307,7 @@ Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop</i
 
 </section>
 ]]></description>
-      <pubDate>2025-11-30</pubDate>
+      <pubDate>2025-12-05</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
     </item>
     <item>
