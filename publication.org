@@ -12,7 +12,8 @@
   #+BEGIN_EXPORT html
   <details>
   <summary>[abstract]</summary>
-  <p>随着智能手机等移动终端的迅速普及，以微信电话为代表的互联网语音（Voice over Internet Protocol, VoIP）应用日益流行。
+  <p>
+  随着智能手机等移动终端的迅速普及，以微信电话为代表的互联网语音（Voice over Internet Protocol, VoIP）应用日益流行。
   VoIP 应用在开放的 Internet 中传递涉及用户隐私的语音内容，保障用户个人数据安全至关重要。本文采集并分析了包括微信、TIM、
   腾讯会议、钉钉在内的四款流行 VoIP 应用在使用过程中产生的语音流量，发现尽管 VoIP 应用普遍采用私有语音编码算法、加密通
   信等手段保障安全，但是 VoIP 加密流量的传输模式仍有可能泄露用户属性、用户身份，甚至通话内容等敏感信息，存在隐私泄露风
@@ -95,7 +96,7 @@
   </details>
   #+END_EXPORT
 
-- *[ICSE'25]* Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao*, Jiongzhou Liu , Shujie Han , Yi Liu, and Fan Xu.
+- *[ICSE'25]* Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao*, Jiongzhou Liu, Shujie Han, Yi Liu, and Fan Xu.
   "BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems". In
   /Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE)/, 2025. ~智能运维~
   [[[https://arxiv.org/abs/2502.15728][arXiv]]][[[file:assets/BSODiag_ICSE25_Slides.pdf][slides]]]
