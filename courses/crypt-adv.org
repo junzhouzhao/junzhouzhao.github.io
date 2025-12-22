@@ -10,16 +10,16 @@
  - 研究生课程 AUTO712705：《密码学理论与实践》 (Theory and Practice of Cryptography)，秋下，32 学时
 
 #+ATTR_HTML: :style margin-left:auto; margin-right:auto; :rules all
-|-------------------+------------------------------------------------------------|
-| 课程内容          | 课件                                                       |
-|-------------------+------------------------------------------------------------|
-| 密码学简介        | [[file:../assets/slides/crypt_adv/Ch1_slides.pdf][slides]] |
-| 私钥密码          | [[file:../assets/slides/crypt_adv/Ch2_slides.pdf][slides]] |
-| 构建私钥密码原语   | [[file:../assets/slides/crypt_adv/Ch3_slides.pdf][slides]] |
-| 消息认证码        | [[file:../assets/slides/crypt_adv/Ch4_slides.pdf][slides]] |
-| 密码学哈希函数     | [[file:../assets/slides/crypt_adv/Ch5_slides.pdf][slides]] |
-| 数论基础          | [[file:../assets/slides/crypt_adv/Ch6_slides.pdf][slides]] |
-| 密钥管理与密钥分发 | [[file:../assets/slides/crypt_adv/Ch7_slides.pdf][slides]] |
-| 公钥密码          | [[file:../assets/slides/crypt_adv/Ch8_slides.pdf][slides]] |
-| 数字签名          | [[file:../assets/slides/crypt_adv/Ch9_slides.pdf][slides]] |
-|-------------------+------------------------------------------------------------|
+|------+-------------------+--------|
+| 章节 | 课程内容          | 课件   |
+|------+-------------------+--------|
+|    1 | 密码学简介        | [[file:../assets/slides/crypt_adv/Ch1_slides.pdf][slides]] |
+|    2 | 私钥密码          | [[file:../assets/slides/crypt_adv/Ch2_slides.pdf][slides]] |
+|    3 | 构建私钥密码原语   | [[file:../assets/slides/crypt_adv/Ch3_slides.pdf][slides]] |
+|    4 | 消息认证码        | [[file:../assets/slides/crypt_adv/Ch4_slides.pdf][slides]] |
+|    5 | 密码学哈希函数     | [[file:../assets/slides/crypt_adv/Ch5_slides.pdf][slides]] |
+|    6 | 数论基础          | [[file:../assets/slides/crypt_adv/Ch6_slides.pdf][slides]] |
+|    7 | 密钥管理与密钥分发 | [[file:../assets/slides/crypt_adv/Ch7_slides.pdf][slides]] |
+|    8 | 公钥密码          | [[file:../assets/slides/crypt_adv/Ch8_slides.pdf][slides]] |
+|    9 | 数字签名          | [[file:../assets/slides/crypt_adv/Ch9_slides.pdf][slides]] |
+|------+-------------------+--------|
