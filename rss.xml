@@ -4,309 +4,94 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Fri, 05 Dec 2025 08:46:45 CST</pubDate>
-    <lastBuildDate>Fri, 05 Dec 2025 08:46:45 CST</lastBuildDate>
+    <pubDate>Mon, 22 Dec 2025 09:26:12 CST</pubDate>
+    <lastBuildDate>Mon, 22 Dec 2025 09:26:12 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
-      <title>Publication</title>
-      <link>https://junzhouzhao.github.io/publication/</link>
+      <title>密码学理论与实践</title>
+      <link>https://junzhouzhao.github.io/courses/crypt-adv/</link>
       <description><![CDATA[<section id="content">
-    <p>
-[<a href="../article/conference_list">Top Conferences in Computer Science</a>]
-</p>
-<div id="outline-container-orge5b2c67" class="outline-2">
-<h2 id="orge5b2c67">Drafts</h2>
-<div class="outline-text-2" id="text-orge5b2c67">
+    <div id="outline-container-orgd10a04b" class="outline-2">
+<h2 id="orgd10a04b">密码学理论与实践</h2>
+<div class="outline-text-2" id="text-orgd10a04b">
 <ul class="org-ul">
-<li><p>赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 2025-06. <code>网络流量</code> <code>反诈治理</code>
-[<a href="/assets/publication/Draft_VoIP.pdf">draft</a>]
-</p>
-<details>
-<summary>[abstract]</summary>
-<p>
-随着智能手机等移动终端的迅速普及，以微信电话为代表的互联网语音（Voice over Internet Protocol, VoIP）应用日益流行。
-VoIP 应用在开放的 Internet 中传递涉及用户隐私的语音内容，保障用户个人数据安全至关重要。本文采集并分析了包括微信、TIM、
-腾讯会议、钉钉在内的四款流行 VoIP 应用在使用过程中产生的语音流量，发现尽管 VoIP 应用普遍采用私有语音编码算法、加密通
-信等手段保障安全，但是 VoIP 加密流量的传输模式仍有可能泄露用户属性、用户身份，甚至通话内容等敏感信息，存在隐私泄露风
-险。本文通过测量分析四种 VoIP 应用的加密流量传输模式与用户属性、通话内容等方面的关联关系，发现语音频率与数据包长存在
-明显的相关性，并基于该发现设计了一种语音频谱与数据包长对齐的 VoIP 加密流量识别方法——VPrint。VPrint 较已有的加密流量
-识别方法能更准确识别 VoIP 加密流量。以微信为例，VPrint 在用户性别识别、用户身份识别、通话语种识别和短语识别任务上的
-F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信等流行 VoIP 应用存在安全隐患，并建议相关厂商采取数据包填
-充等措施提升安全性，避免造成用户隐私泄露。
-</p>
-
-<div id="org0e1ba56" class="figure">
-<p><img src="/assets/publication/voip.png" alt="voip.png" />
-</p>
-</div>
-</details></li>
+<li>研究生课程 AUTO712705：《密码学理论与实践》 (Theory and Practice of Cryptography)，秋下，32 学时</li>
 </ul>
-</div>
-</div>
-<div id="outline-container-org66cb899" class="outline-2">
-<h2 id="org66cb899">Publications</h2>
-<div class="outline-text-2" id="text-org66cb899">
-<ul class="org-ul">
-<li><p>
-<b>[SIGMOD'26]</b> Chang Liu and Junzhou Zhao*. "MTSP-LDP: A Framework for Multi-Task Streaming Data Publication under
-Local Differential Privacy". <i>ACM SIGMOD</i>, 2026. <code>数据流</code> <code>差分隐私</code>
-</p>
-<details>
-<summary>[abstract]</summary>
-<p>
-手机、IoT 设备等产出大量涉及用户隐私的流数据，直接对流数据分析并发布计算结果可能引发隐私泄露风险。尽管现有基于 w-event
-LDP 机制的方法在不依赖可信第三方的情况下可以提供隐私保护，但其实际应用受到两个限制：首先，这些方法主要用于在每个时间戳
-发布简单的统计数据，这使得它们不支持复杂的查询；其次，它们在每个时间戳独立处理数据，忽略了数据在不同时间上的相关性，从
-而降低了整体效用。为了解决这些问题，本文提出 MTSP-LDP，一种能够在 w-event LDP 机制下进行多任务流数据发布的新型框架。
-MTSP-LDP 提出了一种“最优隐私预算分配”算法，通过分析每个窗口内的时间相关性来动态分配隐私预算；然后，构建了一个数据自适
-应的私有二叉树结构以支持复杂查询，该结构通过跨时间戳分组和平滑操作进一步优化，以提高估计精度；此外，引入了一种统一的无
-预算多任务处理机制，以支持各种流查询，而无需消耗额外的隐私预算。在真实世界数据集上的大量实验表明，MTSP-LDP 在各种流任
-务中始终能实现高实用性，显著优于现有方法。
-</p>
 
-<div id="org91184ae" class="figure">
-<p><img src="/assets/publication/SIGMOD26_MSTP.png" alt="SIGMOD26_MSTP.png" />
-</p>
-</div>
-</details></li>
+<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="hsides" style="margin-left:auto; margin-right:auto;">
 
-<li><p>
-<b>[AAAI'26]</b> Junji Hou, Junzhou Zhao*, Shuo Zhang, and Pinghui Wang. "A Theoretical Analysis of Detecting Large
-Model-Generated Time Series". <i>AAAI</i>, 2026. <code>大模型</code> <code>时间序列</code> <code>生成检测</code> [<a href="https://arxiv.org/abs/2511.07104">arXiv</a>]
-</p>
-<details>
-<summary>[abstract]</summary>
-<p>
-鉴于数据滥用和伪造的风险日益增加，本文探讨了识别由时间序列大型模型（TSLM）生成的合成时间序列的问题。尽管在检测模型生成
-的文本方面已有大量研究，但由于模态的根本差异，这些现有方法并不适用于时间序列数据，因为时间序列通常具有比文本数据更低的
-信息密度和更平滑的概率分布，这限制了基于标记的检测器的判别能力。为了解决这个问题，我们研究了真实时间序列和模型生成的时
-间序列之间的细微分布差异，并提出了收缩假设，即与真实时间序列不同，模型生成的时间序列在递归预测下不确定性逐渐降低。我们
-在对模型行为和时间序列结构的理论假设下正式证明了这一假设。模型生成的时间序列在递归预测下表现出逐渐集中的分布，从而导致
-不确定性收缩。我们在各种数据集上对这一假设进行了实证验证。基于这一见解，我们引入了不确定性收缩估计器（UCE），这是一种
-白盒检测器，它通过聚合连续前缀的不确定性指标来识别由 TSLM 生成的时间序列。在 32 个数据集上进行的大量实验表明，UCE 一直
-优于最先进的基线，为检测模型生成的时间序列提供了一种可靠且通用的解决方案。
-</p>
 
-<div id="org799c6fb" class="figure">
-<p><img src="/assets/publication/AAAI26_time_series.png" alt="AAAI26_time_series.png" />
-</p>
-</div>
-</details></li>
+<colgroup>
+<col  class="org-left" />
 
-<li><p>
-<b>[KDD'25]</b> Chenxu Wang, Jinfeng Chen, Junzhou Zhao, and Pinghui Wang. "Task Negative Sampling Enhanced Graph Few-shot
-Learning". In <i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM
-SIGKDD)</i>, 2025. <code>图学习</code>
-</p>
-<details>
-<summary>[abstract]</summary>
-<p>
-图少样本节点分类（GFSNC）已成为解决图结构网络中有限标注数据学习挑战的一种有前景的方法。尽管图神经网络在节点分类任务中
-取得了成功，但其性能严重依赖于大量标注数据的可用性，这在实际场景中往往难以实现。为了解决这一问题，GFSNC 采用了元学习的
-阶段性范式，即模型在一系列元任务上进行训练。然而，现有的方法面临两个关键限制：（i）它们专注于单个元任务内的局部分布，
-忽略了全局数据分布；（ii）它们优化模型以最小化类内距离，而没有充分解决类间可分性问题，导致性能欠佳。本文提出了 TaskNS，
-这是一种新颖的 GFSNC 框架，通过在元训练任务中引入任务负样本来解决这些限制。通过纳入当前元任务之外类别的样本，我们的框
-架使模型能够逐渐学习图数据的全局分布。此外，我们设计了一种新颖的损失函数，以增强模型区分不同类别查询样本的能力。该损失
-函数不仅确保了类内紧凑性高，还通过利用任务负样本最大化了类间分离。为了进一步提高任务负样本的质量，我们提出了一种基于 h
-跳邻居的采样方法，该方法利用了图的拓扑结构。它选择与查询样本结构上接近的任务负样本，确保它们对模型具有信息量且具有挑战
-性。在四个基准数据集上进行的大量实验表明，TaskNS 有效，与最先进的方法相比，平均准确率提高了4.6%，F1 分数提高了 4.9%。
-</p>
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">课程内容</th>
+<th scope="col" class="org-left">课件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">密码学简介</td>
+<td class="org-left"><a href="/assets/courses/crypt-adv/Ch1_slides.pdf">slides</a></td>
+</tr>
 
-<div id="org2fff85e" class="figure">
-<p><img src="/assets/publication/graph_few_shot.png" alt="graph_few_shot.png" />
-</p>
-</div>
-</details></li>
+<tr>
+<td class="org-left">私钥密码</td>
+<td class="org-left"><a href="/assets/courses/crypt-adv/Ch2_slides.pdf">slides</a></td>
+</tr>
 
-<li><p>
-<b>[ICSE'25]</b> Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao*, Jiongzhou Liu, Shujie Han, Yi Liu, and Fan Xu.
-"BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems". In
-<i>Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE)</i>, 2025. <code>智能运维</code>
-[<a href="https://arxiv.org/abs/2502.15728">arXiv</a>][<a href="/assets/publication/BSODiag_ICSE25_Slides.pdf">slides</a>]
-</p>
-<details>
-<summary>[abstract]</summary>
-<p>云基础设施中的故障会严重影响云服务的稳定性和可用性，批量服务器宕机故障会导致所有上游服务完全不可用。批量服务器宕机
-故障诊断问题旨在准确、及时地分析故障的根因，辅助故障排除。这是一个具有挑战性的任务：首先，云基础设施中收集的单模态粗粒
-度故障监测数据不足以全面描述故障情况；其次，由于设备之间复杂的依赖关系，故障往往是多个故障累积的结果，故障之间的关联难
-以确定。为了解决这些问题，本文提出 BSODiag，一个用于批量服务器宕机故障无监督且轻量级的诊断框架。BSODiag 提供了全局分析
-视角，全面探究来自多源监控数据的故障信息，对故障的时空关联进行建模，并提供准确且可解释的诊断结果。在阿里巴巴云基础设施
-上进行的实验表明，BSODiag 在 PR@3 上达到了 87.5%，在 PCR 上达到了 46.3%，分别比基线方法高出 10.2% 和 3.7%。
-</p>
+<tr>
+<td class="org-left">构建私钥密码原语</td>
+<td class="org-left"><a href="/assets/courses/crypt-adv/Ch3_slides.pdf">slides</a></td>
+</tr>
 
-<div id="org6b91d5b" class="figure">
-<p><img src="/assets/publication/BSODiag.png" alt="BSODiag.png" />
-</p>
-</div>
-</details></li>
+<tr>
+<td class="org-left">消息认证码</td>
+<td class="org-left"><a href="/assets/courses/crypt-adv/Ch4_slides.pdf">slides</a></td>
+</tr>
 
-<li><p>
-<b>[ACL'24]</b> Shuo Zhang, Liangming Pan, Junzhou Zhao*, and William Yang Wang. "The Knowledge Alignment Problem: Bridging
-Human and External Knowledge for Large Language Models". <i>Findings of ACL</i>, 2024. <code>大模型</code> <code>模型幻觉</code> [<a href="https://arxiv.org/abs/2305.13669">arXiv</a>][<a href="/assets/publication/MixAlign.pdf">slides</a>]
-</p>
-<details>
-<summary>[abstract]</summary>
-<p>大模型通常需要基于外部知识来生成真实可靠的答案。然而，即便外部知识库有正确的依据，大模型也可能忽略这些依据，转而依
-赖错误的知识或自身偏见来胡编乱造，进而产生模型幻觉。由于用户大多不了解知识库的具体内容，当用户的问题与检索到的依据没有
-直接关联时，就会产生模型幻觉。本研究提出了知识对齐问题并给出了 MixAlign 框架，该框架能与用户和知识库进行交互，获取并整
-合有关用户问题与存储信息之间关系的澄清信息。MixAlign 利用语言模型实现自动知识对齐，并在必要时通过用户澄清进一步增强这
-种对齐。实验结果表明，知识对齐在提升模型性能和减少模型幻觉方面起着关键作用，分别提高了 22.2% 和 27.1%。
-</p>
+<tr>
+<td class="org-left">密码学哈希函数</td>
+<td class="org-left"><a href="/assets/courses/crypt-adv/Ch5_slides.pdf">slides</a></td>
+</tr>
 
-<div id="org37d5281" class="figure">
-<p><img src="/assets/publication/MixAlign.png" alt="MixAlign.png" />
-</p>
-</div>
-</details></li>
+<tr>
+<td class="org-left">数论基础</td>
+<td class="org-left"><a href="/assets/courses/crypt-adv/Ch6_slides.pdf">slides</a></td>
+</tr>
 
-<li><p>
-<b>[ICDE'24]</b> Tao Duan, Junzhou Zhao*, Shuo Zhang, Jing Tao, and Pinghui Wang. "Representation Learning of Tangled
-Key-Value Sequence Data for Early Classification". In <i>Proceedings of the 41st IEEE International Conference on Data
-Engineering (ICDE)</i>, 2024. <code>序列数据</code> <code>网络流量</code> [<a href="https://arxiv.org/abs/2404.07454">arXiv</a>][<a href="/assets/publication/ICDE2024_slides.pdf">slides</a>][<a href="/assets/publication/ICDE2024_poster.pdf">poster</a>]
-</p>
-<details>
-<summary>[abstract]</summary>
-<p>键值序列数据出现在各种现实应用中，从电子商务中的用户购物记录序列，到网络流量中的数据包序列。对这些键值序列进行分类
-在许多场景中都很重要，例如用户画像和恶意流量识别。在许多时间敏感场景中，除了准确分类键值序列的要求外，还希望尽早对键值
-序列进行分类，以便快速响应。然而，这两个目标本质上是相互冲突的。本研究提出一个新的纠缠键值序列快速分类问题，其中纠缠键
-值序列是具有不同键的多个并发键值序列的混合。目标是对具有相同键的每个单独的键值序列进行准确且快速分类。为解决这一问题，
-本文提出键值序列早期协同分类框架，该框架通过键相关性和值相关性来利用纠缠键值序列中项目之间的内部和相互关联，从而学习出
-更好的序列表示。同时，一种时间感知的停止策略决定何时停止观察键值序列，并根据当前的序列表示对其进行分类。在真实世界和合
-成数据集上的实验表明，本文的方法显著优于最先进的基线方法。在相同的预测提前率条件下，本文方法将预测准确率提高了 4.7% 至
-17.5%，并将准确率和提前率的调和平均值提高了 3.7% 至 14.0%。
-</p>
+<tr>
+<td class="org-left">密钥管理与密钥分发</td>
+<td class="org-left"><a href="/assets/courses/crypt-adv/Ch7_slides.pdf">slides</a></td>
+</tr>
 
-<div id="org8e23df1" class="figure">
-<p><img src="/assets/publication/KVEC.png" alt="KVEC.png" />
-</p>
-</div>
-</details></li>
+<tr>
+<td class="org-left">公钥密码</td>
+<td class="org-left"><a href="/assets/courses/crypt-adv/Ch8_slides.pdf">slides</a></td>
+</tr>
 
-<li><p>
-<b>[TON'24]</b> Junzhou Zhao, Pinghui Wang, Wei Zhang, Zhaosong Zhang, Maoli Liu, Jing Tao, and John C.S. Lui. "Tracking
-Influencers in Decaying Social Activity Streams with Theoretical Guarantees". <i>IEEE/ACM Transactions on Networking
-(TON)</i>, 32(2):1461-1476, 2024. <code>社交网络</code> <code>网络舆情</code>
-</p>
-<details>
-<summary>[abstract]</summary>
-<p>社交网络中的影响力最大化问题是很多实际应用背后要解决的优化问题，例如病毒营销，政治竞选造势和网络监控。这个问题已经
-被广泛研究，但大多数研究都假设影响力是静态的，而实际中用户的影响力会随时间变化，需要实时发现当前网络中最有影响力的 K
-个节点，为此需要解决社交网络节点影响力实时跟踪问题。为了使最优解保持最新状态并能平滑地忘记过时数据，本文提出了一种概率
-衰减数据流（PDSAS）模型，使流中的每一个数据点存在的概率随时间衰减。基于PDSAS模型，本文提出了一种流式子模函数在线优化求
-解算法。该算法可以在线得到近似解并保证求解质量存在下界（1/2−ϵ）；为进一步提高求解效率，本文对该方法进行改进，并提出一
-种求解质量下界为（1/4−ϵ）的高效在线优化算法。实验表明，本文方法可以找到高质量的解且计算成本比基线低得多。
-</p>
-
-<div id="orgf9e1dd1" class="figure">
-<p><img src="/assets/publication/influence.png" alt="influence.png" />
-</p>
-</div>
-</details></li>
-
-<li><b>[AAAI'23]</b> Shuo Zhang, Junzhou Zhao*, Pinghui Wang, Tianxiang Wang, Zi Liang, Jing Tao, Yi Huang, and Junlan Feng.
-"Multi-Action Dialog Policy Learning from Logged User Feedback". In <i>Proceedings of the 37th AAAI Conference on
-Artificial Intelligence (AAAI)</i>, 2023. <code>对话系统</code> <code>NLP</code> [<a href="https://arxiv.org/abs/2302.13505">arXiv</a>]</li>
-
-<li><b>[SIGMOD'23]</b> Pinghui Wang, Chengjin Yang, Dongdong Xie, Junzhou Zhao, Hui Li, Jing Tao, and Xiaohong Guan. "An
-Effective and Differentially Private Protocol for Secure Distributed Cardinality Estimation". In <i>Proceedings of the
-ACM SIGMOD/PODS International Conference on Data Management (SIGMOD)</i>, 2023. <code>隐私计算</code> <code>MPC</code> <code>sketch</code> [<a href="/assets/publication/SIGMOD23_MPC_slides.pdf">slides</a>]</li>
-
-<li><b>[IJCAI'22]</b> Shuo Zhang, Junzhou Zhao*, Pinghui Wang, Yu Li, Yi Huang, and Junlan Feng. "Think Before You Speak:
-Improving Multi-action Dialog Policy by Planning Single-Action Dialogs". In <i>Proceedings of the 31st International
-Joint Conference on Artificial Intelligence (IJCAI)</i>, 2022. <code>NLP</code> <code>对话系统</code> [<a href="https://arxiv.org/abs/2204.11481">arXiv</a>][<a href="/assets/publication/IJCAI22_MADP_slides.pdf">slides</a>]</li>
-
-<li><b>[KDD'21]</b> Junzhou Zhao, Pinghui Wang, Chao Deng, and Jing Tao. "Temporal Biased Streaming Submodular Optimization".
-In <i>Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)</i>, 2021. <code>数据流</code>
-<code>在线优化</code> [<a href="/assets/publication/KDD21_SSO_slides.pdf">slides</a>]</li>
-
-<li><b>[AAAI'21]</b> Shuo Zhang, Junzhou Zhao*, Pinghui Wang, Nuo Xu, Yang Yang, Yiting Liu, Yi Huang, and Junlan Feng.
-"Learning to Check Contract Inconsistencies". In <i>Proceedings of the 35th AAAI Conference on Artificial Intelligence
-(AAAI)</i>, 2021. <code>NLP</code> [<a href="https://arxiv.org/abs/2012.08150">arXiv</a>][<a href="/assets/publication/AAAI2021-contract_poster.pdf">poster</a>]</li>
-
-<li><b>[KAIS'21]</b> Junzhou Zhao, Pinghui Wang, Zhouguo Chen, Jianwei Ding, John C.S. Lui, Don Towsley, and Xiaohong Guan.
-"Tracking Triadic Cardinality Distributions for Burst Detection in High-Speed Graph Streams". <i>Knowledge and
-Information Systems (KAIS)</i>, 63:939-969, 2021. <code>图数据流</code> <code>采样估计</code> [<a href="https://arxiv.org/abs/1708.09089">arXiv</a>]</li>
-
-<li><b>[ICDE'20]</b> Junzhou Zhao, Pinghui Wang, Jing Tao, Shuo Zhang, and John C.S. Lui. "Continuously Tracking Core Items
-in Data Streams with Probabilistic Decays". In <i>Proceedings of the 36th IEEE International Conference on Data
-Engineering (IEEE ICDE)</i>, 2020. <code>数据流</code> <code>在线优化</code> [<a href="/assets/publication/ICDE2020_slides.pdf">slides</a>][<a href="/assets/publication/ICDE2020_poster.pdf">poster</a>]</li>
-
-<li><b>[INS'20]</b> Lin Lan, Pinghui Wang, Junzhou Zhao, Jing Tao, John C.S. Lui, and Xiaohong Guan. "Improving Network
-Embedding with Partially Available Vertex and Edge Content". <i>Information Sciences</i>, 2020. <code>图学习</code></li>
-
-<li><b>[TOIS'20]</b> Xiaoying Zhang, Hong Xie, Junzhou Zhao, and John C.S. Lui. "Understanding Assimilation-Contrast Effects in
-Online Rating Systems: Modeling, Debiasing and Applications". <i>ACM Transactions on Information Systems (TOIS)</i>, 2020.
-<code>推荐系统</code></li>
-
-<li><b>[AAAI'19]</b> Junzhou Zhao, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Submodular Optimization over
-Streams with Inhomogeneous Decays". In <i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence
-(AAAI)</i>, 2019. <code>数据流</code> <code>在线优化</code> [<a href="https://arxiv.org/abs/1811.05652">arXiv</a>]</li>
-
-<li><b>[ICDE'19]</b> Junzhou Zhao, S. Shang, Pinghui Wang, John C.S. Lui, and Xiangliang Zhang. "Tracking Influential Nodes in
-Time-Decaying Dynamic Interaction Networks". In <i>Proceedings of the 35th IEEE International Conference on Data
-Engineering (IEEE ICDE)</i>, 2019. <code>图数据流</code> <code>网络舆情</code> [<a href="https://arxiv.org/abs/1810.07917">arXiv</a>][<a href="/assets/publication/ICDE19_poster.pdf">poster</a>]</li>
-
-<li><b>[INS'19]</b> Junzhou Zhao, Pinghui Wang, and John C.S. Lui. "Optimizing Node Discovery on Networks: Problem Definitions,
-Fast Algorithms, and Observations". <i>Information Sciences (INS)</i>, 477:161-185, 2019. <code>图数据</code> <code>网络舆情</code> [<a href="https://arxiv.org/abs/1703.04307">arXiv</a>]</li>
-
-<li><b>[DMKD'19]</b> Junzhou Zhao, Pinghui Wang, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Online Social
-Networks by Random Walk with Indirect Jumps". <i>Data Mining and Knowledge Discovery (DMKD)</i>, 33:24-57, 2019. <code>图数据</code>
-<code>采样估计</code></li>
-
-<li><b>[TKDE'18]</b> Pinghui Wang, Junzhou Zhao, Xiangliang Zhang, Zhenhua Li, Jiefeng Cheng, John C.S. Lui, Don Towsley,
-Jing Tao, and Xiaohong Guan. "MOSS-5: A Fast Method of Approximating Counts of 5-Node Graphlets in Large Graphs".
-<i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, 2018. <code>图数据</code> <code>采样估计</code> [<a href="/assets/publication/TKDE18_poster.pdf">poster</a>]</li>
-
-<li><b>[KAIS'18]</b> Pinghui Wang, Junzhou Zhao, Xiangliang Zhang, Jing Tao, and Xiaohong Guan. "SNOD: A Fast Sampling Method
-of Exploring Node Orbit Degrees for Large Graphs". <i>Knowledge and Information Systems (KAIS)</i>, 2018. <code>图数据</code> <code>采样估计</code></li>
-
-<li><b>[KAIS'18]</b> Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Fast Crawling Methods of
-Exploring Content Distributed Over Large Graphs". <i>Knowledge and Information Systems (KAIS)</i>, 2018. <code>图数据</code> <code>采样估计</code></li>
-
-<li><b>[KAIS'18]</b> Pinghui Wang, Junzhou Zhao, Bruno Ribeiro, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Practical
-Characterization of Large Networks Using Neighborhood Information". <i>Knowledge and Information Systems (KAIS)</i>, 2018.
-<code>图数据</code> <code>采样估计</code></li>
-
-<li><b>[INS'17]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "I/O-Efficient Calculation of
-Group Closeness Centrality over Disk-Resident Graphs". <i>Information Sciences (INS)</i>, 2017. <code>图数据</code> <code>优化方法</code></li>
-
-<li><b>[RecSys'17]</b> Xiaoying Zhang, Junzhou Zhao, and John C.S. Lui. "Modeling the Assimilation-Contrast Effects in Online
-Product Rating Systems: Debiasing and Recommendations". In <i>Proceedings of the 11th ACM Conference on Recommendation
-Systems (RecSys)</i>, 2017. <code>推荐系统</code> <code>Awarded Best Paper</code></li>
-
-<li><b>[COSN'15]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "Tracking Triadic Cardinality
-Distributions for Burst Detection in Social Activity Streams". In <i>Proceedings of ACM Conference on Online Social
-Networks (COSN)</i>, 2015. <code>图数据</code> <code>异常检测</code> <code>采样估计</code> [<a href="http://arxiv.org/abs/1411.3808">arXiv</a>]</li>
-
-<li><b>[ICDE'15]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, Pinghui Wang, and Xiaohong Guan. "A Tale of Three Graphs:
-Sampling Design on Hybrid Social-Affiliation Networks". In <i>Proceedings of the 31st IEEE International Conference on
-Data Engineering (ICDE)</i>, 2015. <code>图数据</code> <code>采样估计</code></li>
-
-<li><b>[SIMPLEX'14]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Measuring and Maximizing Group Closeness
-Centrality over Disk-Resident Graphs". In <i>WWW SIMPLEX workshop</i>, 2014. <code>图数据</code> <code>优化方法</code> <code>Awarded Best Paper</code></li>
-
-<li><b>[COMNET'14]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "WTF: Efficient Followee Selection for
-Cascading Outbreak Detection on Online Social Networks". <i>Computer Networks, Special Issue on Online Social
-Networks</i>, 2014. <code>图数据</code> <code>异常检测</code></li>
-
-<li><b>[TKDD'14]</b> Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Unbiased Characterization of
-Node Pairs over Large Graphs". <i>ACM Transactions on Knowledge Discovery from Data (TKDD)</i>, 2014. <code>图数据</code> <code>采样估计</code></li>
-
-<li><b>[CrowdRec'13]</b> Junzhou Zhao, Xiaohong Guan, and Jing Tao. "On Analyzing Estimation Errors due to Constrained
-Connections in Online Review Systems". <i>RecSys CrowdRec workshop</i>, 2013. <code>推荐系统</code> <code>估计方法</code> [<a href="http://arxiv.org/abs/1307.3687">arXiv</a>]</li>
-
-<li><b>[ICDE'13]</b> Pinghui Wang, Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Sampling Node Pairs Over Large
-Graphs". In <i>Proceedings of the 29th IEEE International Conference on Data Engineering (ICDE)</i>, 2013. <code>图数据</code> <code>采样估计</code></li>
-
-<li><b>[NetSciCom'11]</b> Junzhou Zhao, John C.S. Lui, Don Towsley, and Xiaohong Guan. "Empirical Analysis of the Evolution of
-Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop</i>, 2011. <code>社交网络</code> <code>网络测量</code></li>
-</ul>
+<tr>
+<td class="org-left">数字签名</td>
+<td class="org-left"><a href="/assets/courses/crypt-adv/Ch9_slides.pdf">slides</a></td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 
 </section>
 ]]></description>
+      <pubDate>2025-12-22</pubDate>
+      <guid>https://junzhouzhao.github.io/courses/crypt-adv/</guid>
+    </item>
+    <item>
+      <title>Publication</title>
+      <link>https://junzhouzhao.github.io/publication/</link>
+      <description><![CDATA[]]></description>
       <pubDate>2025-12-05</pubDate>
       <guid>https://junzhouzhao.github.io/publication/</guid>
     </item>
@@ -337,13 +122,6 @@ Follower Network: A Case Study on Douban". <i>IEEE INFOCOM NetSciCom workshop</i
       <description><![CDATA[]]></description>
       <pubDate>2025-03-24</pubDate>
       <guid>https://junzhouzhao.github.io/article/research/</guid>
-    </item>
-    <item>
-      <title>密码学理论与实践</title>
-      <link>https://junzhouzhao.github.io/courses/crypt-adv/</link>
-      <description><![CDATA[]]></description>
-      <pubDate>2025-02-11</pubDate>
-      <guid>https://junzhouzhao.github.io/courses/crypt-adv/</guid>
     </item>
     <item>
       <title>Conference List</title>
