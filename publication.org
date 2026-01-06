@@ -32,7 +32,7 @@
 * Publications
 
 - *[SIGMOD'26]* Chang Liu and Junzhou Zhao*. "MTSP-LDP: A Framework for Multi-Task Streaming Data Publication under
-  Local Differential Privacy". /ACM SIGMOD/, 2026. ~数据流~ ~差分隐私~
+  Local Differential Privacy". /ACM SIGMOD/, 2026. ~数据流~ ~差分隐私~ [[[https://arxiv.org/abs/2512.24899][arXiv]]]
    #+BEGIN_EXPORT html
   <details>
   <summary>[abstract]</summary>
