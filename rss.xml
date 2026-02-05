@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Thu, 05 Feb 2026 10:11:39 CST</pubDate>
-    <lastBuildDate>Thu, 05 Feb 2026 10:11:39 CST</lastBuildDate>
+    <pubDate>Thu, 05 Feb 2026 11:37:43 CST</pubDate>
+    <lastBuildDate>Thu, 05 Feb 2026 11:37:43 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -15,11 +15,11 @@
     <p>
 [<a href="../article/conference_list">Top Conferences in Computer Science</a>]
 </p>
-<div id="outline-container-orgd7fd6a6" class="outline-2">
-<h2 id="orgd7fd6a6">Publications</h2>
-<div class="outline-text-2" id="text-orgd7fd6a6">
+<div id="outline-container-org9fa1454" class="outline-2">
+<h2 id="org9fa1454">Publications</h2>
+<div class="outline-text-2" id="text-org9fa1454">
 <ul class="org-ul">
-<li><p>赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 计算机学报, 2026. <code>网络流量</code>
+<li><p>赵俊舟，段涛，李江龙，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 计算机学报, 2026. <code>网络流量</code>
 <code>反诈治理</code> <code>数据安全</code>[<a href="/assets/publication/Draft_VoIP.pdf">draft</a>]
 </p>
 <details>
@@ -36,7 +36,7 @@ F1 值分别达到 0.77、0.99、0.88 和 0.92。本文研究结果表明微信�
 充等措施提升安全性，避免造成用户隐私泄露。
 </p>
 
-<div id="orge33892d" class="figure">
+<div id="org7ebf11f" class="figure">
 <p><img src="/assets/publication/voip.png" alt="voip.png" />
 </p>
 </div>
@@ -60,7 +60,7 @@ MTSP-LDP 提出了一种“最优隐私预算分配”算法，通过分析每�
 务中始终能实现高实用性，显著优于现有方法。
 </p>
 
-<div id="org5a21e0b" class="figure">
+<div id="org37b4bfe" class="figure">
 <p><img src="/assets/publication/SIGMOD26_MSTP.png" alt="SIGMOD26_MSTP.png" />
 </p>
 </div>
@@ -83,7 +83,7 @@ Model-Generated Time Series. <i>AAAI</i>, 2026. <code>大模型</code> <code>时
 优于最先进的基线，为检测模型生成的时间序列提供了一种可靠且通用的解决方案。
 </p>
 
-<div id="org1ae7322" class="figure">
+<div id="org4ea3a61" class="figure">
 <p><img src="/assets/publication/AAAI26_time_series.png" alt="AAAI26_time_series.png" />
 </p>
 </div>
@@ -108,7 +108,7 @@ SIGKDD)</i>, 2025. <code>图学习</code>
 性。在四个基准数据集上进行的大量实验表明，TaskNS 有效，与最先进的方法相比，平均准确率提高了4.6%，F1 分数提高了 4.9%。
 </p>
 
-<div id="org61d66b0" class="figure">
+<div id="orgb5cfa9a" class="figure">
 <p><img src="/assets/publication/graph_few_shot.png" alt="graph_few_shot.png" />
 </p>
 </div>
@@ -130,7 +130,7 @@ BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cl
 上进行的实验表明，BSODiag 在 PR@3 上达到了 87.5%，在 PCR 上达到了 46.3%，分别比基线方法高出 10.2% 和 3.7%。
 </p>
 
-<div id="org291ccca" class="figure">
+<div id="org6b36170" class="figure">
 <p><img src="/assets/publication/BSODiag.png" alt="BSODiag.png" />
 </p>
 </div>
@@ -149,7 +149,7 @@ Human and External Knowledge for Large Language Models. <i>Findings of ACL</i>, 
 种对齐。实验结果表明，知识对齐在提升模型性能和减少模型幻觉方面起着关键作用，分别提高了 22.2% 和 27.1%。
 </p>
 
-<div id="orgc962ec1" class="figure">
+<div id="org84b0cd2" class="figure">
 <p><img src="/assets/publication/MixAlign.png" alt="MixAlign.png" />
 </p>
 </div>
@@ -172,7 +172,7 @@ Engineering (ICDE)</i>, 2024. <code>序列数据</code> <code>网络流量</code
 17.5%，并将准确率和提前率的调和平均值提高了 3.7% 至 14.0%。
 </p>
 
-<div id="org9b17fdb" class="figure">
+<div id="org394a9c7" class="figure">
 <p><img src="/assets/publication/KVEC.png" alt="KVEC.png" />
 </p>
 </div>
@@ -193,7 +193,7 @@ Influencers in Decaying Social Activity Streams with Theoretical Guarantees. <i>
 种求解质量下界为（1/4−ϵ）的高效在线优化算法。实验表明，本文方法可以找到高质量的解且计算成本比基线低得多。
 </p>
 
-<div id="org771dcbc" class="figure">
+<div id="orgc3c5e8e" class="figure">
 <p><img src="/assets/publication/influence.png" alt="influence.png" />
 </p>
 </div>
