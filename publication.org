@@ -5,10 +5,11 @@
 
 [[[file:../article/conference_list.org][Top Conferences in Computer Science]]]
 
-* Drafts
 
-- 赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 2025-06. ~网络流量~ ~反诈治理~
-  [[[file:assets/Draft_VoIP.pdf][draft]]]
+* Publications
+
+- 赵俊舟，李江龙，段涛，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 计算机学报, 2026. ~网络流量~
+  ~反诈治理~ ~数据安全~[[[file:assets/Draft_VoIP.pdf][draft]]]
   #+BEGIN_EXPORT html
   <details>
   <summary>[abstract]</summary>
@@ -29,11 +30,9 @@
   </details>
   #+END_EXPORT
 
-* Publications
-
 - *[SIGMOD'26]* Chang Liu and Junzhou Zhao*. MTSP-LDP: A Framework for Multi-Task Streaming Data Publication under Local
   Differential Privacy. In /Proceedings of the ACM SIGMOD/PODS International Conference on Data Management
-  (SIGMOD)/, 2026. ~数据流~ ~差分隐私~ [[[https://arxiv.org/abs/2512.24899][arXiv]]]
+  (SIGMOD)/, 2026. ~数据流~ ~差分隐私~ ~数据安全~ [[[https://arxiv.org/abs/2512.24899][arXiv]]]
    #+BEGIN_EXPORT html
   <details>
   <summary>[abstract]</summary>
@@ -54,7 +53,7 @@
   #+END_EXPORT
 
 - *[AAAI'26]* Junji Hou, Junzhou Zhao*, Shuo Zhang, and Pinghui Wang. A Theoretical Analysis of Detecting Large
-  Model-Generated Time Series. /AAAI/, 2026. ~大模型~ ~时间序列~ ~生成检测~ [[[https://arxiv.org/abs/2511.07104][arXiv]]]
+  Model-Generated Time Series. /AAAI/, 2026. ~大模型~ ~时间序列~ ~生成检测~ ~数据安全~[[[https://arxiv.org/abs/2511.07104][arXiv]]]
    #+BEGIN_EXPORT html
   <details>
   <summary>[abstract]</summary>
@@ -100,7 +99,7 @@
 - *[ICSE'25]* Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao*, Jiongzhou Liu, Shujie Han, Yi Liu, and Fan Xu.
   BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems. In
   /Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE)/, 2025. ~智能运维~
-  [[[https://arxiv.org/abs/2502.15728][arXiv]]][[[file:assets/BSODiag_ICSE25_Slides.pdf][slides]]]
+  ~网络安全~ [[[https://arxiv.org/abs/2502.15728][arXiv]]][[[file:assets/BSODiag_ICSE25_Slides.pdf][slides]]]
   #+BEGIN_EXPORT html
   <details>
   <summary>[abstract]</summary>
