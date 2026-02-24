@@ -8,8 +8,30 @@
 
 * Publications
 
-- 赵俊舟，段涛，李江龙，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 计算机学报, 2026. ~网络流量~
-  ~反诈治理~ ~数据安全~[[[file:assets/Draft_VoIP.pdf][draft]]]
+- *[TIFS'26]* Shuo Zhang, Junzhou Zhao*, Junji Hou, Pinghui Wang, Chenxu Wang, and Jing Tao. Extracting Training
+  Dialogue Data from Large Language Model based Task Bots. IEEE Transactions on Information Forensics and
+  Security. 2026. ~数据安全~ ~大模型攻击~
+  #+BEGIN_EXPORT html
+  <details>
+  <summary>[abstract]</summary>
+  <p>
+  大型语言模型（LLM）已被广泛用于增强任务导向型对话系统，通过建模复杂的语言模式并提供上下文相关的响应来实现这一目标。LLM
+  可以被看作软知识库，在训练过程中将大量的训练数据压缩成丰富的表示形式。然而，这种压缩存储能力可能带来显著的隐私风险，因
+  为 LLM 有可能记住并无意中泄露训练数据。与之前专注于探究 LLM 在预训练期间所记忆信息的研究不同，本研究探讨了 LLM 在为任
+  务导向型对话系统的下游应用进行微调时，如何继承并进一步发展这种记忆能力，从而考察知识泄露和数据脆弱性的程度。具体而言，
+  本研究从任务机器人中提取对话状态的训练标签。这些状态总结了对话内容，可能包含个人身份信息，如姓名以及诸如旅行计划之类的
+  事件细节。本研究对现有的用于提取预训练数据的方法进行了测试，并针对观察到的局限性，提出了一种新颖的模型对模型方法，利用
+  ChatGPT 探测任务机器人，并辅以两种创新的成员推断措施。大量实验表明，本研究的方法是有效的，能够提取数千个训练对话状态，
+  最佳情况下的精度超过70%，且所需交互次数减少了5倍。本研究还确定了关键影响因素，并讨论了潜在的缓解策略。
+  </p>
+  #+END_EXPORT
+  [[file:images/TIFS26_LLM_attack.png]]
+  #+BEGIN_EXPORT html
+  </details>
+  #+END_EXPORT
+
+- *[CJC'26]* 赵俊舟，段涛，李江龙，王平辉，陶敬. 基于语音频谱与数据包长对齐的 VoIP 加密流量识别方法. 计算机学报, 2026.
+  ~网络流量~ ~反诈治理~ ~数据安全~[[[file:assets/Draft_VoIP.pdf][draft]]]
   #+BEGIN_EXPORT html
   <details>
   <summary>[abstract]</summary>
