@@ -10,7 +10,7 @@
 
 - *[TIFS'26]* Shuo Zhang, Junzhou Zhao*, Junji Hou, Pinghui Wang, Chenxu Wang, and Jing Tao. Extracting Training
   Dialogue Data from Large Language Model based Task Bots. IEEE Transactions on Information Forensics and
-  Security. 2026. ~数据安全~ ~大模型攻击~
+  Security. 2026. ~数据安全~ ~大模型攻击~ [[[https://arxiv.org/abs/2603.01550v1][arXiv]]]
   #+BEGIN_EXPORT html
   <details>
   <summary>[abstract]</summary>
