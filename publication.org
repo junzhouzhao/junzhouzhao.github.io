@@ -5,6 +5,10 @@
 
 [[[file:../article/conference_list.org][Top Conferences in Computer Science]]]
 
+* Draft
+
+- Jinzi Zou, Bolin Wang, Liang Li, Shuo Zhang, Nuo Xu, and Junzhou Zhao*. FloCA: Towards Faithful and Logically
+  Consistent Flowchart Reasoning. 2026 [[[https://arxiv.org/abs/2602.14035][arXiv]]]
 
 * Publications
 
