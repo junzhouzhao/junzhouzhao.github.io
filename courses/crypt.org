@@ -19,6 +19,6 @@
 | 消息认证            | [[file:../assets/slides/crypt/Ch5_slides.pdf][slides]] |
 | 数字签名            | [[file:../assets/slides/crypt/Ch6_slides.pdf][slides]] |
 | 隐私计算简介        | [[file:../assets/slides/crypt/Ch7_slides.pdf][slides]] |
-| 后量子密码简介      | [[file:../assets/slides/crypt/Ch7_slides.pdf][slides]] |
+| 后量子密码简介      | [[file:../assets/slides/crypt/Ch8_slides.pdf][slides]] |
 | 附录：数论基础      | [[file:../assets/slides/crypt/ChA_slides.pdf][slides]] |
 |--------------------+--------|
