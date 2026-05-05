@@ -3,3 +3,4 @@ Disallow: /assets/
 Disallow: /media/
 Disallow: /tags/
 Disallow: /article/
+Disallow: /courses/
