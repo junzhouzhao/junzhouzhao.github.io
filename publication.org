@@ -12,6 +12,45 @@
 
 * Publications
 
+- *[TDSC'26]* Dongdong Xie, Pinghui Wang, Chengjin Yang, Tianjunjie Chen, Junzhou Zhao, and Xiaohong Guan.
+  Flexible Privacy-Preserving Cardinality Query for Massive Distributed Datasets. IEEE Transactions on Dependable and
+  Secure Computing (TDSC), 2026. ~数据安全~ ~隐私计算~
+  #+BEGIN_EXPORT html
+  <details>
+  <summary>[abstract]</summary>
+  <p>
+  在多个数据持有者（DH）之间私密地计算不同元素的数量（基数）是一项基础工作，具有广泛的应用，从人群计数到网络监控不等。这
+  被称为私密分布式基数估计（PDCE）。同样，确定两个 DH 组的并集之间的交集基数也具有实际意义，我们将此问题称为私密分布式交
+  集基数估计（PDICE）。虽然存在许多高效的方法（例如 FM 和 LL 摘要），但它们的差分隐私依赖于秘密哈希函数。在 PDCE 中，DH
+  必须共享这些函数以实现摘要合并，这打破了这一假设并使此类保证失效。尽管最近有一种协议在基于秘密共享的多方计算（MPC）框
+  架上实现了用于 PDCE 的 FM 摘要，但我们观察到它缺乏差分隐私保证并且计算成本高昂。为了解决这些局限性，我们提出了
+  DP-DICE-Bino，这是一种计算高效且具有差分隐私的 PDCE 新协议。DP-DICE-Bino 具有灵活性，可以计算任何 DH 组的基数，而无需
+  反复与 DH 交互。此外，DP-DICE-Bino 还能够处理 PDICE。实验表明，在相同的安全要求下，DP-DICE-Bino 达到了数量级的速度提升，
+  并将估计误差降低了数倍，优于现有技术水平。
+  </p>
+  #+END_EXPORT
+  [[file:images/TDSC26_FPDC.png]]
+  #+BEGIN_EXPORT html
+  </details>
+  #+END_EXPORT
+
+- *[TDSC'26]* Pinghui Wang, Haoxin Yang, Dongxu Zeng, Hong Xie, Junzhou Zhao, and Xiaohong Guan.
+  MPC-FH: Privately Estimating Frequency Histogram for Advertising Measurement.
+  IEEE Transactions on Dependable and Secure Computing (TDSC), 2026. ~数据安全~ ~隐私计算~
+  #+BEGIN_EXPORT html
+  <details>
+  <summary>[abstract]</summary>
+  <p>
+  广告商通常会在多个发布商处开展广告活动。不同的发布商往往触及不同的受众群体，而且有些人可能会通过多个发布商接触到广告活
+  动。由于隐私限制，禁止以集中方式收集来自多个发布商的所有受众活动，因此我们希望有安全的协议来挖掘受众活动。在本文中，我
+  们提出了一种安全协议，用于高效地估计频率直方图，即在所有发布商中出现给定次数的人（或用户）的比例。我们的协议 MPC-FH 是
+  基于一种新颖的草图方法 MPS 设计的，该方法在多个参与方中均匀抽样一部分用户，并且可以在流行的多方安全计算（MPC）方案
+  SPDZ 上高效实现。我们的协议提供了比现有技术更严格的安全保证。此外，我们在各种大型数据集上的实验结果表明，我们的协议还
+  可以将现有协议的计算速度提高几个数量级。
+  </p>
+  </details>
+  #+END_EXPORT
+
 - *[TIFS'26]* Shuo Zhang, Junzhou Zhao*, Junji Hou, Pinghui Wang, Chenxu Wang, and Jing Tao. Extracting Training
   Dialogue Data from Large Language Model based Task Bots. IEEE Transactions on Information Forensics and
   Security. 2026. ~数据安全~ ~大模型攻击~ [[[https://arxiv.org/abs/2603.01550v1][arXiv]]]
