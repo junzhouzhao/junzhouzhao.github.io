@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /assets/
-Disallow: /media/
-Disallow: /tags/
-Disallow: /article/
-Disallow: /courses/
+Disallow: /
+
+Allow: /publication$
