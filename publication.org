@@ -8,7 +8,7 @@
 * Draft
 
 - Jinzi Zou, Bolin Wang, Liang Li, Shuo Zhang, Nuo Xu, and Junzhou Zhao*. FloCA: Towards Faithful and Logically
-  Consistent Flowchart Reasoning. 2026 [[[https://arxiv.org/abs/2602.14035][arXiv]]] ~大模型~ ~模型推理~
+  Consistent Flowchart Reasoning. 2026 [[[https://arxiv.org/abs/2602.14035][arXiv]]] ~大模型~ ~模型推理~ ~智能体安全~
 
 * Publications
 
@@ -53,7 +53,7 @@
 
 - *[TIFS'26]* Shuo Zhang, Junzhou Zhao*, Junji Hou, Pinghui Wang, Chenxu Wang, and Jing Tao. Extracting Training
   Dialogue Data from Large Language Model based Task Bots. IEEE Transactions on Information Forensics and
-  Security. 2026. ~大模型~ ~隐私保护~ ~大模型攻击~ [[[https://arxiv.org/abs/2603.01550v1][arXiv]]]
+  Security. 2026. ~大模型~ ~隐私保护~ ~大模型安全~ [[[https://arxiv.org/abs/2603.01550v1][arXiv]]]
   #+BEGIN_EXPORT html
   <details>
   <summary>[abstract]</summary>
@@ -118,7 +118,7 @@
   #+END_EXPORT
 
 - *[AAAI'26]* Junji Hou, Junzhou Zhao*, Shuo Zhang, and Pinghui Wang. A Theoretical Analysis of Detecting Large
-  Model-Generated Time Series. /AAAI/, 2026. ~大模型~ ~时间序列~ ~生成检测~ [[[https://arxiv.org/abs/2511.07104][arXiv]]]
+  Model-Generated Time Series. /AAAI/, 2026. ~大模型~ ~时间序列~ ~生成检测~ ~大模型安全~ [[[https://arxiv.org/abs/2511.07104][arXiv]]]
    #+BEGIN_EXPORT html
   <details>
   <summary>[abstract]</summary>
@@ -182,8 +182,8 @@
   #+END_EXPORT
 
 - *[ACL'24]* Shuo Zhang, Liangming Pan, Junzhou Zhao*, and William Yang Wang. The Knowledge Alignment Problem: Bridging
-  Human and External Knowledge for Large Language Models. /Findings of ACL/, 2024. ~大模型~ ~模型推理~ ~模型幻觉~
-  [[[https://arxiv.org/abs/2305.13669][arXiv]]][[[file:assets/MixAlign.pdf][slides]]]
+  Human and External Knowledge for Large Language Models. /Findings of ACL/, 2024. ~大模型~ ~模型推理~ ~模型幻觉~ ~大模
+  型安全~ [[[https://arxiv.org/abs/2305.13669][arXiv]]][[[file:assets/MixAlign.pdf][slides]]]
   #+BEGIN_EXPORT html
   <details>
   <summary>[abstract]</summary>
@@ -253,8 +253,8 @@
   Joint Conference on Artificial Intelligence (IJCAI)/, 2022. ~强化学习~ ~对话系统~ [[[https://arxiv.org/abs/2204.11481][arXiv]]][[[file:assets/IJCAI22_MADP_slides.pdf][slides]]]
 
 - *[KDD'21]* Junzhou Zhao, Pinghui Wang, Chao Deng, and Jing Tao. Temporal Biased Streaming Submodular Optimization. In
-  /Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)/, 2021. ~数据流~ ~
-  在线优化~ ~优化算法~ [[[file:assets/KDD21_SSO_slides.pdf][slides]]]
+  /Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD)/, 2021. ~数据流~
+  ~在线优化~ ~优化算法~ [[[file:assets/KDD21_SSO_slides.pdf][slides]]]
 
 - *[AAAI'21]* Shuo Zhang, Junzhou Zhao*, Pinghui Wang, Nuo Xu, Yang Yang, Yiting Liu, Yi Huang, and Junlan Feng.
   Learning to Check Contract Inconsistencies. In /Proceedings of the 35th AAAI Conference on Artificial Intelligence
