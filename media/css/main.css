@@ -86,3 +86,29 @@ details > summary {
 details > p {
   color: purple;
 }
+
+blockquote {
+  margin: 1.5em 0;
+  padding: 0.8em 1.2em;
+  border-left: 4px solid #6366f1;
+  background: #f8fafc;
+  color: #334155;
+  font-style: italic;
+  border-radius: 0 6px 6px 0;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+blockquote cite {
+  display: block;
+  margin-top: 0.5em;
+  font-size: 0.85em;
+  font-style: normal;
+  color: #94a3b8;
+}
+
+blockquote cite::before {
+  content: "— ";
+}
