@@ -11,7 +11,7 @@ The only truly secure system is one that is powered off, cast in a block of
 concrete and sealed in a lead-lined room with armed guards.
 #+END_QUOTE
 
-** VoIP 加密网络流量分析
+** VoIP 加密网络流量识别
 随着智能手机等移动终端的迅速普及，以微信电话为代表的互联网语音（Voice over
 Internet Protocol, VoIP）应用日益流行。VoIP 应用在开放的互联网中传递涉及用户隐私
 的语音内容，保护用户数据安全至关重要。尽管 VoIP 应用普遍采用私有语音编码算法、加
