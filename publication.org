@@ -8,7 +8,7 @@
 * Draft
 
 - Jinzi Zou, Bolin Wang, Liang Li, Shuo Zhang, Nuo Xu, and Junzhou Zhao*. FloCA: Towards Faithful and Logically
-  Consistent Flowchart Reasoning. 2026 [[[https://arxiv.org/abs/2602.14035][arXiv]]] ~大模型~ ~模型推理~ ~智能体安全~
+  Consistent Flowchart Reasoning. 2026 [[[https://arxiv.org/abs/2602.14035][arXiv]]] ~大模型~ ~模型推理~ ~智能体安全~ ~智能运维~
 
 * Publications
 
