@@ -8,15 +8,15 @@
 * Publications
 
 - *[NDSS'27]* Tao Duan, Junzhou Zhao*, Jianglong Li, Ronghua Li, Youqian Zhang, Nuo Xu, Pinghui Wang*, Haibo Hu.
-  MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Correlation Graphs. NDSS 2027.
-  ~网络流量分析~ ~网络安全~
+  MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Correlation Graphs.
+  Network and Distributed System Security Symposium (NDSS) 2027. ~网络流量分析~ ~网络安全~
 
 - *[EMNLP'27]* Jinzi Zou, Bolin Wang, Shuo Zhang, Nuo Xu, and Junzhou Zhao*. FloCA: Towards Faithful and Logically
-  Consistent Flowchart Reasoning. EMNLP 2026 [[[https://arxiv.org/abs/2602.14035][arXiv]]] ~大模型~ ~模型推理~ ~智能体安全~ ~智能运维~
+  Consistent Flowchart Reasoning. EMNLP 2027. [[[https://arxiv.org/abs/2602.14035][arXiv]]] ~大模型~ ~模型推理~ ~智能体安全~ ~智能运维~
 
 - *[TIFS'26]* Shuo Zhang, Junzhou Zhao*, Junji Hou, Pinghui Wang, Chenxu Wang, and Jing Tao. Extracting Training
   Dialogue Data from Large Language Model based Task Bots. IEEE Transactions on Information Forensics and
-  Security. 2026. ~大模型~ ~隐私保护~ ~大模型安全~ [[[https://arxiv.org/abs/2603.01550v1][arXiv]]]
+  Security, 21:2873-2888, 2026. ~大模型~ ~隐私保护~ ~大模型安全~ [[[https://arxiv.org/abs/2603.01550v1][arXiv]]]
   #+BEGIN_EXPORT html
   <details>
   <summary>[abstract]</summary>
