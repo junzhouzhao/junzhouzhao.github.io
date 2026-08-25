@@ -30,8 +30,8 @@
   </details>
   #+END_EXPORT
 
-- *[EMNLP'27]* Jinzi Zou, Bolin Wang, Shuo Zhang, Nuo Xu, and Junzhou Zhao*. FloCA: Towards Faithful and Logically
-  Consistent Flowchart Reasoning. EMNLP 2027. [[[https://arxiv.org/abs/2602.14035][arXiv]]] ~大模型~ ~模型推理~ ~智能体安全~ ~智能运维~
+- *[EMNLP'26]* Jinzi Zou, Bolin Wang, Shuo Zhang, Nuo Xu, and Junzhou Zhao*. FloCA: Towards Faithful and Logically
+  Consistent Flowchart Reasoning. EMNLP 2026. [[[https://arxiv.org/abs/2602.14035][arXiv]]] ~大模型~ ~模型推理~ ~智能体安全~ ~智能运维~
   #+BEGIN_EXPORT html
   <details>
   <summary>[abstract]</summary>
