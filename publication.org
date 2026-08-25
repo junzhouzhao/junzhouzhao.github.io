@@ -10,9 +10,45 @@
 - *[NDSS'27]* Tao Duan, Junzhou Zhao*, Jianglong Li, Ronghua Li, Youqian Zhang, Nuo Xu, Pinghui Wang, and Haibo Hu.
   MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Correlation Graphs. Network and
   Distributed System Security Symposium (NDSS), 2027. ~网络流量分析~ ~网络安全~
+  #+BEGIN_EXPORT html
+  <details>
+  <summary>[abstract]</summary>
+  <p>
+  移动应用已成为日常生活中无处不在的存在。尽管通信已实现加密，但应用程序指纹识别（AF）攻击仍能通过分析加密网络流量的模式，
+  使攻击者推断出用户正在使用的应用。然而，现有的AF攻击存在三个关键局限性，严重制约了其实际有效性：（i）无法捕捉应用特有
+  的流量依赖关系，导致在动态网络环境下流量指纹变得脆弱；（ii）忽视了延迟和吞吐量等因素，造成实时用户追踪效率低下；（iii）
+  无法处理多应用并发产生的混合流量。本文提出MAppPrint，一种鲁棒且实时的应用程序指纹识别框架。MAppPrint引入了一种行为级流
+  量指纹——流量行为因果图（TBCG），通过捕捉基本的流量行为及其因果关联来建模应用流量，从而提供可靠的指纹特征。为实现实时指
+  纹识别，MAppPrint采用了一种指纹压缩算法，通过选择性聚合冗余信息，将每个TBCG转换为紧凑的图结构。此外，MAppPrint采用了一
+  种无监督的分解策略，能够分离由多应用并发产生的混合流量，从而实现对单应用和多应用流量的统一识别。大量实验结果表明，与现
+  有最先进方法相比，MAppPrint在AF精度上提升了4.9% 至13.9%，在及时性方面提升了3到6倍。同时，MAppPrint在动态网络环境下表现
+  出良好的鲁棒性，其吞吐量达到10.5 GB/s，预测延迟仅为0.68秒。
+  </p>
+  #+END_EXPORT
+  [[file:images/NDSS27_MAppPrint.png]]
+  #+BEGIN_EXPORT html
+  </details>
+  #+END_EXPORT
 
 - *[EMNLP'27]* Jinzi Zou, Bolin Wang, Shuo Zhang, Nuo Xu, and Junzhou Zhao*. FloCA: Towards Faithful and Logically
   Consistent Flowchart Reasoning. EMNLP 2027. [[[https://arxiv.org/abs/2602.14035][arXiv]]] ~大模型~ ~模型推理~ ~智能体安全~ ~智能运维~
+  #+BEGIN_EXPORT html
+  <details>
+  <summary>[abstract]</summary>
+  <p>
+  流程图导向对话（FOD）系统旨在通过遵循特定领域的流程图，引导用户完成多轮决策或操作流程，以实现任务目标。在本研究中，我
+  们将FOD中的流程图推理形式化为：在每次对话回合中将用户输入映射到流程图的节点，并确保节点之间的转换与正确的流程路径保持
+  一致。尽管大语言模型（LLM）在任务导向对话系统方面取得了显著进展，但将其应用于FOD仍面临两个局限：（1）LLM缺乏显式机制来
+  表示和推理流程图的拓扑结构；（2）LLM容易产生幻觉，导致流程图推理不准确。为解决这些问题，我们提出FloCA，一种零样本的流
+  程图导向对话代理。FloCA利用LLM进行意图理解和响应生成，同时将流程图推理委托给一个外部工具，该工具执行受拓扑约束的图遍历，
+  从而确保跨对话回合的节点转换忠实且逻辑一致。此外，我们引入了一个基于LLM的用户模拟器评估框架，并提出了五个新的指标，涵
+  盖推理准确性和交互效率。在FLODIAL和PFDial数据集上的大量实验揭示了现有基于LLM/VLM方法的瓶颈，并证明了FloCA的优越性。
+  </p>
+  #+END_EXPORT
+  [[file:images/EMNLP27_FLoCA.png]]
+  #+BEGIN_EXPORT html
+  </details>
+  #+END_EXPORT
 
 - *[TIFS'26]* Shuo Zhang, Junzhou Zhao*, Junji Hou, Pinghui Wang, Chenxu Wang, and Jing Tao. Extracting Training
   Dialogue Data from Large Language Model based Task Bots. IEEE Transactions on Information Forensics and
