@@ -4,8 +4,8 @@
     <title>Junzhou Zhao （赵俊舟）</title>
     <link>https://junzhouzhao.github.io</link>
     <description>static site generator</description>
-    <pubDate>Tue, 25 Aug 2026 15:11:23 CST</pubDate>
-    <lastBuildDate>Tue, 25 Aug 2026 15:11:23 CST</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 17:07:53 CST</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:07:53 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -15,9 +15,9 @@
     <p>
 [<a href="../article/conference_list">Top Conferences in Computer Science</a>]
 </p>
-<div id="outline-container-org42def9b" class="outline-2">
-<h2 id="org42def9b">Publications</h2>
-<div class="outline-text-2" id="text-org42def9b">
+<div id="outline-container-org57fb73d" class="outline-2">
+<h2 id="org57fb73d">Publications</h2>
+<div class="outline-text-2" id="text-org57fb73d">
 <ul class="org-ul">
 <li><p>
 <b>[NDSS'27]</b> Tao Duan, Junzhou Zhao*, Jianglong Li, Ronghua Li, Youqian Zhang, Nuo Xu, Pinghui Wang, and Haibo Hu.
@@ -38,15 +38,15 @@ Distributed System Security Symposium (NDSS), 2027. <code>网络流量分析</co
 出良好的鲁棒性，其吞吐量达到10.5 GB/s，预测延迟仅为0.68秒。
 </p>
 
-<div id="org43a7154" class="figure">
+<div id="orge9c85d4" class="figure">
 <p><img src="/assets/publication/NDSS27_MAppPrint.png" alt="NDSS27_MAppPrint.png" />
 </p>
 </div>
 </details></li>
 
 <li><p>
-<b>[EMNLP'27]</b> Jinzi Zou, Bolin Wang, Shuo Zhang, Nuo Xu, and Junzhou Zhao*. FloCA: Towards Faithful and Logically
-Consistent Flowchart Reasoning. EMNLP 2027. [<a href="https://arxiv.org/abs/2602.14035">arXiv</a>] <code>大模型</code> <code>模型推理</code> <code>智能体安全</code> <code>智能运维</code>
+<b>[EMNLP'26]</b> Jinzi Zou, Bolin Wang, Shuo Zhang, Nuo Xu, and Junzhou Zhao*. FloCA: Towards Faithful and Logically
+Consistent Flowchart Reasoning. EMNLP 2026. [<a href="https://arxiv.org/abs/2602.14035">arXiv</a>] <code>大模型</code> <code>模型推理</code> <code>智能体安全</code> <code>智能运维</code>
 </p>
 <details>
 <summary>[abstract]</summary>
@@ -60,7 +60,7 @@ Consistent Flowchart Reasoning. EMNLP 2027. [<a href="https://arxiv.org/abs/2602
 盖推理准确性和交互效率。在FLODIAL和PFDial数据集上的大量实验揭示了现有基于LLM/VLM方法的瓶颈，并证明了FloCA的优越性。
 </p>
 
-<div id="org6161301" class="figure">
+<div id="orgf8717d5" class="figure">
 <p><img src="/assets/publication/EMNLP27_FLoCA.png" alt="EMNLP27_FLoCA.png" />
 </p>
 </div>
@@ -84,7 +84,7 @@ ChatGPT 探测任务机器人，并辅以两种创新的成员推断措施。大
 最佳情况下的精度超过 70%，且所需交互次数减少了 5 倍。本研究还确定了关键影响因素，并讨论了潜在的缓解策略。
 </p>
 
-<div id="org5fff49a" class="figure">
+<div id="org7508545" class="figure">
 <p><img src="/assets/publication/TIFS26_LLM_attack.png" alt="TIFS26_LLM_attack.png" />
 </p>
 </div>
@@ -107,7 +107,7 @@ ChatGPT 探测任务机器人，并辅以两种创新的成员推断措施。大
 户隐私数据泄露。
 </p>
 
-<div id="orge7e8e6b" class="figure">
+<div id="org9667a2d" class="figure">
 <p><img src="/assets/publication/voip.png" alt="voip.png" />
 </p>
 </div>
@@ -131,7 +131,7 @@ MTSP-LDP 提出了一种“最优隐私预算分配”算法，通过分析每�
 务中始终能实现高实用性，显著优于现有方法。
 </p>
 
-<div id="orgceb361b" class="figure">
+<div id="org4ce3189" class="figure">
 <p><img src="/assets/publication/SIGMOD26_MSTP.png" alt="SIGMOD26_MSTP.png" />
 </p>
 </div>
@@ -154,7 +154,7 @@ Model-Generated Time Series. <i>AAAI</i>, 2026. <code>大模型</code> <code>时
 优于最先进的基线，为检测模型生成的时间序列提供了一种可靠且通用的解决方案。
 </p>
 
-<div id="org80fb32f" class="figure">
+<div id="org76f8101" class="figure">
 <p><img src="/assets/publication/AAAI26_time_series.png" alt="AAAI26_time_series.png" />
 </p>
 </div>
@@ -179,7 +179,7 @@ SIGKDD)</i>, 2025. <code>图学习</code> <code>元学习</code> <code>图数据
 性。在四个基准数据集上进行的大量实验表明，TaskNS 有效，与最先进的方法相比，平均准确率提高了4.6%，F1 分数提高了 4.9%。
 </p>
 
-<div id="orgf73303b" class="figure">
+<div id="org3a3e764" class="figure">
 <p><img src="/assets/publication/graph_few_shot.png" alt="graph_few_shot.png" />
 </p>
 </div>
@@ -200,7 +200,7 @@ BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cl
 上进行的实验表明，BSODiag 在 PR@3 上达到了 87.5%，在 PCR 上达到了 46.3%，分别比基线方法高出 10.2% 和 3.7%。
 </p>
 
-<div id="org4930556" class="figure">
+<div id="orgc5c960e" class="figure">
 <p><img src="/assets/publication/BSODiag.png" alt="BSODiag.png" />
 </p>
 </div>
@@ -219,7 +219,7 @@ Human and External Knowledge for Large Language Models. <i>Findings of ACL</i>, 
 种对齐。实验结果表明，知识对齐在提升模型性能和减少模型幻觉方面起着关键作用，分别提高了 22.2% 和 27.1%。
 </p>
 
-<div id="org0536042" class="figure">
+<div id="org02c38e1" class="figure">
 <p><img src="/assets/publication/MixAlign.png" alt="MixAlign.png" />
 </p>
 </div>
@@ -242,7 +242,7 @@ Engineering (ICDE)</i>, 2024. <code>序列数据</code> <code>网络流量</code
 17.5%，并将准确率和提前率的调和平均值提高了 3.7% 至 14.0%。
 </p>
 
-<div id="orga52734d" class="figure">
+<div id="org04539b0" class="figure">
 <p><img src="/assets/publication/KVEC.png" alt="KVEC.png" />
 </p>
 </div>
@@ -263,7 +263,7 @@ Influencers in Decaying Social Activity Streams with Theoretical Guarantees. <i>
 种求解质量下界为（1/4−ϵ）的高效在线优化算法。实验表明，本文方法可以找到高质量的解且计算成本比基线低得多。
 </p>
 
-<div id="org529f86f" class="figure">
+<div id="org30b64c0" class="figure">
 <p><img src="/assets/publication/influence.png" alt="influence.png" />
 </p>
 </div>
